@@ -9,8 +9,8 @@ module.exports = {
   }],
 
   siteMetadata: {
-    title: 'Blog',
-    author: 'Stefan Huber',
+    title: 'Thesis IAD2017',
+    author: 'Schule für Gestaltung Zürich',
     authorUrl: 'http://signalwerk.ch/',
     description: 'A starter blog ...'
   },
