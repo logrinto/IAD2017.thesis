@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "-- yarn build"
-yarn build
+echo "-- npm run build"
+npm run build
