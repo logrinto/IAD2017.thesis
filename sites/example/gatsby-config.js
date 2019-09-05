@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: `/IAD2017.thesis`,
+  pathPrefix: `/`,
 
   __experimentalThemes: [
     {
@@ -13,8 +13,8 @@ module.exports = {
   siteMetadata: {
     title: "Thesis IAD2017",
     author: "Schule für Gestaltung Zürich",
-    authorUrl: "http://signalwerk.ch/",
+    authorUrl: "https://sfgz.ch/",
     description: "A starter blog ...",
-    siteUrl: "https://thesis-iad2017.logrinto.ch"
+    siteUrl: "https://thesis.logrinto.ch"
   }
 };
