@@ -26,24 +26,20 @@ workbox.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-d5fb568d23561db3d3cb.js"
+    "url": "webpack-runtime-00b00d4dd3ce3ff80087.js"
   },
   {
     "url": "commons-1358d6630e53977499df.js"
   },
   {
-    "url": "app-b471215b569a09834032.js"
+    "url": "app-e388aba69f8ddbe7812f.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-f7dfdfde9c907ae0c469.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "a54294f8debbb72165f6cd103ca87324"
-  },
-  {
-    "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
-    "revision": "ba0f728b2f267daad7b365c3ac4ee1f0"
+    "revision": "8f3398b7847a7511eff95bc01180769f"
   },
   {
     "url": "manifest.webmanifest",
@@ -66,12 +62,12 @@ const { NavigationRoute } = workbox.routing
 
 const navigationRoute = new NavigationRoute(async ({ event }) => {
   let { pathname } = new URL(event.request.url)
-  pathname = pathname.replace(new RegExp(`^/IAD2017.thesis`), ``)
+  pathname = pathname.replace(new RegExp(`^`), ``)
 
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/IAD2017.thesis/app-b471215b569a09834032.js`))) {
+  if (!resources || !(await caches.match(`/app-e388aba69f8ddbe7812f.js`))) {
     return await fetch(event.request)
   }
 
@@ -84,7 +80,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
     }
   }
 
-  const offlineShell = `/IAD2017.thesis/offline-plugin-app-shell-fallback/index.html`
+  const offlineShell = `/offline-plugin-app-shell-fallback/index.html`
   return await caches.match(offlineShell)
 })
 
