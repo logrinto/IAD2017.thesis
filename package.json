@@ -1,0 +1,17 @@
+{
+  "name": "title",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Stefan Huber <sh@signalwerk.ch>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "yarn workspace logrinto.thesis-iad2017 build",
+    "start": "yarn develop",
+    "develop": "yarn workspace logrinto.thesis-iad2017 develop"
+  },
+  "workspaces": [
+    "themes/*",
+    "sites/*"
+  ]
+}

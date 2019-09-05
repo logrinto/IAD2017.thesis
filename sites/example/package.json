@@ -1,0 +1,15 @@
+{
+  "name": "logrinto.thesis-iad2017",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Stefan Huber <sh@signalwerk.ch>",
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build --prefix-paths",
+    "develop": "gatsby develop"
+  },
+  "dependencies": {
+    "gatsby": "^2.0.19",
+    "gatsby-theme-signalwerk": "*"
+  }
+}
