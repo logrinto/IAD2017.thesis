@@ -1,14 +1,61 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Thesis IAD2017]]></title><description><![CDATA[A starter blog ...]]></description><link>https://thesis.logrinto.ch</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 06 Sep 2019 22:38:51 GMT</lastBuildDate><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://thesis.logrinto.ch/posts/example/</link><guid isPermaLink="false">https://thesis.logrinto.ch/posts/example/</guid><pubDate>Sat, 11 Nov 2017 00:00:00 GMT</pubDate><content:encoded>&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; kk &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;kk&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Thesis IAD2017]]></title><description><![CDATA[A starter blog ...]]></description><link>https://thesis.logrinto.ch</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 07 Sep 2019 10:06:08 GMT</lastBuildDate><item><title><![CDATA[Thesis]]></title><description><![CDATA[import Div from 'gatsby-theme-signalwerk/src/components/Div'; Schule für Gestaltung Zürich · 2019 · CC-BY-SA 4.0 Dokumentation Beispiel…]]></description><link>https://thesis.logrinto.chroot</link><guid isPermaLink="false">https://thesis.logrinto.chroot</guid><content:encoded>&lt;p&gt;import Div from &apos;gatsby-theme-signalwerk/src/components/Div&apos;;&lt;/p&gt;
+&lt;Div className=&quot;column__text&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://sfgz.ch/&quot;&gt;Schule für Gestaltung Zürich&lt;/a&gt; · 2019 · &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;h2&gt;Dokumentation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/posts/2020/example/&quot;&gt;Beispiel · Stefan Huber&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/Div&gt;</content:encoded></item><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
+import Div from 'gatsby-theme-signalwerk/src/components/Div'; Intro…]]></description><link>https://thesis.logrinto.ch/posts/2020/example/</link><guid isPermaLink="false">https://thesis.logrinto.ch/posts/2020/example/</guid><pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;
+import Div from &apos;gatsby-theme-signalwerk/src/components/Div&apos;;&lt;/p&gt;
+&lt;h2&gt;Intro&lt;/h2&gt;
+&lt;Margin&gt;
+&lt;p&gt;1 Zoll (Inch) = 25.4 mm&lt;br&gt;
+1 dpi ≈ 0.39 dpcm&lt;br&gt;
+1 dpcm = 2.54 dpi  &lt;/p&gt;
+&lt;/Margin&gt;
 &lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
+Consonantia, there live the blind texts. &lt;code class=&quot;language-text&quot;&gt;inline: code;&lt;/code&gt; Separated they live in Bookmarksgrove
 right at the coast of the Semantics, a large language ocean. A small river named
 Duden flows by their place and supplies it with the necessary regelialia.&lt;/p&gt;
+&lt;h2&gt;Slapped cozy a that lightheartedly and far&lt;/h2&gt;
+&lt;p&gt;The copy warned the Little Blind Text, that where it came from it would have
+been rewritten a thousand times and everything that was left from its origin
+would be the word &quot;and&quot; and the Little Blind Text should turn around and return
+to its own, safe country. But nothing the copy said could convince her and so it
+didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
+with Longe and Parole and dragged her into their agency, where they abused her
+for their projects again and again.&lt;/p&gt;
+&lt;div class=&quot;wide-grid space pad bg&quot;&gt;
+  &lt;div class=&quot;col-1to12&quot;&gt;
+    &lt;figure&gt;
+      
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/588acb13a6132d0361a32a5ad8361678/8dcf2/header.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;mobile screen vs. desktop screen&quot; title src=&quot;/static/588acb13a6132d0361a32a5ad8361678/67d4f/header.jpg&quot; srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/3cfb5/header.jpg 175w,
+/static/588acb13a6132d0361a32a5ad8361678/3a2a3/header.jpg 350w,
+/static/588acb13a6132d0361a32a5ad8361678/67d4f/header.jpg 700w,
+/static/588acb13a6132d0361a32a5ad8361678/35dd2/header.jpg 1050w,
+/static/588acb13a6132d0361a32a5ad8361678/8dcf2/header.jpg 1400w&quot; sizes=&quot;(max-width: 700px) 100vw, 700px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+      &lt;figcaption&gt;Wow so miau. Much cute.&lt;/figcaption&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 &lt;h2&gt;On deer horse aboard tritely yikes and much&lt;/h2&gt;
 &lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of bad
 Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
 didn’t listen. She packed her seven versalia, put her initial into the belt and
 made herself on the way.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; kk &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;kk&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;This however showed weasel&lt;/li&gt;
 &lt;li&gt;
@@ -19,17 +66,122 @@ made herself on the way.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;Goodness much until that fluid owl&lt;/li&gt;
 &lt;/ul&gt;
+&lt;Div className=&quot;wide-grid space pad&quot;&gt;
+&lt;Div className=&quot;col-1to6&quot;&gt;
+&lt;h3&gt;Cat Column A&lt;/h3&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/8dcf2/header.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;header&quot;
+        title=&quot;&quot;
+        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/67d4f/header.jpg&quot;
+        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/3cfb5/header.jpg 175w,
+/static/588acb13a6132d0361a32a5ad8361678/3a2a3/header.jpg 350w,
+/static/588acb13a6132d0361a32a5ad8361678/67d4f/header.jpg 700w,
+/static/588acb13a6132d0361a32a5ad8361678/35dd2/header.jpg 1050w,
+/static/588acb13a6132d0361a32a5ad8361678/8dcf2/header.jpg 1400w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;/Div&gt;
+&lt;Div className=&quot;col-7to12&quot;&gt;
+&lt;h3&gt;Cat Column B&lt;/h3&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/8dcf2/header.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;header&quot;
+        title=&quot;&quot;
+        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/67d4f/header.jpg&quot;
+        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/3cfb5/header.jpg 175w,
+/static/588acb13a6132d0361a32a5ad8361678/3a2a3/header.jpg 350w,
+/static/588acb13a6132d0361a32a5ad8361678/67d4f/header.jpg 700w,
+/static/588acb13a6132d0361a32a5ad8361678/35dd2/header.jpg 1050w,
+/static/588acb13a6132d0361a32a5ad8361678/8dcf2/header.jpg 1400w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;/Div&gt;
+&lt;/Div&gt;
 &lt;p&gt;When she reached the first hills of the &lt;strong&gt;Italic Mountains&lt;/strong&gt;, she had a last
 view back on the skyline of her hometown &lt;em&gt;Bookmarksgrove&lt;/em&gt;, the headline of
 &lt;a href=&quot;http://google.com&quot;&gt;Alphabet Village&lt;/a&gt; and the subline of her own road, the Line
 Lane. Pityful a rethoric question ran over her cheek, then she continued her
 way. On her way she met a copy.&lt;/p&gt;
+&lt;div class=&quot;column__text&quot;&gt;
+&lt;div class=&quot;video&quot;&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/169809377&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;h3&gt;Overlaid the jeepers uselessly much excluding&lt;/h3&gt;
 &lt;p&gt;But nothing the copy said could convince her and so it didn’t take long until a
 few insidious Copy Writers ambushed her, made her drunk with
 &lt;a href=&quot;http://google.com&quot;&gt;Longe and Parole&lt;/a&gt; and dragged her into their agency, where
 they abused her for their projects again and again. And if she hasn’t been
 rewritten, then they are still using her.&lt;/p&gt;
+&lt;div class=&quot;wide-grid space pad&quot;&gt;
+  &lt;div class=&quot;col-1to12&quot;&gt;
+    &lt;figure&gt;
+      
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/588acb13a6132d0361a32a5ad8361678/8dcf2/header.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block;  max-width: 700px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;header&quot; title src=&quot;/static/588acb13a6132d0361a32a5ad8361678/67d4f/header.jpg&quot; srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/3cfb5/header.jpg 175w,
+/static/588acb13a6132d0361a32a5ad8361678/3a2a3/header.jpg 350w,
+/static/588acb13a6132d0361a32a5ad8361678/67d4f/header.jpg 700w,
+/static/588acb13a6132d0361a32a5ad8361678/35dd2/header.jpg 1050w,
+/static/588acb13a6132d0361a32a5ad8361678/8dcf2/header.jpg 1400w&quot; sizes=&quot;(max-width: 700px) 100vw, 700px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+    	&lt;figcaption&gt;Cat&lt;/figcaption&gt;
+    &lt;/figure&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
@@ -78,18 +230,10 @@ almost unorthographic life One day however a small line of blind text by the
 name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
 advised her not to do so, because there were thousands of bad Commas, wild
 Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.&lt;/p&gt;
-&lt;h5&gt;Wherever far wow thus a squirrel raccoon jeez jaguar this from along&lt;/h5&gt;
+&lt;h4&gt;Wherever far wow thus a squirrel raccoon jeez jaguar this from along&lt;/h4&gt;
 &lt;p&gt;She packed her seven versalia, put her initial into the belt and made herself on
 the way. When she reached the first hills of the Italic Mountains, she had a
 last view back on the skyline of her hometown Bookmarksgrove, the headline of
 Alphabet Village and the subline of her own road, the Line Lane. Pityful a
 rethoric question ran over her cheek, then she continued her way. On her way she
-met a copy.&lt;/p&gt;
-&lt;h6&gt;Slapped cozy a that lightheartedly and far&lt;/h6&gt;
-&lt;p&gt;The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word &quot;and&quot; and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.&lt;/p&gt;</content:encoded></item></channel></rss>
+met a copy.&lt;/p&gt;</content:encoded></item></channel></rss>
