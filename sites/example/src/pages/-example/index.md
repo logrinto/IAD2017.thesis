@@ -144,7 +144,7 @@ Text · Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konson
 <div class="wide-grid space pad">
 <div class="col-1to12">
 
-![Cat](./img/header.jpg)    
+![Cat](./img/header.jpg)
 *Hello Cat*
 
 </div>
