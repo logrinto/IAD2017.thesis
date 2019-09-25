@@ -13,8 +13,6 @@ description: "Lead · Weit hinten, hinter den Wortbergen, fern der Länder Vokal
 ---
 
 import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
-import Div from 'gatsby-theme-signalwerk/src/components/Div';
-
 
 
 
@@ -79,13 +77,15 @@ Text · Unterwegs traf es eine Copy. Die Copy warnte das Blindtextchen, da, wo s
 
 Text · Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben.
 
+
+
 <div class="wide-grid space pad bg">
-  <div class="col-1to12">
-    <figure>
-      <img src="./img/header.jpg" alt="mobile screen vs. desktop screen" />
-      <figcaption>Wow so miau. Much cute.<sup id="fig-ref-1"><a href="#fig-1" class="figure-ref">Fig. 1</a></sup></figcaption>
-    </figure>
-  </div>
+<div class="col-1to12">
+
+![Cat](./img/header.jpg)
+*Wow so miau. Much cute.<sup id="fig-ref-1"><a href="#fig-1" class="figure-ref">Fig. 1</a></sup>*
+
+</div>
 </div>
 
 
@@ -108,20 +108,22 @@ var kk = "kk";
 
 
 
-<Div className="wide-grid space pad">
-<Div className="col-1to6">
+<div class="wide-grid space pad">
+<div class="col-1to6">
 
 ### Cat Column A
-![](./img/header.jpg)
+![Cat](./img/header.jpg)
+*Cat A*
 
-</Div>
-<Div className="col-7to12">
+</div>
+<div class="col-7to12">
 
 ### Cat Column B
-![](./img/header.jpg)
+![Cat](./img/header.jpg)
+*Cat B*
 
-</Div>
-</Div>
+</div>
+</div>
 
 
 Text · Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben.
@@ -140,12 +142,12 @@ Text · Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konson
 
 
 <div class="wide-grid space pad">
-  <div class="col-1to12">
-    <figure>
-      <img src="./img/header.jpg" />
-    	<figcaption>Cat</figcaption>
-    </figure>
-  </div>
+<div class="col-1to12">
+
+![Cat](./img/header.jpg)    
+*Hello Cat*
+
+</div>
 </div>
 
 
