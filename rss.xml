@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Thesis IAD2017]]></title><description><![CDATA[A starter blog ...]]></description><link>https://thesis.logrinto.ch</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 25 Sep 2019 22:56:52 GMT</lastBuildDate><item><title><![CDATA[Thesis]]></title><description><![CDATA[Schule für Gestaltung Zürich · 2019 · CC-BY-SA 4.0 Dokumentation Beispiel · Stefan Huber]]></description><link>https://thesis.logrinto.chroot</link><guid isPermaLink="false">https://thesis.logrinto.chroot</guid><content:encoded>&lt;div class=&quot;column__text&quot;&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Thesis IAD2017]]></title><description><![CDATA[A starter blog ...]]></description><link>https://thesis.logrinto.ch</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 11 Oct 2019 23:53:00 GMT</lastBuildDate><item><title><![CDATA[Thesis]]></title><description><![CDATA[Schule für Gestaltung Zürich · 2019 · CC-BY-SA 4.0 Dokumentation Beispiel · Stefan Huber]]></description><link>https://thesis.logrinto.chroot</link><guid isPermaLink="false">https://thesis.logrinto.chroot</guid><content:encoded>&lt;div class=&quot;column__text&quot;&gt;
 &lt;p&gt;&lt;a href=&quot;https://sfgz.ch/&quot;&gt;Schule für Gestaltung Zürich&lt;/a&gt; · 2019 · &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;&lt;/p&gt;
 &lt;br /&gt;
 &lt;br /&gt;
@@ -6,7 +6,11 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;/posts/2020/example/&quot;&gt;Beispiel · Stefan Huber&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Titel der Arbeit (h1)]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin'; Intro (h2) Marginalie (h3) Text Marginalie · Weit hinten, hinter den…]]></description><link>https://thesis.logrinto.ch/posts/2020/example/</link><guid isPermaLink="false">https://thesis.logrinto.ch/posts/2020/example/</guid><pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;&lt;/p&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Titel der Arbeit (h1)]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin'; Inhaltsverzeichnis Intro (h2) Marginalie (h3) Text Marginalie · Weit…]]></description><link>https://thesis.logrinto.ch/posts/2020/example/</link><guid isPermaLink="false">https://thesis.logrinto.ch/posts/2020/example/</guid><pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;&lt;/p&gt;
+&lt;h2&gt;Inhaltsverzeichnis&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;toc&quot;&gt;&lt;pre class=&quot;language-toc&quot;&gt;&lt;code class=&quot;language-toc&quot;&gt;skip: Inhaltsverzeichnis
+from-heading: 2
+to-heading: 6&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h2&gt;Intro (h2)&lt;/h2&gt;
 &lt;Margin&gt;
 &lt;h3&gt;Marginalie (h3)&lt;/h3&gt;
@@ -17,7 +21,7 @@ Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund 
 &lt;h2&gt;Zitate (h2)&lt;/h2&gt;
 &lt;p&gt;Text · Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans.&lt;/p&gt;
 &lt;h3&gt;Zitate in Fussnote (h3)&lt;/h3&gt;
-&lt;p&gt;Text · Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. &lt;em&gt;«Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen.»&lt;/em&gt;&lt;sup id=&quot;fnref-1&quot;&gt;&lt;a href=&quot;#fn-1&quot; class=&quot;footnote-ref&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben. &lt;em&gt;«Als es die ersten Hügel des Kursivgebirges erklommen hatte, warf es einen letzten Blick zurück auf die Skyline seiner Heimatstadt Buchstabhausen, die Headline von Alphabetdorf und die Subline seiner eigenen Straße, der Zeilengasse. Wehmütig lief ihm eine rhetorische Frage über die Wange, dann setzte es seinen Weg fort.»&lt;/em&gt;&lt;sup id=&quot;fnref-2&quot;&gt;&lt;a href=&quot;#fn-2&quot; class=&quot;footnote-ref&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Text · Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. &lt;em&gt;«Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen.»&lt;/em&gt;&lt;sup id=&quot;fnref-1&quot;&gt;&lt;a href=&quot;#fn-1&quot; class=&quot;footnote-ref&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben. &lt;em&gt;«Als es die ersten Hügel des Kursivgebirges erklommen hatte, warf es einen letzten Blick zurück auf die Skyline seiner Heimatstadt Buchstabhausen, die Headline von Alphabetdorf und die Subline seiner eigenen Straße, der Zeilengasse. Wehmütig lief ihm eine rhetorische Frage über die Wange, dann setzte es seinen Weg fort.»&lt;/em&gt;&lt;sup id=&quot;fnref-fig.2&quot;&gt;&lt;a href=&quot;#fn-fig.2&quot; class=&quot;footnote-ref&quot;&gt;fig.2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;h3&gt;Zitate als «Quote» (h3)&lt;/h3&gt;
 &lt;h4&gt;Website (h4)&lt;/h4&gt;
 &lt;blockquote&gt;
@@ -25,7 +29,7 @@ Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund 
 &lt;/blockquote&gt;
 &lt;h4&gt;Printprodukt (h4)&lt;/h4&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben.&lt;sup id=&quot;fnref-2&quot;&gt;&lt;a href=&quot;#fn-2&quot; class=&quot;footnote-ref&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben.&lt;sup id=&quot;fnref-fig.2&quot;&gt;&lt;a href=&quot;#fn-fig.2&quot; class=&quot;footnote-ref&quot;&gt;fig.2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h3&gt;Untertitel (h3)&lt;/h3&gt;
 &lt;p&gt;Text · Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben.&lt;/p&gt;
@@ -152,7 +156,7 @@ Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund 
         sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
         loading=&quot;lazy&quot;
       /&gt;
-    &lt;/span&gt;&lt;br&gt;
+    &lt;/span&gt;
 &lt;em&gt;Hello Cat&lt;/em&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -223,9 +227,9 @@ met a copy.&lt;/p&gt;
 &lt;p&gt;Vorname Nachname, &lt;a href=&quot;https://www.google.com/&quot;&gt;Titel der Seite&lt;/a&gt; (Abrufdatum: dd. mm. yyyy).&lt;/p&gt;
 &lt;a href=&quot;#fnref-1&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
-&lt;li id=&quot;fn-2&quot;&gt;
+&lt;li id=&quot;fn-fig.2&quot;&gt;
 &lt;p&gt;Vorname Nachname, Buchtitel, Auflage, Verlag, Erscheinungsort Jahr, Seite erste Seite – letzte Seite.&lt;/p&gt;
-&lt;a href=&quot;#fnref-2&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;a href=&quot;#fnref-fig.2&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</content:encoded></item></channel></rss>
