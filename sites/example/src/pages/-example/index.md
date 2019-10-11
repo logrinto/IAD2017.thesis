@@ -15,7 +15,13 @@ description: "Lead · Weit hinten, hinter den Wortbergen, fern der Länder Vokal
 import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
 
 
+## Inhaltsverzeichnis
 
+```toc
+skip: Inhaltsverzeichnis
+from-heading: 2
+to-heading: 6
+```
 
 ## Intro (h2)
 
@@ -44,7 +50,7 @@ Text · Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konson
 
 ### Zitate in Fussnote (h3)
 
-Text · Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. _«Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen.»_[^1] Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben. _«Als es die ersten Hügel des Kursivgebirges erklommen hatte, warf es einen letzten Blick zurück auf die Skyline seiner Heimatstadt Buchstabhausen, die Headline von Alphabetdorf und die Subline seiner eigenen Straße, der Zeilengasse. Wehmütig lief ihm eine rhetorische Frage über die Wange, dann setzte es seinen Weg fort.»_[^2]
+Text · Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. _«Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen.»_[^1] Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben. _«Als es die ersten Hügel des Kursivgebirges erklommen hatte, warf es einen letzten Blick zurück auf die Skyline seiner Heimatstadt Buchstabhausen, die Headline von Alphabetdorf und die Subline seiner eigenen Straße, der Zeilengasse. Wehmütig lief ihm eine rhetorische Frage über die Wange, dann setzte es seinen Weg fort.»_[^Fig.2]
 
 
 ### Zitate als «Quote» (h3)
@@ -53,7 +59,7 @@ Text · Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konson
 > Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben.[^1]
 
 #### Printprodukt (h4)
-> Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben.[^2]
+> Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben.[^Fig.2]
 
 
 
@@ -225,4 +231,4 @@ met a copy.
 
 ## Einzelnachweise
 [^1]: Vorname Nachname, [Titel der Seite](https://www.google.com/) (Abrufdatum: dd. mm. yyyy).
-[^2]: Vorname Nachname, Buchtitel, Auflage, Verlag, Erscheinungsort Jahr, Seite erste Seite – letzte Seite.
+[^Fig.2]: Vorname Nachname, Buchtitel, Auflage, Verlag, Erscheinungsort Jahr, Seite erste Seite – letzte Seite.
