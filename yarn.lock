@@ -5962,14 +5962,13 @@ gatsby-remark-slug@^0.1.0:
     mdast-util-to-string "^1.0.5"
     unist-util-visit "^1.3.0"
 
-gatsby-remark-table-of-contents@^0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/gatsby-remark-table-of-contents/-/gatsby-remark-table-of-contents-0.0.2.tgz#93b9c41afd12e2e22ad8f0009e4a55843045e3ee"
-  integrity sha512-da/4ORz5KCvOYqiN/gOgsOQWa9O62u4Dm8dPBqKmPxLoGgMct2RaJ7MPuds6IsLqSuX8MmaICAJgCqILtoAslA==
+gatsby-remark-table-of-contents@^0.0.5:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/gatsby-remark-table-of-contents/-/gatsby-remark-table-of-contents-0.0.5.tgz#3f2769c51c7ff02629fdb40b87e91813e954cbaa"
+  integrity sha512-YLcTEbuH68C9sa6ItuaVTOf2IK2uonqHO3YlAsRv8bVjmnTc2Ma6OGtnS6kUPssRz2nMQKWPyatp2PZ94Bz49g==
   dependencies:
     js-yaml "^3.13.1"
     mdast-util-toc "^4.2.0"
-    unist-util-visit "^2.0.0"
 
 gatsby-source-filesystem@^2.0.2:
   version "2.1.31"
@@ -14121,7 +14120,7 @@ unist-util-visit@1.4.0:
   dependencies:
     unist-util-visit-parents "^2.0.0"
 
-unist-util-visit@2.0.0, unist-util-visit@^2.0.0:
+unist-util-visit@2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/unist-util-visit/-/unist-util-visit-2.0.0.tgz#1fdae5ea88251651bfe49b7e84390d664fc227c5"
   integrity sha512-kiTpWKsF54u/78L/UU/i7lxrnqGiEWBgqCpaIZBYP0gwUC+Akq0Ajm4U8JiNIoQNfAioBdsyarnOcTEAb9mLeQ==
