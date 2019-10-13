@@ -13,6 +13,9 @@ description: "Lead · Einleitung zur Arbeit"
 ---
 
 import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
+import Grid from 'gatsby-theme-signalwerk/src/components/Grid';
+import Column from 'gatsby-theme-signalwerk/src/components/Column';
+import Box from 'gatsby-theme-signalwerk/src/components/Box';
 
 ## Intro
 Grundsätzlich verhält sich das Template wie normaler Markdown-Text. Es gibt aber einige erweiterte Funktionen.
@@ -176,61 +179,120 @@ Wenn unter einem Bild direkt im Anschluss ein ausgezeichneter Text (`*text*`) st
 ### Eingabe
 ```md
 ![Cat](./img/header.jpg)
-*Wow so miau. Much cute.[^:fig:one]*
+*Wow so miau. Much cute.[^:fig:pic-source]*
 ```
 
 ### Darstellung
 ![Cat](./img/header.jpg)
-*Wow so miau. Much cute.[^:fig:one]*
+*Wow so miau. Much cute.[^:fig:pic-source]*
 
 
 ## Video
+Videos sollten in eine responsive `Box` gepackt werden. Als Ratio kann 16:9, 4:3 oder 3:2 gangegeben werden.
 
-<div class="column__text">
-<div class="video">
+### Eingabe
+```md
+<Box ratio="16:9">
+
 <iframe src="https://player.vimeo.com/video/169809377" frameborder="0"></iframe>
-</div>
-</div>
+
+</Box>
+```
+
+### Darstellung
+
+<Box ratio="16-9">
+
+<iframe src="https://player.vimeo.com/video/169809377" frameborder="0"></iframe>
+
+</Box>
 
 
 
-## Spalten
+## Grid – volle Breite
+### Eingabe
 
-<div class="wide-grid space pad">
-<div class="col-1to12">
+```md
+<Grid>
 
 ![Cat](./img/header.jpg)
-*Hello Cat*
+*Hello Cat[^:fig:pic-source]*
 
-</div>
-</div>
+</Grid>
+```
 
-<div class="wide-grid space pad bg">
-<div class="col-1to12">
+### Darstellung
+
+<Grid>
 
 ![Cat](./img/header.jpg)
-*Wow so miau. Much cute.[^:fig:one]*
+*Hello Cat[^:fig:pic-source]*
 
-</div>
-</div>
+</Grid>
+
+## Grid – volle Breite mit Hintergrund
+
+### Eingabe
+
+```html
+<Grid background>
+
+![Cat](./img/header.jpg)
+*Hello Cat[^:fig:pic-source]*
+
+</Grid>
+```
+
+### Darstellung
 
 
-<div class="wide-grid space pad">
-<div class="col-1to6">
+<Grid background>
+
+![Cat](./img/header.jpg)
+*Hello Cat[^:fig:pic-source]*
+
+</Grid>
+
+
+## Grid – mit Spalten
+
+### Eingabe
+```md
+<Grid>
+<Column start="1" end="7">
+
+### Cat Column A
+...
+
+</Column>
+<Column start="7" end="13">
+
+### Cat Column B
+...
+
+</Column>
+</Grid>
+```
+
+### Darstellung
+
+<Grid>
+<Column start="1" end="7">
 
 ### Cat Column A
 ![Cat](./img/header.jpg)
-*Cat A*
+*Hello Cat[^:fig:pic-source]*
 
-</div>
-<div class="col-7to12">
+</Column>
+<Column start="7" end="13">
 
 ### Cat Column B
 ![Cat](./img/header.jpg)
-*Cat B*
+*Hello Cat[^:fig:pic-source]*
 
-</div>
-</div>
+</Column>
+</Grid>
+
 
 
 <!-- references text-->
@@ -244,6 +306,7 @@ Vorname Nachname, Buchtitel, Auflage, Verlag, Erscheinungsort Jahr, erste Seite�
 
 <!-- references figures-->
 [^:fig:one]: Beispiel für Abbildungsverzeichnis.
+[^:fig:pic-source]: Abbildung von [lorempixel.com](http://lorempixel.com/800/600/cats/1)
 
 
 
