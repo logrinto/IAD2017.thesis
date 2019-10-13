@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Thesis IAD2017]]></title><description><![CDATA[A starter blog ...]]></description><link>https://thesis.logrinto.ch</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 13 Oct 2019 16:07:30 GMT</lastBuildDate><item><title><![CDATA[Thesis]]></title><description><![CDATA[Schule für Gestaltung Zürich · 2019 · CC-BY-SA 4.0 Dokumentation Beispiel · Stefan Huber]]></description><link>https://thesis.logrinto.chroot</link><guid isPermaLink="false">https://thesis.logrinto.chroot</guid><content:encoded>&lt;div class=&quot;column__text&quot;&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Thesis IAD2017]]></title><description><![CDATA[A starter blog ...]]></description><link>https://thesis.logrinto.ch</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 13 Oct 2019 22:33:45 GMT</lastBuildDate><item><title><![CDATA[Thesis]]></title><description><![CDATA[Schule für Gestaltung Zürich · 2019 · CC-BY-SA 4.0 Dokumentation Beispiel · Stefan Huber]]></description><link>https://thesis.logrinto.chroot</link><guid isPermaLink="false">https://thesis.logrinto.chroot</guid><content:encoded>&lt;div class=&quot;column__text&quot;&gt;
 &lt;p&gt;&lt;a href=&quot;https://sfgz.ch/&quot;&gt;Schule für Gestaltung Zürich&lt;/a&gt; · 2019 · &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;&lt;/p&gt;
 &lt;br /&gt;
 &lt;br /&gt;
@@ -6,7 +6,12 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;/posts/2020/example/&quot;&gt;Beispiel · Stefan Huber&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Titel der Arbeit]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin'; Intro Grundsätzlich verhält sich das Template wie normaler Markdown-Text…]]></description><link>https://thesis.logrinto.ch/posts/2020/example/</link><guid isPermaLink="false">https://thesis.logrinto.ch/posts/2020/example/</guid><pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;&lt;/p&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Titel der Arbeit]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
+import Grid from 'gatsby-theme-signalwerk/src/components/Grid';
+import…]]></description><link>https://thesis.logrinto.ch/posts/2020/example/</link><guid isPermaLink="false">https://thesis.logrinto.ch/posts/2020/example/</guid><pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;
+import Grid from &apos;gatsby-theme-signalwerk/src/components/Grid&apos;;
+import Column from &apos;gatsby-theme-signalwerk/src/components/Column&apos;;
+import Box from &apos;gatsby-theme-signalwerk/src/components/Box&apos;;&lt;/p&gt;
 &lt;h2&gt;Intro&lt;/h2&gt;
 &lt;p&gt;Grundsätzlich verhält sich das Template wie normaler Markdown-Text. Es gibt aber einige erweiterte Funktionen.&lt;/p&gt;
 &lt;h2&gt;Inhaltsverzeichnis&lt;/h2&gt;
@@ -107,7 +112,7 @@ to-heading: 6
 &lt;p&gt;Wenn unter einem Bild direkt im Anschluss ein ausgezeichneter Text (&lt;code class=&quot;language-text&quot;&gt;*text*&lt;/code&gt;) steht, erhält dieser Text die Formatierung für Bildunterschriften.&lt;/p&gt;
 &lt;h3&gt;Eingabe&lt;/h3&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token url&quot;&gt;![&lt;span class=&quot;token content&quot;&gt;Cat&lt;/span&gt;](./img/header.jpg)&lt;/span&gt;
-&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Wow so miau. Much cute.[^:fig:one]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Wow so miau. Much cute.[^:fig:pic-source]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h3&gt;Darstellung&lt;/h3&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -137,16 +142,29 @@ to-heading: 6
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;
-&lt;em&gt;Wow so miau. Much cute.&lt;sup id=&quot;fnref-:fig:one&quot;&gt;&lt;a href=&quot;#fn-:fig:one&quot; class=&quot;footnote-ref&quot;&gt;:fig:one&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;em&gt;Wow so miau. Much cute.&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h2&gt;Video&lt;/h2&gt;
-&lt;div class=&quot;column__text&quot;&gt;
-&lt;div class=&quot;video&quot;&gt;
+&lt;p&gt;Videos sollten in eine responsive &lt;code class=&quot;language-text&quot;&gt;Box&lt;/code&gt; gepackt werden. Als Ratio kann 16:9, 4:3 oder 3:2 gangegeben werden.&lt;/p&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Box&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;ratio&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;16:9&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;iframe&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;src&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;https://player.vimeo.com/video/169809377&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;frameborder&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;0&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;iframe&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Box&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;Box ratio=&quot;16-9&quot;&gt;
 &lt;iframe src=&quot;https://player.vimeo.com/video/169809377&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;h2&gt;Spalten&lt;/h2&gt;
-&lt;div class=&quot;wide-grid space pad&quot;&gt;
-&lt;div class=&quot;col-1to12&quot;&gt;
+&lt;/Box&gt;
+&lt;h2&gt;Grid – volle Breite&lt;/h2&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token url&quot;&gt;![&lt;span class=&quot;token content&quot;&gt;Cat&lt;/span&gt;](./img/header.jpg)&lt;/span&gt;
+&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Hello Cat[^:fig:pic-source]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;Grid&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
@@ -175,11 +193,18 @@ to-heading: 6
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;
-&lt;em&gt;Hello Cat&lt;/em&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;wide-grid space pad bg&quot;&gt;
-&lt;div class=&quot;col-1to12&quot;&gt;
+&lt;em&gt;Hello Cat&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/Grid&gt;
+&lt;h2&gt;Grid – volle Breite mit Hintergrund&lt;/h2&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;html&quot;&gt;&lt;pre class=&quot;language-html&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Grid&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;background&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+![Cat](./img/header.jpg)
+*Hello Cat[^:fig:pic-source]*
+
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;Grid background&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
@@ -208,11 +233,27 @@ to-heading: 6
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;
-&lt;em&gt;Wow so miau. Much cute.&lt;sup id=&quot;fnref-:fig:one&quot;&gt;&lt;a href=&quot;#fn-:fig:one&quot; class=&quot;footnote-ref&quot;&gt;:fig:one&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;wide-grid space pad&quot;&gt;
-&lt;div class=&quot;col-1to6&quot;&gt;
+&lt;em&gt;Hello Cat&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/Grid&gt;
+&lt;h2&gt;Grid – mit Spalten&lt;/h2&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Column&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;start&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;1&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;end&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;7&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token title important&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;###&lt;/span&gt; Cat Column A&lt;/span&gt;
+...
+
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Column&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Column&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;start&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;7&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;end&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;13&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token title important&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;###&lt;/span&gt; Cat Column B&lt;/span&gt;
+...
+
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Column&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;Grid&gt;
+&lt;Column start=&quot;1&quot; end=&quot;7&quot;&gt;
 &lt;h3&gt;Cat Column A&lt;/h3&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -242,9 +283,9 @@ to-heading: 6
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;
-&lt;em&gt;Cat A&lt;/em&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;col-7to12&quot;&gt;
+&lt;em&gt;Hello Cat&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/Column&gt;
+&lt;Column start=&quot;7&quot; end=&quot;13&quot;&gt;
 &lt;h3&gt;Cat Column B&lt;/h3&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -274,9 +315,9 @@ to-heading: 6
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;
-&lt;em&gt;Cat B&lt;/em&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
+&lt;em&gt;Hello Cat&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/Column&gt;
+&lt;/Grid&gt;
 &lt;!-- references text--&gt;
 &lt;!--
 Vorname Nachname, [Titel der Seite](https://www.google.com/) (Abrufdatum: dd. mm. yyyy).
@@ -306,6 +347,10 @@ reference-text-suffix: &amp;#39; – &amp;#39;&lt;/code&gt;&lt;/pre&gt;&lt;/div&
 &lt;li id=&quot;fn-:fig:one&quot;&gt;
 &lt;p&gt;Beispiel für Abbildungsverzeichnis.&lt;/p&gt;
 &lt;a href=&quot;#fnref-:fig:one&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-:fig:pic-source&quot;&gt;
+&lt;p&gt;Abbildung von &lt;a href=&quot;http://lorempixel.com/800/600/cats/1&quot;&gt;lorempixel.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;#fnref-:fig:pic-source&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;li id=&quot;fn-1&quot;&gt;
 &lt;p&gt;hier der Text&lt;/p&gt;
