@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Thesis IAD2017]]></title><description><![CDATA[A starter blog ...]]></description><link>https://thesis.logrinto.ch</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 13 Oct 2019 22:43:50 GMT</lastBuildDate><item><title><![CDATA[Thesis]]></title><description><![CDATA[Schule für Gestaltung Zürich · 2019 · CC-BY-SA 4.0 Dokumentation Beispiel · Stefan Huber]]></description><link>https://thesis.logrinto.chroot</link><guid isPermaLink="false">https://thesis.logrinto.chroot</guid><content:encoded>&lt;div class=&quot;column__text&quot;&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Thesis IAD2017]]></title><description><![CDATA[A starter blog ...]]></description><link>https://thesis.logrinto.ch</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 13 Oct 2019 23:24:05 GMT</lastBuildDate><item><title><![CDATA[Thesis]]></title><description><![CDATA[Schule für Gestaltung Zürich · 2019 · CC-BY-SA 4.0 Dokumentation Beispiel · Stefan Huber]]></description><link>https://thesis.logrinto.chroot</link><guid isPermaLink="false">https://thesis.logrinto.chroot</guid><content:encoded>&lt;div class=&quot;column__text&quot;&gt;
 &lt;p&gt;&lt;a href=&quot;https://sfgz.ch/&quot;&gt;Schule für Gestaltung Zürich&lt;/a&gt; · 2019 · &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;&lt;/p&gt;
 &lt;br /&gt;
 &lt;br /&gt;
@@ -13,7 +13,7 @@ import Grid from &apos;gatsby-theme-signalwerk/src/components/Grid&apos;;
 import Column from &apos;gatsby-theme-signalwerk/src/components/Column&apos;;
 import Box from &apos;gatsby-theme-signalwerk/src/components/Box&apos;;&lt;/p&gt;
 &lt;h2&gt;Intro&lt;/h2&gt;
-&lt;p&gt;Grundsätzlich verhält sich das Template wie normaler Markdown-Text. Es gibt aber einige erweiterte Funktionen.&lt;/p&gt;
+&lt;p&gt;Grundsätzlich verhält sich das Template wie normaler Markdown-Text. Es gibt aber einige erweiterte Funktionen. Für weitere Infos siehe &lt;a href=&quot;https://github.com/signalwerk/gatsby-theme-signalwerk&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;Inhaltsverzeichnis&lt;/h2&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;toc&quot;&gt;&lt;pre class=&quot;language-toc&quot;&gt;&lt;code class=&quot;language-toc&quot;&gt;exclude: Inhaltsverzeichnis
 from-heading: 2
