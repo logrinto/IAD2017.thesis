@@ -5962,10 +5962,10 @@ gatsby-remark-slug@^0.1.0:
     mdast-util-to-string "^1.0.5"
     unist-util-visit "^1.3.0"
 
-gatsby-remark-table-of-contents@^0.0.7:
-  version "0.0.7"
-  resolved "https://registry.yarnpkg.com/gatsby-remark-table-of-contents/-/gatsby-remark-table-of-contents-0.0.7.tgz#5dc38fd47506b3099c5f2a6bfa4d1d03b9f77a59"
-  integrity sha512-OPN+4zONJVZfj9gxkd0vwUKji9YOpxV8YF+c3DaOopsLyqFKzBpFeLbPZi17aQQDAU4hNA5aH5JvuNkUbeqHrw==
+gatsby-remark-table-of-contents@^0.0.8:
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/gatsby-remark-table-of-contents/-/gatsby-remark-table-of-contents-0.0.8.tgz#3ee7260ef1245020dbf8e42d70938d760f3a6c06"
+  integrity sha512-b8XS++wsTk5W23Sqfy+ky/EYu5Aw47qXzGrYVTop/HXCJwURz5fsq8A9YMyqigSokO5/COZpKtl0GPEXjRIS8Q==
   dependencies:
     js-yaml "^3.13.1"
     mdast-util-toc "^4.2.0"
