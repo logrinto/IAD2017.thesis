@@ -4,12 +4,9 @@ hideInMenu: true
 path: "root"
 ---
 
-import Div from 'gatsby-theme-signalwerk/src/components/Div';
 
 
-
-
-<Div className="column__text">
+<div class="column__text">
 
 
 [Schule für Gestaltung Zürich](https://sfgz.ch/) · 2019 · [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
@@ -23,4 +20,4 @@ import Div from 'gatsby-theme-signalwerk/src/components/Div';
 
 * [Beispiel · Stefan Huber](/posts/2020/example/)
 
-</Div>
+</div>
