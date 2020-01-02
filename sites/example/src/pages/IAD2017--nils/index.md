@@ -42,10 +42,6 @@ Aufgrund des Prinzips des geringsten Aufwandes ist es nicht verwunderlich, dass 
 
 Doch nicht nur die vereinfachte Bedienung der Geräte mittels Sprache ist ein Grund für die Beliebtheit von Sprachassistenten, sondern auch die Geschwindigkeit, mit der Aufgaben gelöst werden können. Laut einer Studie der Stanford University (2018), erfolgt das Verfahren «Speech to text» 3× schneller wie Tippen mit der Tastatur.
 
-_«Zitat A»_[^quote-one]
-
-[^quote-one]: ...
-
 
 ## 9.0 Einzelnachweise
 
