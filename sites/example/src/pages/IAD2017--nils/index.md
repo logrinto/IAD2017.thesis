@@ -1,6 +1,6 @@
 ---
 title: Inwiefern hat sich die Customer Journey durch den neuen Touch-Point «Sprachassistent» verändert?
-author: "Nils Maeder"
+author: "Nils Mäder"
 date: "2020-01-10"
 layout: post
 draft: false
@@ -9,22 +9,29 @@ path: "/posts/2020/nils/"
 tags:
   - "TagOne"
   - "TagTwo"
-description: "Eine Analyse der Beziehung von Marke und Kundinnen/Kunden in der Customer Journey, mit dem Einsatz von Sprachassistenten."
+description: "Eine Analyse der Beziehung von Marke und Kundinnen/Kunden in der Customer Journey, mit dem Einsatz von Sprachassistenten"
 ---
 
 import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
-import Div from 'gatsby-theme-signalwerk/src/components/Div';
+import Grid from 'gatsby-theme-signalwerk/src/components/Grid';
+import Column from 'gatsby-theme-signalwerk/src/components/Column';
+import Box from 'gatsby-theme-signalwerk/src/components/Box';
 
 
-
-
-
-## 1.0 Sprachassistenten auf dem Vormarsch
+## 1.0 Einleitung – Sprachassistenten auf dem Vormarsch
 Die Verbreitung von Sprachassistenten hat in den letzten Jahren rasant zugenommen. Die smarten Helfer erfreuen sich nicht nur in den USA grosser Beliebtheit. Zurzeit besitzen ca. 30% aller amerikanischen Haushalte Sprachassistenten, diese Zahl wird zukünftig weiter steigen. Laut dem Voicebot Consumer Adaption Report von 2019 wurden in den USA insgesamt 66.4 Mio. neue Sprachassistenten installiert, dies entspricht ca. achtmal der Bevölkerung der Schweiz (Voicebot Consumer Adaption Report, 2019). 
 
 Daher ist es nicht überraschend, dass Unternehmen sich verstärkt mit Sprachassistenten beschäftigen, die einen neuen Kanal zur Kundenkommunikation darstellen. Diese Arbeit verschafft eine Übersicht über den aktuellen technischen Stand von Sprachassistenten sowie Voice-Apps und deren Einsatz in der Customer Journey. Zusätzlich wird aufgezeigt, inwiefern sich die Customer Journey durch den neuen Touch-Point Sprachassistenten hinsichtlich der zunehmenden Dynamik im E-Commerce verändert hat. Erläutert wird das Potenzial von Sprachassistenten und deren Auswirkungen auf die Customer Journey anhand eines praktischen Fallbeispiels.
 
 Dabei werden zuerst die Grundlagen der klassischen Customer Journey nach Kotler (Kotler et al. 2016, 237–246) beschrieben und anschliessend anhand der Voice-App von Starbucks («Starbucks Reorder») näher untersucht. Dieses Beispiel ist hierfür besonders geeignet, da die Smartphone-App von Starbucks sich bereits vor Jahren als eine digitale Erweiterung der herkömmlichen Customer Journey etabliert hat. Starbucks versucht diese nun mit der Voice-App für Echo (Alexa, Sprachassistenten von Amazon) zu ergänzen. Durch die Sprachsteuerung und die Integration der Voice-App in den Alltag, soll der Kaufprozess effizienter gestaltet und der Kunde stärker an die an die Marke gebunden werden (Held, 2018).
+
+## Inhaltsverzeichnis
+```toc
+exclude: Inhaltsverzeichnis
+from-heading: 2
+to-heading: 2
+```
+
 
 ## 2.0 Sprache als Interaktion mit dem Computer
 Hinter dem Phänomen Sprachassistenten steckt eine Entwicklung, die in 1941 mit der ersten Rechenmaschine von Conrad Zuse ihren Anfang nahm. Schon damals stellte man sich die Frage, wie Informationen mit dem Computer am effizientesten ausgetauscht werden können (Hörner, 2019, 2).
@@ -110,16 +117,16 @@ Im vorherigen Kapitel wurde das Modell nach Kotler beschrieben, nun soll anhand 
 ### 5.1 Stufe 1: Problemerkennung durch Sprachassistenten
 Sprachassistenten können ein Bedürfnis der NutzerInnen erkennen und diese subtil darauf hinweisen. Es ist allerdings undenkbar, dass das Modell der herkömmlichen Bezahlwerbung (bspw. Webbanner, Video-Werbung), auch auf dem neuen Medium Sprachassistenten funktionieren wird. Vielmehr fliesst der Hinweis auf ein Bedürfnis in die alltägliche Hilfestellung eines Sprachassistenten und einer Voice-App ein (Hörner, 2019, 70; J. Walter Thompson, 30–31, 2019). Zum Beispiel kann der Kunde sein Guthaben auf der Mitgliedskarte von Starbucks einsehen (Hilfestellung). Die Starbucks Voice-App ermöglicht diesen Service ohne eine Website oder eine App öffnen zu müssen. Der Befehl «Alexa, frage Starbucks nach dem Guthaben meiner Mitgliedschaft», ersetzt mehrere Teilschritte, die ursprünglich notwendig waren, um an diese Informationen zu gelangen. Durch diesen vereinfachten Zugriff (Mehrwert) auf die Benutzerdaten beschäftigt sich der Kunde mit der Marke und wird viel eher auch gleich noch eine Bestellung platzieren (Duncan, 2019). (Platzierung von Bedürfnis beschreiben)
 
-## 5.2 Stufe 2 und 3: Informationssuche und Bewerten der Alternativen mit Sprachassistenten
+### 5.2 Stufe 2 und 3: Informationssuche und Bewerten der Alternativen mit Sprachassistenten
 In diesem Szenario befindet sich der Kunde zu Hause und wird sich in Kürze auf den Weg zur Arbeit machen. Er besitzt eine Mitgliedschaft bei Starbucks und hat zusätzlich die Voice-App des Kaffee Herstellers zu Hause auf Amazon Echo (Alexa) installiert. Für den Kunden werden die Auswirkung von Sprachassistenten auf die Customer Journey vor allem in den Phasen der Informationssuche sowie der Bewertung der Alternativen besonders spürbar. Hat sich der Kunde bewusst für die Starbucks-App auf seinem Smartphone sowie die Starbucks-Voice App für Echo (Alexa) entschieden, so ist die Informationssuche und das Bewerten der Alternativen nicht mehr notwendig. Musste der Kunde früher die Resultate filtern, die Alternativen miteinander vergleichen und sich zwischen diesen entscheiden, ist die ausgewählte Marke (Starbucks) nun zu einem festen Bestandteil seiner täglichen Routine geworden (Hörner, 2019, 75–76; Duncan, 2019).
 
-## 5.3 Stufe 4: Kaufentscheidung mit Sprachassistenten
+### 5.3 Stufe 4: Kaufentscheidung mit Sprachassistenten
 Durch die Steigerung der Effizienz mittels Sprachassistenten und das Integrieren der Voice-App in den Alltag des Kunden, überspringt dieser die zweite und die dritte Phasen in der Customer Journey nach Kotler. Vielmehr geht der Kunde direkt in die vierte Stufe über, nämlich die der Kaufentscheidung. Hierbei geht es wie auch in der herkömmlichen Customer Journey darum, wie einfach oder komfortabel ein Produkt gekauft werden kann (Hörner, 2019, 79–80).
 
-### 5.3.1 Aktivierung der Voice-App
+#### 5.3.1 Aktivierung der Voice-App
 Der Kunde stellt nun folgende Anfrage an den Sprachassistenten und die Voice-App: «Alexa, sag Starbucks, ich möchte meinen Lieblingskaffee zum Abholen in meiner Filiale bestellen». Durch das Aktivierungswort «Alexa» hört der Sprachassistent der Umgebung nun aktiv zu. Anhand der Anweisung «sag Starbucks», weiss der Sprachassistent, dass er sein «Gehirn» (Software) (s. 2.0 Sprachassistenten – Hintergründe und Funktionsweise) um die Informationen aus der Starbucks Datenbank erweitern muss. Nun verbindet er sich mit der vorinstallierten Starbucks Voice-App. Erst jetzt kann der Sprachassistent die Anfrage bearbeiten (Hörner, 2019, 16–17). Dies ist notwendig, da die Anfrage der Kundinnen und Kunden mehrere der Software unbekannte Parameter enthält. Somit sind deren Lieblingskaffee sowie die betroffene Filiale Informationen, welche in der Voice-App von Starbucks vorhanden sind (Hörner, 2019, 7–8).
 
-### 5.3.2 Verarbeitung der Bestellung durch den Sprachassistenten
+#### 5.3.2 Verarbeitung der Bestellung durch den Sprachassistenten
 Hat der Sprachassistent die Anfrage entgegengenommen, muss diese nun verarbeitet sowie ein Feedback an die Kundinnen und Kunden zurückgegeben werden. Auf die oben beschriebene Anfrage wird ihnen folgendes Feedback wiedergegeben: «Ein Kaffee (Produktname) wurde dem Warenkorb hinzugefügt und ist um XX:XX Uhr (Zeit) in folgender Filiale (Ort) zum Abholen bereit. Möchtest du den Kaffee für ein Total von XX.XX CHF (Betrag) bestellen?» Somit werden der Kundin und dem Kunden nochmals alle Details ihrer Bestellung in einem kurzen Satz vermittelt, da bei einer Bestellung über einen Sprachassistenten nicht zwingend ein Interface mit visuellem Feedback vorausgesetzt werden kann (Hörner, 2019, 79–80; JWT, 2019, 10).
 
 Der Einsatz von Sprachassistenten ermöglicht den Kundinnen und Kunden mehr Flexibilität, somit können diese den gesamten Prozess parallel zu einer anderen Tätigkeit ausführen. Zum Beispiel können sie zu Hause, während dem sie die Bestellung aufgeben, gleichzeitig eine Jacke anziehen, da sie durch die Sprachbedienung die Hände frei haben. Früher war dies nicht möglich, da für eine Bestellung ein Device (Smartphone oder Computer) notwendig waren. Dies wirkt sich zudem vor allem durch die Integration in den Alltag auf die Dynamik aus. Die Kundinnen und Kunden beginnen alltägliche Tätigkeiten (das Anziehen einer Jacke) mit einer Bestellung zu verbinden (Held, 2018).
@@ -168,7 +175,7 @@ Die Customer Journey hat sich durch den Einsatz von Sprachassistenten gewandelt 
 Einerseits werden Sprachassistenten besser sprachlich mit den NutzerInnen kommunizieren können. Sie werden schnellere, natürlichere Dialoge führen können. Andererseits werden sie sich auf der Bedürfnisebene weiterentwickeln. Sprachassistenten werden die NutzerInnen noch besser verstehen und diesen Produkte und Inhalte zeigen können, die sie genau zu diesem Zeitpunkt an diesem Ort interessieren. Zurzeit stecken Sprachassistenten noch in den Startlöchern, was kontinuierliche Dialoge angeht, doch in diesem Bereich werden in naher Zukunft einige Fortschritte beobachtet werden können (JWT, 2019, 22–23, 32–33).
 
 ### 8.2 Auf lange Sicht: Marken finden ihre Stimme
-Zurzeit gibt es noch nicht die Möglichkeit, die Stimmen und Persönlichkeiten von Sprachassistenten anzupassen. Doch in Zukunft werden Marken ihre eigenen, ihnen individuelle Stimmen entwickeln. Denn nicht jede Marke identifiziert sich mit der Stimme und Persönlichkeit von Alexa, Siri & Co. und umgekehrt. So kann in Zukunft die Markenbindung und -individualität durch individuelle Stimmen und Persönlichkeiten der Voice-Apps noch mehr gestärkt werden (JWT, 2019, 38–39; MetaDesign, 2019).
+Zurzeit gibt es noch nicht die Möglichkeit, die Stimmen und Persönlichkeiten von Sprachassistenten anzupassen. Doch in Zukunft werden Marken ihre eigene, individuelle Stimme entwickeln. Denn nicht jede Marke identifiziert sich mit der Stimme und Persönlichkeit von Alexa, Siri & Co. und umgekehrt. So kann in Zukunft die Markenbindung und -individualität durch individuelle Stimmen und Persönlichkeiten der Voice-Apps noch mehr gestärkt werden (JWT, 2019, 38–39; MetaDesign, 2019).
 
 
 
@@ -176,3 +183,24 @@ Zurzeit gibt es noch nicht die Möglichkeit, die Stimmen und Persönlichkeiten v
 
 
 ## 10.0 Abbildungsverzeichnis
+
+
+
+## Einzelnachweise
+```references
+```
+
+## Abbildungsverzeichnis
+(Kann auch bei Einzelnachweis gepflegt werden)
+
+```references
+# gets repalced with footnotes
+group-include: fig
+
+inline-link-prefix: 'Fig. '
+
+reference-link-prefix: '↑ Fig. '
+reference-link-suffix: ''
+
+reference-text-suffix: ' – '
+```
