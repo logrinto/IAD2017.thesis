@@ -46,6 +46,8 @@ Doch nicht nur die vereinfachte Bedienung der Geräte mittels Sprache ist ein Gr
 *Vergleich von Worte per Minute mittels Tastatur und «Speech to text». Quelle: Stanford University (2018).*
 
 
+
+
 ## 9.0 Einzelnachweise
 
 
