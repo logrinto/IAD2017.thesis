@@ -8,7 +8,8 @@
   "scripts": {
     "build": "yarn workspace logrinto.thesis-iad2017 build",
     "start": "yarn develop",
-    "develop": "yarn workspace logrinto.thesis-iad2017 develop"
+    "develop": "yarn workspace logrinto.thesis-iad2017 develop",
+    "clear": "rm -rf sites/example/.cache/"
   },
   "workspaces": [
     "themes/*",
