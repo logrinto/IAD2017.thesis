@@ -20,7 +20,7 @@ import Div from 'gatsby-theme-signalwerk/src/components/Div';
 
 
 ## 1.0 Sprachassistenten auf dem Vormarsch
-Die Verbreitung von Sprachassistenten hat in den letzten Jahren rasant zugenommen. Die smarten Helfer erfreuen sich nicht nur in den USA grosser Beliebtheit. Zurzeit besitzen ca. 30% aller amerikanischen Haushalte Sprachassistenten, diese Zahl wird zukünftig weiter steigen. Laut dem Voicebot Consumer Adaption Report von 2019 wurden in den USA insgesamt 66.4 Mio. neue Sprachassistenten installiert, dies entspricht ca. achtmal der Bevölkerung der Schweiz (Voicebot Consumer Adaption Report, 2019).
+Die Verbreitung von Sprachassistenten hat in den letzten Jahren rasant zugenommen. Die smarten Helfer erfreuen sich nicht nur in den USA grosser Beliebtheit. Zurzeit besitzen ca. 30% aller amerikanischen Haushalte Sprachassistenten, diese Zahl wird zukünftig weiter steigen. Laut dem Voicebot Consumer Adaption Report von 2019 wurden in den USA insgesamt 66.4 Mio. neue Sprachassistenten installiert, dies entspricht ca. achtmal der Bevölkerung der Schweiz (Voicebot Consumer Adaption Report, 2019). 
 
 Daher ist es nicht überraschend, dass Unternehmen sich verstärkt mit Sprachassistenten beschäftigen, die einen neuen Kanal zur Kundenkommunikation darstellen. Diese Arbeit verschafft eine Übersicht über den aktuellen technischen Stand von Sprachassistenten sowie Voice-Apps und deren Einsatz in der Customer Journey. Zusätzlich wird aufgezeigt, inwiefern sich die Customer Journey durch den neuen Touch-Point Sprachassistenten hinsichtlich der zunehmenden Dynamik im E-Commerce verändert hat. Erläutert wird das Potenzial von Sprachassistenten und deren Auswirkungen auf die Customer Journey anhand eines praktischen Fallbeispiels.
 
@@ -42,7 +42,11 @@ Aufgrund des Prinzips des geringsten Aufwandes ist es nicht verwunderlich, dass 
 
 Doch nicht nur die vereinfachte Bedienung der Geräte mittels Sprache ist ein Grund für die Beliebtheit von Sprachassistenten, sondern auch die Geschwindigkeit, mit der Aufgaben gelöst werden können. Laut einer Studie der Stanford University (2018), erfolgt das Verfahren «Speech to text» 3× schneller wie Tippen mit der Tastatur.
 
+![Vergleich von Worte per Minute mittels Tastatur und «Speech to text»](./img/header.jpg)
+*Vergleich von Worte per Minute mittels Tastatur und «Speech to text». Quelle: Stanford University (2018).*
+
 
 ## 9.0 Einzelnachweise
+
 
 ## 10.0 Abbildungsverzeichnis
