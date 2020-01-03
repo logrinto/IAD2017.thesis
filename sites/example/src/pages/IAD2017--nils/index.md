@@ -19,11 +19,11 @@ import Box from 'gatsby-theme-signalwerk/src/components/Box';
 
 
 ## 1.0 Einleitung – Sprachassistenten auf dem Vormarsch
-Die Verbreitung von Sprachassistenten hat in den letzten Jahren rasant zugenommen. Die smarten Helfer erfreuen sich nicht nur in den USA grosser Beliebtheit. Zurzeit besitzen ca. 30% aller amerikanischen Haushalte Sprachassistenten, diese Zahl wird zukünftig weiter steigen. Laut dem Voicebot Consumer Adaption Report von 2019 wurden in den USA insgesamt 66.4 Mio. neue Sprachassistenten installiert, dies entspricht ca. achtmal der Bevölkerung der Schweiz (Voicebot Consumer Adaption Report, 2019). 
+Die Verbreitung von Sprachassistenten hat in den letzten Jahren rasant zugenommen. Die smarten Helfer erfreuen sich nicht nur in den USA grosser Beliebtheit. Zurzeit besitzen ca. 30% aller amerikanischen Haushalte Sprachassistenten, diese Zahl wird zukünftig weiter steigen. Laut dem Voicebot Consumer Adaption Report von 2019 wurden in den USA insgesamt 66.4 Mio. neue Sprachassistenten installiert, dies entspricht ca. achtmal der Bevölkerung der Schweiz _(Voicebot Consumer Adaption Report, 2019, 10).[^:src:one]_ 
 
 Daher ist es nicht überraschend, dass Unternehmen sich verstärkt mit Sprachassistenten beschäftigen, die einen neuen Kanal zur Kundenkommunikation darstellen. Diese Arbeit verschafft eine Übersicht über den aktuellen technischen Stand von Sprachassistenten sowie Voice-Apps und deren Einsatz in der Customer Journey. Zusätzlich wird aufgezeigt, inwiefern sich die Customer Journey durch den neuen Touch-Point Sprachassistenten hinsichtlich der zunehmenden Dynamik im E-Commerce verändert hat. Erläutert wird das Potenzial von Sprachassistenten und deren Auswirkungen auf die Customer Journey anhand eines praktischen Fallbeispiels.
 
-Dabei werden zuerst die Grundlagen der klassischen Customer Journey nach Kotler (Kotler et al. 2016, 237–246) beschrieben und anschliessend anhand der Voice-App von Starbucks («Starbucks Reorder») näher untersucht. Dieses Beispiel ist hierfür besonders geeignet, da die Smartphone-App von Starbucks sich bereits vor Jahren als eine digitale Erweiterung der herkömmlichen Customer Journey etabliert hat. Starbucks versucht diese nun mit der Voice-App für Echo (Alexa, Sprachassistenten von Amazon) zu ergänzen. Durch die Sprachsteuerung und die Integration der Voice-App in den Alltag, soll der Kaufprozess effizienter gestaltet und der Kunde stärker an die an die Marke gebunden werden (Held, 2018).
+Dabei werden zuerst die Grundlagen der klassischen Customer Journey nach Kotler _(Kotler et al. 2016, 237–246).[^:src:two]_ beschrieben und anschliessend anhand der Voice-App von Starbucks («Starbucks Reorder») näher untersucht. Dieses Beispiel ist hierfür besonders geeignet, da die Smartphone-App von Starbucks sich bereits vor Jahren als eine digitale Erweiterung der herkömmlichen Customer Journey etabliert hat. Starbucks versucht diese nun mit der Voice-App für Echo (Alexa, Sprachassistenten von Amazon) zu ergänzen. Durch die Sprachsteuerung und die Integration der Voice-App in den Alltag, soll der Kaufprozess effizienter gestaltet und der Kunde stärker an die an die Marke gebunden werden (Held, 2018).
 
 ## Inhaltsverzeichnis
 ```toc
@@ -107,6 +107,12 @@ In der ersten Stufe des Modells geht es um die Problemerkennung, welche beim Kun
 ## 5.0 Die Customer Journey mit Sprachassistenten: Fallbeispiel der Starbucks Voice-App («Starbucks Reorder»)
 2010 wurde die Starbucks App für Smartphones eingeführt. Damit kann der Kunde jederzeit auf die Digitalform seiner Mitgliedskarte zugreifen und somit mit dem Smartphone an der Kasse bezahlen. 2017 wurde erstmals die Voice-App «Starbucks Reorder» von Starbucks für Alexa vorgestellt. Der User kann sich in dieser mit demselben Account wie in der etablierten Starbucks-App registrieren. Durch das Einbinden des gleichen Accounts wie auf der Smartphone-App wird dem Sprachassistent der Zugriff auf bisherige Bestellungen sowie besuchte Filialen ermöglicht. Hierdurch kann der Kunde mittels natürlicher Spracheingabe bisher getätigte Bestellungen in der Filiale seiner Wahl erneut platzieren. Um die Voice-App zu benutzen muss mindestens eine Bestellung via Smartphone App getätigt worden sein (Duncan, 2019).
 
+<Box ratio="16:9">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C6qVqwy5TA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</Box>
+
 Nun soll der Einfluss von Sprachassistenten anhand eines praktischen Beispiels aufgezeigt werden, nämlich soll der Kunde seinen Starbucks Kaffee über die Voice-App für Echo bestellen. Im Vergleich mit der herkömmlichen User Journey ohne Sprachassistenten, lässt sich durch den Dialog mit dem Kunden eine enorme Steigerung in der Effizienz feststellen. Insgesamt wirkt sich das vor allem durch die Reduktion mehrer Teilschritte auf wenige gezielte Anfragen auf die Dynamik aus. Früher musste der Kunde ein Vielfaches an Teilschritten ausführen um an seine Bestellung zu gelangen. Interessant ist auch das komplette Überspringen der Informationssuche und der Bewertung von Alternativen. Diese unterschiedlichen Abläufe der Customer Journey sollen an folgender Grafik aufgezeigt werden.
 
 ![Text](./img/header.jpg)
@@ -178,21 +184,24 @@ Einerseits werden Sprachassistenten besser sprachlich mit den NutzerInnen kommun
 Zurzeit gibt es noch nicht die Möglichkeit, die Stimmen und Persönlichkeiten von Sprachassistenten anzupassen. Doch in Zukunft werden Marken ihre eigene, individuelle Stimme entwickeln. Denn nicht jede Marke identifiziert sich mit der Stimme und Persönlichkeit von Alexa, Siri & Co. und umgekehrt. So kann in Zukunft die Markenbindung und -individualität durch individuelle Stimmen und Persönlichkeiten der Voice-Apps noch mehr gestärkt werden (JWT, 2019, 38–39; MetaDesign, 2019).
 
 
+[^:src:one]: Bret Kinsella, Ava Mutchler, Voicebot Consumer Adaption Report, Voicebot.ai, 2019, 10. [voicebot.ai](https://voicebot.ai/smart-speaker-consumer-adoption-report-2019/) (Abrufdatum: 02. 01. 2020)
+[^:src:two]: 	Philip Kotler, Gary Armstrong, Lloyd C. Harris, Grundlagen des Marketing, 7. Auflage, Pearson Studium, 2019, 237–246.
+
 
 ## 9.0 Einzelnachweise
-
-
-## 10.0 Abbildungsverzeichnis
-
-
-
-## Einzelnachweise
 ```references
+# gets repalced with footnotes
+group-include: src
+
+inline-link-prefix: 'Src. '
+
+reference-link-prefix: '↑ Src. '
+reference-link-suffix: ''
+
+reference-text-suffix: ' – '
 ```
 
-## Abbildungsverzeichnis
-(Kann auch bei Einzelnachweis gepflegt werden)
-
+## 10.0 Abbildungsverzeichnis
 ```references
 # gets repalced with footnotes
 group-include: fig
