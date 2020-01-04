@@ -1,7 +1,7 @@
 ---
-title: New Beginnings
+title: Machine Learning im Designprozess
 author: "Pascale Anderegg"
-date: "2022-11-11"
+date: "2020-11-11"
 layout: post
 draft: false
 hideInMenu: false
@@ -9,7 +9,7 @@ path: "/posts/2020/pascale/"
 tags:
   - "TagOne"
   - "TagTwo"
-description: "bla bla bla... "
+description: Wie sich Prozesse digitaler Gestalter*innen mit Einbezug von Machine Learning verändern
 ---
 
 import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
@@ -17,8 +17,13 @@ import Grid from 'gatsby-theme-signalwerk/src/components/Grid';
 import Column from 'gatsby-theme-signalwerk/src/components/Column';
 import Box from 'gatsby-theme-signalwerk/src/components/Box';
 
-## Intro
-Test2. Hallo. Grundsätzlich verhält sich das Template wie normaler Markdown-Text. Es gibt aber einige erweiterte Funktionen. Für weitere Infos siehe [Github](https://github.com/signalwerk/gatsby-theme-signalwerk).
+## Einleitung – die Fragestellung
+Seit dem Aufkommen von Computern träumen wir von Maschinen, die wie wir sprechen und denken. Nach den Ausführungen von Winkler (2019), machten sich Menschen bereits im Jahre 1960 Gedanken über die Symbiose des Menschen mit der Maschine. Heutige Computer sind noch weit entfernt von Beispielen, wie Samantha, dem intelligenten Sprachassistenten aus dem Science Fiction Film «Her». Dennoch wird Machine Learning bereits in diversen Bereichen, wie zum Beispiel in der Medizin zur Analyse von Bilddaten bei Krankheitsdiagnosen, eingesetzt und stellt ebenso Designer*innen neue Werkzeuge im Gestaltungsprozess zur Verfügung (vgl. Hebron, 2016).
+
+Die vorliegende Arbeit setzt sich mit der Frage auseinander, auf welche Weise sich Prozesse eines digitalen Gestalters mit Machine Learning verändern. Um dieser Fragestellung nachzugehen, werde ich einen digitalen Gestaltungsprozess analysieren sowie den Begriff Machine Learning erläutern. Ich vermute, dass mit Einbezug von Machine Learning im Gestaltungsprozess ein breiteres, innovativeres Lösungsspektrum erreicht werden kann und dadurch der Prozess als variantenreicher wahrgenommen werden kann. Das Ziel der Arbeit ist, mögliche Einsatzbereiche von ML im digitalen Designprozess verständlich aufzuzeigen und dabei die Veränderungen zu beleuchten. Neben einem konkreten Fallbeispiel wird die Rolle von Machine Learning im Gestaltungsprozess untersucht. Auf Basis dieser Grundlagen wird ein möglicher Gestaltungsprozess mit Machine Learning ausgelegt um in einer anschliessenden Diskussion die folgende Frage bewerten zu können: Wie wandelt sich ein Gestaltungsprozess mit ML in Hinsicht auf eine zunehmende Dynamik?
+
+Mich interessiert, wo und wie Machine Learning im digitalen Designprozess eingebunden werden kann, da dieses Thema eine hohe Relevanz bezogen auf meinen Beruf aufweist. Designer*innen verfügen mit ihren Tätigkeiten, wie zum Beispiel User Research, Prototyping und Usability Tests, über die Kompetenz künstliche Intelligenz (nachfolgend KI) menschlich zu machen, indem sie herausfinden, wie Menschen auf KI gestützte Anwendungen reagieren. Deshalb sehe ich es als zwingend notwendig, dass sich Gestalter im Tätigkeitsfeld der KI auskennen und dieses mitgestalten. Diese Arbeit soll einen Beitrag dazu leisten.
+
 
 ## Inhaltsverzeichnis
 ```toc
