@@ -1,7 +1,7 @@
 ---
-title: Titel der Arbeit
-author: "Stefan Huber"
-date: "2022-11-11"
+title: Wie co-creation Unternehmen und KundInnen näher zusammenbringt
+author: "Wolfgang Schoeck"
+date: "2020-11-01"
 layout: post
 draft: false
 hideInMenu: false
@@ -16,6 +16,11 @@ import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
 import Grid from 'gatsby-theme-signalwerk/src/components/Grid';
 import Column from 'gatsby-theme-signalwerk/src/components/Column';
 import Box from 'gatsby-theme-signalwerk/src/components/Box';
+
+
+
+
+
 
 ## Intro
 Grundsätzlich verhält sich das Template wie normaler Markdown-Text. Es gibt aber einige erweiterte Funktionen. Für weitere Infos siehe [Github](https://github.com/signalwerk/gatsby-theme-signalwerk).
