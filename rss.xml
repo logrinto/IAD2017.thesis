@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Thesis IAD2017]]></title><description><![CDATA[A starter blog ...]]></description><link>https://thesis.logrinto.ch</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 14 Nov 2019 22:02:18 GMT</lastBuildDate><item><title><![CDATA[Thesis]]></title><description><![CDATA[Schule für Gestaltung Zürich · 2019 · CC-BY-SA 4.0 Dokumentation Beispiel · Stefan Huber]]></description><link>https://thesis.logrinto.chroot</link><guid isPermaLink="false">https://thesis.logrinto.chroot</guid><content:encoded>&lt;div class=&quot;column__text&quot;&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Thesis IAD2017]]></title><description><![CDATA[A starter blog ...]]></description><link>https://thesis.logrinto.ch</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 07 Jan 2020 00:42:14 GMT</lastBuildDate><item><title><![CDATA[Thesis]]></title><description><![CDATA[Schule für Gestaltung Zürich · 2019 · CC-BY-SA 4.0 Dokumentation Beispiel · Stefan Huber]]></description><link>https://thesis.logrinto.chroot</link><guid isPermaLink="false">https://thesis.logrinto.chroot</guid><content:encoded>&lt;div class=&quot;column__text&quot;&gt;
 &lt;p&gt;&lt;a href=&quot;https://sfgz.ch/&quot;&gt;Schule für Gestaltung Zürich&lt;/a&gt; · 2019 · &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;&lt;/p&gt;
 &lt;br /&gt;
 &lt;br /&gt;
@@ -337,6 +337,22 @@ reference-link-prefix: &amp;#39;↑ Fig. &amp;#39;
 reference-link-suffix: &amp;#39;&amp;#39;
 
 reference-text-suffix: &amp;#39; – &amp;#39;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;Grid&gt;
+&lt;hr&gt;
+&lt;Column start=&quot;1&quot; end=&quot;5&quot;&gt;
+&lt;h4&gt;Mentoring durch&lt;/h4&gt;
+&lt;p&gt;Vorname Nachname &lt;br/&gt;
+HFIAD 2017 &lt;br/&gt;
+Schule für Gestaltung Zürich &lt;br/&gt;
+&lt;a href=&quot;mailto:name@xyz.ch&quot;&gt;name@xyz.ch&lt;/a&gt;&lt;/p&gt;
+&lt;/Column&gt;
+&lt;Column start=&quot;5&quot; end=&quot;13&quot;&gt;
+&lt;h4&gt;Vorgelegt von&lt;/h4&gt;
+&lt;p&gt;Vorname Nachname &lt;br/&gt;
+sonstiges &lt;br/&gt;
+&lt;a href=&quot;mailto:name@xyz.ch&quot;&gt;name@xyz.ch&lt;/a&gt;
+&lt;/Column&gt;&lt;/p&gt;
+&lt;/Grid&gt;
 &lt;div class=&quot;footnotes&quot;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
