@@ -5,7 +5,7 @@ date: "2022-11-11"
 layout: post
 draft: false
 hideInMenu: false
-path: "/posts/2020/example/"
+path: "/posts/2020/natasha/"
 tags:
   - "TagOne"
   - "TagTwo"
