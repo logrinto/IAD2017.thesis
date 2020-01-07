@@ -125,7 +125,15 @@ Netflix ist derzeit der weltweit führende Streaming-Entertainment-Dienst mit ü
 Der Algorithmus ordnet die Zeilen bei allen UserInnen unterschiedlich an. Zwischen den Rubriken «Weiterschauen», sofern der User schon angefangene Serien oder Filme hat, den «Top 10 Auswahl», «Populär auf Netflix» und einigen personalisierten Genre-Zeilen inklusive einer Zeile mit «Weil du dies geschaut hast, schlagen wir dir dies vor», wird gewählt. In Abb. 1 ein Beispiel wie die Anordnung aussehen könnte.
 
 ![Netflix Oberfläche](./img/netflix-oberflaeche.png)
-*Personalisierte Oberfläche von Netflix [^:fig:https://medium.com/netflix-techblog/interleaving-in-online-experiments-at-netflix-a04ee392ec55]*
+*Personalisierte Oberfläche von Netflix [^:fig:kompliziert]*
+
+<!--
+Da du eine "komplizierte" Fussnote hast mit link und allem kannst du dieser einen namen geben (hier im Beispiel «kompliziert»)
+und danach diese gleich im Text (wie hier) oder sonst am schluss genauer definieren:
+ -->
+
+[^:fig:kompliziert]: [Name des Links](https://medium.com/netflix-techblog/interleaving-in-online-experiments-at-netflix-a04ee392ec55), zuletzt besucht am ...
+
 
 Mit A/B-Testing konnte festgestellt werden, wo welche Zeile bei welchen UserInnen platzieren werden müssen. Irgendwann wurde es zu komplex, um mit der Menge an Zeilen und deren Platzierung umzugehen. Um dieses Problem zu lösen, wollte man mehr personalisierte Zeilen mit eigener Reihenfolgen der Videos. So sollte das Benutzererlebnis für jedes Mitglied individueller gestaltet und verbessert werden.
 
@@ -272,17 +280,17 @@ https://www.youtube.com/watch?v=WSbgixdC9g8
 # gets repalced with footnotes
 group-include: fig
 
-inline-link-prefix: 'Fig. '
+inline-link-prefix: 'Abb. '
 
-reference-link-prefix: '↑ Fig. '
+reference-link-prefix: '↑ Abb. '
 reference-link-suffix: ''
 
 reference-text-suffix: ' – '
 ```
 
-↑ Abb. 1.
 
 <Grid>
+
 
 ---
 
