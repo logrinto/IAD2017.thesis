@@ -52,7 +52,9 @@ KI erlaubt es, automatische Anpassungen vorzunehmen, welche individuellen Lösun
 ### 2.1 Definitionen
 
 #### Künstliche Intelligenz
-Künstliche Intelligenz (KI), auch oft Artificial Intelligence (AI) genannt, ist eine Technik, welche Maschinen hilft, sich wie Menschen zu verhalten. Big Data ist nötig, um in gesammelten Daten eine Struktur zu erkennen und diese weiterzuverarbeiten (Edureka, 2018).[^1]
+Künstliche Intelligenz (KI), auch oft Artificial Intelligence (AI) genannt, ist eine Technik, welche Maschinen hilft, sich wie Menschen zu verhalten. Big Data ist nötig, um in gesammelten Daten eine Struktur zu erkennen und diese weiterzuverarbeiten ([Edureka, 2018](https)[^source-edureka]).
+
+[^source-edureka]: [Gopal Krishnan (2016); Medium Netflix Techblog](https://medium.com/netflix-techblog/selecting-the-best-artwork-for-videos-through-a-b-testing-f6155c4595f6), zuletzt besucht am Sonntag, 29. Dezember 2019.
 
 
 #### Maschinelles Lernen
@@ -161,7 +163,7 @@ Das Hauptziel des personalisierten Empfehlungssystems von Netflix ist es, die ri
 Sie wollen den BenutzerInnen Inhalte liefern, die ihnen gefallen. Dafür ist es wichtig, ein Benutzererlebnis zu generieren, welches intuitiv und unterhaltsam ist. Das hilft den UserInnen, Inhalte auf Netflix möglichst zielorientiert zu finden. 90 Sekunden reichen für einen Benutzer, um zu entscheiden, ob er Interesse an einem Inhalt hat oder nicht, meint Gopal Krishnan vom Netflix Tech-Team. Wie kann Netflix den UserInnen helfen, die Inhalte schnell zu beurteilen und herauszufinden, ob sie für sie von Interesse sind oder nicht? Die Lösung liegt im Sprichwort: Ein Bild sagt mehr als tausend Worte. Das Gehirn kann ein Bild viel schneller verarbeiten als einen Text, welchen es noch mit visuellen Informationen verbinden muss. Besonders gut sind Bilder mit ausdrucksstarken Gesichtszügen, die die Stimmung des Inhalts vermitteln
 ([Gopal Krishnan, 2016](https://medium.com/netflix-techblog/selecting-the-best-artwork-for-videos-through-a-b-testing-f6155c4595f6)[^source-krishnan]).
 
-[^source-krishnan]: [Name des Links](https://medium.com/netflix-techblog/selecting-the-best-artwork-for-videos-through-a-b-testing-f6155c4595f6), zuletzt besucht am Sonntag, 29. Dezember 2019: 20:15 Uhr.
+[^source-krishnan]: [Gopal Krishnan (2016); Medium Netflix Techblog](https://medium.com/netflix-techblog/selecting-the-best-artwork-for-videos-through-a-b-testing-f6155c4595f6), zuletzt besucht am Sonntag, 29. Dezember 2019.
 
 
 Deshalb trainiert Netflix ihren maschinellen Algorithmus, um für jedes Mitglied das beste Filmcover basierend auf dem Filminhalt auszuwählen. Sie haben in der Regel bis zu einigen Dutzend Bilder für die Cover pro Titel. Die Bilder für einen Titel müssen zudem so vielfältig sein, dass sie ein breites potenzielles Publikum ansprechen, das an verschiedenen Aspekten des Inhalts interessiert ist. Es braucht ein Cover, das nicht nur verschiedene Themen (Genre, Schauspieler, Schauplätze) in einem Titel hervorhebt, sondern auch eine individuelle Ästhetik (Farbe, Stimmung, Bild- oder Textlastig) (Ashok Chandrashekar, Fernando Amat, Justin Basilico und Tony Jebara, 2017).[^33]
@@ -300,11 +302,14 @@ Datenschutz ist im Web ein grosses Thema. Die Problematik der Privatsphäre durc
 
 ### Literaturverzeichnis
 ```references
+
 ```
 https://www.youtube.com/watch?v=WSbgixdC9g8
 
-### Quellenverzeichnis (Digitale Quellen)
+### Quellenverzeichnis
+```references
 
+```
 
 ### Abbildungsverzeichnis
 
