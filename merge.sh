@@ -15,12 +15,11 @@ git merge remotes/origin/pascale --no-edit
 git merge remotes/origin/lars --no-edit
 git merge remotes/origin/severin --no-edit
 git merge remotes/origin/steffi --no-edit
-
+git merge remotes/origin/matthias --no-edit
+git merge remotes/origin/natasha --no-edit
 
 # git merge remotes/origin/Marc --no-edit
 # git merge remotes/origin/marius --no-edit
 # git merge remotes/origin/master --no-edit
-# git merge remotes/origin/matthias --no-edit
-# git merge remotes/origin/natasha --no-edit
 # git merge remotes/origin/tieukhe --no-edit
 # git merge remotes/origin/wolfgang --no-edit
