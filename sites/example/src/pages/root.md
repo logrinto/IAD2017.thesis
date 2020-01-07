@@ -19,5 +19,6 @@ path: "root"
 ## Dokumentation
 
 * [Beispiel · Stefan Huber](/posts/2020/example/)
+* [Nicole Watrinet](/posts/2020/nicole/)
 
 </div>
