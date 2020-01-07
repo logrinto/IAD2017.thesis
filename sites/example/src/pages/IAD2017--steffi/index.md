@@ -9,7 +9,7 @@ path: "/posts/2020/steffi/"
 tags:
   - "TagOne"
   - "TagTwo"
-description: "bla bla bla... "
+description: "123"
 ---
 
 import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
