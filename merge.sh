@@ -4,6 +4,11 @@ set -e
 git checkout staging
 
 # merge
+git merge remotes/origin/master --no-edit
+
+git submodule update --remote --merge
+
+
 git merge remotes/origin/Nicole --no-edit
 git merge remotes/origin/nils --no-edit
 git merge remotes/origin/pascale --no-edit
