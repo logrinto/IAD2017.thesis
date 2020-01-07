@@ -8,6 +8,7 @@ env:
   global:
   - COMMIT_AUTHOR_EMAIL: "sh@signalwerk.ch"
   - DEPLOY_DIR: "./sites/example/public"
+  - SOURCE_BRANCH: "staging"
 branches:
   only:
   - staging
