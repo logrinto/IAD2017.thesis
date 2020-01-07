@@ -1,5 +1,5 @@
 ---
-title: Der Fortschritt von kontaktlosem Bezahlen im Pferdesport
+title: Kontaktloses Bezahlen – Der Pferdesport auf dem Weg zu modernen Technologien
 author: "Stephanie Fuchs"
 date: "2022-11-11"
 layout: post
