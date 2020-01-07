@@ -10,4 +10,4 @@ env:
   - DEPLOY_DIR: "./sites/example/public"
 branches:
   only:
-  - master
+  - staging

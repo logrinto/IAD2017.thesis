@@ -26,11 +26,11 @@ path: "root"
 * [Stephanie Fuchs](/posts/2020/steffi/)
 <!-- * [Marc Hatt](/posts/2020/marc/) -->
 * [Severin Kilchhofer](/posts/2020/severin/)
-<!-- * [Matthias Koch](/posts/2020/matthias/) -->
+* [Matthias Koch](/posts/2020/matthias/)
 * [Lars Mäder](/posts/2020/lars/)
 * [Nils Mäder](/posts/2020/nils/)
 <!-- * [Tieu Khe Mayer](/posts/2020/tieu/) -->
-<!-- * [Natasha Ruf](/posts/2020/natasha/) -->
+* [Natasha Ruf](/posts/2020/natasha/)
 <!-- * [Wolfgang Schoeck](/posts/2020/wolfgang/) -->
 * [Nicole Watrinet](/posts/2020/nicole/)
 
