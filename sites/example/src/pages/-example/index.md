@@ -328,3 +328,28 @@ reference-link-suffix: ''
 
 reference-text-suffix: ' – '
 ```
+
+
+<Grid>
+
+---
+
+<Column start="1" end="5">
+
+#### Mentoring durch
+Vorname Nachname <br/>
+HFIAD 2017 <br/>
+Schule für Gestaltung Zürich <br/>
+[name@xyz.ch](mailto:name@xyz.ch)
+
+</Column>
+
+<Column start="5" end="13">
+
+#### Vorgelegt von
+Vorname Nachname <br/>
+sonstiges <br/>
+[name@xyz.ch](mailto:name@xyz.ch)
+</Column>
+
+</Grid>
