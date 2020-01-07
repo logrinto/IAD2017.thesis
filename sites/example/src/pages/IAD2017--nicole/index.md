@@ -54,7 +54,7 @@ KI erlaubt es, automatische Anpassungen vorzunehmen, welche individuellen Lösun
 #### Künstliche Intelligenz
 Künstliche Intelligenz (KI), auch oft Artificial Intelligence (AI) genannt, ist eine Technik, welche Maschinen hilft, sich wie Menschen zu verhalten. Big Data ist nötig, um in gesammelten Daten eine Struktur zu erkennen und diese weiterzuverarbeiten ([Edureka, 2018](https)[^source-edureka]).
 
-[^source-edureka]: [Gopal Krishnan (2016); Medium Netflix Techblog](https://medium.com/netflix-techblog/selecting-the-best-artwork-for-videos-through-a-b-testing-f6155c4595f6), zuletzt besucht am Sonntag, 29. Dezember 2019.
+[^source-edureka]: [Gopal Krishnan (2016); Medium Netflix Techblog](https://medium.com/netflix-techblog/selecting-the-best-artwork-for-videos-through-a-b-testing-f6155c4595f6) (Abrufdatum: 29.12.2019)
 
 
 #### Maschinelles Lernen
@@ -302,7 +302,15 @@ Datenschutz ist im Web ein grosses Thema. Die Problematik der Privatsphäre durc
 
 ### Literaturverzeichnis
 ```references
+# gets repalced with footnotes
+group-include: lit
 
+inline-link-prefix: 'Lit. '
+
+reference-link-prefix: '↑ Lit. '
+reference-link-suffix: ''
+
+reference-text-suffix: ' – '
 ```
 https://www.youtube.com/watch?v=WSbgixdC9g8
 
