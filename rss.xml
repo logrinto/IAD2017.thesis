@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Thesis IAD2017]]></title><description><![CDATA[A starter blog ...]]></description><link>https://thesis.logrinto.ch</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 08 Jan 2020 18:03:42 GMT</lastBuildDate><item><title><![CDATA[Thesis]]></title><description><![CDATA[Schule für Gestaltung Zürich · 2019 · CC-BY-SA 4.0 Dokumentation Beispiel · Stefan Huber Pascale Anderegg Stephanie Fuchs Severin Kilchhofer…]]></description><link>https://thesis.logrinto.chroot</link><guid isPermaLink="false">https://thesis.logrinto.chroot</guid><content:encoded>&lt;div class=&quot;column__text&quot;&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Thesis IAD2017]]></title><description><![CDATA[A starter blog ...]]></description><link>https://thesis.logrinto.ch</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 08 Jan 2020 21:27:46 GMT</lastBuildDate><item><title><![CDATA[Thesis]]></title><description><![CDATA[Schule für Gestaltung Zürich · 2019 · CC-BY-SA 4.0 Dokumentation Beispiel · Stefan Huber Pascale Anderegg Stephanie Fuchs Severin Kilchhofer…]]></description><link>https://thesis.logrinto.chroot</link><guid isPermaLink="false">https://thesis.logrinto.chroot</guid><content:encoded>&lt;div class=&quot;column__text&quot;&gt;
 &lt;p&gt;&lt;a href=&quot;https://sfgz.ch/&quot;&gt;Schule für Gestaltung Zürich&lt;/a&gt; · 2019 · &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;&lt;/p&gt;
 &lt;br /&gt;
 &lt;br /&gt;
@@ -563,6 +563,382 @@ reference-text-suffix: &amp;#39; – &amp;#39;&lt;/code&gt;&lt;/pre&gt;&lt;/div&
 &lt;a href=&quot;#fnref-:fig:pic-source&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Quantified Self]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
+import Grid from 'gatsby-theme-signalwerk/src/components/Grid';
+import…]]></description><link>https://thesis.logrinto.ch/posts/2020/tieukhe/</link><guid isPermaLink="false">https://thesis.logrinto.ch/posts/2020/tieukhe/</guid><pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;
+import Grid from &apos;gatsby-theme-signalwerk/src/components/Grid&apos;;
+import Column from &apos;gatsby-theme-signalwerk/src/components/Column&apos;;
+import Box from &apos;gatsby-theme-signalwerk/src/components/Box&apos;;&lt;/p&gt;
+&lt;h2&gt;Intro&lt;/h2&gt;
+&lt;p&gt;Grundsätzlich verhält sich das Template wie normaler Markdown-Text. Es gibt aber einige erweiterte Funktionen. Für weitere Infos siehe &lt;a href=&quot;https://github.com/signalwerk/gatsby-theme-signalwerk&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Inhaltsverzeichnis&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;toc&quot;&gt;&lt;pre class=&quot;language-toc&quot;&gt;&lt;code class=&quot;language-toc&quot;&gt;exclude: Inhaltsverzeichnis
+from-heading: 2
+to-heading: 6&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;Inhaltsverzeichnis (Element)&lt;/h2&gt;
+&lt;p&gt;Das Inhaltsverzeichnis kann über ein &lt;code class=&quot;language-text&quot;&gt;toc&lt;/code&gt; (Table of Contents) Code-Block gesteuert werden.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;exclude&lt;/code&gt; – welcher Titel soll nicht im Inhaltsverzeichnis erscheinen&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;from-heading&lt;/code&gt; – erste Stufe, die ausgegeben werden soll. &lt;code class=&quot;language-text&quot;&gt;2&lt;/code&gt; = &lt;code class=&quot;language-text&quot;&gt;h2&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;to-heading&lt;/code&gt; – letzte Stufe, die ausgegeben werden soll. &lt;code class=&quot;language-text&quot;&gt;6&lt;/code&gt; = &lt;code class=&quot;language-text&quot;&gt;h6&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token code&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;```&lt;/span&gt;&lt;span class=&quot;token code-language&quot;&gt;toc&lt;/span&gt;
+&lt;span class=&quot;token code-block language-toc&quot;&gt;exclude: Inhaltsverzeichnis
+from-heading: 2
+to-heading: 6&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;```&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;p&gt;siehe oben&lt;/p&gt;
+&lt;!--
+```toc
+exclude: Inhaltsverzeichnis
+from-heading: 2
+to-heading: 6
+``` --&gt;
+&lt;h2&gt;Text&lt;/h2&gt;
+&lt;Margin&gt;
+&lt;h3&gt;Marginalie&lt;/h3&gt;
+&lt;p&gt;Text Marginalie · Randspalten mit &lt;code class=&quot;language-text&quot;&gt;&amp;lt;Margin&amp;gt;&amp;lt;/Margin&amp;gt;&lt;/code&gt;-Tags umschliessen.&lt;/p&gt;
+&lt;/Margin&gt;
+&lt;p&gt;Text · Normaler Text kann wie in Markdown üblich verfasst werden.&lt;/p&gt;
+&lt;h2&gt;Listen&lt;/h2&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Item A
+&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Item B
+&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Item C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Item A&lt;/li&gt;
+&lt;li&gt;Item B&lt;/li&gt;
+&lt;li&gt;Item C&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Nummerierte Listen&lt;/h2&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; Item 1
+&lt;span class=&quot;token list punctuation&quot;&gt;2.&lt;/span&gt; Item 2
+&lt;span class=&quot;token list punctuation&quot;&gt;3.&lt;/span&gt; Item 3&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Item 1&lt;/li&gt;
+&lt;li&gt;Item 2&lt;/li&gt;
+&lt;li&gt;Item 3&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Code&lt;/h2&gt;
+&lt;p&gt;Code kann entweder als Block oder Inline eingegeben werden.&lt;/p&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;Inline &lt;span class=&quot;token code keyword&quot;&gt;`code`&lt;/span&gt;
+
+&lt;span class=&quot;token code&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;```&lt;/span&gt;&lt;span class=&quot;token code-language&quot;&gt;js&lt;/span&gt;
+&lt;span class=&quot;token code-block language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; kk &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;kk&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;```&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;p&gt;Inline &lt;code class=&quot;language-text&quot;&gt;code&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; kk &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;kk&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;Fussnoten&lt;/h2&gt;
+&lt;p&gt;Text mit Fussnoten kann wie in Markdown üblich entweder mit Referenzen gemacht werden:&lt;/p&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;«Zitat A»&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;/span&gt;[^quote-one]
+
+&lt;span class=&quot;token url-reference url&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;^quote-one&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; ...&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;oder inline&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;«Zitat B»&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;/span&gt;[^hier der Text]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;«Zitat A»&lt;/em&gt;&lt;sup id=&quot;fnref-quote-one&quot;&gt;&lt;a href=&quot;#fn-quote-one&quot; class=&quot;footnote-ref&quot;&gt;quote-one&lt;/a&gt;&lt;/sup&gt;
+&lt;em&gt;«Zitat B»&lt;/em&gt;&lt;sup id=&quot;fnref-1&quot;&gt;&lt;a href=&quot;#fn-1&quot; class=&quot;footnote-ref&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h2&gt;Abbildungsverzeichnis&lt;/h2&gt;
+&lt;p&gt;Möchte man die Abbildungen (oder weitere Verzeichnisse) ausserhalb der Fussnoten pflegen, kann man die Fussnoten mit einem Gruppen-Prefix (&lt;code class=&quot;language-text&quot;&gt;:gruppe:&lt;/code&gt;) markieren:&lt;/p&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Bild A&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;/span&gt;[^:fig:one]
+
+&lt;span class=&quot;token url-reference url&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;^:fig:one&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; ...&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;oder inline&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Bild B&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;/span&gt;[^:fig:hier der Text]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Bild A&lt;/em&gt;&lt;sup id=&quot;fnref-:fig:one&quot;&gt;&lt;a href=&quot;#fn-:fig:one&quot; class=&quot;footnote-ref&quot;&gt;:fig:one&lt;/a&gt;&lt;/sup&gt;
+&lt;em&gt;Bild B&lt;/em&gt;&lt;sup id=&quot;fnref-2&quot;&gt;&lt;a href=&quot;#fn-2&quot; class=&quot;footnote-ref&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h2&gt;Zitate&lt;/h2&gt;
+&lt;p&gt;Absätze mit Zitaten können speziell markiert werden.&lt;/p&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token blockquote punctuation&quot;&gt;&gt;&lt;/span&gt; Absatz als Zitat.[^quote-one]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Absatz als Zitat.&lt;sup id=&quot;fnref-quote-one&quot;&gt;&lt;a href=&quot;#fn-quote-one&quot; class=&quot;footnote-ref&quot;&gt;quote-one&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;Bilder&lt;/h2&gt;
+&lt;p&gt;Wenn unter einem Bild direkt im Anschluss ein ausgezeichneter Text (&lt;code class=&quot;language-text&quot;&gt;*text*&lt;/code&gt;) steht, erhält dieser Text die Formatierung für Bildunterschriften.&lt;/p&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token url&quot;&gt;![&lt;span class=&quot;token content&quot;&gt;Cat&lt;/span&gt;](./img/header.jpg)&lt;/span&gt;
+&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Wow so miau. Much cute.[^:fig:pic-source]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Cat&quot;
+        title=&quot;Cat&quot;
+        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
+/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
+/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
+        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Wow so miau. Much cute.&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Video&lt;/h2&gt;
+&lt;p&gt;Videos sollten in eine responsive &lt;code class=&quot;language-text&quot;&gt;Box&lt;/code&gt; gepackt werden. Als Ratio kann 16:9, 4:3 oder 3:2 gangegeben werden.&lt;/p&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Box&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;ratio&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;16:9&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;iframe&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;src&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;https://player.vimeo.com/video/169809377&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;frameborder&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;0&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;iframe&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Box&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;Box ratio=&quot;16-9&quot;&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/169809377&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;/Box&gt;
+&lt;h2&gt;Grid – volle Breite&lt;/h2&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token url&quot;&gt;![&lt;span class=&quot;token content&quot;&gt;Cat&lt;/span&gt;](./img/header.jpg)&lt;/span&gt;
+&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Hello Cat[^:fig:pic-source]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;Grid&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Cat&quot;
+        title=&quot;Cat&quot;
+        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
+/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
+/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
+        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Hello Cat&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/Grid&gt;
+&lt;h2&gt;Grid – volle Breite mit Hintergrund&lt;/h2&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;html&quot;&gt;&lt;pre class=&quot;language-html&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Grid&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;background&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+![Cat](./img/header.jpg)
+*Hello Cat[^:fig:pic-source]*
+
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;Grid background&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Cat&quot;
+        title=&quot;Cat&quot;
+        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
+/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
+/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
+        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Hello Cat&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/Grid&gt;
+&lt;h2&gt;Grid – mit Spalten&lt;/h2&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Column&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;start&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;1&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;end&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;7&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token title important&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;###&lt;/span&gt; Cat Column A&lt;/span&gt;
+...
+
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Column&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Column&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;start&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;7&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;end&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;13&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token title important&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;###&lt;/span&gt; Cat Column B&lt;/span&gt;
+...
+
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Column&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;Grid&gt;
+&lt;Column start=&quot;1&quot; end=&quot;7&quot;&gt;
+&lt;h3&gt;Cat Column A&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Cat&quot;
+        title=&quot;Cat&quot;
+        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
+/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
+/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
+        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Hello Cat&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/Column&gt;
+&lt;Column start=&quot;7&quot; end=&quot;13&quot;&gt;
+&lt;h3&gt;Cat Column B&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Cat&quot;
+        title=&quot;Cat&quot;
+        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
+/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
+/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
+        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Hello Cat&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/Column&gt;
+&lt;/Grid&gt;
+&lt;!-- references text--&gt;
+&lt;!--
+Vorname Nachname, [Titel der Seite](https://www.google.com/) (Abrufdatum: dd. mm. yyyy).
+Vorname Nachname, Buchtitel, Auflage, Verlag, Erscheinungsort Jahr, erste Seite – letzte Seite.
+--&gt;
+&lt;!-- references figures--&gt;
+&lt;h2&gt;Einzelnachweise&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;references&quot;&gt;&lt;pre class=&quot;language-references&quot;&gt;&lt;code class=&quot;language-references&quot;&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;Abbildungsverzeichnis&lt;/h2&gt;
+&lt;p&gt;(Kann auch bei Einzelnachweis gepflegt werden)&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;references&quot;&gt;&lt;pre class=&quot;language-references&quot;&gt;&lt;code class=&quot;language-references&quot;&gt;# gets repalced with footnotes
+group-include: fig
+
+inline-link-prefix: &amp;#39;Fig. &amp;#39;
+
+reference-link-prefix: &amp;#39;↑ Fig. &amp;#39;
+reference-link-suffix: &amp;#39;&amp;#39;
+
+reference-text-suffix: &amp;#39; – &amp;#39;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;Grid&gt;
+&lt;hr&gt;
+&lt;Column start=&quot;1&quot; end=&quot;5&quot;&gt;
+&lt;h4&gt;Mentoring durch&lt;/h4&gt;
+&lt;p&gt;Vorname Nachname &lt;br/&gt;
+HFIAD 2017 &lt;br/&gt;
+Schule für Gestaltung Zürich &lt;br/&gt;
+&lt;a href=&quot;mailto:name@xyz.ch&quot;&gt;name@xyz.ch&lt;/a&gt;&lt;/p&gt;
+&lt;/Column&gt;
+&lt;Column start=&quot;5&quot; end=&quot;13&quot;&gt;
+&lt;h4&gt;Vorgelegt von&lt;/h4&gt;
+&lt;p&gt;Vorname Nachname &lt;br/&gt;
+sonstiges &lt;br/&gt;
+&lt;a href=&quot;mailto:name@xyz.ch&quot;&gt;name@xyz.ch&lt;/a&gt;
+&lt;/Column&gt;&lt;/p&gt;
+&lt;/Grid&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&quot;fn-quote-one&quot;&gt;
+&lt;p&gt;Beispiel für Fussnote&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-one&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-:fig:one&quot;&gt;
+&lt;p&gt;Beispiel für Abbildungsverzeichnis.&lt;/p&gt;
+&lt;a href=&quot;#fnref-:fig:one&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-:fig:pic-source&quot;&gt;
+&lt;p&gt;Abbildung von &lt;a href=&quot;http://lorempixel.com/800/600/cats/1&quot;&gt;lorempixel.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;#fnref-:fig:pic-source&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-1&quot;&gt;
+&lt;p&gt;hier der Text&lt;/p&gt;
+&lt;a href=&quot;#fnref-1&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-2&quot;&gt;
+&lt;p&gt;:fig:hier der Text&lt;/p&gt;
+&lt;a href=&quot;#fnref-2&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Titel der Arbeit]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
 import Grid from 'gatsby-theme-signalwerk/src/components/Grid';
 import…]]></description><link>https://thesis.logrinto.ch/posts/2020/example/</link><guid isPermaLink="false">https://thesis.logrinto.ch/posts/2020/example/</guid><pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;
@@ -942,382 +1318,6 @@ sonstiges &lt;br/&gt;
 &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Titel der Arbeit]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
 import Grid from 'gatsby-theme-signalwerk/src/components/Grid';
 import…]]></description><link>https://thesis.logrinto.ch/posts/2020/natasha/</link><guid isPermaLink="false">https://thesis.logrinto.ch/posts/2020/natasha/</guid><pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;
-import Grid from &apos;gatsby-theme-signalwerk/src/components/Grid&apos;;
-import Column from &apos;gatsby-theme-signalwerk/src/components/Column&apos;;
-import Box from &apos;gatsby-theme-signalwerk/src/components/Box&apos;;&lt;/p&gt;
-&lt;h2&gt;Intro&lt;/h2&gt;
-&lt;p&gt;Grundsätzlich verhält sich das Template wie normaler Markdown-Text. Es gibt aber einige erweiterte Funktionen. Für weitere Infos siehe &lt;a href=&quot;https://github.com/signalwerk/gatsby-theme-signalwerk&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;
-&lt;h2&gt;Inhaltsverzeichnis&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;toc&quot;&gt;&lt;pre class=&quot;language-toc&quot;&gt;&lt;code class=&quot;language-toc&quot;&gt;exclude: Inhaltsverzeichnis
-from-heading: 2
-to-heading: 6&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;Inhaltsverzeichnis (Element)&lt;/h2&gt;
-&lt;p&gt;Das Inhaltsverzeichnis kann über ein &lt;code class=&quot;language-text&quot;&gt;toc&lt;/code&gt; (Table of Contents) Code-Block gesteuert werden.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;exclude&lt;/code&gt; – welcher Titel soll nicht im Inhaltsverzeichnis erscheinen&lt;/li&gt;
-&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;from-heading&lt;/code&gt; – erste Stufe, die ausgegeben werden soll. &lt;code class=&quot;language-text&quot;&gt;2&lt;/code&gt; = &lt;code class=&quot;language-text&quot;&gt;h2&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;to-heading&lt;/code&gt; – letzte Stufe, die ausgegeben werden soll. &lt;code class=&quot;language-text&quot;&gt;6&lt;/code&gt; = &lt;code class=&quot;language-text&quot;&gt;h6&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token code&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;```&lt;/span&gt;&lt;span class=&quot;token code-language&quot;&gt;toc&lt;/span&gt;
-&lt;span class=&quot;token code-block language-toc&quot;&gt;exclude: Inhaltsverzeichnis
-from-heading: 2
-to-heading: 6&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;```&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;p&gt;siehe oben&lt;/p&gt;
-&lt;!--
-```toc
-exclude: Inhaltsverzeichnis
-from-heading: 2
-to-heading: 6
-``` --&gt;
-&lt;h2&gt;Text&lt;/h2&gt;
-&lt;Margin&gt;
-&lt;h3&gt;Marginalie&lt;/h3&gt;
-&lt;p&gt;Text Marginalie · Randspalten mit &lt;code class=&quot;language-text&quot;&gt;&amp;lt;Margin&amp;gt;&amp;lt;/Margin&amp;gt;&lt;/code&gt;-Tags umschliessen.&lt;/p&gt;
-&lt;/Margin&gt;
-&lt;p&gt;Text · Normaler Text kann wie in Markdown üblich verfasst werden.&lt;/p&gt;
-&lt;h2&gt;Listen&lt;/h2&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Item A
-&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Item B
-&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Item C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Item A&lt;/li&gt;
-&lt;li&gt;Item B&lt;/li&gt;
-&lt;li&gt;Item C&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Nummerierte Listen&lt;/h2&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; Item 1
-&lt;span class=&quot;token list punctuation&quot;&gt;2.&lt;/span&gt; Item 2
-&lt;span class=&quot;token list punctuation&quot;&gt;3.&lt;/span&gt; Item 3&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;Code&lt;/h2&gt;
-&lt;p&gt;Code kann entweder als Block oder Inline eingegeben werden.&lt;/p&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;Inline &lt;span class=&quot;token code keyword&quot;&gt;`code`&lt;/span&gt;
-
-&lt;span class=&quot;token code&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;```&lt;/span&gt;&lt;span class=&quot;token code-language&quot;&gt;js&lt;/span&gt;
-&lt;span class=&quot;token code-block language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; kk &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;kk&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;```&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;p&gt;Inline &lt;code class=&quot;language-text&quot;&gt;code&lt;/code&gt;&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; kk &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;kk&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;Fussnoten&lt;/h2&gt;
-&lt;p&gt;Text mit Fussnoten kann wie in Markdown üblich entweder mit Referenzen gemacht werden:&lt;/p&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;«Zitat A»&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;/span&gt;[^quote-one]
-
-&lt;span class=&quot;token url-reference url&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;^quote-one&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; ...&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;oder inline&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;«Zitat B»&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;/span&gt;[^hier der Text]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;«Zitat A»&lt;/em&gt;&lt;sup id=&quot;fnref-quote-one&quot;&gt;&lt;a href=&quot;#fn-quote-one&quot; class=&quot;footnote-ref&quot;&gt;quote-one&lt;/a&gt;&lt;/sup&gt;
-&lt;em&gt;«Zitat B»&lt;/em&gt;&lt;sup id=&quot;fnref-1&quot;&gt;&lt;a href=&quot;#fn-1&quot; class=&quot;footnote-ref&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;h2&gt;Abbildungsverzeichnis&lt;/h2&gt;
-&lt;p&gt;Möchte man die Abbildungen (oder weitere Verzeichnisse) ausserhalb der Fussnoten pflegen, kann man die Fussnoten mit einem Gruppen-Prefix (&lt;code class=&quot;language-text&quot;&gt;:gruppe:&lt;/code&gt;) markieren:&lt;/p&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Bild A&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;/span&gt;[^:fig:one]
-
-&lt;span class=&quot;token url-reference url&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;^:fig:one&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; ...&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;oder inline&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Bild B&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;/span&gt;[^:fig:hier der Text]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Bild A&lt;/em&gt;&lt;sup id=&quot;fnref-:fig:one&quot;&gt;&lt;a href=&quot;#fn-:fig:one&quot; class=&quot;footnote-ref&quot;&gt;:fig:one&lt;/a&gt;&lt;/sup&gt;
-&lt;em&gt;Bild B&lt;/em&gt;&lt;sup id=&quot;fnref-2&quot;&gt;&lt;a href=&quot;#fn-2&quot; class=&quot;footnote-ref&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;h2&gt;Zitate&lt;/h2&gt;
-&lt;p&gt;Absätze mit Zitaten können speziell markiert werden.&lt;/p&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token blockquote punctuation&quot;&gt;&gt;&lt;/span&gt; Absatz als Zitat.[^quote-one]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Absatz als Zitat.&lt;sup id=&quot;fnref-quote-one&quot;&gt;&lt;a href=&quot;#fn-quote-one&quot; class=&quot;footnote-ref&quot;&gt;quote-one&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;Bilder&lt;/h2&gt;
-&lt;p&gt;Wenn unter einem Bild direkt im Anschluss ein ausgezeichneter Text (&lt;code class=&quot;language-text&quot;&gt;*text*&lt;/code&gt;) steht, erhält dieser Text die Formatierung für Bildunterschriften.&lt;/p&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token url&quot;&gt;![&lt;span class=&quot;token content&quot;&gt;Cat&lt;/span&gt;](./img/header.jpg)&lt;/span&gt;
-&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Wow so miau. Much cute.[^:fig:pic-source]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Cat&quot;
-        title=&quot;Cat&quot;
-        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
-/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
-/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
-        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;
-&lt;em&gt;Wow so miau. Much cute.&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;Video&lt;/h2&gt;
-&lt;p&gt;Videos sollten in eine responsive &lt;code class=&quot;language-text&quot;&gt;Box&lt;/code&gt; gepackt werden. Als Ratio kann 16:9, 4:3 oder 3:2 gangegeben werden.&lt;/p&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Box&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;ratio&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;16:9&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;iframe&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;src&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;https://player.vimeo.com/video/169809377&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;frameborder&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;0&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;iframe&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Box&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;Box ratio=&quot;16-9&quot;&gt;
-&lt;iframe src=&quot;https://player.vimeo.com/video/169809377&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
-&lt;/Box&gt;
-&lt;h2&gt;Grid – volle Breite&lt;/h2&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-
-&lt;span class=&quot;token url&quot;&gt;![&lt;span class=&quot;token content&quot;&gt;Cat&lt;/span&gt;](./img/header.jpg)&lt;/span&gt;
-&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Hello Cat[^:fig:pic-source]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;/span&gt;
-
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;Grid&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Cat&quot;
-        title=&quot;Cat&quot;
-        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
-/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
-/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
-        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;
-&lt;em&gt;Hello Cat&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;/Grid&gt;
-&lt;h2&gt;Grid – volle Breite mit Hintergrund&lt;/h2&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;html&quot;&gt;&lt;pre class=&quot;language-html&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Grid&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;background&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-
-![Cat](./img/header.jpg)
-*Hello Cat[^:fig:pic-source]*
-
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;Grid background&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Cat&quot;
-        title=&quot;Cat&quot;
-        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
-/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
-/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
-        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;
-&lt;em&gt;Hello Cat&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;/Grid&gt;
-&lt;h2&gt;Grid – mit Spalten&lt;/h2&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Column&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;start&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;1&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;end&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;7&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-
-&lt;span class=&quot;token title important&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;###&lt;/span&gt; Cat Column A&lt;/span&gt;
-...
-
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Column&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Column&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;start&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;7&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;end&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;13&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-
-&lt;span class=&quot;token title important&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;###&lt;/span&gt; Cat Column B&lt;/span&gt;
-...
-
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Column&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;Grid&gt;
-&lt;Column start=&quot;1&quot; end=&quot;7&quot;&gt;
-&lt;h3&gt;Cat Column A&lt;/h3&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Cat&quot;
-        title=&quot;Cat&quot;
-        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
-/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
-/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
-        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;
-&lt;em&gt;Hello Cat&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;/Column&gt;
-&lt;Column start=&quot;7&quot; end=&quot;13&quot;&gt;
-&lt;h3&gt;Cat Column B&lt;/h3&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Cat&quot;
-        title=&quot;Cat&quot;
-        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
-/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
-/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
-        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;
-&lt;em&gt;Hello Cat&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;/Column&gt;
-&lt;/Grid&gt;
-&lt;!-- references text--&gt;
-&lt;!--
-Vorname Nachname, [Titel der Seite](https://www.google.com/) (Abrufdatum: dd. mm. yyyy).
-Vorname Nachname, Buchtitel, Auflage, Verlag, Erscheinungsort Jahr, erste Seite – letzte Seite.
---&gt;
-&lt;!-- references figures--&gt;
-&lt;h2&gt;Einzelnachweise&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;references&quot;&gt;&lt;pre class=&quot;language-references&quot;&gt;&lt;code class=&quot;language-references&quot;&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;Abbildungsverzeichnis&lt;/h2&gt;
-&lt;p&gt;(Kann auch bei Einzelnachweis gepflegt werden)&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;references&quot;&gt;&lt;pre class=&quot;language-references&quot;&gt;&lt;code class=&quot;language-references&quot;&gt;# gets repalced with footnotes
-group-include: fig
-
-inline-link-prefix: &amp;#39;Fig. &amp;#39;
-
-reference-link-prefix: &amp;#39;↑ Fig. &amp;#39;
-reference-link-suffix: &amp;#39;&amp;#39;
-
-reference-text-suffix: &amp;#39; – &amp;#39;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;Grid&gt;
-&lt;hr&gt;
-&lt;Column start=&quot;1&quot; end=&quot;5&quot;&gt;
-&lt;h4&gt;Mentoring durch&lt;/h4&gt;
-&lt;p&gt;Vorname Nachname &lt;br/&gt;
-HFIAD 2017 &lt;br/&gt;
-Schule für Gestaltung Zürich &lt;br/&gt;
-&lt;a href=&quot;mailto:name@xyz.ch&quot;&gt;name@xyz.ch&lt;/a&gt;&lt;/p&gt;
-&lt;/Column&gt;
-&lt;Column start=&quot;5&quot; end=&quot;13&quot;&gt;
-&lt;h4&gt;Vorgelegt von&lt;/h4&gt;
-&lt;p&gt;Vorname Nachname &lt;br/&gt;
-sonstiges &lt;br/&gt;
-&lt;a href=&quot;mailto:name@xyz.ch&quot;&gt;name@xyz.ch&lt;/a&gt;
-&lt;/Column&gt;&lt;/p&gt;
-&lt;/Grid&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&quot;fn-quote-one&quot;&gt;
-&lt;p&gt;Beispiel für Fussnote&lt;/p&gt;
-&lt;a href=&quot;#fnref-quote-one&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
-&lt;/li&gt;
-&lt;li id=&quot;fn-:fig:one&quot;&gt;
-&lt;p&gt;Beispiel für Abbildungsverzeichnis.&lt;/p&gt;
-&lt;a href=&quot;#fnref-:fig:one&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
-&lt;/li&gt;
-&lt;li id=&quot;fn-:fig:pic-source&quot;&gt;
-&lt;p&gt;Abbildung von &lt;a href=&quot;http://lorempixel.com/800/600/cats/1&quot;&gt;lorempixel.com&lt;/a&gt;&lt;/p&gt;
-&lt;a href=&quot;#fnref-:fig:pic-source&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
-&lt;/li&gt;
-&lt;li id=&quot;fn-1&quot;&gt;
-&lt;p&gt;hier der Text&lt;/p&gt;
-&lt;a href=&quot;#fnref-1&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
-&lt;/li&gt;
-&lt;li id=&quot;fn-2&quot;&gt;
-&lt;p&gt;:fig:hier der Text&lt;/p&gt;
-&lt;a href=&quot;#fnref-2&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Quantified Self]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
-import Grid from 'gatsby-theme-signalwerk/src/components/Grid';
-import…]]></description><link>https://thesis.logrinto.ch/posts/2020/tieukhe/</link><guid isPermaLink="false">https://thesis.logrinto.ch/posts/2020/tieukhe/</guid><pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;
 import Grid from &apos;gatsby-theme-signalwerk/src/components/Grid&apos;;
 import Column from &apos;gatsby-theme-signalwerk/src/components/Column&apos;;
 import Box from &apos;gatsby-theme-signalwerk/src/components/Box&apos;;&lt;/p&gt;
@@ -3688,9 +3688,9 @@ to-heading: 2&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h2&gt;1.0 Einleitung – Sprachassistenten auf dem Vormarsch&lt;/h2&gt;
 &lt;p&gt;Die Verbreitung von Sprachassistenten hat in den letzten Jahren rasant zugenommen. Die smarten Helfer erfreuen sich nicht nur in den USA grosser Beliebtheit. Zurzeit besitzen ca. 30 % aller amerikanischen Haushalte Sprachassistenten, diese Zahl wird zukünftig weiter steigen. Laut dem Voicebot Consumer Adaption Report von 2019 wurden in den USA insgesamt 66.4 Mio. neue Sprachassistenten installiert, dies entspricht ca. achtmal der Bevölkerung der Schweiz &lt;em&gt;(Voicebot.ai, 2019, 10).&lt;sup id=&quot;fnref-:lit:one&quot;&gt;&lt;a href=&quot;#fn-:lit:one&quot; class=&quot;footnote-ref&quot;&gt;:lit:one&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt; &lt;/p&gt;
 &lt;p&gt;Daher ist es nicht überraschend, dass Unternehmen sich verstärkt mit Sprachassistenten beschäftigen. Da diese einen neuen Kanal zur Kundenkommunikation darstellen. Diese Arbeit verschafft eine Übersicht über den aktuellen technischen Stand von Sprachassistenten sowie Voice-Apps und deren Einsatz in der Customer Journey. Zusätzlich wird aufgezeigt, inwiefern sich die Customer Journey durch den neuen Touch-Point Sprachassistenten hinsichtlich der zunehmenden Dynamik im E-Commerce verändert hat. Erläutert wird das Potenzial von Sprachassistenten und deren Auswirkungen auf die Customer Journey anhand eines praktischen Fallbeispiels.&lt;/p&gt;
-&lt;p&gt;Dabei werden zuerst die Grundlagen der klassischen Customer Journey nach Kotler &lt;em&gt;(Kotler et al. 2016, 237–246).&lt;sup id=&quot;fnref-:lit:two&quot;&gt;&lt;a href=&quot;#fn-:lit:two&quot; class=&quot;footnote-ref&quot;&gt;:lit:two&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt; beschrieben und anschliessend anhand der Voice-App von Starbucks («Starbucks Reorder») näher untersucht. Dieses Beispiel ist hierfür besonders geeignet, da die Smartphone-App von Starbucks sich bereits vor Jahren als eine digitale Erweiterung der herkömmlichen Customer Journey etabliert hat. Starbucks versucht diese nun mit der Voice-App für Echo (Alexa, Sprachassistenten von Amazon) zu ergänzen. Durch die Sprachsteuerung und die Integration der Voice-App in den Alltag, soll der Kaufprozess effizienter gestaltet und der Kunde stärker an die Marke gebunden werden &lt;em&gt;(Held, 2018).&lt;sup id=&quot;fnref-:qu:one&quot;&gt;&lt;a href=&quot;#fn-:qu:one&quot; class=&quot;footnote-ref&quot;&gt;:qu:one&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Dabei werden zuerst die Grundlagen der klassischen Customer Journey nach Kotler &lt;em&gt;(Kotler et al. 2016, 237–246).&lt;sup id=&quot;fnref-:lit:two&quot;&gt;&lt;a href=&quot;#fn-:lit:two&quot; class=&quot;footnote-ref&quot;&gt;:lit:two&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt; beschrieben und anschliessend anhand der Voice-App von Starbucks &lt;a href=&quot;https://www.amazon.com/Starbucks-Coffee-Co-Reorder/dp/B01F9RRL46&quot;&gt;(«Starbucks Reorder»)&lt;/a&gt; näher untersucht. Dieses Beispiel ist hierfür besonders geeignet, da die Smartphone-App von Starbucks sich bereits vor Jahren als eine digitale Erweiterung der herkömmlichen Customer Journey etabliert hat. Starbucks versucht diese nun mit der Voice-App für Echo (Alexa, Sprachassistenten von Amazon) zu ergänzen. Durch die Sprachsteuerung und die Integration der Voice-App in den Alltag, soll der Kaufprozess effizienter gestaltet und der Kunde stärker an die Marke gebunden werden &lt;em&gt;(Held, 2018).&lt;sup id=&quot;fnref-:qu:one&quot;&gt;&lt;a href=&quot;#fn-:qu:one&quot; class=&quot;footnote-ref&quot;&gt;:qu:one&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h2&gt;2.0 Sprache als Interaktion mit dem Computer&lt;/h2&gt;
-&lt;p&gt;Hinter dem Phänomen Sprachassistent steckt ein Prozess, der im Jahre 1941 mit der ersten Rechenmaschine von Conrad Zuse seinen Anfang nahm. Schon damals stellte man sich die Frage, wie Nutzer mit dem Computer am effizientesten kommunizieren können &lt;em&gt;(Hörner, 2019, 2).&lt;sup id=&quot;fnref-:lit:three&quot;&gt;&lt;a href=&quot;#fn-:lit:three&quot; class=&quot;footnote-ref&quot;&gt;:lit:three&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;Hinter dem Phänomen Sprachassistent steckt ein Prozess, der im Jahre 1941 mit der ersten Rechenmaschine von Konrad Zuse &lt;a href=&quot;https://de.wikipedia.org/wiki/Konrad_Zuse&quot;&gt;Konrad Zuse&lt;/a&gt; seinen Anfang nahm. Schon damals stellte man sich die Frage, wie Nutzer mit dem Computer am effizientesten kommunizieren können &lt;em&gt;(Hörner, 2019, 2).&lt;sup id=&quot;fnref-:lit:three&quot;&gt;&lt;a href=&quot;#fn-:lit:three&quot; class=&quot;footnote-ref&quot;&gt;:lit:three&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt; &lt;/p&gt;
 &lt;h3&gt;2.1 Die Entwicklung der Computerschnittstellen in den letzten 80 Jahren&lt;/h3&gt;
 &lt;p&gt;Die rasante Entwicklung von Computern fing mit der Lochkarte an und ging mit Tastaturen und Textmonitoren zu Monitoren mit Mausbedienung über. So wurden bei Computern Schnittstellen geschaffen, welche die Bedienung erleichtern sollten. In diesem Kontext stellte das Aufkommen von Touchscreens eine weitere grosse Veränderung der Bedienung von Computern dar. Durch die vereinfachte Bedienung sind diese Geräte in der Lage, den Alltag ihrer NutzerInnen massiv zu erleichtern und haben sich aufgrund ihrer Fähigkeiten als ständige Begleiter dieser etabliert. Dabei gilt: je einfacher ein Gerät bedient werden kann, desto massentauglicher ist es &lt;a href=&quot;#22-das-prinzip-des-geringsten-aufwandes&quot;&gt;(Siehe auch 1.2 Prinzip des geringsten Aufwandes)&lt;/a&gt;. Der nächste sinnvolle Schritt in dieser Entwicklung ist unter anderem die berührungsfreie Steuerung mittels Sprache &lt;em&gt;(Hörner, 2019, 2–5).&lt;sup id=&quot;fnref-:lit:three&quot;&gt;&lt;a href=&quot;#fn-:lit:three&quot; class=&quot;footnote-ref&quot;&gt;:lit:three&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt; &lt;/p&gt;
 &lt;h3&gt;2.2 Das Prinzip des geringsten Aufwandes&lt;/h3&gt;
@@ -3767,7 +3767,7 @@ to-heading: 2&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Sprachassistenten ermöglichen es den NutzerInnen, mittels natürlicher Sprache mit dem Computer zu kommunizieren. Die Dynamik von Sprachassistenten, welche sie von «Voice interaction», also dem Bedienen eines Computers mittels Stimme (Sprachdialogsystem) unterscheidet, verbirgt sich im Prozess dahinter. Um genauer darauf eingehen zu können, müssen zunächst die Begriffe Sprachdialogsystem (SDS) und Sprachassistent genauer beleuchtet werden &lt;em&gt;(Hörner, 2019, 7).&lt;sup id=&quot;fnref-:lit:three&quot;&gt;&lt;a href=&quot;#fn-:lit:three&quot; class=&quot;footnote-ref&quot;&gt;:lit:three&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h4&gt;3.1.1 Sprachdialogsystem (SDS)&lt;/h4&gt;
 &lt;p&gt;Ein Sprachdialogsystem (SDS) ermöglicht die Steuerung und Dateneingabe mittels natürlicher Sprache am Computer. Diese Art der Bedienung vereinfacht den Gebrauch und die Benutzeroberfläche von Computern erheblich. Jedoch kann ein solches System einen Computer nur sehr eingeschränkt Bedienen &lt;em&gt;(Hörner, 2019, 7).&lt;sup id=&quot;fnref-:lit:three&quot;&gt;&lt;a href=&quot;#fn-:lit:three&quot; class=&quot;footnote-ref&quot;&gt;:lit:three&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Ein Beispiel für ein SDS ist die Bedienung eines Computers über eine Telefonleitung. Es können gewisse vorgegebene Abläufe gesteuert werden, allerdings kann das Gerät weder von den Nutzern und Nutzerinnen für andere Zwecke gebraucht werden, noch kann es auf deren Anfragen reagieren. &lt;em&gt;(Hörner, 2019, 7).&lt;sup id=&quot;fnref-:lit:three&quot;&gt;&lt;a href=&quot;#fn-:lit:three&quot; class=&quot;footnote-ref&quot;&gt;:lit:three&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ein Beispiel für ein SDS ist die Bedienung eines Computers über eine Telefonleitung. Es können vorgegebene Abläufe gesteuert werden, allerdings kann das Gerät weder von den Nutzern und Nutzerinnen für andere Zwecke gebraucht werden, noch kann es auf deren Anfragen reagieren. &lt;em&gt;(Hörner, 2019, 7).&lt;sup id=&quot;fnref-:lit:three&quot;&gt;&lt;a href=&quot;#fn-:lit:three&quot; class=&quot;footnote-ref&quot;&gt;:lit:three&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h4&gt;3.1.2 Sprachassistent&lt;/h4&gt;
 &lt;p&gt;Nützlich für den täglichen Gebrauch wird ein Sprachdialogsystem erst, wenn es in einem dynamischen Umfeld funktionieren kann. Dies erfordert im Gegensatz zum SDS erweiterte Fähigkeiten vom System, nämlich das Einordnen vom Gesprochenen in einen umfassenden Kontext, sowie das Verknüpfen von diesem mit weiteren Informationen. Erst hierdurch wird aus einem SDS ein Sprachassistent &lt;em&gt;(Hörner, 2019, 7).&lt;sup id=&quot;fnref-:lit:three&quot;&gt;&lt;a href=&quot;#fn-:lit:three&quot; class=&quot;footnote-ref&quot;&gt;:lit:three&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Als Beispiel für die Verarbeitung von gesprochenen Befehlen wird folgende Anfrage an den Sprachassistenten untersucht: «Wie komme ich am schnellsten mit dem Zug ins Hotel?» Hierbei muss die Bedeutung (Was ist mit dem Begriff «Zug» gemeint?) mit Informationen (Wo ist das Hotel? Wie lautet der aktuelle Standort der Nutzerin oder des Nutzers?) verbunden werden. Ein Sprachassistent kann sich diese Informationen (aktueller Standort sowie der des Hotels wurde nicht genannt) aus GPS Daten sowie früherem Handeln (Buchung des Hotels) der NutzerInnen mit Zugriff auf deren privaten Daten beschaffen. Ebenfalls weiss der Sprachassistent, dass die direkteste Zugverbindung herausgesucht werden soll. Falls ein Zug ausfällt oder Verspätung hat, weist der Sprachassistent auch darauf hin und schlägt eine alternative Verbindung vor. Je nach Gesprächsverlauf und Antwort, kann der Sprachassistent reagieren und gezielt darauf eingehen. Ein Sprachassistent nimmt also, wie es der Name bereits verrät, tatsächlich die Rolle eines Assistenten ein &lt;em&gt;(Hörner, 2019, 7–8).&lt;sup id=&quot;fnref-:lit:three&quot;&gt;&lt;a href=&quot;#fn-:lit:three&quot; class=&quot;footnote-ref&quot;&gt;:lit:three&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
@@ -3814,12 +3814,12 @@ to-heading: 2&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;em&gt;Skizze der Funktionsweise von Sprachassistenten.&lt;em&gt;&lt;sup id=&quot;fnref-:abb:four&quot;&gt;&lt;a href=&quot;#fn-:abb:four&quot; class=&quot;footnote-ref&quot;&gt;:abb:four&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h3&gt;3.3 Wie Unternehmen Sprachassistenten nutzen – das Beispiel Alexa Skills und Voice Apps&lt;/h3&gt;
 &lt;p&gt;Um die Fragestellung, inwiefern sich die Customer Journey durch den neuen Touch-Point «Sprachassistent» verändert hat, beantworten zu können. Wird in folgendem Abschnitt aufgezeigt, wie Unternehmen Sprachassistenten nutzen können. Jedes Gehirn (in diesem Fall die Software des Sprachassistenten) ist nur so gut, wie die Informationen, mit denen es gefüttert wird. Hier kommt eine Besonderheit der Sprachassistenten zu Tage: die Erweiterung des Gehirns und dessen Fähigkeiten durch sog. Voice Apps. Vergleichbar ist dieses System mit dem Smartphone. Nützlich für den Alltag wird das Gerät erst durch Apps von Drittanbietern &lt;em&gt;(Hörner, 2019, 15).&lt;sup id=&quot;fnref-:lit:three&quot;&gt;&lt;a href=&quot;#fn-:lit:three&quot; class=&quot;footnote-ref&quot;&gt;:lit:three&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Voice Apps stellen nichts weiter als eine eigenen Verbindung zum Sprachassistenten (z.B. Google Assistent oder Amazon Echo) sowie der Methode  zur Ermittlung von Antworten aus der eigenen Datenbank (Datenbank von Drittanbieterinnen und Drittanbietern) zur Verfügung &lt;em&gt;(Hörner, 2019, 16–17).&lt;sup id=&quot;fnref-:lit:three&quot;&gt;&lt;a href=&quot;#fn-:lit:three&quot; class=&quot;footnote-ref&quot;&gt;:lit:three&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Voice Apps stellen neben der Verbindung zum Sprachassistenten (z.B. Google Assistent oder Amazon Echo) zusätzlich eine Methode zur Ermittlung von Antworten aus der eigenen Datenbank (Datenbank von Drittanbieterinnen und Drittanbietern) zur Verfügung &lt;em&gt;(Hörner, 2019, 16–17).&lt;sup id=&quot;fnref-:lit:three&quot;&gt;&lt;a href=&quot;#fn-:lit:three&quot; class=&quot;footnote-ref&quot;&gt;:lit:three&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Geht bei Amazon Echo eine Anfrage in der Form «Alexa, frage (Name der Voice App) …» ein, so sucht der Sprachassistent nach der erwähnten Voice App und holt dort die benötigten Informationen oder führt einen Dienst aus. Dieser Voice App Name ist eine zentrale Voraussetzung für die direkte Aktivierung und Ansprache der Voice App durch die NutzerInnen und muss bei Amazon, Google und gegebenenfalls in Systemen anderer Sprachassistenten hinterlegt werden (vgl. Hörner, 2019, 17).&lt;sup id=&quot;fnref-:lit:three&quot;&gt;&lt;a href=&quot;#fn-:lit:three&quot; class=&quot;footnote-ref&quot;&gt;:lit:three&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Ein Beispiel für eine solche Anfrage, ist die Kommunikation mit «Bring», einer Einkaufslisten App, welche mittels Sprachassistent bedient werden kann: «Alexa, frage ‹Bring›, ob ich Milch schon der Einkaufsliste hinzugefügt habe». Der Sprachassistent beantwortet die Anfrage nun nicht über eine Google Suche, sondern greift auf die Informationen der Voice App zu.&lt;/p&gt;
-&lt;h2&gt;4.0 Die Customer Journey – ein Überblick&lt;/h2&gt;
+&lt;p&gt;Ein Beispiel für eine solche Anfrage, ist die Kommunikation mit &lt;a href=&quot;https://getbring.com/#!/app&quot;&gt;«Bring»&lt;/a&gt;, einer Einkaufslisten App, welche mittels Sprachassistent bedient werden kann: «Alexa, frage ‹Bring›, ob ich Milch schon der Einkaufsliste hinzugefügt habe». Der Sprachassistent beantwortet die Anfrage nun nicht über eine Google Suche, sondern greift auf die Informationen der Voice App zu.&lt;/p&gt;
+&lt;h2&gt;4.0 Die Customer Journey&lt;/h2&gt;
 &lt;p&gt;Die Digitalisierung ermöglicht die Aufzeichnung und das Verarbeiten des Kundenverhaltens. Dadurch rückt die Customer Journey, also alle Kontaktpunkte zwischen einem Kunden und der Marke bis zum Kauf des Produkts, stärker in den Fokus von Marketingstrategien. Damit im nächsten Kapitel die Customer Journey mit Sprachassistenten anhand eines Fallbeispiels untersucht werden kann, werden in diesem Kapitel die Grundlagen der Customer Journey erläutert &lt;em&gt;(Hörner, 2019, 66).&lt;sup id=&quot;fnref-:lit:three&quot;&gt;&lt;a href=&quot;#fn-:lit:three&quot; class=&quot;footnote-ref&quot;&gt;:lit:three&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Vorab muss erwähnt werden, dass die Customer Journey nie für alle Kunden gleich abläuft. Trotz der Unterschiede, lässt sich in allen Customer Journeys ein ähnliches Kundenverhalten in bestimmten Phasen erkennen. Ein gängiges Modell zur Darstellung dieser Phasen ist das fünfstufige Kaufentscheidungsmodell von Kotler &lt;em&gt;(Kotler et al. 2016, 237–246).&lt;sup id=&quot;fnref-:lit:two&quot;&gt;&lt;a href=&quot;#fn-:lit:two&quot; class=&quot;footnote-ref&quot;&gt;:lit:two&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt; Aufgrund seiner begrenzten Anzahl an Stufen lässt sich der Kaufprozess mithilfe dieses Modells im Vergleich zu anderen Modellen vereinfacht darstellen. Daher ist es durchaus dazu geeignet, das Potential von Sprachassistenten in der Customer Journey an einem Beispiel aufzuzeigen &lt;em&gt;(Hörner, 2019, 16–17).&lt;sup id=&quot;fnref-:lit:three&quot;&gt;&lt;a href=&quot;#fn-:lit:three&quot; class=&quot;footnote-ref&quot;&gt;:lit:three&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span
@@ -3856,7 +3856,7 @@ to-heading: 2&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;em&gt;Der Kaufprozess nach Kotler mit seinen insgesamt 5 Stufen.&lt;em&gt;&lt;sup id=&quot;fnref-:abb:five&quot;&gt;&lt;a href=&quot;#fn-:abb:five&quot; class=&quot;footnote-ref&quot;&gt;:abb:five&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;In der ersten Stufe des Modells geht es um die Problemerkennung, welche beim Kunden entweder durch innere oder äussere Einflüsse ausgelöst werden kann. Innere Einflüsse gehen von den Kundinnen und Kunden aus, während äussere Einflüsse meist durch herkömmliche Werbung ausgelöst werden. Beispielsweise können ein Hungergefühl (innerer Einfluss) oder das Bedürfnis nach erhöhter körperlicher Leistung (äusserer Einfluss) als Auslöser für den Kauf eines Snacks angesehen werden. Es lässt sich also feststellen, dass am Anfang einer Kaufentscheidung immer ein Bedürfnis oder eine Problemerkennung stehen &lt;em&gt;(Hörner, 2019, 68).&lt;sup id=&quot;fnref-:lit:three&quot;&gt;&lt;a href=&quot;#fn-:lit:three&quot; class=&quot;footnote-ref&quot;&gt;:lit:three&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt; Auf die Problemerkennung folgt die Informationssuche. Hierbei geht es darum, zu erkennen, wie das Problem gelöst oder das Bedürfnis befriedigt werden kann. Für den Kunden geht es hierbei darum, wer das passende Produkt oder die passende Dienstleistung anbieten kann &lt;em&gt;(Hörner, 2019, 71).&lt;sup id=&quot;fnref-:lit:three&quot;&gt;&lt;a href=&quot;#fn-:lit:three&quot; class=&quot;footnote-ref&quot;&gt;:lit:three&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt; Wurden in der Phase der Informationssuche mehrere Anbieterinnen und Anbieter gefunden, so geht es in der dritten Stufe darum, diese zu prüfen und zu vergleichen &lt;em&gt;(Hörner, 2019, 75–76).&lt;sup id=&quot;fnref-:lit:three&quot;&gt;&lt;a href=&quot;#fn-:lit:three&quot; class=&quot;footnote-ref&quot;&gt;:lit:three&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt; Hierfür kann die Google Suche als ein Beispiel betrachtet werden, wobei die Kundinnen und Kunden sich zwischen zwei Angeboten entscheiden sollen. Die Ergebnisse, welche nun in der Google Suchergebnissen erscheinen, sind ausschlaggebend für ihre Kaufentscheidung. Als Beispiel für solche Informationen können Ort, Preise, Produkte und Bewertung angesehen werden. Darauf folgt die vierte Stufe, nämlich die Kaufentscheidung, bei der es darum geht, den Kaufprozess der Kundin oder des Kunden möglichst einfach zu gestalten. Im Falle eines Onlineshops kann dies durch einen auf wenige Schritte reduzierten Checkout-Prozess ermöglicht werden &lt;em&gt;(Hörner, 2019, 79).&lt;sup id=&quot;fnref-:lit:three&quot;&gt;&lt;a href=&quot;#fn-:lit:three&quot; class=&quot;footnote-ref&quot;&gt;:lit:three&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt; In der letzten Phase, der nach dem Kauf, ist es wichtig, der Kundin oder dem Kunden ein gutes Gefühl zu geben. Der Kauf soll sich richtig anfühlen. Dies kann bei einem Online Einkauf durch eine Bestätigungsmail erfolgen. Aber auch Versandverfolgungs- und Rücksendemöglichkeiten können dieses positive Gefühl verstärken &lt;em&gt;(Hörner, 2019, 80).&lt;sup id=&quot;fnref-:lit:three&quot;&gt;&lt;a href=&quot;#fn-:lit:three&quot; class=&quot;footnote-ref&quot;&gt;:lit:three&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h2&gt;5.0 Die Customer Journey mit Sprachassistenten: Fallbeispiel der Starbucks Voice-App («Starbucks Reorder»)&lt;/h2&gt;
-&lt;p&gt;2010 wurde die Starbucks App für Smartphones eingeführt. Damit kann der Kunde jederzeit auf die Digitalform seiner Mitgliedskarte zugreifen und somit mit dem Smartphone an der Kasse bezahlen. 2017 wurde erstmals die Voice-App «Starbucks Reorder» von Starbucks für Alexa vorgestellt. Der User kann sich in dieser mit demselben Account wie in der etablierten Starbucks-App registrieren. Durch das Einbinden des gleichen Accounts wie auf der Smartphone-App wird dem Sprachassistenten der Zugriff auf bisherige Bestellungen sowie besuchte Filialen ermöglicht &lt;em&gt;(CNET News, 2017).&lt;sup id=&quot;fnref-:qu:five&quot;&gt;&lt;a href=&quot;#fn-:qu:five&quot; class=&quot;footnote-ref&quot;&gt;:qu:five&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt; Hierdurch kann der Kunde mittels natürlicher Spracheingabe bisher getätigte Bestellungen in der Filiale seiner Wahl erneut platzieren. Um die Voice-App zu benutzen, muss mindestens eine Bestellung via Smartphone App getätigt worden sein &lt;em&gt;(Duncan, 2019).&lt;sup id=&quot;fnref-:qu:three&quot;&gt;&lt;a href=&quot;#fn-:qu:three&quot; class=&quot;footnote-ref&quot;&gt;:qu:three&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;2010 wurde die &lt;a href=&quot;https://www.starbucks.ch/coffeehouse/mobile-apps/&quot;&gt;Starbucks App&lt;/a&gt; für Smartphones eingeführt. Damit kann der Kunde jederzeit auf die Digitalform seiner Mitgliedskarte zugreifen und somit mit dem Smartphone an der Kasse bezahlen. 2017 wurde erstmals die Voice-App &lt;a href=&quot;https://www.amazon.com/Starbucks-Coffee-Co-Reorder/dp/B01F9RRL46&quot;&gt;(«Starbucks Reorder»)&lt;/a&gt; von Starbucks für Alexa vorgestellt. Der User kann sich in dieser mit demselben Account wie in der etablierten Starbucks-App registrieren. Durch das Einbinden des gleichen Accounts wie auf der Smartphone-App wird dem Sprachassistenten der Zugriff auf bisherige Bestellungen sowie besuchte Filialen ermöglicht &lt;em&gt;(CNET News, 2017).&lt;sup id=&quot;fnref-:qu:five&quot;&gt;&lt;a href=&quot;#fn-:qu:five&quot; class=&quot;footnote-ref&quot;&gt;:qu:five&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt; Hierdurch kann der Kunde mittels natürlicher Spracheingabe bisher getätigte Bestellungen in der Filiale seiner Wahl erneut platzieren. Um die Voice-App zu benutzen, muss mindestens eine Bestellung via Smartphone App getätigt worden sein &lt;em&gt;(Duncan, 2019).&lt;sup id=&quot;fnref-:qu:three&quot;&gt;&lt;a href=&quot;#fn-:qu:three&quot; class=&quot;footnote-ref&quot;&gt;:qu:three&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;br/&gt;
 &lt;Box ratio=&quot;16:9&quot;&gt;
 &lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; &quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/3C6qVqwy5TA&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
@@ -3895,11 +3895,11 @@ to-heading: 2&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
   &lt;/a&gt;
     &lt;/span&gt;
 &lt;em&gt;Teilschritte in der Cutomer Journey von Starbucks, mit und ohne Sprachassistent.&lt;em&gt;&lt;sup id=&quot;fnref-:abb:six&quot;&gt;&lt;a href=&quot;#fn-:abb:six&quot; class=&quot;footnote-ref&quot;&gt;:abb:six&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Im vorherigen Kapitel wurde das Modell nach Kotler beschrieben, nun soll anhand dessen die Voice App «Starbucks Reorder» als ein praktisches Fallbeispiel an den einzelnen Stufen näher untersucht werden.&lt;/p&gt;
+&lt;p&gt;Im &lt;a href=&quot;#40-die-customer-journey&quot;&gt;vorherigen Kapitel&lt;/a&gt; wurde das Modell nach Kotler beschrieben, nun soll anhand dessen die Voice App «Starbucks Reorder» als ein praktisches Fallbeispiel an den einzelnen Stufen näher untersucht werden.&lt;/p&gt;
 &lt;h3&gt;5.1 Stufe 1: Problemerkennung durch Sprachassistenten&lt;/h3&gt;
-&lt;p&gt;Sprachassistenten können ein Bedürfnis der NutzerInnen erkennen und diese unterbewusst darauf hinweisen. Es ist nicht anzunehmen, dass das Prinzip der bisher unterbrechender Werbung in digitalen Audiomedien (bspw. Werbung in Spotify), auch auf dem neuen Kanal Sprachassistenten erfolgreich Bestehen kann &lt;em&gt;(JWT, 2017, 30–31).&lt;sup id=&quot;fnref-:lit:four&quot;&gt;&lt;a href=&quot;#fn-:lit:four&quot; class=&quot;footnote-ref&quot;&gt;:lit:four&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt; Vielmehr fliesst der Hinweis auf ein Bedürfnis in die alltägliche Hilfestellung eines Sprachassistenten und einer Voice-App ein &lt;em&gt;(Hörner, 2019, 70).&lt;sup id=&quot;fnref-:lit:three&quot;&gt;&lt;a href=&quot;#fn-:lit:three&quot; class=&quot;footnote-ref&quot;&gt;:lit:three&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt; Zum Beispiel kann der Kunde sein Guthaben auf der Mitgliedskarte von Starbucks einsehen (Hilfestellung). Die Starbucks Voice-App ermöglicht diesen Service ohne eine Website oder eine App öffnen zu müssen. Der Befehl «Alexa, frage Starbucks nach dem Guthaben meiner Mitgliedschaft» ersetzt mehrere Teilschritte, die ursprünglich notwendig waren, um an diese Informationen zu gelangen. Durch diesen vereinfachten Zugriff (Mehrwert) auf die Benutzerdaten, beschäftigen sich die Kundinnen und Kunden mit der Marke und werden viel eher auch gleich noch eine Bestellung platzieren &lt;em&gt;(Duncan, 2019).&lt;sup id=&quot;fnref-:qu:three&quot;&gt;&lt;a href=&quot;#fn-:qu:three&quot; class=&quot;footnote-ref&quot;&gt;:qu:three&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;Sprachassistenten können ein Bedürfnis der NutzerInnen erkennen und diese unterbewusst darauf hinweisen. Es ist nicht anzunehmen, dass das Prinzip der bisher unterbrechender Werbung in digitalen Audiomedien (bspw. Werbung in Spotify), auch auf Sprachassistenten erfolgreich bestehen kann &lt;em&gt;(JWT, 2017, 30–31).&lt;sup id=&quot;fnref-:lit:four&quot;&gt;&lt;a href=&quot;#fn-:lit:four&quot; class=&quot;footnote-ref&quot;&gt;:lit:four&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt; Vielmehr fliesst der Hinweis auf ein Bedürfnis in die alltägliche Hilfestellung eines Sprachassistenten und einer Voice-App ein &lt;em&gt;(Hörner, 2019, 70).&lt;sup id=&quot;fnref-:lit:three&quot;&gt;&lt;a href=&quot;#fn-:lit:three&quot; class=&quot;footnote-ref&quot;&gt;:lit:three&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt; Zum Beispiel kann der Kunde sein Guthaben auf der Mitgliedskarte von Starbucks einsehen (Hilfestellung). Die &lt;a href=&quot;https://www.amazon.com/Starbucks-Coffee-Co-Reorder/dp/B01F9RRL46&quot;&gt;Starbucks Voice-App&lt;/a&gt; ermöglicht diesen Service ohne eine Website oder eine App öffnen zu müssen. Der Befehl «Alexa, frage Starbucks nach dem Guthaben meiner Mitgliedschaft» ersetzt mehrere Teilschritte, die ursprünglich notwendig waren, um an diese Informationen zu gelangen. Durch diesen vereinfachten Zugriff (Mehrwert) auf die Benutzerdaten, beschäftigen sich die Kundinnen und Kunden mit der Marke und werden viel eher auch gleich noch eine Bestellung platzieren &lt;em&gt;(Duncan, 2019).&lt;sup id=&quot;fnref-:qu:three&quot;&gt;&lt;a href=&quot;#fn-:qu:three&quot; class=&quot;footnote-ref&quot;&gt;:qu:three&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt; &lt;/p&gt;
 &lt;h3&gt;5.2 Stufe 2 und 3: Informationssuche und Bewerten der Alternativen mit Sprachassistenten&lt;/h3&gt;
-&lt;p&gt;In diesem Szenario befinden sich die Kundinnen und Kunden zu Hause und werden sich in Kürze auf den Weg zur Arbeit machen. Sie besitzten eine Mitgliedschaft bei Starbucks und haben zusätzlich die Voice-App des Kaffee Herstellers zu Hause auf Amazon Echo (Alexa) installiert. Für die NutzerInnen werden die Auswirkung von Sprachassistenten auf die Customer Journey vor allem in den Phasen der Informationssuche sowie der Bewertung der Alternativen besonders spürbar. Haben sich diese bewusst für die Starbucks-App auf ihrem Smartphone sowie der Starbucks-Voice App für Echo (Alexa) entschieden, so ist die Informationssuche und das Bewerten der Alternativen nicht mehr notwendig &lt;em&gt;(Duncan, 2019).&lt;sup id=&quot;fnref-:qu:three&quot;&gt;&lt;a href=&quot;#fn-:qu:three&quot; class=&quot;footnote-ref&quot;&gt;:qu:three&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt; Mussten die Kundinnen und Kunden früher die Resultate filtern, die Alternativen miteinander vergleichen und sich zwischen diesen entscheiden, ist die ausgewählte Marke (Starbucks) nun zu einem festen Bestandteil ihrer täglichen Routine geworden &lt;em&gt;(Hörner, 2019, 75–76).&lt;sup id=&quot;fnref-:lit:three&quot;&gt;&lt;a href=&quot;#fn-:lit:three&quot; class=&quot;footnote-ref&quot;&gt;:lit:three&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;In diesem Szenario befinden sich die Kundinnen und Kunden zu Hause und werden sich in Kürze auf den Weg zur Arbeit machen. Sie besitzten eine Mitgliedschaft bei Starbucks und haben zusätzlich die &lt;a href=&quot;https://www.amazon.com/Starbucks-Coffee-Co-Reorder/dp/B01F9RRL46&quot;&gt;Voice-App&lt;/a&gt; des Kaffee Herstellers zu Hause auf Amazon Echo (Alexa) installiert. Für die NutzerInnen werden die Auswirkung von Sprachassistenten auf die Customer Journey vor allem in den Phasen der Informationssuche sowie der Bewertung der Alternativen besonders spürbar. Haben sich diese bewusst für die Starbucks-App auf ihrem Smartphone sowie der Starbucks-Voice App für Echo (Alexa) entschieden, so ist die Informationssuche und das Bewerten der Alternativen nicht mehr notwendig &lt;em&gt;(Duncan, 2019).&lt;sup id=&quot;fnref-:qu:three&quot;&gt;&lt;a href=&quot;#fn-:qu:three&quot; class=&quot;footnote-ref&quot;&gt;:qu:three&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt; Mussten die Kundinnen und Kunden früher die Resultate filtern, die Alternativen miteinander vergleichen und sich zwischen diesen entscheiden, ist die ausgewählte Marke (Starbucks) nun zu einem festen Bestandteil ihrer täglichen Routine geworden &lt;em&gt;(Hörner, 2019, 75–76).&lt;sup id=&quot;fnref-:lit:three&quot;&gt;&lt;a href=&quot;#fn-:lit:three&quot; class=&quot;footnote-ref&quot;&gt;:lit:three&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h3&gt;5.3 Stufe 4: Kaufentscheidung mit Sprachassistenten&lt;/h3&gt;
 &lt;p&gt;Durch die Steigerung der Effizienz mittels Sprachassistenten und das Integrieren der Voice-App in den Alltag der NutzerInnen, überspringen diese die zweite und die dritte Phasen in der Customer Journey nach Kotler. Vielmehr gehen diese direkt in die vierte Stufe über, nämlich die der Kaufentscheidung. Hierbei geht es wie auch in der herkömmlichen Customer Journey darum, wie einfach oder komfortabel ein Produkt gekauft werden kann &lt;em&gt;(Hörner, 2019, 79–80).&lt;sup id=&quot;fnref-:lit:three&quot;&gt;&lt;a href=&quot;#fn-:lit:three&quot; class=&quot;footnote-ref&quot;&gt;:lit:three&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h4&gt;5.3.1 Aktivierung der Voice-App&lt;/h4&gt;
@@ -3913,7 +3913,7 @@ to-heading: 2&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Sprachassistenten bringen viele Neuerungen in unseren Alltag ein und ermöglichen eine neue Art der Interaktion zwischen der Marke und deren Kundinnen und Kunden. Durch Dialoge und Hilfestellungen integriert sich die Marke stärker in deren Alltag als beispielsweise herkömmliche Apps für das Smartphone. Für die Kundinnen und Kunden wird der Gebrauch einer Voice-App selbstverständlich. Auch können komplexe Aufgaben, für die früher mehrere Teilschritte benötigt wurden, durch eine einzige Anfrage an den Sprachassistenten erledigt werden &lt;em&gt;(Held, 2018).&lt;sup id=&quot;fnref-:qu:one&quot;&gt;&lt;a href=&quot;#fn-:qu:one&quot; class=&quot;footnote-ref&quot;&gt;:qu:one&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Trotz grosser Fortschritte in den letzten Jahren steckt die Entwicklung von Sprachassistenten allerdings noch in den Kinderschuhen. Daher ist es nachvollziehbar, dass Sprachassistenten in der Customer Journey zurzeit abgesehen von den vielen Vorteilen, auch Nachteile mit sich bringen. In den folgenden Unterkapiteln werden die Vor- und Nachteile von Sprachassistenten in der Customer Journey jeweils aus der Sicht von Kundinnen und Kunden sowie Anbieterinnen und Anbieter aufgeführt.&lt;/p&gt;
 &lt;h3&gt;6.1 Nachteile der Sprachassistenten in der Customer Journey aus Sicht der Anbieterinnen und Anbieter&lt;/h3&gt;
-&lt;p&gt;Einer dieser Nachteile kann das Fehlen eines Bildschirms bei gewissen Produkten sein. Eine Umfrage von JWT ergab, dass sich das Einkaufen über Sprachassistenten aufgrund des fehlenden Bildschirms eher auf alltägliche Einkäufe wie Lebensmitteln oder Gegenstände geringen Werts konzentriert &lt;em&gt;(JWT, 2017, 10).&lt;sup id=&quot;fnref-:lit:four&quot;&gt;&lt;a href=&quot;#fn-:lit:four&quot; class=&quot;footnote-ref&quot;&gt;:lit:four&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt; Dies kann gewisse Anbieterinnen und Anbieter davon abschrecken, sich überhaupt mit Sprachassistenten zu beschäftigen. Beispielsweise können DetailhändlerInnen, deren Produktsortiment eine extrem breite Preisspanne aufweist, niemals alle Produkte über eine Voice-App anbieten. Vielleicht könnte sich ein bestimmter Teil des Sortiments auf dem Kanal Voice-App sehr gut verkaufen. Dennoch würden die Kundinnen und Kunden die teureren Produkte schlichtweg nicht über diesen Kanal erwerben. Es stellt sich für Unternehmen hier die Frage, ob es sich überhaupt lohnt, dem Trend von Sprachassistenten nachzugehen oder ob die Ressourcen besser in den bisherigen Onlineauftritt investiert werden sollten.&lt;/p&gt;
+&lt;p&gt;Einer dieser Nachteile kann das Fehlen eines Bildschirms bei gewissen Produkten sein. Eine Umfrage von &lt;a href=&quot;https://www.jwt.com/de/&quot;&gt;JWT&lt;/a&gt; ergab, dass sich das Einkaufen über Sprachassistenten aufgrund des fehlenden Bildschirms eher auf alltägliche Einkäufe wie Lebensmitteln oder Gegenstände geringen Werts konzentriert &lt;em&gt;(JWT, 2017, 10).&lt;sup id=&quot;fnref-:lit:four&quot;&gt;&lt;a href=&quot;#fn-:lit:four&quot; class=&quot;footnote-ref&quot;&gt;:lit:four&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt; Dies kann gewisse Anbieterinnen und Anbieter davon abschrecken, sich überhaupt mit Sprachassistenten zu beschäftigen. Beispielsweise können DetailhändlerInnen, deren Produktsortiment eine extrem breite Preisspanne aufweist, niemals alle Produkte über eine Voice-App anbieten. Vielleicht könnte sich ein bestimmter Teil des Sortiments auf dem Kanal Voice-App sehr gut verkaufen. Dennoch würden die Kundinnen und Kunden die teureren Produkte schlichtweg nicht über diesen Kanal erwerben. Es stellt sich für Unternehmen hier die Frage, ob es sich überhaupt lohnt, dem Trend von Sprachassistenten nachzugehen oder ob die Ressourcen besser in den bisherigen Onlineauftritt investiert werden sollten.&lt;/p&gt;
 &lt;p&gt;Zusätzlich wird es für Unternehmen zukünftig von grosser Bedeutung sein, eine enge Beziehung mit Google, Apple und Amazon zu pflegen, da diese Anbieterinnen und Anbieter die entscheidenden Faktoren (sog. Gatekeeper) in den Phasen der Problemerkennung und Informationssuche der Customer Journey mit Sprachassistenten sein werden. Dies kann für gewisse Unternehmen ein Nachteil sein, da nicht alle über dieselben Ressourcen verfügen, um sich in den Spitzenpositionen des Marktes platzieren zu können &lt;em&gt;(JWT, 2017, 30–31).&lt;sup id=&quot;fnref-:lit:four&quot;&gt;&lt;a href=&quot;#fn-:lit:four&quot; class=&quot;footnote-ref&quot;&gt;:lit:four&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h3&gt;6.2 Nachteile der Sprachassistenten in der Customer Journey aus Sicht der Kundinnen und Kunden&lt;/h3&gt;
 &lt;p&gt;Gatekeeper spielen auch für die Kundinnen und Kunden eine wichtige Rolle. Es ist anzunehmen, dass es einzelnen Voice-App Anbieterinnen und Anbieter gelingen wird, sich Spitzenpositionen zu sichern (bspw. Uber oder Starbucks) und diese fast schon Monopolstellungen im Bereich der Bedienung mittels Sprachassistenten geniessen werden. Allerdings macht dies das Angebot auf Sprachassistenten sehr einseitig. Die meisten NutzerInnen wollen aber nicht nur einseitige Angebote beziehen können, die Anfrage an den Sprachassistenten oder an eine Voice-App sollte vielmehr die optimalen Optionen aufzeigen und den Kundinnen und Kunden somit als Assistenten unterstützen &lt;em&gt;(JWT, 2017, 30–31).&lt;sup id=&quot;fnref-:lit:four&quot;&gt;&lt;a href=&quot;#fn-:lit:four&quot; class=&quot;footnote-ref&quot;&gt;:lit:four&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
@@ -3922,8 +3922,8 @@ to-heading: 2&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h3&gt;6.3 Vorteile der Sprachassistenten in der Customer Journey aus Sicht der Anbieterinnen und Anbieter&lt;/h3&gt;
 &lt;p&gt;Trotz der bisher aufgegriffener Bedenken gewinnen Sprachassistenten zunehmend an Beliebtheit – das nicht ohne Grund. Sprachassistenten bieten den Anbieterinnen und Anbietern einen Mehrwert, somit ergeben sich durch die neu geschaffenen Kontaktpunkte mittels Sprachassistenten und Voice-Apps neue Möglichkeiten mit Kundinnen und Kunden in Kontakt zu treten. Durch personalisierte Dialoge können Bedürfnisse bei ihnen einfacher geweckt werden. Zusätzlich kann sich eine Anbieterin oder ein Anbieter einer Voice-App in deren Alltag integrieren. Bedingung hierfür ist ein offensichtlicher Mehrwert für die NutzerInnen. Dadurch werden Massnahmen zur Bindung von Kundinnen und Kunden subtiler und im Vergleich zu herkömmlichen Massnahmen effektiver &lt;em&gt;(Held, 2018).&lt;sup id=&quot;fnref-:qu:one&quot;&gt;&lt;a href=&quot;#fn-:qu:one&quot; class=&quot;footnote-ref&quot;&gt;:qu:one&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h3&gt;6.4 Vorteile der Sprachassistenten in der Customer Journey aus Sicht der der Kundinnen und Kunden&lt;/h3&gt;
-&lt;p&gt;Nicht nur für Anbieterinnen und Anbieter, sondern auch für Kundinnen und Kunden ergeben sich durch die neu geschaffenen Kontaktpunkte in der Customer Journey mehrere Vorteile. Durch Sprachassistenten wird die Bedienung einfacher und effizienter. Dies bestätigen laut einer einer Umfrage von JWT &lt;em&gt;(JWT, 2017, 14–15)&lt;sup id=&quot;fnref-:lit:four&quot;&gt;&lt;a href=&quot;#fn-:lit:four&quot; class=&quot;footnote-ref&quot;&gt;:lit:four&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt; auch 76 % der befragten NutzerInnen. Durch die Sprache wird die Bedienung und der Prozess des Einkaufens natürlicher, einfacher und schneller (s. 1.2.1 Sprache als natürlichste Eingabe) &lt;em&gt;(JWT, 2017, 14–15)&lt;sup id=&quot;fnref-:lit:four&quot;&gt;&lt;a href=&quot;#fn-:lit:four&quot; class=&quot;footnote-ref&quot;&gt;:lit:four&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;, was wiederum die Effizienz dieser Vorgänge steigert. &lt;/p&gt;
-&lt;p&gt;Wie im obigen Fallbeispiel verdeutlicht wurde, ist Effizienz einer der Hauptgründe für die Nutzung von Sprachassistenten. Sinnbildlich dafür steht die im Fallbeispiel gezeigte Grafik (Abb.6). Komplexe Abläufe, die früher auf dem Computer oder dem Smartphone mehrere Teilschritte benötigten, werden durch Dialoge und Personalisierung auf wenige Anfragen ohne Bildschirm oder Device reduziert &lt;em&gt;(Held, 2018).&lt;sup id=&quot;fnref-:qu:one&quot;&gt;&lt;a href=&quot;#fn-:qu:one&quot; class=&quot;footnote-ref&quot;&gt;:qu:one&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Nicht nur für Anbieterinnen und Anbieter, sondern auch für Kundinnen und Kunden ergeben sich durch die neu geschaffenen Kontaktpunkte in der Customer Journey mehrere Vorteile. Durch Sprachassistenten wird die Bedienung einfacher und effizienter. Dies bestätigen laut einer einer Umfrage von JWT &lt;em&gt;(JWT, 2017, 14–15)&lt;sup id=&quot;fnref-:lit:four&quot;&gt;&lt;a href=&quot;#fn-:lit:four&quot; class=&quot;footnote-ref&quot;&gt;:lit:four&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt; auch 76 % der befragten NutzerInnen. Durch die Sprache wird die Bedienung und der Prozess des Einkaufens natürlicher, einfacher und schneller &lt;a href=&quot;#20-sprache-als-interaktion-mit-dem-computer&quot;&gt;(Siehe auch: 2.0 Sprache als Interaktion mit dem Computer)&lt;/a&gt; &lt;em&gt;(JWT, 2017, 14–15)&lt;sup id=&quot;fnref-:lit:four&quot;&gt;&lt;a href=&quot;#fn-:lit:four&quot; class=&quot;footnote-ref&quot;&gt;:lit:four&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;, was wiederum die Effizienz dieser Vorgänge steigert. &lt;/p&gt;
+&lt;p&gt;Wie im obigen Fallbeispiel verdeutlicht wurde, ist Effizienz einer der Hauptgründe für die Nutzung von Sprachassistenten. Sinnbildlich dafür steht die im Fallbeispiel gezeigte Grafik&lt;sup id=&quot;fnref-:abb:six&quot;&gt;&lt;a href=&quot;#fn-:abb:six&quot; class=&quot;footnote-ref&quot;&gt;:abb:six&lt;/a&gt;&lt;/sup&gt;. Komplexe Abläufe, die früher auf dem Computer oder dem Smartphone mehrere Teilschritte benötigten, werden durch Dialoge und Personalisierung auf wenige Anfragen ohne Bildschirm oder Device reduziert &lt;em&gt;(Held, 2018).&lt;sup id=&quot;fnref-:qu:one&quot;&gt;&lt;a href=&quot;#fn-:qu:one&quot; class=&quot;footnote-ref&quot;&gt;:qu:one&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Ein Teilaspekt dieser Effizienzsteigerung ist auch die Personalisierung. Sprachassistenten und Voice-Apps merken sich jetzt schon gewisse Parameter aus den Anfragen (oder diese können Hinterlegt werden) und können so in Zukunft noch genauer auf die Kundinnen und Kunden eingehen. Es reicht mittlerweile «Im Lieblingskino» oder «Im Lieblingsrestaurant» zu reservieren. Auch werden bei Anfragen vermehrt Standort, Arbeitsweg oder Wohnsitz in die Antwort miteinbezogen. So wird den Kundinnen und Kunden genau das gezeigt, was sie zu diesem Zeitpunkt interessiert. Die Fähigkeit der Personalisierung spiegelt sich auch in den Bedürfnissen der NutzerInnen wieder. Sprachassistenten sollten sie so verstehen, wie sie ihre Mitmenschen verstehen &lt;em&gt;(JWT, 2017, 26–27).&lt;sup id=&quot;fnref-:lit:four&quot;&gt;&lt;a href=&quot;#fn-:lit:four&quot; class=&quot;footnote-ref&quot;&gt;:lit:four&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h2&gt;7.0 Fazit&lt;/h2&gt;
 &lt;p&gt;Sprachassistenten und Voice-Apps sind immer mehr dazu in der Lage, Menschen zu verstehen und integrieren sich zunehmend in deren Alltag. Dies als einen Hype abzustempeln wäre angesichts der aktuellen Entwicklung falsch. Während Devices mit Bildschirmen in den nächsten Jahren klar das wichtigste Medium bleiben, wird die Akzeptanz für Sprachassistenten weiter zunehmen &lt;em&gt;(Held, 2018).&lt;sup id=&quot;fnref-:qu:one&quot;&gt;&lt;a href=&quot;#fn-:qu:one&quot; class=&quot;footnote-ref&quot;&gt;:qu:one&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt; Der aktuelle technische Stand von Sprachassistenten und Voice-Apps erlaubt es jetzt schon, diese in unterschiedlichste Geräte einzubauen. Die smarten Helfer sind mittlerweile in Smartphones, Autos und Stores zu finden. Unternehmen setzen vermehrt auf das Medium Sprachassistent und können selber ein Teil davon werden. Der Kunde kann anstatt dem Sprachassistenten und Google, eine Marke direkt via Voice-App ansprechen und somit auf eine spezifische Datenbank des Herstellers zugreifen. Dadurch können sich Marken gezielter in die Customer Journey mit Sprachassistenten platzieren &lt;em&gt;(Hörner, 2019, 16).&lt;sup id=&quot;fnref-:lit:three&quot;&gt;&lt;a href=&quot;#fn-:lit:three&quot; class=&quot;footnote-ref&quot;&gt;:lit:three&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
