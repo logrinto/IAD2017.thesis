@@ -100,6 +100,19 @@ Im Jahr 2017 schaltete der Schweizerische Verband für Pferdesport auf seiner We
 
 Seit 2019 wird schliesslich mit EventClearing ein System im Schweizer Pferdesport eingeführt, welches ein bargeldloses Ein- und Auszahlen von Nenn- und Preisgeldern ermöglicht.
 ### Ist-Zustand des Geldflusses
+Bis anhin müssen alle Reiterinnen und Reiter, die an Turnieren teilnehmen, einen Account auf der Plattform des Schweizerischen Verbandes für Pferdesport (SVPS) my.fnch.ch erstellen. Dieser Account beinhaltet ein Konto, welches vom SVPS verwaltet wird, und auf das vorab Geld überwiesen werden muss, um eine Nennung an einem Turnier zu tätigen. Ohne genügenden Saldo ist eine Nennung nicht möglich. Erst wenn das Guthaben via Überweisung aufgestockt ist, kann die Anmeldung für eine Prüfung regulär erfolgen. Sind die einzelnen Prüfungen gemeldet, überweist der SVPS das Geld an die Veranstalter. 
+
+Am Turnier erhalten Reiterinnen und Reiter, welche sich in einer Prüfung klassiert haben (min. 30% der gestarteten Paare), Preise in Form von Bargeld, Gutscheinen oder Naturalien mit vorgegebenen Mindestwerten. Die Mindestwerte des SVPS werden in Abbildung 4 dargestellt:
+
+![Cat](./img/header.jpg)
+*Hello Cat[^:fig:pic-source]*
+
+Die Reiterinnen und Reiter nehmen die Preise analog entgegen und entscheiden individuell, wie sie diese verwenden. Während sowohl Nenn- wie Preisgeld bei Amateuren in der Regel privat bezahlt und kassiert wird, werden die Nenngelder von professionellen Reiterinnen und Reitern hauptsächlich von ihren Arbeitgebenden oder Sponsoren übernommen. Je nach Vertrag geht entsprechend auch das Preisgeld ganz oder teilweise an die Arbeitgebenden oder Sponsoren, was den Geldfluss tendenziell verkompliziert. Die meisten Gelder werden früher oder später erneut für Nennungen benötigt, was es unumgänglich macht, dass diese erneut auf ein Bankkonto einbezahlt werden müssen.
+
+Für eventuelle Übernachtungen des Pferdes an der Veranstaltung müssen die Kosten für Stallungen, Einstreu, Futter, etc. vor der Abreise bar im Sekretariat beglichen werden. Da die Teilnehmenden bei mehrtägigen Turnieren in einer kurzen Zeitspanne abreisen, führt dies oft zu langen Wartezeiten vor dem Sekretariat. 
+
+Im Bereich der Gastronomie und der Aussteller wird der Geldfluss sehr individuell gehandhabt. Üblich ist, dass die Verpflegung an Turnieren zum grössten Teil vom Veranstalter konzipiert und organisiert wird. Dabei wird auch an grösseren Turnieren wie zum Beispiel den jährlichen Pferdesporttagen in Uster welche vom Reitverein Uster durchgeführt werden, die Kasse immer noch in bar betrieben. Kartenzahlungen sowie kontaktlose Bezahlmöglichkeiten werden nicht akzeptiert. Externe Gastronomen und Aussteller bieten individuelle Zahlungslösungen an.
+
 ### Pilotversuche mit EventClearing
 
 ## Umfrage
