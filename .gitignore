@@ -4,3 +4,4 @@
 /sites/example/public
 ci/.ssh/id_rsa
 ci/.ssh/secret.key
+.idea
