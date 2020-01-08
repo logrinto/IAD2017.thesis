@@ -29,7 +29,7 @@ path: "root"
 * [Matthias Koch](/posts/2020/matthias/)
 * [Lars Mäder](/posts/2020/lars/)
 * [Nils Mäder](/posts/2020/nils/)
-* [Tieu Khe Mayer](/posts/2020/tieu/)
+* [Tieu Khe Mayer](/posts/2020/tieukhe/)
 * [Natasha Ruf](/posts/2020/natasha/)
 <!-- * [Wolfgang Schoeck](/posts/2020/wolfgang/) -->
 * [Nicole Watrinet](/posts/2020/nicole/)
