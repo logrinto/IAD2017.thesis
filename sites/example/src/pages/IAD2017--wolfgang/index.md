@@ -9,7 +9,6 @@ path: "/posts/2020/wolfgang/"
 tags:
   - "TagOne"
   - "TagTwo"
-description: "Lead · Einleitung zur Arbeit"
 ---
 
 import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
@@ -57,7 +56,7 @@ Der Begriff Co-Creation wurde von C. K. Prahalad und Venkat Ramaswamy in ihrem 2
 
 Gemäss Prahalad und Ramaswamy (2004) lassen sich vier Hauptaspekte definieren, die bei einer Co-Creation beachtet werden müssen. Das sogenannte DART-Modell (*Dialog, Access, Risk Assessment, Transparency*) besagt, dass in einer Co-Creation zwischen Unternehmen und KundInnen der Fokus hauptsächlich auf den Dialog, den Zugang, die Risikobeurteilung sowie die Transparenz gelegt werden sollte. Dabei definieren Prahalad und Ramaswamy die Begriffe wie folgt.
 
-#### Das DART-Modell
+### Das DART-Modell
 
 **_Dialog:_** Zwischen einer Firma und den KundInnen wird ein enger Austausch gepflegt. Diese sollten sich dabei auf Augenhöhe begegnen, sich intensiv miteinander auseinandersetzen und bereit sein, voneinander zu lernen.
 
@@ -75,7 +74,7 @@ Werden die Punkte aus dem DART-Modell berücksichtigt, gehen Prahalad und Ramasw
 
 Die *Community*-Mitglieder sind dabei in einzelne Kategorien eingeteilt, z. B. Builder, Designer, Visitor etc. und je nach Registrierung können diese auf einer extra darauf ausgerichteten *Online*-Plattform Entwürfe für Fahrzeuge hochladen und so anhand von regelmässig stattfindenden Wettbewerben das Design oder auch das Innenleben von diesen mitgestalten. Dabei legt *Local Motors* viel Wert auf gegenseitiges Feedback, so geben sich die TeilnehmerInnen während des Wettbewerbs wechselseitig Rückmeldungen zu den kontinuierlich auf der Website veröffentlichten Vorschlägen.
 
-Über ein *Crowd-Voting* wird anschliessend in der *Community* darüber abgestimmt, welche Vorschläge in Produktion gehen sollen. Wird ein Fahrzeug von einem Kunden oder einer Kundin  geordert, liefern Partnerfirmen die Komponenten an sogenannte  Microfactorys, kleine Werkhallen, in denen die Autos dann von *Local Motors*-MechanikerInnen sowie den KundInnen selbst zusammengebaut werden[^quote-five].
+Über ein *Crowd-Voting* wird anschliessend in der *Community* darüber abgestimmt, welche Vorschläge in Produktion gehen sollen. Wird ein Fahrzeug von einem Kunden oder einer Kundin  geordert, liefern Partnerfirmen die Komponenten an sogenannte *Microfactories*, kleine Werkhallen, in denen die Autos dann von *Local Motors*-MechanikerInnen sowie den KundInnen selbst zusammengebaut werden[^quote-five].
 
 [^quote-five]: Buhse/Reppesgaard/Lessmann/Henkel/Lange 2011
 
@@ -91,14 +90,14 @@ Die heutigen KonsumentInnen sind gemäss Prahalad und Ramaswamy (2004) informier
 [^quote-eight]: Prahalad/Ramaswamy 2004, 134
 
 ![Co-Creation](./img/co-creation_3.jpg)
-*Co-Creation_1.[^:fig:pic-source-one]*
+*Die Interaktion zwischen KonsumentInnen und Firmen ist auf den Austausch von Produkten reduziert.[^:fig:pic-source-one]*
 
 Dabei verschwindet die klare Trennung innerhalb des Wertschöpfungsprozesses zwischen Produzenten und Konsumenten. Der Futurologe Alvin Toffler hat dafür den Begriff «Prosumenten» geprägt, der benennt, dass KonsumentInnen nun also auch gleichzeitig ProduzentInnen sind[^quote-nine].
 
 [^quote-nine]: Wikipedia 2020, Prosumer
 
 ![Co-Creation](./img/co-creation_2.jpg)
-*Co-Creation_1.[^:fig:pic-source-two]*
+*Der Markt wird als Forum betrachtet, in dem sich KundInnen und Firmen austauschen.[^:fig:pic-source-two]*
 
 Unterstützt durch das Internet verändert sich also die Rolle der KonsumentInnen. Während früher die Interaktion zwischen einer Firma und den KundInnen oftmals nur auf den Austausch von Produkten reduziert war, wird heute ein direkter und kontinuierlicher Dialog geführt. Dadurch werden auch Produktentwicklungen ganz massgeblich beeinflusst. Anschliessend soll erst aus Firmen- und dann aus KundInnenperspektive betrachtet werden, welche Auswirkungen der direkte Austausch auf die Entwicklung von Produkten hat und inwiefern beide Seiten von einer engen Kooperation profitieren können.
 
@@ -129,7 +128,7 @@ Während Innovationen also früher hinter verschlossenen Türen vorangetrieben w
 
 Mittels Feedback, Umfragen, *Crowd-Voting* oder Wettbewerben können diese dabei direkt an einer Produktentwicklung teilhaben. So dient die *Online*-Plattform von *Local Motors* einerseits dazu, um mit den KundInnen in einen Dialog zu treten und dadurch ihre Bedürfnisse und Wünsche besser kennenzulernen, die Website kann aber zudem auch dazu genutzt werden, um Produktinnovationen von Anfang an und in enger Zusammenarbeit mit den KundInnen anhand von Wettbewerben zu entwickeln.
 
-Im Falle von *Local Motors* wird dafür ein Gesamtprojekt in monatliche Einzelwettbewerbe unterteilt, welche über die *Online*-Plattform ausgeschrieben werden. Die Vorschläge der TeilnehmerInnen werden darauf in einer sogenannten Punch-List veröffentlicht und dokumentiert, wobei sich die DesignerInnen gegenseitiges Feedback geben. Mittels *Crowd-Voting* wird dann bestimmt, welches Design am besten ankommt und für das fertige Produkt zur Anwendung kommt[^quote-twelve].
+Im Falle von *Local Motors* wird dafür ein Gesamtprojekt in monatliche Einzelwettbewerbe unterteilt, welche über die *Online*-Plattform ausgeschrieben werden. Die Vorschläge der TeilnehmerInnen werden darauf in einer sogenannten *Punch-List* veröffentlicht und dokumentiert, wobei sich die DesignerInnen gegenseitiges Feedback geben. Mittels *Crowd-Voting* wird dann bestimmt, welches Design am besten ankommt und für das fertige Produkt zur Anwendung kommt[^quote-twelve].
 
 [^quote-twelve]: Buhse/Reppesgaard/Lessmann/Henkel/Lange 2011, 28
 
@@ -212,14 +211,14 @@ Um auf möglichst viele Fähigkeiten zurückgreifen und den KonsumentInnen dadur
 [^quote-tsix]: Prahalad/Ramaswamy 2004, 49
 
 ![Co-Creation](./img/co-creation_1.jpg)
-*Co-Creation_1.[^:fig:pic-source-three]*
+*Das Erlebnis-Umfeld besteht aus einem Netzwerk aus Firmen sowie einer Community.[^:fig:pic-source-three]*
 
 Dies hat Auswirkungen auf die gesamte Lieferkette. Da auf Grund der spezifischen Anforderungen der KundInnen nach jeweils unterschiedlichen Lösungen verlangt wird, läuft diese nicht mehr linear ab, sondern wird je nach individuellen Bedürfnissen immer wieder neu sortiert[^quote-tseven].
 
 [^quote-tseven]: Prahalad/Ramaswamy 2004, 97
 
 ![Co-Creation](./img/co-creation_4.jpg)
-*Co-Creation_1.[^:fig:pic-source-four]*
+*CEine Firma erstellt in Zusammenarbeit mit Lieferanten Produkte und verkauft diese anschliessend an unterschiedliche Kundengruppen. [^:fig:pic-source-four]*
 
 Da alle Standardbauteile der *Local Motors* Fahrzeuge auch in vielen weiteren Autos verbaut sind, können diese nach dem Kauf auch in anderen Werkstätten gewartet werden. Weil zudem die technische Informationen und Baupläne offen liegen und über das Internet heruntergeladen werden können, wird hier über den Einbezug von Partnerfirmen erreicht, dass die KundInnen ein möglichst bequemes Nutzererlebnis haben[^quote-teight].
 
@@ -243,7 +242,7 @@ Auch der Austausch in der *Community* über Plattformen ermöglicht es, für die
 
 Ein Beispiel für einen sinnstiftenden Austausch zwischen Laien und Fachleuten ist die *Local Motors-Community*. Dort besteht für NutzerInnen die Möglichkeit sich über das Netzwerk mit IngenieurInnen und MechanikerInnen auszutauschen und dadurch mehr über ihr spezifisches Interessenfeld zu erfahren.
 
-In der Build it-Phase haben die KonsumentInnen die Möglichkeit, ihr Fahrzeug mit MechanikerInnen von *Local Motors* gemeinsam in einer Microfactory zusammenzubauen. Dabei werden die Basisarbeiten von den *Local Motors* MitarbeiterInnen übernommen und anschliessend wird das komplette Fahrzeug zusammen mit den KundInnen fertig montiert. Dadurch erhalten die KundInnen vertiefte Einblicke in den Fertigungsprozess und haben, dank dem direkten Zugang zu den MechanikerInnen die Möglichkeit, sich Fachwissen anzueignen[^quote-fone].
+In der Build it-Phase haben die KonsumentInnen die Möglichkeit, ihr Fahrzeug mit MechanikerInnen von *Local Motors* gemeinsam in einer *Microfactory* zusammenzubauen. Dabei werden die Basisarbeiten von den *Local Motors* MitarbeiterInnen übernommen und anschliessend wird das komplette Fahrzeug zusammen mit den KundInnen fertig montiert. Dadurch erhalten die KundInnen vertiefte Einblicke in den Fertigungsprozess und haben, dank dem direkten Zugang zu den MechanikerInnen die Möglichkeit, sich Fachwissen anzueignen[^quote-fone].
 
 [^quote-fone]: Buhse / Reppesgaard / Lessmann / Henkel / Lange 2011, 44
 
