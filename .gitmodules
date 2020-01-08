@@ -1,3 +1,6 @@
 [submodule "themes/gatsby-theme-signalwerk"]
 	path = themes/gatsby-theme-signalwerk
 	url = https://github.com/signalwerk/gatsby-theme-signalwerk.git
+[submodule "sites/example/themes/themes/gatsby-theme-signalwerk"]
+	path = sites/example/themes/themes/gatsby-theme-signalwerk
+	url = https://github.com/signalwerk/gatsby-theme-signalwerk.git
