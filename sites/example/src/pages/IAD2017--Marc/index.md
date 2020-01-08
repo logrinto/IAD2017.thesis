@@ -1,7 +1,7 @@
 ---
-title: Marc Thesis
+title: Wie Patreon für eine Belebung von digitalem Content durch mehr kreative Freiheit und finanzielle Unabhängigkeit von Content-Creators sorgt.
 author: "Marc Hatt"
-date: "2022-11-11"
+date: "2020-01-11"
 layout: post
 draft: false
 hideInMenu: false
@@ -9,7 +9,7 @@ path: "/posts/2020/marc/"
 tags:
   - "TagOne"
   - "TagTwo"
-description: "bla bla bla... "
+description: "Wie Patreon für eine Belebung von digitalem Content durch mehr kreative Freiheit und finanzielle Unabhängigkeit von Content-Creators sorgt."
 ---
 
 import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
