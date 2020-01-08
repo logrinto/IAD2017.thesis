@@ -1,5 +1,5 @@
 ---
-title: Kontaktloses Bezahlen – Der Pferdesport auf dem Weg zu modernen Technologien
+title: Der Pferdesport auf dem Weg zu modernen Technologien
 author: "Stephanie Fuchs"
 date: "2022-11-11"
 layout: post
@@ -9,7 +9,7 @@ path: "/posts/2020/steffi/"
 tags:
   - "TagOne"
   - "TagTwo"
-description: "123"
+description: "Relevanz von Benutzerführung und Benutzeroberfläche bezüglich der Nutzung von kontaktlosem Bezahlen."
 ---
 
 import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
@@ -28,7 +28,19 @@ to-heading: 6
 ```
 
 ### Problemstellung
+Im Pferdesport wurden bis 2017 Start- und Logiekosten sowie Gewinngelder in Bargeld oder per Banküberweisung bezahlt. Im Jahr 2019 haben erstmals mehrere Schweizer Pferdesportanlässe den Dienst EventClearing eingeführt, welcher ein einfaches, kontaktloses Abwickeln aller Geldtransaktionen im Rahmen von Pferdesport-Events ermöglicht.
+
+In der vorliegenden Thesis soll daher untersucht werden, wo es im Bezug auf die Nutzung von kontaktlosem Bezahlen im Pferdesport noch Vorbehalte gibt und wieso, beziehungsweise ob und wie diese vom Design abhängig sind. Dabei soll ermittelt werden, worauf die Akzeptanz von kontaktlosen Bezahlsystemen basiert und wohin die Tendenz in der Zukunft gehen soll.
+
 ### Fragestellung
+Entsprechend der Problemstellung sollen im Rahmen der vorliegenden Arbeit die nachfolgenden Forschungsfragen beantwortet werden:
+
+- **Welche Hemmschwellen verhindern die Nutzung von kontaktlosen Bezahlmöglichkeiten?**
+- **Welchen Einfluss hat das Interface auf die Entscheidung für kontaktloses Bezahlen?**
+- **Unter welchen Erfolgsfaktoren kann sich EventClearing im Pferdesport etablieren?**
+
+Diese Fragen werden anhand einer Recherche in der relevanten Fachliteratur sowie einer Umfrage unter Teilnehmerinnen und Teilnehmern von Pferdesportevents beantwortet.
+
 ### Methode und Aufbau
 
 ## Kontaktloses Bezahlen
@@ -150,18 +162,24 @@ In Bezug auf den Einfluss von Benutzerführung und Interface auf die Entscheidun
 Abschliessend gaben die Befragten an, dass sie auch das Wearable Armband von EventClearing benutzen würden um vor Ort kontaktlos zu bezahlen. 55% der ReiterInnen wollen es benutzen, obwohl diese Technologie aktuell nicht sehr weit verbreitet ist. Weitere 25% sind sich noch nicht sicher und 20% möchten auf die Verwendung dieses Wearable verzichten.
 
 ## Fazit
+XXX
 [Kapiteleinleitung, kurz zusammenfassen, was in diesem Kapitel passiert, 1-2 Sätze]
 ### Diskussion der Ergebnisse
+Die Antworten decken sich mit jenen bisheriger Studien und zeigen eine zunehmende Akzeptanz moderner Bezahlstrukturen. 
+Trotz vorhandener Skepsis bei der internationalen Einführung von EventClearing 2016, wird es drei Jahre später von nationalen und internationalen ReiterInnen sehr geschätzt.
+Sicherheitstechnisch gesehen gibt es bei EventClearing sehr wenig Bedenken.
 ### Beantwortung der Fragestellung
 Im Folgenden sollen die beiden einleitend gestellten Forschungsfragen basierend auf den Ergebnissen dieser Arbeit beantwortet werden.
 
-*Welche Hemmschwellen verhindern die Nutzung von kontaktlosen Bezahlmöglichkeiten?*
+**Welche Hemmschwellen verhindern die Nutzung von kontaktlosen Bezahlmöglichkeiten?**
 
 Die Hemmschwelle bei der Nutzung von kontaktlosem Bezahlen wird einerseits durch individuelle Faktoren wie Alter, spezifische Lebensumstände, soziales Bezugsnetz und berufliche Einbettung bestimmt. Andererseits wird sowohl aus der Literatur als auch aus der Umfrage aber ersichtlich, dass die Argumente Sicherheit, Vertrauen und Convenience über alle sozialen Schichten hinweg bei der Entscheidung für oder gegen kontaktloses Bezahlen an erster Stelle stehen. Technologien ohne Interface sind bereits stark verbreitet und bekannt. Die Skepsis, diese zu nutzen, ist daher in den vergangenen Jahren beachtlich gesunken. 
 
+ **Welchen Einfluss hat das Interface auf die Entscheidung für kontaktloses Bezahlen?**
+
 Smartphone-Applikationen mit Interface haben hingegen tendenziell noch eine geringere Akzeptanz. Die Benutzerfreundlichkeit der Benutzeroberflächen wird dabei individuell sehr unterschiedlich wahrgenommen. Da Applikationen mit Interface weder obligatorisch noch autoritär eingeführt werden können, bleibt eine Auseinandersetzung der Benutzenden mit der Materie fakultativ und eine Nichtverwendung möglich.
 
-*Unter welchen Erfolgsfaktoren kann sich EventClearing im Pferdesport etablieren?*
+**Unter welchen Erfolgsfaktoren kann sich EventClearing im Pferdesport etablieren?**
 
 Die Untersuchung zeigt, dass sich die Bezahlstruktur in der Gesellschaft generell sowie auch im Pferdesport in Richtung moderner kontaktloser Zahlungsmittel entwickelt. Um EventClearing und ähnliche Technologien erfolgreich zu etablieren, braucht es jedoch ein gut durchdachtes Konzept. Dabei ist es sinnvoll, auf Systeme und Technologien aufzubauen, welche den Benutzenden bereits bekannt sind, und dieses zu optimieren. Wie die Einführung des kontaktlosen Bezahlens mit Debit- und Kreditkarten können so auch andere Bezahlsysteme autoritär eingeführt werden, ohne dass ein allzu grosses Risiko besteht, dass sie nicht verstanden würden. Das bereits bekannte Verfahren mit seinen einfachen und praktischen Funktionen wirkt vertraut, vermittelt Sicherheit und wird dadurch als angenehm empfunden.
 
