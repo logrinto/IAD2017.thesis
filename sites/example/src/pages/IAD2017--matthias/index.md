@@ -9,7 +9,7 @@ path: "/posts/2020/matthias/"
 tags:
   - "Personalisierte Werbung"
   - "Targeting"
-description: "Lead · Einleitung zur Arbeit"
+description: "Wie es dazu kommt dass personalisierte Online-Werbung so zutreffend ist."
 ---
 
 import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
@@ -25,8 +25,10 @@ Zum Schluss der  Arbeit sollen auch die Chancen, Risiken und Gefahren der person
 ## Inhaltsverzeichnis
 ```toc
 exclude: Inhaltsverzeichnis
+exclude: Mentoring durch
+exclude: Vorgelegt von
 from-heading: 2
-to-heading: 4
+to-heading: 3
 ```
 
 
@@ -47,7 +49,7 @@ der User gerade befindet. Für Facebook ist das auf jeder Webseite möglich, wel
 Die Ad-Exchange-Anbieter stehen zwischen dem Veröffentlicher der Werbung, den sogenannten «Publishern» und den werbetreibenden Firmen,  respektive deren vertretenden Agenturen. Für den Werbetreibenden gibt es Demand-Side-Plattformen (DSP), welche zur Unterstützung zum Finden der passenden Werbeplätze dienen. Die Werbeplätze werden von den Publishern zur Verfügung gestellt und von sogenannten Sell-Side-Plattformen (SSP) verkauft. Anbieter von Demand-Side-Plattformen und Sell-Side-Plattformen betreiben sogenannte Data-Management-Plattformen (DMP), Deren Hauptaufgaben besteht darin, Cookie IDs sowie verschiedene Datensätze miteinander zu verknüpfen und in Zielgruppen aufzuteilen, um damit eine Basis für das Targeting zur Verfügung zu stellen. DMP können zudem zur Messung und Auswertung von Kampagnen genutzt werden[^quote-two]. Aufgrund dieser Auswertungen der DMP können laufende Kampagnen dynamisch angepasst werden. Datengetriebenes und intelligentes Retargeting sind Stichpunkte aus dem sogenannten Programmatic Marketing, welches für dynamisches, automatisiertes und datengetriebenes Marketing mithilfe von Algorithmen steht.
 Zusätzlich zur Auswertung der Daten werden die Daten anhand von Modellen aus der Psychologie interpretiert, wie zum Beispiel das Big-Five-Modell, auch bekannt als das OCEAN Modell. Mit diesem Modell werden verschiedene Persönlichkeitsprofile erstellt. Das Ergebnis einer Auswertung der Daten ist in der Regel eine Filterung, womit Werbetreibende die Zielgruppe für die entsprechende Werbung auswählen können. So wird beispielsweise bei Facebook eine Filterung von bis zu 100 Parametern ausgegeben.
 ![Online Advertising Distribution](./img/Online_Advertising_Distributions_Netzwerk-05.jpg)
-Abb. 1 Eigene Abbildung basierend auf: [Guide to Digital Display Advertising](https://www.youtube.com/watch?v=efHVOWcNJZo) _Online Webung Distributionsnetzwerk_[^:fig:one]
+*Abb. 1, Online Webung Distributionsnetzwerk, Eigene Abbildung basierend auf: [Guide to Digital Display Advertising](https://www.youtube.com/watch?v=efHVOWcNJZo)[^:fig:one]*
 
 ### 2.4 Targeting der Werbung
 Werbetreibende können diverse Werbungen in verschiedenen Varianten aufbereiten, um die Zielgruppe jeweils spezifischer anzusprechen. Mithilfe des Targetings kann die richtige Werbung der entsprechenden Zielgruppe ausgeliefert werden und wird zudem dynamisch bei diversen Publishern veröffentlicht. Werbetreibende können bestimmen, wo, wie oft und wie lange die Zielgruppe die Werbung sehen soll, so dass möglichst kein Streuverlust entsteht. Die Werbetreibenden können anhand diverser «Targeting-Methoden» ihre Zielgruppen eingrenzen. 
@@ -106,7 +108,7 @@ Dafür setzte die CVP eine Technologie der personalisierten Werbung ein, die «S
 
 Die CVP nutzte diese Technologie wie folgt: Wer nach einem Kandidaten oder einer Kandidatin, als Beispiel Damian Müller, bei Google suchte, sah in der Liste der Ergebnisse  als obersten Eintrag, die mit «Anzeige» markierte Webseite der CVP mit dem Titel «Wahlen 2019 | Damian Müller | (FDP / Luzern)» . Auf der Webseite selber wurden dann die Positionen der FDP, also die Partei von Damian Müller, mit den Positionen der CVP verglichen. Die CVP legte «Damian Müller» als ein Keyword fest, weshalb diese Webseite von der CVP in den Google Suchresultaten noch über seiner eigenen Webseite erschien.
 ![Anzeige Beispiel](./img/Fallbeispiel_CVP.jpeg)
-_Beispiel der Anzeige_[^:fig:two]
+*Abb. 2 via Matthias Erni auf [Twitter](https://twitter.com/matthias_erni/status/1173838188558848001)[^:fig:two]*
 
 ### 3.2 Reaktionen und Auswirkungen
 Die Reaktionen auf diese Kampagne waren überwiegend negativ. In kurzer Zeit war der Hashtag «#CVPfail» auf Twitter, der in der Schweiz am häufigsten verwendete Hashtag. Parteipräsident Gerhard Pfister verteidigte die Kampagne damit, dass es sich um eine Partei-Vergleichskampagne handle und kein Kandidat oder keine Kandidatin persönlich angegriffen werde. In den Medien wurde das Vorgehen der CVP als Negativkampagne beschrieben und als unschweizerisch bezeichnet. Zudem bestanden bei diversen Kandidierenden, welche auf einer dieser Webseiten namentlich erwähnt werden, Listenverbindungen. Die sonst eher CVP-kritische Neue Zürcher Zeitung NZZ beschrieb die Kampagne als harmlos[^quote-five] und später sogar als geheime 
@@ -117,7 +119,7 @@ Die CVP war bisher die erste und einzige Partei in der Schweiz, die sich haupts�
 
 ## 4.0 Diskussion
 Für die Personalisierung der Werbung spricht, dass man als Konsument oder Konsumentin Inhalte sehen will, die für den Betrachter und die Betrachterin relevant sind. Daher ist der Konsumierende auch der Personalisierung der Werbung im Internet gegenüber nicht grundsätzlich abgeneigt. 
-Beängstigend ist jedoch die Tatsache, dass User mittels Targeting so individuell angesprochen und damit Bedürfnisse bei den Konsumierenden generiert werden können. Ebenfalls beachtenswert ist, dass Internet User auf ihrem Weg durch das Netz ständig «verfolgt» werden, um weiterhin möglichst viele Daten zu sammeln, welche wiederum verwendet werden, um die Werbung noch besser zu personalisieren. Um das Tracking zu verhindern oder zumindest zu minimieren, ist es wichtig zu wissen, dass diverse Anbieter von Browsern, Online Services oder Drittanbietern einem Möglichkeiten geben, sich vor personalisierter Werbung und Tracking zu schützen. So kann zum Beispiel im Google Chrome Browser eingestellt werden, dass dieser bei Browserzugriff einer Webseite eine «Do Not Track»-Anforderung mitsendet. Weiter können unter: chrome://settings/ Drittanbieter-Cookies blockiert werden, was jedoch zur Folge haben kann, dass einige Webseiten nicht mehr richtig funktionieren. 
+Beängstigend ist jedoch die Tatsache, dass User mittels Targeting so individuell angesprochen und damit Bedürfnisse bei den Konsumierenden generiert werden können. Ebenfalls beachtenswert ist, dass Internet User auf ihrem Weg durch das Netz ständig «verfolgt» werden, um weiterhin möglichst viele Daten zu sammeln, welche wiederum verwendet werden, um die Werbung noch besser zu personalisieren. Um das Tracking zu verhindern oder zumindest zu minimieren, ist es wichtig zu wissen, dass diverse Anbieter von Browsern, Online Services oder Drittanbietern einem Möglichkeiten geben, sich vor personalisierter Werbung und Tracking zu schützen. So kann zum Beispiel im Google Chrome Browser eingestellt werden, dass dieser bei Browserzugriff einer Webseite eine «Do Not Track»-Anforderung mitsendet. Weiter können im Google Chrome Browser unter der URL: chrome://settings/ Drittanbieter-Cookies blockiert werden, was jedoch zur Folge haben kann, dass einige Webseiten nicht mehr richtig funktionieren. 
 
 Zudem muss gesagt sein, dass das Kerngeschäft von Google die Werbung ist und sich Google nicht selber schaden will, deshalb müssen solche Einstellungen nachträglich und individuell eingestellt werden. Andere Browser wie zum Beispiel Firefox, Safari oder der Brave Browser blockieren standardmässig Tracker. Ergänzend existieren noch Drittanbieter wie Ghostery und AdBlockPlus, mit welchen man Tracker und Werbung unterdrücken kann.
 
@@ -129,9 +131,10 @@ Das Schalten von Display-Werbung via Targeting bringt für Marken auch einige Ge
 
 Die Wirtschaft hat das Potential der Daten und deren Auswertung für die Personalisierung schon länger erkannt. In einer aktuellen Umfrage, von Firmen, welche über $195 Millionen Dollar Umsatz im Jahr generieren, sehen fast ein Viertel aller Befragten datengetriebenes Marketing, welches sich auf Individualität fokussiert, als die aufregendste Marketing-Möglichkeit des Jahres 2019[^quote-seven]. Für über 55% der Marketer war es im Jahr 2019 höchste Priorität, Daten besser zu nutzen, um eine bessere Zielgruppensegmentierung zu schaffen[^quote-eight]. Diese Resultate der Umfrage von Adobe geben einen Ausblick darauf, dass es wohl auch in den nächsten Jahren eines der wichtigsten Themen für viele Firmen bleiben wird.
 
-### 5.2 Fazit
-Das Ziel der Werbung war es schon immer, einen Einfluss auf die Betrachtenden zu nehmen und sie dadurch in einer gewissen Art zu beeinflussen. Das Prinzip ist also nichts Neues und existiert schon lange in der Werbung. Durch den Einfluss der Digitalisierung auf die Werbung hat sich also vor allem das Medium verändert. Durch Möglichkeiten des Targetings in der Werbung ist es den Werbetreibenden möglich geworden, die Konsumierenden direkter und persönlicher anzusprechen und zu bewerben. Dadurch können die Werbetreibenden bei den Konsumenten mehr emotionale Reaktionen erzeugen und damit Bedürfnisse zu kreieren und Einfluss auf dessen Kaufverhalten zu nehmen. Oftmals ist es für die Konsumierenden nicht nachvollziehbar, wie es zu der entsprechenden Werbung kam und wird daher oftmals auch nicht weiter hinterfragt. In diesem Fall können Konsumierende von der Werbung ohne deren Wissen manipuliert werden. Solange es im Datenschutzgesetz keine massgebende Änderungen gibt, ist es meiner Meinung nach wichtig, dass man sich des Konzepts der personalisierten Werbung im Internet bewusst ist und sich aktiv damit befasst, um ein Bewusstsein zu erlangen und dementsprechend eigenverantwortlich zu handeln. Die Werbung soll mit einem gesunden Misstrauen konsumiert werden. Schlussendlich liegt die Entscheidung über einen Kauf oder einer politischen Wahl bei jedem Einzelnen.  
+Wie es für die Firmen, auch in den kommenden Jahren, ein Ziel sein wird möglichst viele Daten zu sammeln, werden sich Datenschützer und Datenschützerinnen weiterhin dafür einsetzten den Konsumierenden vor einem Missbrauch seiner Daten zu schützen.
 
+### 5.2 Fazit
+Das Ziel der Werbung war es schon immer, einen Einfluss auf die Betrachtenden zu nehmen und sie dadurch in einer gewissen Art zu beeinflussen. Das Prinzip ist also nichts Neues und existiert schon lange in der Werbung. Durch den Einfluss der Digitalisierung auf die Werbung hat sich also vor allem das Medium verändert. Durch Möglichkeiten des Targetings in der Werbung ist es den Werbetreibenden möglich geworden, die Konsumierenden direkter und persönlicher anzusprechen und zu bewerben. Dadurch können die Werbetreibenden bei den Konsumenten mehr emotionale Reaktionen erzeugen und damit Bedürfnisse kreieren und Einfluss auf dessen Kaufverhalten zu nehmen. Oftmals ist es für die Konsumierenden nicht nachvollziehbar, wie es zu der entsprechenden Werbung kam und wird daher oftmals auch nicht weiter hinterfragt. In diesem Fall können Konsumierende von der Werbung ohne deren Wissen manipuliert werden. Meine Meinung zur personalisierten Werbung ist, dass es sich dabei um etwas gefährliches handelt solange die mehrheit der Menschen sich der Funktionsweise nicht bewusst ist und sich uneingeschränkt der personalisierter Werbung aussetzt. Denn anhand der Targeting Möglichkeiten ist es nicht nur möglich uns eine für uns relevante Werbung zu zeigen, sondern Werbungen die wir überall und immer wieder antreffen sprechen unser Unterbewusstsein an und können Bedürfnisse in uns erwecken. Weiter möchte ich nicht dass jede meiner Bewegungen im Internet aufgezeichnet wird und sich auf mich persönlich zurück verfolgen lässt. Als Massnahme dessen werde ich meinen Standard Browser auf Firefox wechseln und Meldungen wie «Diese Seite verwendet Cookies» nicht länger Akzeptieren soferne das möglich ist. Solange es im Datenschutzgesetz keine massgebende Änderungen gibt, ist es meiner Meinung nach wichtig, dass man sich das Konzept der personalisierten Werbung im Internet bewusst ist und sich aktiv damit befasst, um ein Bewusstsein zu erlangen und dementsprechend eigenverantwortlich zu handeln. Die Werbung soll mit einem gesunden Misstrauen konsumiert werden. Schlussendlich liegt die Entscheidung über einen Kauf oder einer politischen Wahl bei jedem Einzelnen.
 
 <!-- references text-->
 
@@ -140,20 +143,18 @@ Vorname Nachname, [Titel der Seite](https://www.google.com/) (Abrufdatum: dd. 
 Vorname Nachname, Buchtitel, Auflage, Verlag, Erscheinungsort Jahr, erste Seite – letzte Seite.
 -->
 
-[^quote-one]: Geoffrey A. Fowler, The Washington Post, 21. Juni 2019 [Goodbye, Chrome: Google’s Web browser has become spy software](https://www.washingtonpost.com/technology/2019/06/21/google-chrome-has-become-surveillance-software-its-time-switch/)
-[^quote-two]: Siegfried Stepke, e-dialog, 17.09.2015 [Was ist eine DMP (Data Management Platform)?](https://www.e-dialog.ch/blog/webanalyse/was-ist-eine-dmp-data-management-platform/?gclsrc=aw.ds&gclid=Cj0KCQiAxrbwBRCoARIsABEc9shhX7LsaXEGEVAN8lwWhR-fDldkIAiT-93rXkkmw2BV-EGHm_DrtQUaAi-dEALw_wcB)
-[^quote-three]: Siegfried Stepke, e-dialog, 25.01.2016 [Das Online Targeting Kompendium für RTB](https://www.e-dialog.ch/blog/display/das-online-targeting-kompendium-fuer-rtb/)
-[^quote-four]: Google Support, Display & 365 Video Help [Behavioral targeting](https://support.google.com/displayvideo/answer/2879688?hl=en&ref_topic=6103769)
-[^quote-five]: Michael Surber, NZZ, 18.09.2019 [Jetzt provoziert auch mal die CVP – na und?](https://www.nzz.ch/schweiz/eidgenoessische-wahlen-2019/cvp-kampagne-jetzt-provozieren-auch-mal-die-christlichdemokraten-ld.1509464)
-[^quote-six]: Fabian Schäfer, NZZ, 21.10.2019 [Heimliche Gewinnerin der Wahlen ist die CVP – was das für die nächsten vier Jahre bedeutet](https://www.nzz.ch/schweiz/eidgenoessische-wahlen-2019/wahlen-2019-die-cvp-ist-die-heimliche-gewinnerin-der-wahl-ld.1516704)
-[^quote-seven]: Experience Index 2019 Digital Trends, s.17 [ Experience Index, 2019 Digital Trends](https://www.adobe.com/content/dam/acom/uk/modal-offers/2019/DT-Report-2019/Econsultancy-2019-Digital-Trends_UK.pdf)
-[^quote-eight]: Experience Index 2019 Digital Trends, s.18 [ Experience Index, 2019 Digital Trends](https://www.adobe.com/content/dam/acom/uk/modal-offers/2019/DT-Report-2019/Econsultancy-2019-Digital-Trends_UK.pdf)
+[^quote-one]: Geoffrey A. Fowler, [The Washington Post](https://www.washingtonpost.com/technology/2019/06/21/google-chrome-has-become-surveillance-software-its-time-switch/)(21.12.2019)
+[^quote-two]: Siegfried Stepke, [e-dialog.ch](https://www.e-dialog.ch/blog/webanalyse/was-ist-eine-dmp-data-management-platform/?gclsrc=aw.ds&gclid=Cj0KCQiAxrbwBRCoARIsABEc9shhX7LsaXEGEVAN8lwWhR-fDldkIAiT-93rXkkmw2BV-EGHm_DrtQUaAi-dEALw_wcB)(02.01.2020)
+[^quote-three]: Siegfried Stepke, [e-dialog.ch](https://www.e-dialog.ch/blog/display/das-online-targeting-kompendium-fuer-rtb/)(02.01.2020)
+[^quote-four]: Google Support, [Behavioral targeting](https://support.google.com/displayvideo/answer/2879688?hl=en&ref_topic=6103769)(04.01.2020)
+[^quote-five]: Michael Surber, [Neue Zürcher Zeitung](https://www.nzz.ch/schweiz/eidgenoessische-wahlen-2019/cvp-kampagne-jetzt-provozieren-auch-mal-die-christlichdemokraten-ld.1509464)(22.12.2019)
+[^quote-six]: Fabian Schäfer, NZZ, 21.10.2019 [Neue Zürcher Zeitung](https://www.nzz.ch/schweiz/eidgenoessische-wahlen-2019/wahlen-2019-die-cvp-ist-die-heimliche-gewinnerin-der-wahl-ld.1516704)(22.12.2019)
+[^quote-seven]: Experience Index 2019 Digital Trends, 2019, s.17 [ Experience Index, 2019 Digital Trends](https://www.adobe.com/content/dam/acom/uk/modal-offers/2019/DT-Report-2019/Econsultancy-2019-Digital-Trends_UK.pdf)
+[^quote-eight]: Experience Index 2019 Digital Trends, 2019, s.18 [ Experience Index, 2019 Digital Trends](https://www.adobe.com/content/dam/acom/uk/modal-offers/2019/DT-Report-2019/Econsultancy-2019-Digital-Trends_UK.pdf)
 
 <!-- references figures-->
 [^:fig:one]: Abb. 1 Online Werbung Distributionsnetzwerk, Eigene Abbildung basierend auf: [Guide to Digital Display Advertising](https://www.youtube.com/watch?v=efHVOWcNJZo)
-[^:fig:two]: Abb. 2 via Matthias Erni [Twitter Status](https://twitter.com/matthias_erni/status/1173838188558848001)
-
-[^:fig:pic-source]: Abbildung von [lorempixel.com](http://lorempixel.com/800/600/cats/1)
+[^:fig:two]: Abb. 2 via Matthias Erni auf [Twitter](https://twitter.com/matthias_erni/status/1173838188558848001)
 
 
 
