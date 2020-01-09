@@ -38,6 +38,7 @@ yarn build
 <summary>Vorbereiten</summary>
 
 * [Repository klonen](https://github.com/logrinto/IAD2017.thesis)
+* Bitte Submodule initialisieren (Terminal `git submodule update --init`)
 * Branch erstellen (`{{vorname}}`)
 * Beispiel von `sites/example/src/pages/-example/` kopieren
   * Zielpfad: `sites/example/src/pages/IAD2017--{{vorname}}/`
