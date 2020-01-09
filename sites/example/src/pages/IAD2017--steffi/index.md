@@ -120,8 +120,8 @@ Generell kann festgestellt werden, dass alle Technologien an Bekanntheit gewonne
 <Column start="3" end="12">
 
 ![Wahrnehmung der Zahlungsmittel](./img/SPM19-S11.png)
-*Wahrnehmung der Zahlungsmittel[^:fig:5]*
-[^:fig:5]: Abbildung aus [Swiss Payment Monitor 2019](https://medien.swisspaymentmonitor.ch/SPM19_Booklet_de.pdf)
+*Wahrnehmung der Zahlungsmittel[^:fig:4]*
+[^:fig:4]: Abbildung aus [Swiss Payment Monitor 2019](https://medien.swisspaymentmonitor.ch/SPM19_Booklet_de.pdf)
 
 </Column>
 </Grid>
@@ -156,8 +156,8 @@ Das Unternehmen Twint AG stellte mit ihrer gleichnamigen Software als erstes Sch
 <Column start="3" end="12">
 
 ![UBS Twint Benutzeroberflächen](./img/Twint_Kombi.png)
-*UBS Twint Benutzeroberflächen[^:fig:6]*
-[^:fig:6]: Abbildungen von [UBS/Twint](https://www.ubs.com/ch/de/private/digital-banking/private/twint.html)
+*UBS Twint Benutzeroberflächen[^:fig:5]*
+[^:fig:5]: Abbildungen von [UBS/Twint](https://www.ubs.com/ch/de/private/digital-banking/private/twint.html)
 
 </Column>
 </Grid>
@@ -204,8 +204,8 @@ Am Turnier erhalten Reiterinnen und Reiter, welche sich in einer Prüfung klassi
 <Column start="3" end="11">
 
 ![Wert der Bar- und Naturalpreise des SVPS](./img/svpsPreise.svg)
-*Wert der Bar- und Naturalpreise des SVPS[^:fig:7]*
-[^:fig:7]: Tabelle aus [SVPS Springreglement SR 2020](https://www.fnch.ch/de/Disziplinen/Springen/Reglemente.html )
+*Wert der Bar- und Naturalpreise des SVPS[^:fig:6]*
+[^:fig:6]: Tabelle aus [SVPS Springreglement SR 2020](https://www.fnch.ch/de/Disziplinen/Springen/Reglemente.html )
 
 </Column>
 </Grid>
@@ -227,7 +227,7 @@ Mit den Pferdesporttagen Galgenen, dem Summer Masters Maienfeld und der Schweize
 
 > *«Das Preisgeld wird nur über EventClearing per Banktransfer ausgezahlt. Um das Gewinngeld direkt im Anschluss an das Turnier zu erhalten, hinterlegen Sie bei app.eventclearing.lu bitte Ihre Bankverbindung, sofern Sie noch nicht mit EventClearing zusammengearbeitet haben. EventClearing (Matthias Lienhop 076 334 76 08 / matthias@eventclearing.lu) wird für Sie eine Turnierabrechnung inkl. gezahlter Nenn- und gewonnener Preisgelder pro Pferd erstellen. Diese Abrechnung wird Ihnen unaufgefordert an die E-Mail-Adresse zugestellt, welche Sie bei my.fnch.ch und in Ihrem persönlichen Profil bei app.eventclearing.lu hinterlegt. Mit der Nennung akzeptieren die Reiter diese Vorgehensweise zur Auszahlung der Preisgelder.»*[^quote-28]
 
-[^quote-28]:  SVPS. [Ausschreibung Hallenturnier Würenlos 2020](https://info.fnch.ch/#/veranstaltungskalender/ausschreibung/47976) Zugegriffen: 29. Dezember 2019
+[^quote-28]:  Zitat SVPS. [Ausschreibung Hallenturnier Würenlos 2020](https://info.fnch.ch/#/veranstaltungskalender/ausschreibung/47976) Zugegriffen: 29. Dezember 2019
 
 Das gewonnene Preisgeld wird somit von EventClearing direkt auf das SVPS-Konto der hinterlegten Person auf my.fnch.ch vergütet. Dabei besteht die Möglichkeit, die Gelder gegebenenfalls auch direkt an die Arbeitgebenden oder Sponsoren auszahlen zu lassen. Die Preisgelder können somit auch unmittelbar wieder als Nenngelder verwendet werden, wie der Kreislauf des bargeldlosen Zahlungsverkehrs im Pferdesport mit EventClearing in Abbildung 5 aufzeigt: 
 
@@ -235,7 +235,7 @@ Das gewonnene Preisgeld wird somit von EventClearing direkt auf das SVPS-Konto d
 <Column start="3" end="9">
 
 ![Kreislauf EventClearing](./img/Kreislauf-Gelder-EventClearing.svg)
-*Abb. 7 – Kreislauf EventClearing[^:fig:7]*
+*Kreislauf EventClearing[^:fig:7]*
 [^:fig:7]: Abbildung von [EventClearing](https://www.eventclearing.lu/wp-content/uploads/2019/05/Layout-1_Seite-28.pdf)
 
 </Column>
@@ -248,7 +248,7 @@ Laut Philipp Züger, OK-Präsident der Pferdesporttage Galgenen, welche eine Pil
 
 > *«Auf nationaler Ebene sehe ich vor allem für die Organisatoren grosse Vorteile mit EventClearing», erklärt Züger. Gut zwei Dutzend Prüfungen – von Jungpferdeprüfungen bis N&#x202F;155 – werden in Galgenen ausgetragen. Bisher habe er jeweils anhand einer Exceltabelle für jede einzelne Prüfung mühsam ermittelt, wie viele Banknoten er für sämtliche Platzierten benötigte, das Geld entsprechend bei der Bank bestellt, abgeholt und bis zur Verwendung sicher verwahrt: «Zum Glück haben wir dafür einen Firmentresor, denn wir sprechen von einem Preisgeld in der Höhe von 70&#x202F;000 bis 80&#x202F;000 Franken, das wir auszahlen.»*[^quote-30]
 
-[^quote-30]: EventClearing. [Bargeldloses Zahlungssystem im Schweizer Pferdesport. Heute gewonnen, morgen auf dem Konto.](https://www.eventclearing.lu/wp-content/uploads/2019/05/Layout-1_Seite-28.pdf) Zugegriffen: 27. Dezember 2019
+[^quote-30]: Zitat Ausschreibung EventClearing. [Bargeldloses Zahlungssystem im Schweizer Pferdesport. Heute gewonnen, morgen auf dem Konto.](https://www.eventclearing.lu/wp-content/uploads/2019/05/Layout-1_Seite-28.pdf) Zugegriffen: 27. Dezember 2019
 
 ## Umfrage
 
@@ -259,21 +259,57 @@ Um umfassende Informationen zum Thema kontaktloses Bezahlen in Bezug auf Pferdes
 Die Umfrage «Kontaktloses Bezahlen im Pferdesport – Status Quo, Möglichkeiten und Perspektiven» wurde im November 2019 erstellt und war über den Onlinedienst survio.com verfügbar. Der Link zu der Umfrage wurde über WhatsApp an aktive Turnierreiterinnen und Turnierreiter aller Altersgruppen verschickt und war während einer Woche erreichbar. Durch diese Umfrage sollte ersichtlich werden, inwiefern Reiterinnen und Reiter mit kontaktlosem Bezahlen vertraut sind und worauf allfällige Bedenken zurückzuführen sind. In einem nächsten Schritt wurde eruiert, ob sie EventClearing bereits kennen und wie sie dazu stehen. Die Antworten wurden anonym gesammelt und direkt über survio.com ausgewertet.
 
 ### Ergebnisse
-Als erstes wurde nach dem Kenntnisstand bezüglich  kontaktlosem Bezahlen gefragt. 100 % der Befragten gaben an, zu wissen, was mit kontaktlosem Bezahlen gemeint ist und wie dies funktioniert. Auf die Frage, ob sie diese Funktion nutzen, haben 50 % angegeben, schon einmal mit einer Debit- oder Kreditkarte kontaktlos bezahlt zu haben. 40 % der Befragten gaben an, ausserdem bereits kontaktlos mit einer Applikation auf ihrem Smartphone bezahlt zu haben, während 5 % bis anhin nur mittels Bezahlapplikation auf dem Smartphone kontaktlos bezahlt haben. 
+Als erstes wurde nach dem Kenntnisstand bezüglich  kontaktlosem Bezahlen gefragt. 100 % der Befragten gaben an, zu wissen, was mit kontaktlosem Bezahlen gemeint ist und wie dies funktioniert. Auf die Frage, ob sie diese Funktion nutzen, haben 50 % angegeben, schon einmal mit einer Debit- oder Kreditkarte kontaktlos bezahlt zu haben. 40 % der Befragten gaben an, ausserdem bereits kontaktlos mit einer Applikation auf ihrem Smartphone bezahlt zu haben, während 5 % bis anhin nur mittels Bezahlapplikation auf dem Smartphone kontaktlos bezahlt haben (Abbildung 8). 
 
-Genauere Hinweise auf die möglicherweise vorhandene Hemmschwelle zur Nutzung dieser Technologie liefert die Frage, ob es die Befragten Überwindung gekostet hat, kontaktlos zu bezahlen. 80 % der Befragten gaben an, dass sie das kontaktlose Bezahlen keine Überwindung kostete und sie dieses ohne Bedenken ausführten. Der Entscheid, die Technologie zu nutzten, war an die Vermutung geknüpft, dass diese schon funktionieren werde. Dieses Vertrauen in die Technologie spiegelt sich auch in den Details der Antworten wieder. 65 % der Befragten gaben an, bei der Anwendung in keiner Art und Weise sicherheitstechnische Bedenken gehabt zu haben. 15 % hatten Zweifel und machten sich Sorgen um die Sicherheit des Geldes oder der Daten. Nur 5 % der Befragten hatten jedoch gravierende Zweifel, womit für sie die Hemmschwelle zur Nutzung des kontaktlosen Bezahlens zu gross war. 
+Genauere Hinweise auf die möglicherweise vorhandene Hemmschwelle zur Nutzung dieser Technologie liefert die Frage, ob es die Befragten Überwindung gekostet hat, kontaktlos zu bezahlen. 80 % der Befragten gaben an, dass sie das kontaktlose Bezahlen keine Überwindung kostete und sie dieses ohne Bedenken ausführten. Der Entscheid, die Technologie zu nutzten, war an die Vermutung geknüpft, dass diese schon funktionieren werde (Abbildung 9). Dieses Vertrauen in die Technologie spiegelt sich auch in den Details der Antworten wieder. 65 % der Befragten gaben an, bei der Anwendung in keiner Art und Weise sicherheitstechnische Bedenken gehabt zu haben. 15 % hatten Zweifel und machten sich Sorgen um die Sicherheit des Geldes oder der Daten. Nur 5 % der Befragten hatten jedoch gravierende Zweifel, womit für sie die Hemmschwelle zur Nutzung des kontaktlosen Bezahlens zu gross war. 
 
-In Bezug auf den Einfluss von Benutzerführung und Interface auf die Entscheidung für oder gegen kontaktloses Bezahlen gaben 45 % der befragten Reiterinnen und Reiter an, eine Applikation nicht zu verwenden, wenn sie aus ihrer Sicht zu kompliziert ist. Lediglich 15 % meinten, sie würden sich unabhängig von der Komplexität der App ihr annehmen und sie erlernen. 40 % gaben an, eine komplexe Applikation nur dann zu benutzen, wenn sie dazu gezwungen werden beziehungsweise wenn die App ein Bestandteil des ganzen Systems ist und somit  nicht umgangen werden kann.
+<Grid background> 
+<Column start="2" end="7">
 
-55% aller befragten ReiterInnen kennen EventClearing und schätzen es. Weitere 30% haben noch nichts davon gehört, finden die Idee aber sehr gut. Lediglich 15% konnten sich bis anhin nicht damit anfreunden. 
+![Auswertung der Frage «Hast du schon einmal kontaktlos bezahlt?»](./img/Umfrage_2.jpg)
+*Auswertung der Frage «Hast du schon einmal kontaktlos bezahlt?»[^:fig:8]*
+[^:fig:8]: Abbildung von Stephanie Fuchs. Umfrage «Kontaktloses Bezahlen im Pferdesport – Status Quo, Möglichkeiten und Perspektiven»
+
+</Column>
+<Column start="8" end="13">
+
+![Auswertung der Frage «Hat es dich Überwindung gekostet?»](./img/Umfrage_3.jpg)
+*Auswertung der Frage «Hat es dich Überwindung gekostet?»[^:fig:9]*
+[^:fig:9]: ebd.
+
+</Column>
+</Grid>
+
+
+In Bezug auf den Einfluss von Benutzerführung und Interface auf die Entscheidung für oder gegen kontaktloses Bezahlen gaben 45 % der befragten Reiterinnen und Reiter an, eine Applikation nicht zu verwenden, wenn sie aus ihrer Sicht zu kompliziert ist. Lediglich 15 % meinten, sie würden sich unabhängig von der Komplexität der App ihr annehmen und sie erlernen. 40 % gaben an, eine komplexe Applikation nur dann zu benutzen, wenn sie dazu gezwungen werden beziehungsweise wenn die App ein Bestandteil des ganzen Systems ist und somit nicht umgangen werden kann (Abbildung 10).
+
+55% aller befragten ReiterInnen kennen EventClearing und schätzen es. Weitere 30% haben noch nichts davon gehört, finden die Idee aber sehr gut. Lediglich 15% konnten sich bis anhin nicht damit anfreunden (Abbildung 11). 
+
+<Grid background> 
+<Column start="2" end="7">
+
+![Auswertung der Frage «Benutzt du Apps auch wenn sie schwierig zu bedienen sind?»](./img/Umfrage_6.jpg)
+*Auswertung der Frage «Benutzt du Apps auch wenn sie schwierig zu bedienen sind?»[^:fig:10]*
+[^:fig:10]: ebd.
+
+</Column>
+<Column start="8" end="13">
+
+![Auswertung der Frage «Wie findest du EventClearing?»](./img/Umfrage_9.jpg)
+*Auswertung der Frage «Wie findest du EventClearing?»[^:fig:11]*
+[^:fig:11]: ebd.
+
+</Column>
+</Grid>
 
 90% der Befragten vertrauen der Technologie voll und ganz. Niemand hatte bei der Verwendung von EventClearing Bedenken oder würde auf Grund dessen eine solche Veranstaltung in Zukunft meiden. Lediglich 10% möchten sich vor einer Verwendung zuerst besser informieren. 
 
 Abschliessend gaben die Befragten an, dass sie auch das Wearable Armband von EventClearing benutzen würden um vor Ort kontaktlos zu bezahlen. 55% der ReiterInnen wollen es benutzen, obwohl diese Technologie aktuell nicht sehr weit verbreitet ist. Weitere 25% sind sich noch nicht sicher und 20% möchten auf die Verwendung dieses Wearable verzichten.
 
 ## Fazit
-### Diskussion der Ergebnisse
+### Diskussion
 Die Antworten aud der Umfrage «Kontaktloses Bezahlen im Pferdesport – Status Quo, Möglichkeiten und Perspektiven» decken sich mit jenen bisheriger Studien und zeigen eine zunehmende Akzeptanz moderner Bezahlstrukturen. Trotz vorhandener Skepsis bei der internationalen Einführung von EventClearing 2016, wird es drei Jahre später von nationalen und internationalen ReiterInnen sehr geschätzt. Sicherheitstechnisch gibt es bei Benutzenden gegenüber EventClearing sehr wenig Bedenken. 
+
 ### Beantwortung der Fragestellung
 Im Folgenden sollen die beiden einleitend gestellten Forschungsfragen basierend auf den Ergebnissen dieser Arbeit beantwortet werden.
 
