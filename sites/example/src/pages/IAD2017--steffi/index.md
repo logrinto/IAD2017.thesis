@@ -26,6 +26,15 @@ import Grid from 'gatsby-theme-signalwerk/src/components/Grid';
 import Column from 'gatsby-theme-signalwerk/src/components/Column';
 import Box from 'gatsby-theme-signalwerk/src/components/Box';
 
+<Grid>
+<Column start="3" end="13">
+
+![Header](./img/Photo-by-Christiann-Koepke-on-Unsplash.jpg)
+*Kontaktloses Bezahlen via Smartphone[^:fig:1]*
+
+</Column>
+</Grid>
+
 ## Einleitung
 Handel ist seit jeher ein wichtiger Bestandteil unserer Zivilisation. Der ursprüngliche Tauschhandel mit realen Objekten wurde im Laufe der Jahrhunderte mehr und mehr durch symbolische Werte abgelöst. Über erste Münzen, denen ein symbolischer Wert zugewiesen wurde, zu Papiergeld, welches in verschiedenen Währungen und Werten erhältlich ist, bis hin zu Kreditkarten und Smartphone-Applikationen, welche Zahlungen ohne physischen Kontakt ermöglichen, hat sich der Handel mit Waren und Dienstleistungen stetig weiterentwickelt und scheint sich auch weiter dynamisch zu verändern. Die Zahlungskarten-Anbieterin Visa ermöglichte 2007 als erstes Unternehmen das kontaktlose Bezahlen, indem sie einen NFC-Chip in ihre Kreditkarten integrierte. Nachdem diese Bezahlvariante während den darauffolgenden zehn Jahren eher wenig Beachtung fand, kommt sie seit einigen Jahren immer mehr zum Einsatz, auch wenn viele Schweizerinnen und Schweizer eine eher hohe Hemmschwelle haben, diesen Dienst zu nutzen. Nachdem digitale Transaktions-Technologien wie Bluetooth Low Energy (BLE), Near Field Communication (NFC) und Quick Response (QR) Code zunehmend perfektioniert wurden, verbreiten sich diese nun auch in Bereichen, in denen diesbezüglich über längere Zeit eine Stagnierung festzustellen war. So ist beispielsweise im Pferdesport in den letzten Jahren das Bedürfnis aufgekommen, mit der Zeit zu gehen und kontaktloses Bezahlen mit einer Applikation und einem Wearable an Veranstaltungen zu ermöglichen. 
 
@@ -65,11 +74,17 @@ Während Debit- und Kreditkarten ausschliesslich mit einem NFC-Chip auskommen, w
 [^quote-3]: ebd. S. 152, 8.4.2.
 
 #### Quick Response Code
-Der Quick Response Code, kurz QR-Code, ist eine grafische Darstellung von Datenelementen, welche von Geräten mit einer Kamera und entsprechenden Software gescannt und entschlüsselt werden können. Im Zusammenhang mit kontaktlosem Bezahlen handelt es sich dabei beispielsweise um Rechnungsinformationen, welche dadurch an ein Gerät übermittelt werden, womit das manuelle Erfassen entfällt.[^quote-4] Ein Beispiel eines QR-Codes ist in Abbildung 1 dargestellt.
+Der Quick Response Code, kurz QR-Code, ist eine grafische Darstellung von Datenelementen, welche von Geräten mit einer Kamera und entsprechenden Software gescannt und entschlüsselt werden können. Im Zusammenhang mit kontaktlosem Bezahlen handelt es sich dabei beispielsweise um Rechnungsinformationen, welche dadurch an ein Gerät übermittelt werden, womit das manuelle Erfassen entfällt.[^quote-4] Ein Beispiel eines QR-Codes ist in Abbildung 2 dargestellt.
 [^quote-4]: ebd. S. 150. 8.4.2.
 
+<Grid>
+<Column start="3" end="6">
+
 ![Quick Response Code](./img/QRCodeWikipedia.png)
-*Quick Response Code[^:fig:pic-source]*
+*Quick Response Code[^:fig:2]*
+
+</Column>
+</Grid>
 
 Im Gegensatz zur NFC-Technologie ist nahezu jedes Smartphone mit einer entsprechenden App in der Lage, einen QR-Code zu erfassen und zu entschlüsseln, was eine leichte und breit gestreute Nutzung ermöglicht. Ein weiterer Vorteil besteht darin, dass QR-Codes auch analog zur Verfügung gestellt werden können. Gegenwärtig befindet sich auf fast allen Electronic-Cash-(EC)-Terminals ein kleines Display, welches während dem Bezahlvorgang neben dem zu zahlenden Betrag auch einen QR-Code anzeigt, welcher kontaktloses Bezahlen ermöglicht.
 #### Bluetooth Low Energy
@@ -81,12 +96,20 @@ Der Vorteil dieser Technologie ist die Herstellerunabhängigkeit und folge desse
 
 ### Nutzung von kontaktlosem Bezahlen in der Schweiz
 
-Laut dem Bericht Swiss Payment Monitor 2019 ist das kontaktlose Bezahlen aktuell mit einem Bekanntheitsgrad von 90 % in der Bevölkerung auf dem Vormarsch.[^quote-7] Bezüglich der Sicherheit bestehen seitens der Nutzenden allerdings noch immer Bedenken, welche wesentlich grösser sind als bei Barzahlungen und Kartenzahlungen mit physischem Kontakt. Trotzdem gewinnt das kontaktlose Bezahlen an Sympathie und Akzeptanz. Das System beginnt sich langsam aber sicher durchzusetzen, vor allem dank den Debitkarten mit NFC-Chip, welche hauptsächlich bei jüngeren Benutzenden hoch im Kurs stehen. So können sich drei von fünf im Rahmen des Swiss Payment Monitor 2019 befragten Personen vorstellen, in den nächsten Jahren vermehrt kontaktlos zu bezahlen.[^quote-8] In Abbildung 2 findet sich ein Vergleich der Bekanntheit von neueren Zahlungsmitteln zwischen 2018 und 2019:
+Laut dem Bericht Swiss Payment Monitor 2019 ist das kontaktlose Bezahlen aktuell mit einem Bekanntheitsgrad von 90 % in der Bevölkerung auf dem Vormarsch.[^quote-7] Bezüglich der Sicherheit bestehen seitens der Nutzenden allerdings noch immer Bedenken, welche wesentlich grösser sind als bei Barzahlungen und Kartenzahlungen mit physischem Kontakt. Trotzdem gewinnt das kontaktlose Bezahlen an Sympathie und Akzeptanz. Das System beginnt sich langsam aber sicher durchzusetzen, vor allem dank den Debitkarten mit NFC-Chip, welche hauptsächlich bei jüngeren Benutzenden hoch im Kurs stehen. So können sich drei von fünf im Rahmen des Swiss Payment Monitor 2019 befragten Personen vorstellen, in den nächsten Jahren vermehrt kontaktlos zu bezahlen.[^quote-8] In Abbildung 3 findet sich ein Vergleich der Bekanntheit von neueren Zahlungsmitteln zwischen 2018 und 2019:
 [^quote-7]: Vgl. Bettina Gehring, Sandro Graf, Dr. Tobias Trütsch, ZHAW, Universität St. Gallen (2019).  [Swiss Payment Monitor 2019.](https://medien.swisspaymentmonitor.ch/SPM19_Booklet_de.pdf) S.4. Zugegriffen: 27. Dezember 2019 
 [^quote-8]: edb. S. 5.
 
+
+<Grid>
+<Column start="3" end="10">
+
 ![Bekanntheit neuerer Zahlungsinstrumente](./img/SPM19-S10.png)
-*Bekanntheit neuerer Zahlungsinstrumente[^:fig:pic-source]*
+*Bekanntheit neuerer Zahlungsinstrumente[^:fig:4]*
+
+</Column>
+</Grid>
+
 Generell kann festgestellt werden, dass alle Technologien an Bekanntheit gewonnen haben. Mit 99 % am häufigsten verwendet und somit mit einer niedrigen Hemmschwelle verbunden sind Online-Zahlungen mittels Kreditkarte. Im direkten Vergleich sind das jedoch nur drei Prozent mehr als das kontaktlose Bezahlen mittels Kreditkarte, welches mit 96 % an zweiter Stelle folgt. An dritter Stelle liegt mit 94 % das kontaktlose Bezahlen mit Debitkarte.[^quote-9] Verglichen mit physischen Zahlungsmethoden punktet kontaktloses Bezahlen bei den Befragten des Swiss Payment Monitor 2019 hauptsächlich mit der Debit- und Kreditkarte erstens in Bezug auf die einfache Nutzung, zweitens den geringen Zeitaufwand und drittens die zukunftsorientierte Technologie, wie Abbildung 3 darstellt:
 [^quote-9]: Bettina Gehring, Sandro Graf, Dr. Tobias Trütsch, ZHAW, Universität St. Gallen (2019).  [Swiss Payment Monitor 2019.](https://medien.swisspaymentmonitor.ch/SPM19_Booklet_de.pdf) S.10. Zugegriffen: 27. Dezember 2019 
 
@@ -235,18 +258,6 @@ Ein weiterer wichtiger Faktor ist die Reichweite des Systems. Die Smartphone-App
 ### Ausblick
 Technischen Entwicklungen sind in unserer Zeit kaum mehr Grenzen gesetzt, und die Geschwindigkeit der Entwicklung nimmt stetig zu. Die neuere Geschichte des Zahlungsverkehrs ist durch eine stetige Veränderung und Entwicklung geprägt. Man kann auch sagen, dass es eine Geschichte von Versuch und Irrtum ist. Möglichkeiten werden eruiert und ausprobiert. Verfahren, die nicht funktionieren, werden früher oder später von neuen Konzepten abgelöst. Erfolgreiche Methoden werden stets weiterentwickelt. Rückschläge sind ein Bestandteil der Entwicklung und verbessern die jeweiligen Prozesse. Mittels Testing und Usability Walkthroughs kann diesen entgegengewirkt werden und so bleibt zu hoffen, dass Fehlfunktionen oder Unverständlichkeiten in einem frühen Stadium erkannt und behoben werden können. So gesehen scheint es folgerichtig, dass die Zukunft bezüglich einer Weiterentwicklung offen ist und dynamisch verlaufen wird. 
 
-<!-- references text-->
-<!--
-Vorname Nachname, [Titel der Seite](https://www.google.com/) (Abrufdatum: dd. mm. yyyy).
-Vorname Nachname, Buchtitel, Auflage, Verlag, Erscheinungsort Jahr, erste Seite – letzte Seite.
--->
-
-
-
-<!-- references figures-->
-[^:fig:one]: Beispiel für Abbildungsverzeichnis.
-[^:fig:pic-source]: Abbildung von [https://de.wikipedia.org/wiki/QR-Code](https://upload.wikimedia.org/wikipedia/commons/c/cb/QRCodeWikipedia.png)
-
 
 
 ## Einzelnachweise
@@ -254,7 +265,6 @@ Vorname Nachname, Buchtitel, Auflage, Verlag, Erscheinungsort Jahr, erste Seite�
 ```
 
 ## Abbildungsverzeichnis
-(Kann auch bei Einzelnachweis gepflegt werden)
 
 ```references
 # gets repalced with footnotes
@@ -267,7 +277,14 @@ reference-link-suffix: ''
 
 reference-text-suffix: ' – '
 ```
+
+[^:fig:1]: Photo by Christiann Koepke on [Unsplash](https://unsplash.com/photos/2gExZO8zK58)
+[^:fig:2]: Abbildung von [Wikipedia/QR-Code](https://upload.wikimedia.org/wikipedia/commons/c/cb/QRCodeWikipedia.png)
+[^:fig:4]: Abbildung aus [Swiss Payment Monitor 2019.](https://medien.swisspaymentmonitor.ch/SPM19_Booklet_de.pdf)
+
+## Anhang
 <Grid>
+
 
 ---
 
