@@ -1,5 +1,5 @@
 ---
-title: Wie Patreon für eine Belebung von digitalem Content durch mehr kreative Freiheit und finanzielle Unabhängigkeit von Content-Creators sorgt.
+title: Crowdfunding im Gaming-Journalismus-Bereich
 author: "Marc Hatt"
 date: "2020-01-11"
 layout: post
@@ -9,184 +9,347 @@ path: "/posts/2020/marc/"
 tags:
   - "TagOne"
   - "TagTwo"
-description: "Wie Patreon für eine Belebung von digitalem Content durch mehr kreative Freiheit und finanzielle Unabhängigkeit von Content-Creators sorgt."
+description: "Wie Patreon für eine Belebung und Qualitätssteigerung von Gaming-Journalismus durch mehr kreative Freiheit und finanzielle Unabhängigkeit von Gaming-Journalisten sorgt."
 ---
 
 import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
-import Div from 'gatsby-theme-signalwerk/src/components/Div';
-
-
-
-
+import Grid from 'gatsby-theme-signalwerk/src/components/Grid';
+import Column from 'gatsby-theme-signalwerk/src/components/Column';
+import Box from 'gatsby-theme-signalwerk/src/components/Box';
 
 ## Intro
+Grundsätzlich verhält sich das Template wie normaler Markdown-Text. Es gibt aber einige erweiterte Funktionen. Für weitere Infos siehe [Github](https://github.com/signalwerk/gatsby-theme-signalwerk).
 
+## Inhaltsverzeichnis
+```toc
+exclude: Inhaltsverzeichnis
+from-heading: 2
+to-heading: 6
+```
+
+## Inhaltsverzeichnis (Element)
+Das Inhaltsverzeichnis kann über ein `toc` (Table of Contents) Code-Block gesteuert werden.
+* `exclude` – welcher Titel soll nicht im Inhaltsverzeichnis erscheinen
+* `from-heading` – erste Stufe, die ausgegeben werden soll. `2` = `h2`
+* `to-heading` – letzte Stufe, die ausgegeben werden soll. `6` = `h6`
+
+### Eingabe
+
+````md
+```toc
+exclude: Inhaltsverzeichnis
+from-heading: 2
+to-heading: 6
+```
+````
+
+### Darstellung
+siehe oben
+<!--
+```toc
+exclude: Inhaltsverzeichnis
+from-heading: 2
+to-heading: 6
+``` -->
+
+
+
+## Text
 <Margin>
 
-1 Zoll (Inch) = 25.4 mm  
-1 dpi ≈ 0.39 dpcm  
-1 dpcm = 2.54 dpi  
+### Marginalie
+
+Text Marginalie · Randspalten mit `<Margin></Margin>`-Tags umschliessen.
 
 </Margin>
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. `inline: code;` Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+Text · Normaler Text kann wie in Markdown üblich verfasst werden.
 
 
-## Slapped cozy a that lightheartedly and far
+## Listen
+### Eingabe
 
-The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word "and" and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.
+````md
+* Item A
+* Item B
+* Item C
+````
 
-<div class="wide-grid space pad bg">
-  <div class="col-1to12">
-    <figure>
-      <img src="./img/header.jpg" alt="mobile screen vs. desktop screen" />
-      <figcaption>Wow so miau. Much cute.</figcaption>
-    </figure>
-  </div>
-</div>
+### Darstellung
+* Item A
+* Item B
+* Item C
+
+## Nummerierte Listen
+
+### Eingabe
+
+````md
+1. Item 1
+2. Item 2
+3. Item 3
+````
+
+### Darstellung
+
+1. Item 1
+2. Item 2
+3. Item 3
+
+##  Code
+
+Code kann entweder als Block oder Inline eingegeben werden.
 
 
+### Eingabe
+````md
+Inline `code`
 
+```js
+var kk = "kk";
+```
+````
+### Darstellung
 
-
-
-
-## On deer horse aboard tritely yikes and much
-
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
-
+Inline `code`
 
 ```js
 var kk = "kk";
 ```
 
+## Fussnoten
 
-* This however showed weasel
-* Well uncritical so misled
-  * this is very interesting
-* Goodness much until that fluid owl
+Text mit Fussnoten kann wie in Markdown üblich entweder mit Referenzen gemacht werden:
+
+### Eingabe
+```md
+_«Zitat A»_[^quote-one]
+
+[^quote-one]: ...
+```
+
+oder inline
+```md
+_«Zitat B»_[^hier der Text]
+```
+
+### Darstellung
+_«Zitat A»_[^quote-one]
+_«Zitat B»_[^hier der Text]
+
+
+## Abbildungsverzeichnis
+
+Möchte man die Abbildungen (oder weitere Verzeichnisse) ausserhalb der Fussnoten pflegen, kann man die Fussnoten mit einem Gruppen-Prefix (`:gruppe:`) markieren:
+
+### Eingabe
+```md
+_Bild A_[^:fig:one]
+
+[^:fig:one]: ...
+```
+
+oder inline
+```md
+_Bild B_[^:fig:hier der Text]
+```
+### Darstellung
+
+_Bild A_[^:fig:one]
+_Bild B_[^:fig:hier der Text]
 
 
 
-<Div className="wide-grid space pad">
-<Div className="col-1to6">
+## Zitate
+Absätze mit Zitaten können speziell markiert werden.
+
+### Eingabe
+```md
+> Absatz als Zitat.[^quote-one]
+
+```
+
+### Darstellung
+> Absatz als Zitat.[^quote-one]
+
+
+## Bilder
+Wenn unter einem Bild direkt im Anschluss ein ausgezeichneter Text (`*text*`) steht, erhält dieser Text die Formatierung für Bildunterschriften.
+
+### Eingabe
+```md
+![Cat](./img/header.jpg)
+*Wow so miau. Much cute.[^:fig:pic-source]*
+```
+
+### Darstellung
+![Cat](./img/header.jpg)
+*Wow so miau. Much cute.[^:fig:pic-source]*
+
+
+## Video
+Videos sollten in eine responsive `Box` gepackt werden. Als Ratio kann 16:9, 4:3 oder 3:2 gangegeben werden.
+
+### Eingabe
+```md
+<Box ratio="16:9">
+
+<iframe src="https://player.vimeo.com/video/169809377" frameborder="0"></iframe>
+
+</Box>
+```
+
+### Darstellung
+
+<Box ratio="16-9">
+
+<iframe src="https://player.vimeo.com/video/169809377" frameborder="0"></iframe>
+
+</Box>
+
+
+
+## Grid – volle Breite
+### Eingabe
+
+```md
+<Grid>
+
+![Cat](./img/header.jpg)
+*Hello Cat[^:fig:pic-source]*
+
+</Grid>
+```
+
+### Darstellung
+
+<Grid>
+
+![Cat](./img/header.jpg)
+*Hello Cat[^:fig:pic-source]*
+
+</Grid>
+
+## Grid – volle Breite mit Hintergrund
+
+### Eingabe
+
+```html
+<Grid background>
+
+![Cat](./img/header.jpg)
+*Hello Cat[^:fig:pic-source]*
+
+</Grid>
+```
+
+### Darstellung
+
+
+<Grid background>
+
+![Cat](./img/header.jpg)
+*Hello Cat[^:fig:pic-source]*
+
+</Grid>
+
+
+## Grid – mit Spalten
+
+### Eingabe
+```md
+<Grid>
+<Column start="1" end="7">
 
 ### Cat Column A
-![](./img/header.jpg)
+...
 
-</Div>
-<Div className="col-7to12">
+</Column>
+<Column start="7" end="13">
 
 ### Cat Column B
-![](./img/header.jpg)
+...
 
-</Div>
-</Div>
+</Column>
+</Grid>
+```
 
+### Darstellung
 
-When she reached the first hills of the **Italic Mountains**, she had a last
-view back on the skyline of her hometown _Bookmarksgrove_, the headline of
-[Alphabet Village](http://google.com) and the subline of her own road, the Line
-Lane. Pityful a rethoric question ran over her cheek, then she continued her
-way. On her way she met a copy.
+<Grid>
+<Column start="1" end="7">
 
+### Cat Column A
+![Cat](./img/header.jpg)
+*Hello Cat[^:fig:pic-source]*
 
-<div class="column__text">
-<div class="video">
-<iframe src="https://player.vimeo.com/video/169809377" frameborder="0"></iframe>
-</div>
-</div>
+</Column>
+<Column start="7" end="13">
 
+### Cat Column B
+![Cat](./img/header.jpg)
+*Hello Cat[^:fig:pic-source]*
 
-### Overlaid the jeepers uselessly much excluding
-
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-[Longe and Parole](http://google.com) and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.
+</Column>
+</Grid>
 
 
-<div class="wide-grid space pad">
-  <div class="col-1to12">
-    <figure>
-      <img src="./img/header.jpg" />
-    	<figcaption>Cat</figcaption>
-    </figure>
-  </div>
-</div>
+
+<!-- references text-->
+
+<!--
+Vorname Nachname, [Titel der Seite](https://www.google.com/) (Abrufdatum: dd. mm. yyyy).
+Vorname Nachname, Buchtitel, Auflage, Verlag, Erscheinungsort Jahr, erste Seite – letzte Seite.
+-->
+
+[^quote-one]: Beispiel für Fussnote
+
+<!-- references figures-->
+[^:fig:one]: Beispiel für Abbildungsverzeichnis.
+[^:fig:pic-source]: Abbildung von [lorempixel.com](http://lorempixel.com/800/600/cats/1)
 
 
-> Far far away, behind the word mountains, far from the countries Vokalia and
-> Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-> right at the coast of the Semantics, a large language ocean.
 
-It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.
+## Einzelnachweise
+```references
+```
 
-### According a funnily until pre-set or arrogant well cheerful
+## Abbildungsverzeichnis
+(Kann auch bei Einzelnachweis gepflegt werden)
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+```references
+# gets repalced with footnotes
+group-include: fig
 
-1.  So baboon this
-2.  Mounted militant weasel gregariously admonishingly straightly hey
-3.  Dear foresaw hungry and much some overhung
-4.  Rash opossum less because less some amid besides yikes jeepers frenetic
-    impassive fruitlessly shut
+inline-link-prefix: 'Fig. '
 
-When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rethoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.
+reference-link-prefix: '↑ Fig. '
+reference-link-suffix: ''
 
-> The copy warned the Little Blind Text, that where it came from it would have
-> been rewritten a thousand times and everything that was left from its origin
-> would be the word "and" and the Little Blind Text should turn around and
-> return to its own, safe country.
+reference-text-suffix: ' – '
+```
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.
 
-#### Silent delightfully including because before one up barring chameleon
+<Grid>
 
-Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.
+---
 
-Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.
+<Column start="1" end="5">
 
-#### Wherever far wow thus a squirrel raccoon jeez jaguar this from along
+#### Mentoring durch
+Vorname Nachname <br/>
+HFIAD 2017 <br/>
+Schule für Gestaltung Zürich <br/>
+[name@xyz.ch](mailto:name@xyz.ch)
 
-She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rethoric question ran over her cheek, then she continued her way. On her way she
-met a copy.
+</Column>
+
+<Column start="5" end="13">
+
+#### Vorgelegt von
+Vorname Nachname <br/>
+sonstiges <br/>
+[name@xyz.ch](mailto:name@xyz.ch)
+</Column>
+
+</Grid>
