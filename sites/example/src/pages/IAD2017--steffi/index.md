@@ -225,3 +225,36 @@ reference-link-suffix: ''
 
 reference-text-suffix: ' – '
 ```
+<Grid>
+
+---
+
+<Column start="1" end="4">
+
+#### Mentoring durch
+Prof. Alex Hanimann <br/>
+Rehetobelstrasse 31 <br/>
+9000 St. Gallen <br/>
+[alex.hanimann@bluewin.ch](mailto:alex.hanimann@bluewin.ch)
+
+</Column>
+
+<Column start="4" end="7">
+
+#### Vorgelegt von
+Stephanie Fuchs <br/>
+Zelgatt 19 <br/>
+8627 Grüningen <br/>
+[stfffchs@gmail.com](mailto:stfffchs@gmail.com)
+</Column>
+
+<Column start="7" end="13">
+
+#### Lehrgang
+Schule für Gestaltung Zürich <br/>
+Bildungsgang Interaction Design HF | Dipl. Gestalter/-in HF <br/>
+Kommunikationsdesign mit Vertiefung Interaction Design <br/>
+[www.sfgz.ch](https://sfgz.ch/)
+</Column>
+
+</Grid>
