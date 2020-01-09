@@ -75,9 +75,6 @@ Während Debit- und Kreditkarten ausschliesslich mit einem NFC-Chip auskommen, w
 [^quote-3]: ebd. S. 152, 8.4.2.
 
 #### Quick Response Code
-Der Quick Response Code, kurz QR-Code, ist eine grafische Darstellung von Datenelementen, welche von Geräten mit einer Kamera und entsprechenden Software gescannt und entschlüsselt werden können. Im Zusammenhang mit kontaktlosem Bezahlen handelt es sich dabei beispielsweise um Rechnungsinformationen, welche dadurch an ein Gerät übermittelt werden, womit das manuelle Erfassen entfällt.[^quote-4] Ein Beispiel eines QR-Codes ist in Abbildung 2 dargestellt.
-[^quote-4]: ebd. S. 150. 8.4.2.
-
 <Margin>
 
 ![Quick Response Code](./img/QRCodeWikipedia.png)
@@ -86,6 +83,9 @@ Der Quick Response Code, kurz QR-Code, ist eine grafische Darstellung von Datene
 </Margin>
 
 [^:fig:2]: Abbildung von [Wikipedia/QR-Code](https://upload.wikimedia.org/wikipedia/commons/c/cb/QRCodeWikipedia.png)
+
+Der Quick Response Code, kurz QR-Code, ist eine grafische Darstellung von Datenelementen, welche von Geräten mit einer Kamera und entsprechenden Software gescannt und entschlüsselt werden können. Im Zusammenhang mit kontaktlosem Bezahlen handelt es sich dabei beispielsweise um Rechnungsinformationen, welche dadurch an ein Gerät übermittelt werden, womit das manuelle Erfassen entfällt.[^quote-4] Ein Beispiel eines QR-Codes ist in Abbildung 2 dargestellt.
+[^quote-4]: ebd. S. 150. 8.4.2.
 
 Im Gegensatz zur NFC-Technologie ist nahezu jedes Smartphone mit einer entsprechenden App in der Lage, einen QR-Code zu erfassen und zu entschlüsseln, was eine leichte und breit gestreute Nutzung ermöglicht. Ein weiterer Vorteil besteht darin, dass QR-Codes auch analog zur Verfügung gestellt werden können. Gegenwärtig befindet sich auf fast allen Electronic-Cash-(EC)-Terminals ein kleines Display, welches während dem Bezahlvorgang neben dem zu zahlenden Betrag auch einen QR-Code anzeigt, welcher kontaktloses Bezahlen ermöglicht.
 #### Bluetooth Low Energy
@@ -105,9 +105,9 @@ Laut dem Bericht Swiss Payment Monitor 2019 ist das kontaktlose Bezahlen aktuell
 <Grid background>
 <Column start="3" end="12">
 
-![Bekanntheit neuerer Zahlungsinstrumente](./img/SPM19-S10.png)
+![Bekanntheit neuerer Zahlungsinstrumente](./img/SPM19-S10.svg)
 *Bekanntheit neuerer Zahlungsinstrumente[^:fig:3]*
-[^:fig:3]: Abbildung aus [Swiss Payment Monitor 2019.](https://medien.swisspaymentmonitor.ch/SPM19_Booklet_de.pdf)
+[^:fig:3]: Abbildung aus [Swiss Payment Monitor 2019](https://medien.swisspaymentmonitor.ch/SPM19_Booklet_de.pdf)
 
 </Column>
 </Grid>
@@ -119,9 +119,9 @@ Generell kann festgestellt werden, dass alle Technologien an Bekanntheit gewonne
 <Grid background>
 <Column start="3" end="12">
 
-![Wahrnehmung der Zahlungsmittel](./img/SPM19-S11.png)
+![Wahrnehmung der Zahlungsmittel](./img/SPM19-S11.svg)
 *Wahrnehmung der Zahlungsmittel[^:fig:5]*
-[^:fig:5]: Abbildung aus [Swiss Payment Monitor 2019.](https://medien.swisspaymentmonitor.ch/SPM19_Booklet_de.pdf)
+[^:fig:5]: Abbildung aus [Swiss Payment Monitor 2019](https://medien.swisspaymentmonitor.ch/SPM19_Booklet_de.pdf)
 
 </Column>
 </Grid>
@@ -152,8 +152,15 @@ Am meisten verbreitet ist die Verwendung von kontaktlosem Bezahlen mittels Debit
 Das Unternehmen Twint AG stellte mit ihrer gleichnamigen Software als erstes Schweizer Unternehmen eine Applikation zur Verfügung, mit der kontaktlos via Smartphone bezahlt und kassiert werden kann. Die Applikation wird an die eigene Telefonnummer gekoppelt und per Debit- oder Kreditkarte aufgeladen oder direkt mit einem Konto verbunden.[^quote-14]
 [^quote-14]: Stephanie Fuchs (2018). Digital Payment – eine rEvolution im Zahlungsverkehr. S. 2, 2.3.
 
-![Cat](./img/header.jpg)
-*Wow so miau. Much cute.[^:fig:pic-source]*
+<Grid>
+<Column start="3" end="12">
+
+![UBS Twint Benutzeroberflächen](./img/Twint_Kombi.png)
+*UBS Twint Benutzeroberflächen[^:fig:6]*
+[^:fig:6]: Abbildungen von [UBS/Twint](https://www.ubs.com/ch/de/private/digital-banking/private/twint.html)
+
+</Column>
+</Grid>
 
 Die Benutzeroberfläche von Twint ist sehr einfach. Die Benutzerführung ist sauber, strukturiert und klar verständlich dargestellt. Benutzende wählen nach dem Öffnen der Applikation direkt aus, ob sie Geld senden oder anfordern möchten. Die Empfängerin oder der Empfänger wird anhand der Telefonnummer kontaktiert.[^quote-15] Kontaktlos bezahlt werden kann an allen Kassen, welche über ein Terminal verfügen, das QR-Codes anzeigen kann. In allen Coop Filialen sind zudem Beacons installiert, welche das Bezahlen via BLE-Technologie ermöglichen. Die Benutzenden wählen auf dem Interface lediglich, wie sie bezahlen möchten.[^quote-16]
 [^quote-15]: TWINT (2019). [Funktionen.](https://www.twint.ch/privatkunden/funktionen/) Zugegriffen: 29. Dezember 2019
@@ -190,11 +197,18 @@ Seit 2019 wird schliesslich mit EventClearing ein System im Schweizer Pferdespor
 ### Ist-Zustand des Geldflusses
 Bis anhin müssen alle Reiterinnen und Reiter, die an Turnieren teilnehmen, einen Account auf der Plattform des Schweizerischen Verbandes für Pferdesport (SVPS) my.fnch.ch erstellen. Dieser Account beinhaltet ein Konto, welches vom SVPS verwaltet wird, und auf das vorab Geld überwiesen werden muss, um eine Nennung an einem Turnier zu tätigen. Ohne genügenden Saldo ist eine Nennung nicht möglich.[^quote-22] Erst wenn das Guthaben via Überweisung aufgestockt ist, kann die Anmeldung für eine Prüfung regulär erfolgen. Sind die einzelnen Prüfungen gemeldet, überweist der SVPS das Geld an die Veranstalter. 
 [^quote-22]: SVPS. [my.fnch.ch.](https://my.fnch.ch/konto) Zugegriffen: 29. Dezember 2019
-Am Turnier erhalten Reiterinnen und Reiter, welche sich in einer Prüfung klassiert haben (min. 30% der gestarteten Paare), Preise in Form von Bargeld, Gutscheinen oder Naturalien mit vorgegebenen Mindestwerten.[^quote-23] Die Mindestwerte des SVPS werden in Abbildung 4 dargestellt:
+Am Turnier erhalten Reiterinnen und Reiter, welche sich in einer Prüfung klassiert haben (min. 30% der gestarteten Paare), Preise in Form von Bargeld, Gutscheinen oder Naturalien mit vorgegebenen Mindestwerten.[^quote-23] Die Mindestwerte des SVPS werden in Abbildung 6 dargestellt:
 [^quote-23]:  SVPS. [Reglemente, Springreglement SR 2020.](https://www.fnch.ch/de/Disziplinen/Springen/Reglemente.html) S. 9, 3.5. Zugegriffen: 29. Dezember 2019
 
-![Cat](./img/header.jpg)
-*Hello Cat[^:fig:pic-source]*
+<Grid>
+<Column start="3" end="11">
+
+![Wert der Bar- und Naturalpreise des SVPS](./img/svpsPreise.svg)
+*Wert der Bar- und Naturalpreise des SVPS[^:fig:7]*
+[^:fig:7]: Tabelle aus [SVPS Springreglement SR 2020](https://www.fnch.ch/de/Disziplinen/Springen/Reglemente.html )
+
+</Column>
+</Grid>
 
 Die Reiterinnen und Reiter nehmen die Preise analog entgegen und entscheiden individuell, wie sie diese verwenden. Während sowohl Nenn- wie Preisgeld bei Amateuren in der Regel privat bezahlt und kassiert wird, werden die Nenngelder von professionellen Reiterinnen und Reitern hauptsächlich von ihren Arbeitgebenden oder Sponsoren übernommen. Je nach Vertrag geht entsprechend auch das Preisgeld ganz oder teilweise an die Arbeitgebenden oder Sponsoren, was den Geldfluss tendenziell verkompliziert. Die meisten Gelder werden früher oder später erneut für Nennungen benötigt, was es unumgänglich macht, dass diese erneut auf ein Bankkonto einbezahlt werden müssen.
 
@@ -211,21 +225,28 @@ Bei Pferdesportturnieren ist somit bis anhin immer viel Bargeld im Umlauf. Auf d
 Mit den Pferdesporttagen Galgenen, dem Summer Masters Maienfeld und der Schweizer Meisterschaft CH-J-YR-2019 haben sich 2019 drei Veranstaltende für die Nutzung von EventClearing entschieden. Verglichen mit den herkömmlichen Ausschreibungen fällt bei der Ausschreibung dieser Events auf der Webseite des SVPS als erstes ein prominent platzierter Text auf, welcher auf die Nutzung von EventClearing hinweist und den Teilnehmenden mitteilt, dass sie bei einer Nennung dieser Veranstaltung die AGB’s von EventClearing akzeptieren.[^quote-27] Bei der Ausschreibung zum Hallenturnier Würenlos 2020 lautet dieser Text folgendermassen:
 [^quote-27]: EventClearing. [Pilot-Versuche.](https://www.eventclearing.lu/nationale-reitturniere-schweiz/) Zugegriffen: 29. Dezember 2019
 
-*«Das Preisgeld wird nur über EventClearing per Banktransfer ausgezahlt. Um das Gewinngeld direkt im Anschluss an das Turnier zu erhalten, hinterlegen Sie bei app.eventclearing.lu bitte Ihre Bankverbindung, sofern Sie noch nicht mit EventClearing zusammengearbeitet haben. EventClearing (Matthias Lienhop 076 334 76 08 / matthias@eventclearing.lu) wird für Sie eine Turnierabrechnung inkl. gezahlter Nenn- und gewonnener Preisgelder pro Pferd erstellen. Diese Abrechnung wird Ihnen unaufgefordert an die E-Mail-Adresse zugestellt, welche Sie bei my.fnch.ch und in Ihrem persönlichen Profil bei app.eventclearing.lu hinterlegt. Mit der Nennung akzeptieren die Reiter diese Vorgehensweise zur Auszahlung der Preisgelder.»*[^quote-28]
+> *«Das Preisgeld wird nur über EventClearing per Banktransfer ausgezahlt. Um das Gewinngeld direkt im Anschluss an das Turnier zu erhalten, hinterlegen Sie bei app.eventclearing.lu bitte Ihre Bankverbindung, sofern Sie noch nicht mit EventClearing zusammengearbeitet haben. EventClearing (Matthias Lienhop 076 334 76 08 / matthias@eventclearing.lu) wird für Sie eine Turnierabrechnung inkl. gezahlter Nenn- und gewonnener Preisgelder pro Pferd erstellen. Diese Abrechnung wird Ihnen unaufgefordert an die E-Mail-Adresse zugestellt, welche Sie bei my.fnch.ch und in Ihrem persönlichen Profil bei app.eventclearing.lu hinterlegt. Mit der Nennung akzeptieren die Reiter diese Vorgehensweise zur Auszahlung der Preisgelder.»*[^quote-28]
 
 [^quote-28]:  SVPS. [Ausschreibung Hallenturnier Würenlos 2020](https://info.fnch.ch/#/veranstaltungskalender/ausschreibung/47976) Zugegriffen: 29. Dezember 2019
 
 Das gewonnene Preisgeld wird somit von EventClearing direkt auf das SVPS-Konto der hinterlegten Person auf my.fnch.ch vergütet. Dabei besteht die Möglichkeit, die Gelder gegebenenfalls auch direkt an die Arbeitgebenden oder Sponsoren auszahlen zu lassen. Die Preisgelder können somit auch unmittelbar wieder als Nenngelder verwendet werden, wie der Kreislauf des bargeldlosen Zahlungsverkehrs im Pferdesport mit EventClearing in Abbildung 5 aufzeigt: 
 
-![Cat](./img/header.jpg)
-*Hello Cat[^:fig:pic-source]*
+<Grid background>
+<Column start="3" end="9">
+
+![Kreislauf EventClearing](./img/Kreislauf-Gelder-EventClearing.svg)
+*Kreislauf EventClearing[^:fig:8]*
+[^:fig:8]: Abbildung von [EventClearing](https://www.eventclearing.lu/wp-content/uploads/2019/05/Layout-1_Seite-28.pdf)
+
+</Column>
+</Grid>
 
 Im Bereich der Gastronomie und der Aussteller besteht für Teilnehmende mit SVPS-Account die Möglichkeit, mit der EventClearing-App kontaktlos zu bezahlen. Externe Gastronomen oder Aussteller können sich durch EventClearing lizenzieren lassen und erhalten ein eigenes Konto, welches Überweisungen mittels EventClearing ermöglicht.[^quote-29] Weiter wird durch EventClearing ein Wearable-Armband für kontaktloses Bezahlen angeboten. Dieses kann auch von Besucherinnen und Besuchern ohne SVPS-Account an den Kassen mit Bargeld sowie Debit- oder Kreditkarte aufgeladen werden, womit auch diese innerhalb der Veranstaltung kontaktlos bezahlen können. 
 [^quote-29]: EventClearing. [Licensed Parnter](https://www.eventclearing.lu/licence-partner/) Zugegriffen: 29. Dezember 2019
 
 Laut Philipp Züger, OK-Präsident der Pferdesporttage Galgenen, welche eine Pilot-Veranstaltung war, bringt EventClearing auch für die Veranstalterinnen und Veranstalter sehr viele Vorteile.
 
-*«Auf nationaler Ebene sehe ich vor allem für die Organisatoren grosse Vorteile mit ‘EventClearing’», erklärt Züger. Gut zwei Dutzend Prüfungen – von Jungpferdeprüfungen bis N 155 – werden in Galgenen ausgetragen. Bisher habe er jeweils anhand einer Exceltabelle für jede einzelne Prüfung mühsam ermittelt, wie viele Banknoten er für sämtliche Platzierten benötigte, das Geld entsprechend bei der Bank bestellt, abgeholt und bis zur Verwendung sicher verwahrt: «Zum Glück haben wir dafür einen Firmentresor, denn wir sprechen von einem Preisgeld in der Höhe von 70 000 bis 80 000 Franken, das wir auszahlen.»*[^quote-30]
+> *«Auf nationaler Ebene sehe ich vor allem für die Organisatoren grosse Vorteile mit EventClearing», erklärt Züger. Gut zwei Dutzend Prüfungen – von Jungpferdeprüfungen bis N&#x202F;155 – werden in Galgenen ausgetragen. Bisher habe er jeweils anhand einer Exceltabelle für jede einzelne Prüfung mühsam ermittelt, wie viele Banknoten er für sämtliche Platzierten benötigte, das Geld entsprechend bei der Bank bestellt, abgeholt und bis zur Verwendung sicher verwahrt: «Zum Glück haben wir dafür einen Firmentresor, denn wir sprechen von einem Preisgeld in der Höhe von 70&#x202F;000 bis 80&#x202F;000 Franken, das wir auszahlen.»*[^quote-30]
 
 [^quote-30]: EventClearing. [Bargeldloses Zahlungssystem im Schweizer Pferdesport. Heute gewonnen, morgen auf dem Konto.](https://www.eventclearing.lu/wp-content/uploads/2019/05/Layout-1_Seite-28.pdf) Zugegriffen: 27. Dezember 2019
 
