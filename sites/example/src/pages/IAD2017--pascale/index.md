@@ -23,7 +23,7 @@ import Box from 'gatsby-theme-signalwerk/src/components/Box';
 ```toc
 exclude: Inhaltsverzeichnis
 from-heading: 2
-to-heading: 4
+to-heading: 3
 ```
 
 ## 1.0 Einleitung
