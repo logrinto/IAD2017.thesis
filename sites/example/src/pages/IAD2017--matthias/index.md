@@ -75,7 +75,28 @@ Zusätzlich zur Auswertung der Daten werden die Daten anhand von Modellen aus de
 ![Online Advertising Distribution](./img/Online_Advertising_Distributions_Netzwerk-05.jpg)
 Abb. 1 Eigene Abbildung basierend auf: [Guide to Digital Display Advertising](https://www.youtube.com/watch?v=efHVOWcNJZo) _Online Webung Distributionsnetzwerk_[^:fig:one]
 
+### 2.4 Targeting der Werbung
+Werbetreibende können diverse Werbungen in verschiedenen Varianten aufbereiten, um die Zielgruppe jeweils spezifischer anzusprechen. Mithilfe des Targetings kann die richtige Werbung der entsprechenden Zielgruppe ausgeliefert werden und wird zudem dynamisch bei diversen Publishern veröffentlicht. Werbetreibende können bestimmen, wo, wie oft und wie lange die Zielgruppe die Werbung sehen soll, so dass möglichst kein Streuverlust entsteht. Die Werbetreibenden können anhand diverser «Targeting-Methoden» ihre Zielgruppen eingrenzen. 
 
+Zu den Targeting Methoden gehören:
+
+* Geo Targeting: Mit Hilfe von GeoTargeting kann die Zielgruppe nach Standort eingegrenzt werden. Der Standort der Zielgruppe kann über diverse technische Möglichkeiten ziemlich genau ermittelt werden.
+
+
+* Technisches Targeting: User können nach Betriebssystem, Browser, Gerät, Internetgeschwindigkeit und Internetanbieter gefiltert werden.
+
+
+* Content Targeting: Mittels Content Targeting kann Werbung spezifisch auf einigen Seiten platziert werden (Whitelisting) und auf anderen Seiten wird sie bewusst nicht platziert (Blacklisting). Es kann auch so definiert werden, dass die Werbung nicht auf Seiten mit sensitiven Inhalten angezeigt wird. Dafür kann mit Kontext-Targeting, welches anhand von Algorithmen und Keywords erkennt, worum es auf der Publisher-Seite geht, die Werbung im richtigen Kontext publiziert wird, um so noch grössere Wirkung der Werbung zu erreichen. 
+
+
+* Nutzerzentriertes Targeting: Darunter fällt das Demographie Targeting nach Alter und Geschlecht oder auch das Targeting nach bestimmten Eigenschaften der User, welche entweder direkt von diesen gesammelt oder gekauft werden. Einige Anbieter stellen Targeting-Listen zur Verfügung, in welchen User nach Interessen kategorisiert sind [^quote-three].
+
+
+* Behavioral Targeting oder «Audience» wie es Google nennt, lassen sich zum Beispiel anhand bestehender Besucher einer Webseite oder anhand eines bereits eingestellten Targetings Zielgruppen mit ähnlichen Interessen oder Verhaltensmuster ermitteln, welche dann im Targeting zur Zielgruppe hinzugefügt werden können[^quote-four].
+
+
+### 2.5 Auktion & Kosten
+Bemühen sich mehrere Werbetreibende um eine ähnliche Zielgruppe, dann wird anhand einer komplexen Auktion - auch «Real Time Bidding» genannt - entschieden, welche Werbung ausgeliefert wird. In der Auktion spielen diverse Faktoren eine Rolle. Google gibt zum Beispiel nicht bekannt, wie genau entschieden wird, wer die Auktion gewinnt. Bei Google können die Werbetreibenden ein Tagesbudgets festlegen. Anhand dessen und des Targetings wird geschätzt, wie viele Impressionen und Klicks die Werbung generieren könnte. Zudem kann anhand dieser Schätzung multipliziert mit einer Klickrate, der «Click-through Rate» (CTR), der «Costs per Click» (CPC) berechnet werden. Die CPC steht für den Preis eines Klicks auf die geschaltete Werbeanzeige. Ebenfalls kann bei einigen Anbietern für die Anzahl Klicks in «Cost per Mille» ( Kosten per Tausend, CPM) oder für Anzahl Impressionen und Sichtbarkeit bezahlt werden.
 
 
 
@@ -272,8 +293,10 @@ Vorname Nachname, [Titel der Seite](https://www.google.com/) (Abrufdatum: dd. 
 Vorname Nachname, Buchtitel, Auflage, Verlag, Erscheinungsort Jahr, erste Seite – letzte Seite.
 -->
 
-[^quote-one]:Geoffrey A. Fowler, The Washington Post, 21. Juni 2019 [Goodbye, Chrome: Google’s Web browser has become spy software](https://www.washingtonpost.com/technology/2019/06/21/google-chrome-has-become-surveillance-software-its-time-switch/)
-[^quote-two]:Siegfried Stepke, e-dialog, 17.09.2015 [Was ist eine DMP (Data Management Platform)?](https://www.e-dialog.ch/blog/webanalyse/was-ist-eine-dmp-data-management-platform/?gclsrc=aw.ds&gclid=Cj0KCQiAxrbwBRCoARIsABEc9shhX7LsaXEGEVAN8lwWhR-fDldkIAiT-93rXkkmw2BV-EGHm_DrtQUaAi-dEALw_wcB)
+[^quote-one]: Geoffrey A. Fowler, The Washington Post, 21. Juni 2019 [Goodbye, Chrome: Google’s Web browser has become spy software](https://www.washingtonpost.com/technology/2019/06/21/google-chrome-has-become-surveillance-software-its-time-switch/)
+[^quote-two]: Siegfried Stepke, e-dialog, 17.09.2015 [Was ist eine DMP (Data Management Platform)?](https://www.e-dialog.ch/blog/webanalyse/was-ist-eine-dmp-data-management-platform/?gclsrc=aw.ds&gclid=Cj0KCQiAxrbwBRCoARIsABEc9shhX7LsaXEGEVAN8lwWhR-fDldkIAiT-93rXkkmw2BV-EGHm_DrtQUaAi-dEALw_wcB)
+[^quote-three]: Siegfried Stepke, e-dialog, 25.01.2016 [Das Online Targeting Kompendium für RTB](https://www.e-dialog.ch/blog/display/das-online-targeting-kompendium-fuer-rtb/)
+[^quote-four]: Google Support, Display & 365 Video Help [Behavioral targeting](https://support.google.com/displayvideo/answer/2879688?hl=en&ref_topic=6103769)
 
 <!-- references figures-->
 [^:fig:one]: Abb. 1 Online Werbung Distributionsnetzwerk, Eigene Abbildung basierend auf: [Guide to Digital Display Advertising](https://www.youtube.com/watch?v=efHVOWcNJZo)
