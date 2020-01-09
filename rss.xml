@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Thesis IAD2017]]></title><description><![CDATA[A starter blog ...]]></description><link>https://thesis.logrinto.ch</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 09 Jan 2020 01:25:18 GMT</lastBuildDate><item><title><![CDATA[Thesis]]></title><description><![CDATA[Schule für Gestaltung Zürich · 2019 · CC-BY-SA 4.0 Dokumentation Beispiel · Stefan Huber Pascale Anderegg Stephanie Fuchs Severin Kilchhofer…]]></description><link>https://thesis.logrinto.chroot</link><guid isPermaLink="false">https://thesis.logrinto.chroot</guid><content:encoded>&lt;div class=&quot;column__text&quot;&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Thesis IAD2017]]></title><description><![CDATA[A starter blog ...]]></description><link>https://thesis.logrinto.ch</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 09 Jan 2020 01:51:47 GMT</lastBuildDate><item><title><![CDATA[Thesis]]></title><description><![CDATA[Schule für Gestaltung Zürich · 2019 · CC-BY-SA 4.0 Dokumentation Beispiel · Stefan Huber Pascale Anderegg Stephanie Fuchs Marc Hatt Severin…]]></description><link>https://thesis.logrinto.chroot</link><guid isPermaLink="false">https://thesis.logrinto.chroot</guid><content:encoded>&lt;div class=&quot;column__text&quot;&gt;
 &lt;p&gt;&lt;a href=&quot;https://sfgz.ch/&quot;&gt;Schule für Gestaltung Zürich&lt;/a&gt; · 2019 · &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;&lt;/p&gt;
 &lt;br /&gt;
 &lt;br /&gt;
@@ -9,10 +9,8 @@
 &lt;p&gt;&lt;a href=&quot;/posts/2020/pascale/&quot;&gt;Pascale Anderegg&lt;/a&gt;&lt;/p&gt;
 &lt;!-- * [Marius Becker](/posts/2020/marius/) --&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&quot;/posts/2020/steffi/&quot;&gt;Stephanie Fuchs&lt;/a&gt;&lt;/p&gt;
-&lt;!-- * [Marc Hatt](/posts/2020/marc/) --&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/posts/2020/steffi/&quot;&gt;Stephanie Fuchs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/posts/2020/marc/&quot;&gt;Marc Hatt&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;/posts/2020/severin/&quot;&gt;Severin Kilchhofer&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;/posts/2020/matthias/&quot;&gt;Matthias Koch&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;/posts/2020/lars/&quot;&gt;Lars Mäder&lt;/a&gt;&lt;/li&gt;
@@ -583,382 +581,6 @@ reference-text-suffix: &amp;#39; – &amp;#39;&lt;/code&gt;&lt;/pre&gt;&lt;/div&
 &lt;a href=&quot;#fnref-:fig:pic-source&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Quantified Self]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
-import Grid from 'gatsby-theme-signalwerk/src/components/Grid';
-import…]]></description><link>https://thesis.logrinto.ch/posts/2020/tieukhe/</link><guid isPermaLink="false">https://thesis.logrinto.ch/posts/2020/tieukhe/</guid><pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;
-import Grid from &apos;gatsby-theme-signalwerk/src/components/Grid&apos;;
-import Column from &apos;gatsby-theme-signalwerk/src/components/Column&apos;;
-import Box from &apos;gatsby-theme-signalwerk/src/components/Box&apos;;&lt;/p&gt;
-&lt;h2&gt;Intro&lt;/h2&gt;
-&lt;p&gt;Grundsätzlich verhält sich das Template wie normaler Markdown-Text. Es gibt aber einige erweiterte Funktionen. Für weitere Infos siehe &lt;a href=&quot;https://github.com/signalwerk/gatsby-theme-signalwerk&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;
-&lt;h2&gt;Inhaltsverzeichnis&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;toc&quot;&gt;&lt;pre class=&quot;language-toc&quot;&gt;&lt;code class=&quot;language-toc&quot;&gt;exclude: Inhaltsverzeichnis
-from-heading: 2
-to-heading: 6&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;Inhaltsverzeichnis (Element)&lt;/h2&gt;
-&lt;p&gt;Das Inhaltsverzeichnis kann über ein &lt;code class=&quot;language-text&quot;&gt;toc&lt;/code&gt; (Table of Contents) Code-Block gesteuert werden.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;exclude&lt;/code&gt; – welcher Titel soll nicht im Inhaltsverzeichnis erscheinen&lt;/li&gt;
-&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;from-heading&lt;/code&gt; – erste Stufe, die ausgegeben werden soll. &lt;code class=&quot;language-text&quot;&gt;2&lt;/code&gt; = &lt;code class=&quot;language-text&quot;&gt;h2&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;to-heading&lt;/code&gt; – letzte Stufe, die ausgegeben werden soll. &lt;code class=&quot;language-text&quot;&gt;6&lt;/code&gt; = &lt;code class=&quot;language-text&quot;&gt;h6&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token code&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;```&lt;/span&gt;&lt;span class=&quot;token code-language&quot;&gt;toc&lt;/span&gt;
-&lt;span class=&quot;token code-block language-toc&quot;&gt;exclude: Inhaltsverzeichnis
-from-heading: 2
-to-heading: 6&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;```&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;p&gt;siehe oben&lt;/p&gt;
-&lt;!--
-```toc
-exclude: Inhaltsverzeichnis
-from-heading: 2
-to-heading: 6
-``` --&gt;
-&lt;h2&gt;Text&lt;/h2&gt;
-&lt;Margin&gt;
-&lt;h3&gt;Marginalie&lt;/h3&gt;
-&lt;p&gt;Text Marginalie · Randspalten mit &lt;code class=&quot;language-text&quot;&gt;&amp;lt;Margin&amp;gt;&amp;lt;/Margin&amp;gt;&lt;/code&gt;-Tags umschliessen.&lt;/p&gt;
-&lt;/Margin&gt;
-&lt;p&gt;Text · Normaler Text kann wie in Markdown üblich verfasst werden.&lt;/p&gt;
-&lt;h2&gt;Listen&lt;/h2&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Item A
-&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Item B
-&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Item C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Item A&lt;/li&gt;
-&lt;li&gt;Item B&lt;/li&gt;
-&lt;li&gt;Item C&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Nummerierte Listen&lt;/h2&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; Item 1
-&lt;span class=&quot;token list punctuation&quot;&gt;2.&lt;/span&gt; Item 2
-&lt;span class=&quot;token list punctuation&quot;&gt;3.&lt;/span&gt; Item 3&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;Code&lt;/h2&gt;
-&lt;p&gt;Code kann entweder als Block oder Inline eingegeben werden.&lt;/p&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;Inline &lt;span class=&quot;token code keyword&quot;&gt;`code`&lt;/span&gt;
-
-&lt;span class=&quot;token code&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;```&lt;/span&gt;&lt;span class=&quot;token code-language&quot;&gt;js&lt;/span&gt;
-&lt;span class=&quot;token code-block language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; kk &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;kk&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;```&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;p&gt;Inline &lt;code class=&quot;language-text&quot;&gt;code&lt;/code&gt;&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; kk &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;kk&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;Fussnoten&lt;/h2&gt;
-&lt;p&gt;Text mit Fussnoten kann wie in Markdown üblich entweder mit Referenzen gemacht werden:&lt;/p&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;«Zitat A»&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;/span&gt;[^quote-one]
-
-&lt;span class=&quot;token url-reference url&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;^quote-one&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; ...&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;oder inline&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;«Zitat B»&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;/span&gt;[^hier der Text]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;«Zitat A»&lt;/em&gt;&lt;sup id=&quot;fnref-quote-one&quot;&gt;&lt;a href=&quot;#fn-quote-one&quot; class=&quot;footnote-ref&quot;&gt;quote-one&lt;/a&gt;&lt;/sup&gt;
-&lt;em&gt;«Zitat B»&lt;/em&gt;&lt;sup id=&quot;fnref-1&quot;&gt;&lt;a href=&quot;#fn-1&quot; class=&quot;footnote-ref&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;h2&gt;Abbildungsverzeichnis&lt;/h2&gt;
-&lt;p&gt;Möchte man die Abbildungen (oder weitere Verzeichnisse) ausserhalb der Fussnoten pflegen, kann man die Fussnoten mit einem Gruppen-Prefix (&lt;code class=&quot;language-text&quot;&gt;:gruppe:&lt;/code&gt;) markieren:&lt;/p&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Bild A&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;/span&gt;[^:fig:one]
-
-&lt;span class=&quot;token url-reference url&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;^:fig:one&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; ...&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;oder inline&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Bild B&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;/span&gt;[^:fig:hier der Text]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Bild A&lt;/em&gt;&lt;sup id=&quot;fnref-:fig:one&quot;&gt;&lt;a href=&quot;#fn-:fig:one&quot; class=&quot;footnote-ref&quot;&gt;:fig:one&lt;/a&gt;&lt;/sup&gt;
-&lt;em&gt;Bild B&lt;/em&gt;&lt;sup id=&quot;fnref-2&quot;&gt;&lt;a href=&quot;#fn-2&quot; class=&quot;footnote-ref&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;h2&gt;Zitate&lt;/h2&gt;
-&lt;p&gt;Absätze mit Zitaten können speziell markiert werden.&lt;/p&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token blockquote punctuation&quot;&gt;&gt;&lt;/span&gt; Absatz als Zitat.[^quote-one]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Absatz als Zitat.&lt;sup id=&quot;fnref-quote-one&quot;&gt;&lt;a href=&quot;#fn-quote-one&quot; class=&quot;footnote-ref&quot;&gt;quote-one&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;Bilder&lt;/h2&gt;
-&lt;p&gt;Wenn unter einem Bild direkt im Anschluss ein ausgezeichneter Text (&lt;code class=&quot;language-text&quot;&gt;*text*&lt;/code&gt;) steht, erhält dieser Text die Formatierung für Bildunterschriften.&lt;/p&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token url&quot;&gt;![&lt;span class=&quot;token content&quot;&gt;Cat&lt;/span&gt;](./img/header.jpg)&lt;/span&gt;
-&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Wow so miau. Much cute.[^:fig:pic-source]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Cat&quot;
-        title=&quot;Cat&quot;
-        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
-/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
-/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
-        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;
-&lt;em&gt;Wow so miau. Much cute.&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;Video&lt;/h2&gt;
-&lt;p&gt;Videos sollten in eine responsive &lt;code class=&quot;language-text&quot;&gt;Box&lt;/code&gt; gepackt werden. Als Ratio kann 16:9, 4:3 oder 3:2 gangegeben werden.&lt;/p&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Box&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;ratio&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;16:9&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;iframe&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;src&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;https://player.vimeo.com/video/169809377&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;frameborder&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;0&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;iframe&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Box&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;Box ratio=&quot;16-9&quot;&gt;
-&lt;iframe src=&quot;https://player.vimeo.com/video/169809377&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
-&lt;/Box&gt;
-&lt;h2&gt;Grid – volle Breite&lt;/h2&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-
-&lt;span class=&quot;token url&quot;&gt;![&lt;span class=&quot;token content&quot;&gt;Cat&lt;/span&gt;](./img/header.jpg)&lt;/span&gt;
-&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Hello Cat[^:fig:pic-source]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;/span&gt;
-
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;Grid&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Cat&quot;
-        title=&quot;Cat&quot;
-        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
-/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
-/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
-        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;
-&lt;em&gt;Hello Cat&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;/Grid&gt;
-&lt;h2&gt;Grid – volle Breite mit Hintergrund&lt;/h2&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;html&quot;&gt;&lt;pre class=&quot;language-html&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Grid&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;background&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-
-![Cat](./img/header.jpg)
-*Hello Cat[^:fig:pic-source]*
-
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;Grid background&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Cat&quot;
-        title=&quot;Cat&quot;
-        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
-/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
-/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
-        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;
-&lt;em&gt;Hello Cat&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;/Grid&gt;
-&lt;h2&gt;Grid – mit Spalten&lt;/h2&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Column&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;start&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;1&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;end&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;7&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-
-&lt;span class=&quot;token title important&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;###&lt;/span&gt; Cat Column A&lt;/span&gt;
-...
-
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Column&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Column&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;start&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;7&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;end&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;13&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-
-&lt;span class=&quot;token title important&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;###&lt;/span&gt; Cat Column B&lt;/span&gt;
-...
-
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Column&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;Grid&gt;
-&lt;Column start=&quot;1&quot; end=&quot;7&quot;&gt;
-&lt;h3&gt;Cat Column A&lt;/h3&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Cat&quot;
-        title=&quot;Cat&quot;
-        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
-/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
-/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
-        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;
-&lt;em&gt;Hello Cat&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;/Column&gt;
-&lt;Column start=&quot;7&quot; end=&quot;13&quot;&gt;
-&lt;h3&gt;Cat Column B&lt;/h3&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Cat&quot;
-        title=&quot;Cat&quot;
-        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
-/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
-/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
-        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;
-&lt;em&gt;Hello Cat&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;/Column&gt;
-&lt;/Grid&gt;
-&lt;!-- references text--&gt;
-&lt;!--
-Vorname Nachname, [Titel der Seite](https://www.google.com/) (Abrufdatum: dd. mm. yyyy).
-Vorname Nachname, Buchtitel, Auflage, Verlag, Erscheinungsort Jahr, erste Seite – letzte Seite.
---&gt;
-&lt;!-- references figures--&gt;
-&lt;h2&gt;Einzelnachweise&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;references&quot;&gt;&lt;pre class=&quot;language-references&quot;&gt;&lt;code class=&quot;language-references&quot;&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;Abbildungsverzeichnis&lt;/h2&gt;
-&lt;p&gt;(Kann auch bei Einzelnachweis gepflegt werden)&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;references&quot;&gt;&lt;pre class=&quot;language-references&quot;&gt;&lt;code class=&quot;language-references&quot;&gt;# gets repalced with footnotes
-group-include: fig
-
-inline-link-prefix: &amp;#39;Fig. &amp;#39;
-
-reference-link-prefix: &amp;#39;↑ Fig. &amp;#39;
-reference-link-suffix: &amp;#39;&amp;#39;
-
-reference-text-suffix: &amp;#39; – &amp;#39;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;Grid&gt;
-&lt;hr&gt;
-&lt;Column start=&quot;1&quot; end=&quot;5&quot;&gt;
-&lt;h4&gt;Mentoring durch&lt;/h4&gt;
-&lt;p&gt;Vorname Nachname &lt;br/&gt;
-HFIAD 2017 &lt;br/&gt;
-Schule für Gestaltung Zürich &lt;br/&gt;
-&lt;a href=&quot;mailto:name@xyz.ch&quot;&gt;name@xyz.ch&lt;/a&gt;&lt;/p&gt;
-&lt;/Column&gt;
-&lt;Column start=&quot;5&quot; end=&quot;13&quot;&gt;
-&lt;h4&gt;Vorgelegt von&lt;/h4&gt;
-&lt;p&gt;Vorname Nachname &lt;br/&gt;
-sonstiges &lt;br/&gt;
-&lt;a href=&quot;mailto:name@xyz.ch&quot;&gt;name@xyz.ch&lt;/a&gt;
-&lt;/Column&gt;&lt;/p&gt;
-&lt;/Grid&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&quot;fn-quote-one&quot;&gt;
-&lt;p&gt;Beispiel für Fussnote&lt;/p&gt;
-&lt;a href=&quot;#fnref-quote-one&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
-&lt;/li&gt;
-&lt;li id=&quot;fn-:fig:one&quot;&gt;
-&lt;p&gt;Beispiel für Abbildungsverzeichnis.&lt;/p&gt;
-&lt;a href=&quot;#fnref-:fig:one&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
-&lt;/li&gt;
-&lt;li id=&quot;fn-:fig:pic-source&quot;&gt;
-&lt;p&gt;Abbildung von &lt;a href=&quot;http://lorempixel.com/800/600/cats/1&quot;&gt;lorempixel.com&lt;/a&gt;&lt;/p&gt;
-&lt;a href=&quot;#fnref-:fig:pic-source&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
-&lt;/li&gt;
-&lt;li id=&quot;fn-1&quot;&gt;
-&lt;p&gt;hier der Text&lt;/p&gt;
-&lt;a href=&quot;#fnref-1&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
-&lt;/li&gt;
-&lt;li id=&quot;fn-2&quot;&gt;
-&lt;p&gt;:fig:hier der Text&lt;/p&gt;
-&lt;a href=&quot;#fnref-2&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
 &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Titel der Arbeit]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
 import Grid from 'gatsby-theme-signalwerk/src/components/Grid';
 import…]]></description><link>https://thesis.logrinto.ch/posts/2020/example/</link><guid isPermaLink="false">https://thesis.logrinto.ch/posts/2020/example/</guid><pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;
@@ -1338,6 +960,382 @@ sonstiges &lt;br/&gt;
 &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Titel der Arbeit]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
 import Grid from 'gatsby-theme-signalwerk/src/components/Grid';
 import…]]></description><link>https://thesis.logrinto.ch/posts/2020/natasha/</link><guid isPermaLink="false">https://thesis.logrinto.ch/posts/2020/natasha/</guid><pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;
+import Grid from &apos;gatsby-theme-signalwerk/src/components/Grid&apos;;
+import Column from &apos;gatsby-theme-signalwerk/src/components/Column&apos;;
+import Box from &apos;gatsby-theme-signalwerk/src/components/Box&apos;;&lt;/p&gt;
+&lt;h2&gt;Intro&lt;/h2&gt;
+&lt;p&gt;Grundsätzlich verhält sich das Template wie normaler Markdown-Text. Es gibt aber einige erweiterte Funktionen. Für weitere Infos siehe &lt;a href=&quot;https://github.com/signalwerk/gatsby-theme-signalwerk&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Inhaltsverzeichnis&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;toc&quot;&gt;&lt;pre class=&quot;language-toc&quot;&gt;&lt;code class=&quot;language-toc&quot;&gt;exclude: Inhaltsverzeichnis
+from-heading: 2
+to-heading: 6&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;Inhaltsverzeichnis (Element)&lt;/h2&gt;
+&lt;p&gt;Das Inhaltsverzeichnis kann über ein &lt;code class=&quot;language-text&quot;&gt;toc&lt;/code&gt; (Table of Contents) Code-Block gesteuert werden.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;exclude&lt;/code&gt; – welcher Titel soll nicht im Inhaltsverzeichnis erscheinen&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;from-heading&lt;/code&gt; – erste Stufe, die ausgegeben werden soll. &lt;code class=&quot;language-text&quot;&gt;2&lt;/code&gt; = &lt;code class=&quot;language-text&quot;&gt;h2&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;to-heading&lt;/code&gt; – letzte Stufe, die ausgegeben werden soll. &lt;code class=&quot;language-text&quot;&gt;6&lt;/code&gt; = &lt;code class=&quot;language-text&quot;&gt;h6&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token code&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;```&lt;/span&gt;&lt;span class=&quot;token code-language&quot;&gt;toc&lt;/span&gt;
+&lt;span class=&quot;token code-block language-toc&quot;&gt;exclude: Inhaltsverzeichnis
+from-heading: 2
+to-heading: 6&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;```&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;p&gt;siehe oben&lt;/p&gt;
+&lt;!--
+```toc
+exclude: Inhaltsverzeichnis
+from-heading: 2
+to-heading: 6
+``` --&gt;
+&lt;h2&gt;Text&lt;/h2&gt;
+&lt;Margin&gt;
+&lt;h3&gt;Marginalie&lt;/h3&gt;
+&lt;p&gt;Text Marginalie · Randspalten mit &lt;code class=&quot;language-text&quot;&gt;&amp;lt;Margin&amp;gt;&amp;lt;/Margin&amp;gt;&lt;/code&gt;-Tags umschliessen.&lt;/p&gt;
+&lt;/Margin&gt;
+&lt;p&gt;Text · Normaler Text kann wie in Markdown üblich verfasst werden.&lt;/p&gt;
+&lt;h2&gt;Listen&lt;/h2&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Item A
+&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Item B
+&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Item C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Item A&lt;/li&gt;
+&lt;li&gt;Item B&lt;/li&gt;
+&lt;li&gt;Item C&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Nummerierte Listen&lt;/h2&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; Item 1
+&lt;span class=&quot;token list punctuation&quot;&gt;2.&lt;/span&gt; Item 2
+&lt;span class=&quot;token list punctuation&quot;&gt;3.&lt;/span&gt; Item 3&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Item 1&lt;/li&gt;
+&lt;li&gt;Item 2&lt;/li&gt;
+&lt;li&gt;Item 3&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Code&lt;/h2&gt;
+&lt;p&gt;Code kann entweder als Block oder Inline eingegeben werden.&lt;/p&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;Inline &lt;span class=&quot;token code keyword&quot;&gt;`code`&lt;/span&gt;
+
+&lt;span class=&quot;token code&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;```&lt;/span&gt;&lt;span class=&quot;token code-language&quot;&gt;js&lt;/span&gt;
+&lt;span class=&quot;token code-block language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; kk &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;kk&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;```&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;p&gt;Inline &lt;code class=&quot;language-text&quot;&gt;code&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; kk &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;kk&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;Fussnoten&lt;/h2&gt;
+&lt;p&gt;Text mit Fussnoten kann wie in Markdown üblich entweder mit Referenzen gemacht werden:&lt;/p&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;«Zitat A»&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;/span&gt;[^quote-one]
+
+&lt;span class=&quot;token url-reference url&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;^quote-one&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; ...&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;oder inline&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;«Zitat B»&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;/span&gt;[^hier der Text]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;«Zitat A»&lt;/em&gt;&lt;sup id=&quot;fnref-quote-one&quot;&gt;&lt;a href=&quot;#fn-quote-one&quot; class=&quot;footnote-ref&quot;&gt;quote-one&lt;/a&gt;&lt;/sup&gt;
+&lt;em&gt;«Zitat B»&lt;/em&gt;&lt;sup id=&quot;fnref-1&quot;&gt;&lt;a href=&quot;#fn-1&quot; class=&quot;footnote-ref&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h2&gt;Abbildungsverzeichnis&lt;/h2&gt;
+&lt;p&gt;Möchte man die Abbildungen (oder weitere Verzeichnisse) ausserhalb der Fussnoten pflegen, kann man die Fussnoten mit einem Gruppen-Prefix (&lt;code class=&quot;language-text&quot;&gt;:gruppe:&lt;/code&gt;) markieren:&lt;/p&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Bild A&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;/span&gt;[^:fig:one]
+
+&lt;span class=&quot;token url-reference url&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;^:fig:one&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; ...&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;oder inline&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Bild B&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;/span&gt;[^:fig:hier der Text]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Bild A&lt;/em&gt;&lt;sup id=&quot;fnref-:fig:one&quot;&gt;&lt;a href=&quot;#fn-:fig:one&quot; class=&quot;footnote-ref&quot;&gt;:fig:one&lt;/a&gt;&lt;/sup&gt;
+&lt;em&gt;Bild B&lt;/em&gt;&lt;sup id=&quot;fnref-2&quot;&gt;&lt;a href=&quot;#fn-2&quot; class=&quot;footnote-ref&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h2&gt;Zitate&lt;/h2&gt;
+&lt;p&gt;Absätze mit Zitaten können speziell markiert werden.&lt;/p&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token blockquote punctuation&quot;&gt;&gt;&lt;/span&gt; Absatz als Zitat.[^quote-one]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Absatz als Zitat.&lt;sup id=&quot;fnref-quote-one&quot;&gt;&lt;a href=&quot;#fn-quote-one&quot; class=&quot;footnote-ref&quot;&gt;quote-one&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;Bilder&lt;/h2&gt;
+&lt;p&gt;Wenn unter einem Bild direkt im Anschluss ein ausgezeichneter Text (&lt;code class=&quot;language-text&quot;&gt;*text*&lt;/code&gt;) steht, erhält dieser Text die Formatierung für Bildunterschriften.&lt;/p&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token url&quot;&gt;![&lt;span class=&quot;token content&quot;&gt;Cat&lt;/span&gt;](./img/header.jpg)&lt;/span&gt;
+&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Wow so miau. Much cute.[^:fig:pic-source]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Cat&quot;
+        title=&quot;Cat&quot;
+        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
+/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
+/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
+        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Wow so miau. Much cute.&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Video&lt;/h2&gt;
+&lt;p&gt;Videos sollten in eine responsive &lt;code class=&quot;language-text&quot;&gt;Box&lt;/code&gt; gepackt werden. Als Ratio kann 16:9, 4:3 oder 3:2 gangegeben werden.&lt;/p&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Box&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;ratio&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;16:9&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;iframe&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;src&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;https://player.vimeo.com/video/169809377&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;frameborder&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;0&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;iframe&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Box&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;Box ratio=&quot;16-9&quot;&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/169809377&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;/Box&gt;
+&lt;h2&gt;Grid – volle Breite&lt;/h2&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token url&quot;&gt;![&lt;span class=&quot;token content&quot;&gt;Cat&lt;/span&gt;](./img/header.jpg)&lt;/span&gt;
+&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Hello Cat[^:fig:pic-source]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;Grid&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Cat&quot;
+        title=&quot;Cat&quot;
+        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
+/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
+/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
+        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Hello Cat&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/Grid&gt;
+&lt;h2&gt;Grid – volle Breite mit Hintergrund&lt;/h2&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;html&quot;&gt;&lt;pre class=&quot;language-html&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Grid&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;background&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+![Cat](./img/header.jpg)
+*Hello Cat[^:fig:pic-source]*
+
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;Grid background&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Cat&quot;
+        title=&quot;Cat&quot;
+        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
+/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
+/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
+        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Hello Cat&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/Grid&gt;
+&lt;h2&gt;Grid – mit Spalten&lt;/h2&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Column&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;start&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;1&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;end&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;7&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token title important&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;###&lt;/span&gt; Cat Column A&lt;/span&gt;
+...
+
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Column&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Column&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;start&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;7&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;end&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;13&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token title important&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;###&lt;/span&gt; Cat Column B&lt;/span&gt;
+...
+
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Column&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;Grid&gt;
+&lt;Column start=&quot;1&quot; end=&quot;7&quot;&gt;
+&lt;h3&gt;Cat Column A&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Cat&quot;
+        title=&quot;Cat&quot;
+        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
+/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
+/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
+        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Hello Cat&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/Column&gt;
+&lt;Column start=&quot;7&quot; end=&quot;13&quot;&gt;
+&lt;h3&gt;Cat Column B&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Cat&quot;
+        title=&quot;Cat&quot;
+        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
+/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
+/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
+        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Hello Cat&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/Column&gt;
+&lt;/Grid&gt;
+&lt;!-- references text--&gt;
+&lt;!--
+Vorname Nachname, [Titel der Seite](https://www.google.com/) (Abrufdatum: dd. mm. yyyy).
+Vorname Nachname, Buchtitel, Auflage, Verlag, Erscheinungsort Jahr, erste Seite – letzte Seite.
+--&gt;
+&lt;!-- references figures--&gt;
+&lt;h2&gt;Einzelnachweise&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;references&quot;&gt;&lt;pre class=&quot;language-references&quot;&gt;&lt;code class=&quot;language-references&quot;&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;Abbildungsverzeichnis&lt;/h2&gt;
+&lt;p&gt;(Kann auch bei Einzelnachweis gepflegt werden)&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;references&quot;&gt;&lt;pre class=&quot;language-references&quot;&gt;&lt;code class=&quot;language-references&quot;&gt;# gets repalced with footnotes
+group-include: fig
+
+inline-link-prefix: &amp;#39;Fig. &amp;#39;
+
+reference-link-prefix: &amp;#39;↑ Fig. &amp;#39;
+reference-link-suffix: &amp;#39;&amp;#39;
+
+reference-text-suffix: &amp;#39; – &amp;#39;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;Grid&gt;
+&lt;hr&gt;
+&lt;Column start=&quot;1&quot; end=&quot;5&quot;&gt;
+&lt;h4&gt;Mentoring durch&lt;/h4&gt;
+&lt;p&gt;Vorname Nachname &lt;br/&gt;
+HFIAD 2017 &lt;br/&gt;
+Schule für Gestaltung Zürich &lt;br/&gt;
+&lt;a href=&quot;mailto:name@xyz.ch&quot;&gt;name@xyz.ch&lt;/a&gt;&lt;/p&gt;
+&lt;/Column&gt;
+&lt;Column start=&quot;5&quot; end=&quot;13&quot;&gt;
+&lt;h4&gt;Vorgelegt von&lt;/h4&gt;
+&lt;p&gt;Vorname Nachname &lt;br/&gt;
+sonstiges &lt;br/&gt;
+&lt;a href=&quot;mailto:name@xyz.ch&quot;&gt;name@xyz.ch&lt;/a&gt;
+&lt;/Column&gt;&lt;/p&gt;
+&lt;/Grid&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&quot;fn-quote-one&quot;&gt;
+&lt;p&gt;Beispiel für Fussnote&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-one&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-:fig:one&quot;&gt;
+&lt;p&gt;Beispiel für Abbildungsverzeichnis.&lt;/p&gt;
+&lt;a href=&quot;#fnref-:fig:one&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-:fig:pic-source&quot;&gt;
+&lt;p&gt;Abbildung von &lt;a href=&quot;http://lorempixel.com/800/600/cats/1&quot;&gt;lorempixel.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;#fnref-:fig:pic-source&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-1&quot;&gt;
+&lt;p&gt;hier der Text&lt;/p&gt;
+&lt;a href=&quot;#fnref-1&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-2&quot;&gt;
+&lt;p&gt;:fig:hier der Text&lt;/p&gt;
+&lt;a href=&quot;#fnref-2&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Quantified Self]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
+import Grid from 'gatsby-theme-signalwerk/src/components/Grid';
+import…]]></description><link>https://thesis.logrinto.ch/posts/2020/tieukhe/</link><guid isPermaLink="false">https://thesis.logrinto.ch/posts/2020/tieukhe/</guid><pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;
 import Grid from &apos;gatsby-theme-signalwerk/src/components/Grid&apos;;
 import Column from &apos;gatsby-theme-signalwerk/src/components/Column&apos;;
 import Box from &apos;gatsby-theme-signalwerk/src/components/Box&apos;;&lt;/p&gt;
@@ -4114,6 +4112,382 @@ Würzwies 10&lt;br/&gt;
 &lt;li id=&quot;fn-:av:wechat-good-product-circle&quot;&gt;
 &lt;p&gt;walkthechat.com, (2019), &lt;a href=&quot;https://walkthechat.com/wechat-released-new-recommended-products-e-commerce-function/&quot;&gt;&lt;em&gt;WeChat released new “recommended products” e-commerce function&lt;/em&gt;&lt;/a&gt;, Abgerufen am 02. Januar 2020.&lt;/p&gt;
 &lt;a href=&quot;#fnref-:av:wechat-good-product-circle&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Wie Patreon für eine Belebung von digitalem Content durch mehr kreative Freiheit und finanzielle Unabhängigkeit von Content-Creators sorgt.]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
+import Grid from 'gatsby-theme-signalwerk/src/components/Grid';
+import…]]></description><link>https://thesis.logrinto.ch/posts/2020/marc/</link><guid isPermaLink="false">https://thesis.logrinto.ch/posts/2020/marc/</guid><pubDate>Sat, 11 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;
+import Grid from &apos;gatsby-theme-signalwerk/src/components/Grid&apos;;
+import Column from &apos;gatsby-theme-signalwerk/src/components/Column&apos;;
+import Box from &apos;gatsby-theme-signalwerk/src/components/Box&apos;;&lt;/p&gt;
+&lt;h2&gt;Intro&lt;/h2&gt;
+&lt;p&gt;Grundsätzlich verhält sich das Template wie normaler Markdown-Text. Es gibt aber einige erweiterte Funktionen. Für weitere Infos siehe &lt;a href=&quot;https://github.com/signalwerk/gatsby-theme-signalwerk&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Inhaltsverzeichnis&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;toc&quot;&gt;&lt;pre class=&quot;language-toc&quot;&gt;&lt;code class=&quot;language-toc&quot;&gt;exclude: Inhaltsverzeichnis
+from-heading: 2
+to-heading: 6&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;Inhaltsverzeichnis (Element)&lt;/h2&gt;
+&lt;p&gt;Das Inhaltsverzeichnis kann über ein &lt;code class=&quot;language-text&quot;&gt;toc&lt;/code&gt; (Table of Contents) Code-Block gesteuert werden.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;exclude&lt;/code&gt; – welcher Titel soll nicht im Inhaltsverzeichnis erscheinen&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;from-heading&lt;/code&gt; – erste Stufe, die ausgegeben werden soll. &lt;code class=&quot;language-text&quot;&gt;2&lt;/code&gt; = &lt;code class=&quot;language-text&quot;&gt;h2&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;to-heading&lt;/code&gt; – letzte Stufe, die ausgegeben werden soll. &lt;code class=&quot;language-text&quot;&gt;6&lt;/code&gt; = &lt;code class=&quot;language-text&quot;&gt;h6&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token code&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;```&lt;/span&gt;&lt;span class=&quot;token code-language&quot;&gt;toc&lt;/span&gt;
+&lt;span class=&quot;token code-block language-toc&quot;&gt;exclude: Inhaltsverzeichnis
+from-heading: 2
+to-heading: 6&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;```&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;p&gt;siehe oben&lt;/p&gt;
+&lt;!--
+```toc
+exclude: Inhaltsverzeichnis
+from-heading: 2
+to-heading: 6
+``` --&gt;
+&lt;h2&gt;Text&lt;/h2&gt;
+&lt;Margin&gt;
+&lt;h3&gt;Marginalie&lt;/h3&gt;
+&lt;p&gt;Text Marginalie · Randspalten mit &lt;code class=&quot;language-text&quot;&gt;&amp;lt;Margin&amp;gt;&amp;lt;/Margin&amp;gt;&lt;/code&gt;-Tags umschliessen.&lt;/p&gt;
+&lt;/Margin&gt;
+&lt;p&gt;Text · Normaler Text kann wie in Markdown üblich verfasst werden.&lt;/p&gt;
+&lt;h2&gt;Listen&lt;/h2&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Item A
+&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Item B
+&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Item C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Item A&lt;/li&gt;
+&lt;li&gt;Item B&lt;/li&gt;
+&lt;li&gt;Item C&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Nummerierte Listen&lt;/h2&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; Item 1
+&lt;span class=&quot;token list punctuation&quot;&gt;2.&lt;/span&gt; Item 2
+&lt;span class=&quot;token list punctuation&quot;&gt;3.&lt;/span&gt; Item 3&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Item 1&lt;/li&gt;
+&lt;li&gt;Item 2&lt;/li&gt;
+&lt;li&gt;Item 3&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Code&lt;/h2&gt;
+&lt;p&gt;Code kann entweder als Block oder Inline eingegeben werden.&lt;/p&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;Inline &lt;span class=&quot;token code keyword&quot;&gt;`code`&lt;/span&gt;
+
+&lt;span class=&quot;token code&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;```&lt;/span&gt;&lt;span class=&quot;token code-language&quot;&gt;js&lt;/span&gt;
+&lt;span class=&quot;token code-block language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; kk &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;kk&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;```&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;p&gt;Inline &lt;code class=&quot;language-text&quot;&gt;code&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; kk &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;kk&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;Fussnoten&lt;/h2&gt;
+&lt;p&gt;Text mit Fussnoten kann wie in Markdown üblich entweder mit Referenzen gemacht werden:&lt;/p&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;«Zitat A»&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;/span&gt;[^quote-one]
+
+&lt;span class=&quot;token url-reference url&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;^quote-one&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; ...&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;oder inline&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;«Zitat B»&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;/span&gt;[^hier der Text]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;«Zitat A»&lt;/em&gt;&lt;sup id=&quot;fnref-quote-one&quot;&gt;&lt;a href=&quot;#fn-quote-one&quot; class=&quot;footnote-ref&quot;&gt;quote-one&lt;/a&gt;&lt;/sup&gt;
+&lt;em&gt;«Zitat B»&lt;/em&gt;&lt;sup id=&quot;fnref-1&quot;&gt;&lt;a href=&quot;#fn-1&quot; class=&quot;footnote-ref&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h2&gt;Abbildungsverzeichnis&lt;/h2&gt;
+&lt;p&gt;Möchte man die Abbildungen (oder weitere Verzeichnisse) ausserhalb der Fussnoten pflegen, kann man die Fussnoten mit einem Gruppen-Prefix (&lt;code class=&quot;language-text&quot;&gt;:gruppe:&lt;/code&gt;) markieren:&lt;/p&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Bild A&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;/span&gt;[^:fig:one]
+
+&lt;span class=&quot;token url-reference url&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;^:fig:one&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; ...&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;oder inline&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Bild B&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;/span&gt;[^:fig:hier der Text]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Bild A&lt;/em&gt;&lt;sup id=&quot;fnref-:fig:one&quot;&gt;&lt;a href=&quot;#fn-:fig:one&quot; class=&quot;footnote-ref&quot;&gt;:fig:one&lt;/a&gt;&lt;/sup&gt;
+&lt;em&gt;Bild B&lt;/em&gt;&lt;sup id=&quot;fnref-2&quot;&gt;&lt;a href=&quot;#fn-2&quot; class=&quot;footnote-ref&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h2&gt;Zitate&lt;/h2&gt;
+&lt;p&gt;Absätze mit Zitaten können speziell markiert werden.&lt;/p&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token blockquote punctuation&quot;&gt;&gt;&lt;/span&gt; Absatz als Zitat.[^quote-one]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Absatz als Zitat.&lt;sup id=&quot;fnref-quote-one&quot;&gt;&lt;a href=&quot;#fn-quote-one&quot; class=&quot;footnote-ref&quot;&gt;quote-one&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;Bilder&lt;/h2&gt;
+&lt;p&gt;Wenn unter einem Bild direkt im Anschluss ein ausgezeichneter Text (&lt;code class=&quot;language-text&quot;&gt;*text*&lt;/code&gt;) steht, erhält dieser Text die Formatierung für Bildunterschriften.&lt;/p&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token url&quot;&gt;![&lt;span class=&quot;token content&quot;&gt;Cat&lt;/span&gt;](./img/header.jpg)&lt;/span&gt;
+&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Wow so miau. Much cute.[^:fig:pic-source]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Cat&quot;
+        title=&quot;Cat&quot;
+        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
+/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
+/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
+        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Wow so miau. Much cute.&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Video&lt;/h2&gt;
+&lt;p&gt;Videos sollten in eine responsive &lt;code class=&quot;language-text&quot;&gt;Box&lt;/code&gt; gepackt werden. Als Ratio kann 16:9, 4:3 oder 3:2 gangegeben werden.&lt;/p&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Box&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;ratio&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;16:9&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;iframe&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;src&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;https://player.vimeo.com/video/169809377&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;frameborder&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;0&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;iframe&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Box&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;Box ratio=&quot;16-9&quot;&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/169809377&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;/Box&gt;
+&lt;h2&gt;Grid – volle Breite&lt;/h2&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token url&quot;&gt;![&lt;span class=&quot;token content&quot;&gt;Cat&lt;/span&gt;](./img/header.jpg)&lt;/span&gt;
+&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Hello Cat[^:fig:pic-source]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;Grid&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Cat&quot;
+        title=&quot;Cat&quot;
+        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
+/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
+/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
+        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Hello Cat&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/Grid&gt;
+&lt;h2&gt;Grid – volle Breite mit Hintergrund&lt;/h2&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;html&quot;&gt;&lt;pre class=&quot;language-html&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Grid&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;background&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+![Cat](./img/header.jpg)
+*Hello Cat[^:fig:pic-source]*
+
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;Grid background&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Cat&quot;
+        title=&quot;Cat&quot;
+        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
+/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
+/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
+        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Hello Cat&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/Grid&gt;
+&lt;h2&gt;Grid – mit Spalten&lt;/h2&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Column&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;start&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;1&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;end&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;7&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token title important&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;###&lt;/span&gt; Cat Column A&lt;/span&gt;
+...
+
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Column&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Column&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;start&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;7&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;end&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;13&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token title important&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;###&lt;/span&gt; Cat Column B&lt;/span&gt;
+...
+
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Column&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;Grid&gt;
+&lt;Column start=&quot;1&quot; end=&quot;7&quot;&gt;
+&lt;h3&gt;Cat Column A&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Cat&quot;
+        title=&quot;Cat&quot;
+        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
+/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
+/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
+        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Hello Cat&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/Column&gt;
+&lt;Column start=&quot;7&quot; end=&quot;13&quot;&gt;
+&lt;h3&gt;Cat Column B&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Cat&quot;
+        title=&quot;Cat&quot;
+        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
+/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
+/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
+        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Hello Cat&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/Column&gt;
+&lt;/Grid&gt;
+&lt;!-- references text--&gt;
+&lt;!--
+Vorname Nachname, [Titel der Seite](https://www.google.com/) (Abrufdatum: dd. mm. yyyy).
+Vorname Nachname, Buchtitel, Auflage, Verlag, Erscheinungsort Jahr, erste Seite – letzte Seite.
+--&gt;
+&lt;!-- references figures--&gt;
+&lt;h2&gt;Einzelnachweise&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;references&quot;&gt;&lt;pre class=&quot;language-references&quot;&gt;&lt;code class=&quot;language-references&quot;&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;Abbildungsverzeichnis&lt;/h2&gt;
+&lt;p&gt;(Kann auch bei Einzelnachweis gepflegt werden)&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;references&quot;&gt;&lt;pre class=&quot;language-references&quot;&gt;&lt;code class=&quot;language-references&quot;&gt;# gets repalced with footnotes
+group-include: fig
+
+inline-link-prefix: &amp;#39;Fig. &amp;#39;
+
+reference-link-prefix: &amp;#39;↑ Fig. &amp;#39;
+reference-link-suffix: &amp;#39;&amp;#39;
+
+reference-text-suffix: &amp;#39; – &amp;#39;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;Grid&gt;
+&lt;hr&gt;
+&lt;Column start=&quot;1&quot; end=&quot;5&quot;&gt;
+&lt;h4&gt;Mentoring durch&lt;/h4&gt;
+&lt;p&gt;Vorname Nachname &lt;br/&gt;
+HFIAD 2017 &lt;br/&gt;
+Schule für Gestaltung Zürich &lt;br/&gt;
+&lt;a href=&quot;mailto:name@xyz.ch&quot;&gt;name@xyz.ch&lt;/a&gt;&lt;/p&gt;
+&lt;/Column&gt;
+&lt;Column start=&quot;5&quot; end=&quot;13&quot;&gt;
+&lt;h4&gt;Vorgelegt von&lt;/h4&gt;
+&lt;p&gt;Vorname Nachname &lt;br/&gt;
+sonstiges &lt;br/&gt;
+&lt;a href=&quot;mailto:name@xyz.ch&quot;&gt;name@xyz.ch&lt;/a&gt;
+&lt;/Column&gt;&lt;/p&gt;
+&lt;/Grid&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&quot;fn-quote-one&quot;&gt;
+&lt;p&gt;Beispiel für Fussnote&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-one&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-:fig:one&quot;&gt;
+&lt;p&gt;Beispiel für Abbildungsverzeichnis.&lt;/p&gt;
+&lt;a href=&quot;#fnref-:fig:one&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-:fig:pic-source&quot;&gt;
+&lt;p&gt;Abbildung von &lt;a href=&quot;http://lorempixel.com/800/600/cats/1&quot;&gt;lorempixel.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;#fnref-:fig:pic-source&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-1&quot;&gt;
+&lt;p&gt;hier der Text&lt;/p&gt;
+&lt;a href=&quot;#fnref-1&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-2&quot;&gt;
+&lt;p&gt;:fig:hier der Text&lt;/p&gt;
+&lt;a href=&quot;#fnref-2&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Inwiefern hat sich die Customer Journey durch den neuen Touch-Point «Sprachassistent» verändert?]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
