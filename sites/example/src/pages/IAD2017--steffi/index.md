@@ -31,6 +31,7 @@ import Box from 'gatsby-theme-signalwerk/src/components/Box';
 
 ![Header](./img/Photo-by-Christiann-Koepke-on-Unsplash.jpg)
 *Kontaktloses Bezahlen via Smartphone[^:fig:1]*
+[^:fig:1]: Photo by Christiann Koepke on [Unsplash](https://unsplash.com/photos/2gExZO8zK58)
 
 </Column>
 </Grid>
@@ -77,14 +78,14 @@ Während Debit- und Kreditkarten ausschliesslich mit einem NFC-Chip auskommen, w
 Der Quick Response Code, kurz QR-Code, ist eine grafische Darstellung von Datenelementen, welche von Geräten mit einer Kamera und entsprechenden Software gescannt und entschlüsselt werden können. Im Zusammenhang mit kontaktlosem Bezahlen handelt es sich dabei beispielsweise um Rechnungsinformationen, welche dadurch an ein Gerät übermittelt werden, womit das manuelle Erfassen entfällt.[^quote-4] Ein Beispiel eines QR-Codes ist in Abbildung 2 dargestellt.
 [^quote-4]: ebd. S. 150. 8.4.2.
 
-<Grid>
-<Column start="3" end="6">
+<Margin>
 
 ![Quick Response Code](./img/QRCodeWikipedia.png)
 *Quick Response Code[^:fig:2]*
 
-</Column>
-</Grid>
+</Margin>
+
+[^:fig:2]: Abbildung von [Wikipedia/QR-Code](https://upload.wikimedia.org/wikipedia/commons/c/cb/QRCodeWikipedia.png)
 
 Im Gegensatz zur NFC-Technologie ist nahezu jedes Smartphone mit einer entsprechenden App in der Lage, einen QR-Code zu erfassen und zu entschlüsseln, was eine leichte und breit gestreute Nutzung ermöglicht. Ein weiterer Vorteil besteht darin, dass QR-Codes auch analog zur Verfügung gestellt werden können. Gegenwärtig befindet sich auf fast allen Electronic-Cash-(EC)-Terminals ein kleines Display, welches während dem Bezahlvorgang neben dem zu zahlenden Betrag auch einen QR-Code anzeigt, welcher kontaktloses Bezahlen ermöglicht.
 #### Bluetooth Low Energy
@@ -101,20 +102,29 @@ Laut dem Bericht Swiss Payment Monitor 2019 ist das kontaktlose Bezahlen aktuell
 [^quote-8]: edb. S. 5.
 
 
-<Grid>
-<Column start="3" end="10">
+<Grid background>
+<Column start="3" end="12">
 
 ![Bekanntheit neuerer Zahlungsinstrumente](./img/SPM19-S10.png)
-*Bekanntheit neuerer Zahlungsinstrumente[^:fig:4]*
+*Bekanntheit neuerer Zahlungsinstrumente[^:fig:3]*
+[^:fig:3]: Abbildung aus [Swiss Payment Monitor 2019.](https://medien.swisspaymentmonitor.ch/SPM19_Booklet_de.pdf)
 
 </Column>
 </Grid>
 
-Generell kann festgestellt werden, dass alle Technologien an Bekanntheit gewonnen haben. Mit 99 % am häufigsten verwendet und somit mit einer niedrigen Hemmschwelle verbunden sind Online-Zahlungen mittels Kreditkarte. Im direkten Vergleich sind das jedoch nur drei Prozent mehr als das kontaktlose Bezahlen mittels Kreditkarte, welches mit 96 % an zweiter Stelle folgt. An dritter Stelle liegt mit 94 % das kontaktlose Bezahlen mit Debitkarte.[^quote-9] Verglichen mit physischen Zahlungsmethoden punktet kontaktloses Bezahlen bei den Befragten des Swiss Payment Monitor 2019 hauptsächlich mit der Debit- und Kreditkarte erstens in Bezug auf die einfache Nutzung, zweitens den geringen Zeitaufwand und drittens die zukunftsorientierte Technologie, wie Abbildung 3 darstellt:
+Generell kann festgestellt werden, dass alle Technologien an Bekanntheit gewonnen haben. Mit 99 % am häufigsten verwendet und somit mit einer niedrigen Hemmschwelle verbunden sind Online-Zahlungen mittels Kreditkarte. Im direkten Vergleich sind das jedoch nur drei Prozent mehr als das kontaktlose Bezahlen mittels Kreditkarte, welches mit 96 % an zweiter Stelle folgt. An dritter Stelle liegt mit 94 % das kontaktlose Bezahlen mit Debitkarte.[^quote-9] Verglichen mit physischen Zahlungsmethoden punktet kontaktloses Bezahlen bei den Befragten des Swiss Payment Monitor 2019 hauptsächlich mit der Debit- und Kreditkarte erstens in Bezug auf die einfache Nutzung, zweitens den geringen Zeitaufwand und drittens die zukunftsorientierte Technologie, wie Abbildung 4 darstellt:
 [^quote-9]: Bettina Gehring, Sandro Graf, Dr. Tobias Trütsch, ZHAW, Universität St. Gallen (2019).  [Swiss Payment Monitor 2019.](https://medien.swisspaymentmonitor.ch/SPM19_Booklet_de.pdf) S.10. Zugegriffen: 27. Dezember 2019 
 
+
+<Grid background>
+<Column start="3" end="12">
+
 ![Wahrnehmung der Zahlungsmittel](./img/SPM19-S11.png)
-*Wahrnehmung der Zahlungsmittel[^:fig:pic-source]*
+*Wahrnehmung der Zahlungsmittel[^:fig:5]*
+[^:fig:5]: Abbildung aus [Swiss Payment Monitor 2019.](https://medien.swisspaymentmonitor.ch/SPM19_Booklet_de.pdf)
+
+</Column>
+</Grid>
 
 ### Rolle von Benutzerführung und Interface
 Die aktuell meistverwendeten Zahlungsmittel in der Schweiz sind Bargeld und Kredit-oder Debitkarten. Beide verfügen über kein Interface und die Einfachheit der Zahlungsmittel wirkt sich positiv auf deren Verwendung aus. Es ist keine Schulung erforderlich. Der Umgang damit wird erlernt, indem die Benutzenden sich entweder darüber informieren oder bei anderen Personen sehen, wie es funktioniert. Anders ist dies bei den verschiedenen Smartphone-Applikationen, welche kontaktloses Bezahlen ermöglichen. Bei diesen nimmt die Gestaltung der Benutzeroberfläche, des Interface, welches an eine gut strukturierte Benutzerführung gebunden sein muss, einen wesentlichen Einfluss auf die Nutzung der Applikation. Dabei spielt eine einfache Benutzeroberfläche bei dem virtuellen Point of Sale (dem Zahlungsabschluss) eine noch wichtigere Rolle als die Benutzeroberfläche in der Applikation selbst. Sind grafische Elemente bei einem nicht relevanten Schritt in der Anwendung beispielsweise zu klein oder schwer lesbar, hindert das die Benutzenden nicht an deren Nutzung. Während des Zahlungsprozesses führt ein schlechtes Interface laut einer Studie von VocaLink jedoch bei 23 % aller befragten Personen, welche unter 35 Jahren alt sind und bereits per Applikation auf dem Smartphone bezahlt haben, zu einem Abbruch der Saldierung.[^quote-10] Es ist also massgebend, mit welchem Design die Applikation auftritt und wie der Zahlungsabschluss eingebunden ist. Daraus resultieren drei wesentliche Schlussfolgerungen zur Implementation von Zahlverfahren für Mobile Payments:
@@ -277,10 +287,6 @@ reference-link-suffix: ''
 
 reference-text-suffix: ' – '
 ```
-
-[^:fig:1]: Photo by Christiann Koepke on [Unsplash](https://unsplash.com/photos/2gExZO8zK58)
-[^:fig:2]: Abbildung von [Wikipedia/QR-Code](https://upload.wikimedia.org/wikipedia/commons/c/cb/QRCodeWikipedia.png)
-[^:fig:4]: Abbildung aus [Swiss Payment Monitor 2019.](https://medien.swisspaymentmonitor.ch/SPM19_Booklet_de.pdf)
 
 ## Anhang
 <Grid>
