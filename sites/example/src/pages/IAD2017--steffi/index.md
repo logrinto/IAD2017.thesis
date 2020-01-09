@@ -1,5 +1,5 @@
 ---
-title: EventClearing im Pferdesport – auf dem Weg zu modernen Technologien
+title: Der Pferdesport auf dem Weg zu modernen Technologien
 author: "Stephanie Fuchs"
 date: "2020-01-10"
 layout: post
@@ -29,6 +29,12 @@ import Box from 'gatsby-theme-signalwerk/src/components/Box';
 ## Einleitung
 Handel ist seit jeher ein wichtiger Bestandteil unserer Zivilisation. Der ursprüngliche Tauschhandel mit realen Objekten wurde im Laufe der Jahrhunderte mehr und mehr durch symbolische Werte abgelöst. Über erste Münzen, denen ein symbolischer Wert zugewiesen wurde, zu Papiergeld, welches in verschiedenen Währungen und Werten erhältlich ist, bis hin zu Kreditkarten und Smartphone-Applikationen, welche Zahlungen ohne physischen Kontakt ermöglichen, hat sich der Handel mit Waren und Dienstleistungen stetig weiterentwickelt und scheint sich auch weiter dynamisch zu verändern. Die Zahlungskarten-Anbieterin Visa ermöglichte 2007 als erstes Unternehmen das kontaktlose Bezahlen, indem sie einen NFC-Chip in ihre Kreditkarten integrierte. Nachdem diese Bezahlvariante während den darauffolgenden zehn Jahren eher wenig Beachtung fand, kommt sie seit einigen Jahren immer mehr zum Einsatz, auch wenn viele Schweizerinnen und Schweizer eine eher hohe Hemmschwelle haben, diesen Dienst zu nutzen. Nachdem digitale Transaktions-Technologien wie Bluetooth Low Energy (BLE), Near Field Communication (NFC) und Quick Response (QR) Code zunehmend perfektioniert wurden, verbreiten sich diese nun auch in Bereichen, in denen diesbezüglich über längere Zeit eine Stagnierung festzustellen war. So ist beispielsweise im Pferdesport in den letzten Jahren das Bedürfnis aufgekommen, mit der Zeit zu gehen und kontaktloses Bezahlen mit einer Applikation und einem Wearable an Veranstaltungen zu ermöglichen. 
 
+## Inhaltsverzeichnis
+```toc
+exclude: Inhaltsverzeichnis
+from-heading: 2
+to-heading: 6
+```
 
 ### Problemstellung
 Im Pferdesport wurden bis 2017 Start- und Logiekosten sowie Gewinngelder in Bargeld oder per Banküberweisung bezahlt. Im Jahr 2019 haben erstmals mehrere Schweizer Pferdesportanlässe den Dienst EventClearing eingeführt, welcher ein einfaches, kontaktloses Abwickeln aller Geldtransaktionen im Rahmen von Pferdesport-Events ermöglicht.
@@ -104,7 +110,7 @@ Twint ermöglicht auch das Senden und Empfangen von Geldbeträgen zwischen Freun
 - Geld kann zwischen Benutzenden gesendet und angefordert werden (Peer-to-Peer-Funktion)
 
 #### EventClearing – mit/ohne Interface
-xxxx
+Die Applikation EventClearing wurde speziell für Reitsport-Events entwickelt und soll dazu dienen, den Zahlungsverkehr zwischen den Veranstaltenden und den Teilnehmenden, sowie Konsumenten zu vereinfachen. Sie kann einer Reitsportveranstaltung den kompletten Verzicht auf physisches Bezahlen ermöglichen. EventClearing ermöglicht ein mobiles Abwickeln aller Transaktionen via Smartphone für Benutzende mit EventClearing Account. Gastnutzende können an Veranstaltungen ein Wearable Armband leihen, welches kontaktlose Transaktionen innerhalb der Veranstaltung ermöglicht.
 
 ## Bezahlstruktur im Pferdesport
 Pferdesport-Veranstaltungen werden zunehmend grösser und komplexer, das Feld der Teilnehmenden breiter, die Wechsel von Reiterinnen und Reitern sowie Pferden immer häufiger und kurzfristiger. Diese Dynamik verlangt nach zeitgemässen Strukturen und Technologien, welche in der Schweiz in den vergangenen Jahren nach und nach eingeführt wurden. In diesem Kapitel soll auf die historische Entwicklung und den Ist-Zustand der Bezahlstruktur im Pferdesport eingegangen werden und anhand einer Betrachtung der ersten Pilotversuche mit EventClearing einen Ausblick auf die mögliche Zukunft erfolgen.
