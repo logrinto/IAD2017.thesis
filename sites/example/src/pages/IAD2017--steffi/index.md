@@ -1,5 +1,5 @@
 ---
-title: Der Pferdesport auf dem Weg zu modernen Technologien
+title: EventClearing im Pferdesport – auf dem Weg zu modernen Technologien
 author: "Stephanie Fuchs"
 date: "2020-01-10"
 layout: post
@@ -7,8 +7,17 @@ draft: false
 hideInMenu: false
 path: "/posts/2020/steffi/"
 tags:
-  - "TagOne"
-  - "TagTwo"
+  - "kontaktlos"
+  - "Bezahlen"
+  - "EventClearing"
+  - "Pferdesport"
+  - "Nennsystem"
+  - "NFC"
+  - "BLE"
+  - "QR-Code"
+  - "fnch"
+  - "svps"
+
 description: "Untersuchung der Relevanz von Benutzerführung und Benutzeroberfläche bezüglich der Nutzung von kontaktlosem Bezahlen."
 ---
 
@@ -20,12 +29,6 @@ import Box from 'gatsby-theme-signalwerk/src/components/Box';
 ## Einleitung
 Handel ist seit jeher ein wichtiger Bestandteil unserer Zivilisation. Der ursprüngliche Tauschhandel mit realen Objekten wurde im Laufe der Jahrhunderte mehr und mehr durch symbolische Werte abgelöst. Über erste Münzen, denen ein symbolischer Wert zugewiesen wurde, zu Papiergeld, welches in verschiedenen Währungen und Werten erhältlich ist, bis hin zu Kreditkarten und Smartphone-Applikationen, welche Zahlungen ohne physischen Kontakt ermöglichen, hat sich der Handel mit Waren und Dienstleistungen stetig weiterentwickelt und scheint sich auch weiter dynamisch zu verändern. Die Zahlungskarten-Anbieterin Visa ermöglichte 2007 als erstes Unternehmen das kontaktlose Bezahlen, indem sie einen NFC-Chip in ihre Kreditkarten integrierte. Nachdem diese Bezahlvariante während den darauffolgenden zehn Jahren eher wenig Beachtung fand, kommt sie seit einigen Jahren immer mehr zum Einsatz, auch wenn viele Schweizerinnen und Schweizer eine eher hohe Hemmschwelle haben, diesen Dienst zu nutzen. Nachdem digitale Transaktions-Technologien wie Bluetooth Low Energy (BLE), Near Field Communication (NFC) und Quick Response (QR) Code zunehmend perfektioniert wurden, verbreiten sich diese nun auch in Bereichen, in denen diesbezüglich über längere Zeit eine Stagnierung festzustellen war. So ist beispielsweise im Pferdesport in den letzten Jahren das Bedürfnis aufgekommen, mit der Zeit zu gehen und kontaktloses Bezahlen mit einer Applikation und einem Wearable an Veranstaltungen zu ermöglichen. 
 
-## Inhaltsverzeichnis
-```toc
-exclude: Inhaltsverzeichnis
-from-heading: 2
-to-heading: 6
-```
 
 ### Problemstellung
 Im Pferdesport wurden bis 2017 Start- und Logiekosten sowie Gewinngelder in Bargeld oder per Banküberweisung bezahlt. Im Jahr 2019 haben erstmals mehrere Schweizer Pferdesportanlässe den Dienst EventClearing eingeführt, welcher ein einfaches, kontaktloses Abwickeln aller Geldtransaktionen im Rahmen von Pferdesport-Events ermöglicht.
