@@ -18,7 +18,7 @@ git merge remotes/origin/steffi --no-edit
 git merge remotes/origin/matthias --no-edit
 git merge remotes/origin/natasha --no-edit
 git merge remotes/origin/tieukhe --no-edit
+git merge remotes/origin/wolfgang --no-edit
 
 # git merge remotes/origin/Marc --no-edit
 # git merge remotes/origin/marius --no-edit
-# git merge remotes/origin/wolfgang --no-edit

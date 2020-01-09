@@ -31,7 +31,7 @@ path: "root"
 * [Nils Mäder](/posts/2020/nils/)
 * [Tieu Khe Mayer](/posts/2020/tieukhe/)
 * [Natasha Ruf](/posts/2020/natasha/)
-<!-- * [Wolfgang Schoeck](/posts/2020/wolfgang/) -->
+* [Wolfgang Schoeck](/posts/2020/wolfgang/)
 * [Nicole Watrinet](/posts/2020/nicole/)
 
 
