@@ -105,7 +105,7 @@ Laut dem Bericht Swiss Payment Monitor 2019 ist das kontaktlose Bezahlen aktuell
 <Grid background>
 <Column start="3" end="12">
 
-![Bekanntheit neuerer Zahlungsinstrumente](./img/SPM19-S10.svg)
+![Bekanntheit neuerer Zahlungsinstrumente](./img/SPM19-S10.png)
 *Bekanntheit neuerer Zahlungsinstrumente[^:fig:3]*
 [^:fig:3]: Abbildung aus [Swiss Payment Monitor 2019](https://medien.swisspaymentmonitor.ch/SPM19_Booklet_de.pdf)
 
@@ -119,7 +119,7 @@ Generell kann festgestellt werden, dass alle Technologien an Bekanntheit gewonne
 <Grid background>
 <Column start="3" end="12">
 
-![Wahrnehmung der Zahlungsmittel](./img/SPM19-S11.svg)
+![Wahrnehmung der Zahlungsmittel](./img/SPM19-S11.png)
 *Wahrnehmung der Zahlungsmittel[^:fig:5]*
 [^:fig:5]: Abbildung aus [Swiss Payment Monitor 2019](https://medien.swisspaymentmonitor.ch/SPM19_Booklet_de.pdf)
 
@@ -200,7 +200,7 @@ Bis anhin müssen alle Reiterinnen und Reiter, die an Turnieren teilnehmen, eine
 Am Turnier erhalten Reiterinnen und Reiter, welche sich in einer Prüfung klassiert haben (min. 30% der gestarteten Paare), Preise in Form von Bargeld, Gutscheinen oder Naturalien mit vorgegebenen Mindestwerten.[^quote-23] Die Mindestwerte des SVPS werden in Abbildung 6 dargestellt:
 [^quote-23]:  SVPS. [Reglemente, Springreglement SR 2020.](https://www.fnch.ch/de/Disziplinen/Springen/Reglemente.html) S. 9, 3.5. Zugegriffen: 29. Dezember 2019
 
-<Grid>
+<Grid background>
 <Column start="3" end="11">
 
 ![Wert der Bar- und Naturalpreise des SVPS](./img/svpsPreise.svg)
