@@ -26,34 +26,8 @@ Zum Schluss der  Arbeit sollen auch die Chancen, Risiken und Gefahren der person
 ```toc
 exclude: Inhaltsverzeichnis
 from-heading: 2
-to-heading: 6
+to-heading: 4
 ```
-
-## Inhaltsverzeichnis (Element)
-Das Inhaltsverzeichnis kann über ein `toc` (Table of Contents) Code-Block gesteuert werden.
-* `exclude` – welcher Titel soll nicht im Inhaltsverzeichnis erscheinen
-* `from-heading` – erste Stufe, die ausgegeben werden soll. `2` = `h2`
-* `to-heading` – letzte Stufe, die ausgegeben werden soll. `6` = `h6`
-
-### Eingabe
-
-````md
-```toc
-exclude: Inhaltsverzeichnis
-from-heading: 2
-to-heading: 6
-```
-````
-
-### Darstellung
-siehe oben
-<!--
-```toc
-exclude: Inhaltsverzeichnis
-from-heading: 2
-to-heading: 6
-``` -->
-
 
 
 ## 2. Grundlagen der personalisierten Online-Werbung
@@ -159,163 +133,6 @@ Die Wirtschaft hat das Potential der Daten und deren Auswertung für die Persona
 Das Ziel der Werbung war es schon immer, einen Einfluss auf die Betrachtenden zu nehmen und sie dadurch in einer gewissen Art zu beeinflussen. Das Prinzip ist also nichts Neues und existiert schon lange in der Werbung. Durch den Einfluss der Digitalisierung auf die Werbung hat sich also vor allem das Medium verändert. Durch Möglichkeiten des Targetings in der Werbung ist es den Werbetreibenden möglich geworden, die Konsumierenden direkter und persönlicher anzusprechen und zu bewerben. Dadurch können die Werbetreibenden bei den Konsumenten mehr emotionale Reaktionen erzeugen und damit Bedürfnisse zu kreieren und Einfluss auf dessen Kaufverhalten zu nehmen. Oftmals ist es für die Konsumierenden nicht nachvollziehbar, wie es zu der entsprechenden Werbung kam und wird daher oftmals auch nicht weiter hinterfragt. In diesem Fall können Konsumierende von der Werbung ohne deren Wissen manipuliert werden. Solange es im Datenschutzgesetz keine massgebende Änderungen gibt, ist es meiner Meinung nach wichtig, dass man sich des Konzepts der personalisierten Werbung im Internet bewusst ist und sich aktiv damit befasst, um ein Bewusstsein zu erlangen und dementsprechend eigenverantwortlich zu handeln. Die Werbung soll mit einem gesunden Misstrauen konsumiert werden. Schlussendlich liegt die Entscheidung über einen Kauf oder einer politischen Wahl bei jedem Einzelnen.  
 
 
-## Abbildungsverzeichnis
-
-Möchte man die Abbildungen (oder weitere Verzeichnisse) ausserhalb der Fussnoten pflegen, kann man die Fussnoten mit einem Gruppen-Prefix (`:gruppe:`) markieren:
-
-### Eingabe
-```md
-_Bild A_[^:fig:one]
-
-[^:fig:one]: ...
-```
-
-oder inline
-```md
-_Bild B_[^:fig:hier der Text]
-```
-### Darstellung
-
-_Bild A_[^:fig:one]
-_Bild B_[^:fig:hier der Text]
-
-
-
-## Zitate
-Absätze mit Zitaten können speziell markiert werden.
-
-### Eingabe
-```md
-> Absatz als Zitat.[^quote-one]
-
-```
-
-### Darstellung
-> Absatz als Zitat.[^quote-one]
-
-
-## Bilder
-Wenn unter einem Bild direkt im Anschluss ein ausgezeichneter Text (`*text*`) steht, erhält dieser Text die Formatierung für Bildunterschriften.
-
-### Eingabe
-```md
-![Cat](./img/header.jpg)
-*Wow so miau. Much cute.[^:fig:pic-source]*
-```
-
-### Darstellung
-![Cat](./img/header.jpg)
-*Wow so miau. Much cute.[^:fig:pic-source]*
-
-
-## Video
-Videos sollten in eine responsive `Box` gepackt werden. Als Ratio kann 16:9, 4:3 oder 3:2 gangegeben werden.
-
-### Eingabe
-```md
-<Box ratio="16:9">
-
-<iframe src="https://player.vimeo.com/video/169809377" frameborder="0"></iframe>
-
-</Box>
-```
-
-### Darstellung
-
-<Box ratio="16-9">
-
-<iframe src="https://player.vimeo.com/video/169809377" frameborder="0"></iframe>
-
-</Box>
-
-
-
-## Grid – volle Breite
-### Eingabe
-
-```md
-<Grid>
-
-![Cat](./img/header.jpg)
-*Hello Cat[^:fig:pic-source]*
-
-</Grid>
-```
-
-### Darstellung
-
-<Grid>
-
-![Cat](./img/header.jpg)
-*Hello Cat[^:fig:pic-source]*
-
-</Grid>
-
-## Grid – volle Breite mit Hintergrund
-
-### Eingabe
-
-```html
-<Grid background>
-
-![Cat](./img/header.jpg)
-*Hello Cat[^:fig:pic-source]*
-
-</Grid>
-```
-
-### Darstellung
-
-
-<Grid background>
-
-![Cat](./img/header.jpg)
-*Hello Cat[^:fig:pic-source]*
-
-</Grid>
-
-
-## Grid – mit Spalten
-
-### Eingabe
-```md
-<Grid>
-<Column start="1" end="7">
-
-### Cat Column A
-...
-
-</Column>
-<Column start="7" end="13">
-
-### Cat Column B
-...
-
-</Column>
-</Grid>
-```
-
-### Darstellung
-
-<Grid>
-<Column start="1" end="7">
-
-### Cat Column A
-![Cat](./img/header.jpg)
-*Hello Cat[^:fig:pic-source]*
-
-</Column>
-<Column start="7" end="13">
-
-### Cat Column B
-![Cat](./img/header.jpg)
-*Hello Cat[^:fig:pic-source]*
-
-</Column>
-</Grid>
-
-
-
 <!-- references text-->
 
 <!--
@@ -345,7 +162,7 @@ Vorname Nachname, Buchtitel, Auflage, Verlag, Erscheinungsort Jahr, erste Seite�
 ```
 
 ## Abbildungsverzeichnis
-(Kann auch bei Einzelnachweis gepflegt werden)
+
 
 ```references
 # gets repalced with footnotes
