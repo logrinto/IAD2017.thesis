@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Thesis IAD2017]]></title><description><![CDATA[A starter blog ...]]></description><link>https://thesis.logrinto.ch</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 09 Jan 2020 01:19:32 GMT</lastBuildDate><item><title><![CDATA[Thesis]]></title><description><![CDATA[Schule für Gestaltung Zürich · 2019 · CC-BY-SA 4.0 Dokumentation Beispiel · Stefan Huber Pascale Anderegg Stephanie Fuchs Severin Kilchhofer…]]></description><link>https://thesis.logrinto.chroot</link><guid isPermaLink="false">https://thesis.logrinto.chroot</guid><content:encoded>&lt;div class=&quot;column__text&quot;&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Thesis IAD2017]]></title><description><![CDATA[A starter blog ...]]></description><link>https://thesis.logrinto.ch</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 09 Jan 2020 01:25:18 GMT</lastBuildDate><item><title><![CDATA[Thesis]]></title><description><![CDATA[Schule für Gestaltung Zürich · 2019 · CC-BY-SA 4.0 Dokumentation Beispiel · Stefan Huber Pascale Anderegg Stephanie Fuchs Severin Kilchhofer…]]></description><link>https://thesis.logrinto.chroot</link><guid isPermaLink="false">https://thesis.logrinto.chroot</guid><content:encoded>&lt;div class=&quot;column__text&quot;&gt;
 &lt;p&gt;&lt;a href=&quot;https://sfgz.ch/&quot;&gt;Schule für Gestaltung Zürich&lt;/a&gt; · 2019 · &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;&lt;/p&gt;
 &lt;br /&gt;
 &lt;br /&gt;
@@ -18,10 +18,8 @@
 &lt;li&gt;&lt;a href=&quot;/posts/2020/lars/&quot;&gt;Lars Mäder&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;/posts/2020/nils/&quot;&gt;Nils Mäder&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;/posts/2020/tieukhe/&quot;&gt;Tieu Khe Mayer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&quot;/posts/2020/natasha/&quot;&gt;Natasha Ruf&lt;/a&gt;&lt;/p&gt;
-&lt;!-- * [Wolfgang Schoeck](/posts/2020/wolfgang/) --&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/posts/2020/natasha/&quot;&gt;Natasha Ruf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/posts/2020/wolfgang/&quot;&gt;Wolfgang Schoeck&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;/posts/2020/nicole/&quot;&gt;Nicole Watrinet&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Personalisierte Werbung]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
@@ -260,7 +258,7 @@ sonstiges &lt;br/&gt;
 &lt;a href=&quot;#fnref-2&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Kontaktloses Bezahlen – Der Pferdesport auf dem Weg zu modernen Technologien]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Der Pferdesport auf dem Weg zu modernen Technologien]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
 import Grid from 'gatsby-theme-signalwerk/src/components/Grid';
 import…]]></description><link>https://thesis.logrinto.ch/posts/2020/steffi/</link><guid isPermaLink="false">https://thesis.logrinto.ch/posts/2020/steffi/</guid><pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;
 import Grid from &apos;gatsby-theme-signalwerk/src/components/Grid&apos;;
@@ -273,7 +271,16 @@ import Box from &apos;gatsby-theme-signalwerk/src/components/Box&apos;;&lt;/p&gt
 from-heading: 2
 to-heading: 6&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h3&gt;Problemstellung&lt;/h3&gt;
+&lt;p&gt;Im Pferdesport wurden bis 2017 Start- und Logiekosten sowie Gewinngelder in Bargeld oder per Banküberweisung bezahlt. Im Jahr 2019 haben erstmals mehrere Schweizer Pferdesportanlässe den Dienst EventClearing eingeführt, welcher ein einfaches, kontaktloses Abwickeln aller Geldtransaktionen im Rahmen von Pferdesport-Events ermöglicht.&lt;/p&gt;
+&lt;p&gt;In der vorliegenden Thesis soll daher untersucht werden, wo es im Bezug auf die Nutzung von kontaktlosem Bezahlen im Pferdesport noch Vorbehalte gibt und wieso, beziehungsweise ob und wie diese vom Design abhängig sind. Dabei soll ermittelt werden, worauf die Akzeptanz von kontaktlosen Bezahlsystemen basiert und wohin die Tendenz in der Zukunft gehen soll.&lt;/p&gt;
 &lt;h3&gt;Fragestellung&lt;/h3&gt;
+&lt;p&gt;Entsprechend der Problemstellung sollen im Rahmen der vorliegenden Arbeit die nachfolgenden Forschungsfragen beantwortet werden:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Welche Hemmschwellen verhindern die Nutzung von kontaktlosen Bezahlmöglichkeiten?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Welchen Einfluss hat das Interface auf die Entscheidung für kontaktloses Bezahlen?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unter welchen Erfolgsfaktoren kann sich EventClearing im Pferdesport etablieren?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Diese Fragen werden anhand einer Recherche in der relevanten Fachliteratur sowie einer Umfrage unter Teilnehmerinnen und Teilnehmern von Pferdesportevents beantwortet.&lt;/p&gt;
 &lt;h3&gt;Methode und Aufbau&lt;/h3&gt;
 &lt;h2&gt;Kontaktloses Bezahlen&lt;/h2&gt;
 &lt;h3&gt;Funktionsweise des kontaktlosen Bezahlens&lt;/h3&gt;
@@ -515,17 +522,30 @@ Im Jahr 2017 schaltete der Schweizerische Verband für Pferdesport auf seiner We
 &lt;p&gt;Laut Philipp Züger, OK-Präsident der Pferdesporttage Galgenen, welche eine Pilot-Veranstaltung war, bringt EventClearing auch für die Veranstalterinnen und Veranstalter sehr viele Vorteile.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;«Auf nationaler Ebene sehe ich vor allem für die Organisatoren grosse Vorteile mit ‘EventClearing’», erklärt Züger. Gut zwei Dutzend Prüfungen – von Jungpferdeprüfungen bis N 155 – werden in Galgenen ausgetragen. Bisher habe er jeweils anhand einer Exceltabelle für jede einzelne Prüfung mühsam ermittelt, wie viele Banknoten er für sämtliche Platzierten benötigte, das Geld entsprechend bei der Bank bestellt, abgeholt und bis zur Verwendung sicher verwahrt: «Zum Glück haben wir dafür einen Firmentresor, denn wir sprechen von einem Preisgeld in der Höhe von 70 000 bis 80 000 Franken, das wir auszahlen.»&lt;/em&gt;&lt;/p&gt;
 &lt;h2&gt;Umfrage&lt;/h2&gt;
+&lt;p&gt;Um umfassende Informationen zum Thema kontaktloses Bezahlen in Bezug auf Pferdesportveranstaltungen zu erhalte, wurde im Rahmen dieser Arbeit eine Umfrage unter Reiterinnen und Reitern durchgeführt. Dabei wurden 20 Personen verschiedener Altersklassen befragt, die aktuell an Pferdesportturnieren teilnehmen.&lt;/p&gt;
 &lt;h3&gt;Methodische Vorgehensweise&lt;/h3&gt;
+&lt;p&gt;Die Umfrage «Kontaktloses Bezahlen im Pferdesport – Status Quo, Möglichkeiten und Perspektiven» wurde im November 2019 erstellt und war über den Onlinedienst survio.com verfügbar. Der Link zu der Umfrage wurde über WhatsApp an aktive Turnierreiterinnen und Turnierreiter aller Altersgruppen verschickt und war während einer Woche erreichbar. Durch diese Umfrage sollte ersichtlich werden, inwiefern Reiterinnen und Reiter mit kontaktlosem Bezahlen vertraut sind und worauf allfällige Bedenken zurückzuführen sind. In einem nächsten Schritt wurde eruiert, ob sie EventClearing bereits kennen und wie sie dazu stehen. Die Antworten wurden anonym gesammelt und direkt über survio.com ausgewertet.&lt;/p&gt;
 &lt;h3&gt;Ergebnisse&lt;/h3&gt;
+&lt;p&gt;Als erstes wurde nach dem Kenntnisstand bezüglich  kontaktlosem Bezahlen gefragt. 100 % der Befragten gaben an, zu wissen, was mit kontaktlosem Bezahlen gemeint ist und wie dies funktioniert. Auf die Frage, ob sie diese Funktion nutzen, haben 50 % angegeben, schon einmal mit einer Debit- oder Kreditkarte kontaktlos bezahlt zu haben. 40 % der Befragten gaben an, ausserdem bereits kontaktlos mit einer Applikation auf ihrem Smartphone bezahlt zu haben, während 5 % bis anhin nur mittels Bezahlapplikation auf dem Smartphone kontaktlos bezahlt haben. &lt;/p&gt;
+&lt;p&gt;Genauere Hinweise auf die möglicherweise vorhandene Hemmschwelle zur Nutzung dieser Technologie liefert die Frage, ob es die Befragten Überwindung gekostet hat, kontaktlos zu bezahlen. 80 % der Befragten gaben an, dass sie das kontaktlose Bezahlen keine Überwindung kostete und sie dieses ohne Bedenken ausführten. Der Entscheid, die Technologie zu nutzten, war an die Vermutung geknüpft, dass diese schon funktionieren werde. Dieses Vertrauen in die Technologie spiegelt sich auch in den Details der Antworten wieder. 65 % der Befragten gaben an, bei der Anwendung in keiner Art und Weise sicherheitstechnische Bedenken gehabt zu haben. 15 % hatten Zweifel und machten sich Sorgen um die Sicherheit des Geldes oder der Daten. Nur 5 % der Befragten hatten jedoch gravierende Zweifel, womit für sie die Hemmschwelle zur Nutzung des kontaktlosen Bezahlens zu gross war. &lt;/p&gt;
+&lt;p&gt;In Bezug auf den Einfluss von Benutzerführung und Interface auf die Entscheidung für oder gegen kontaktloses Bezahlen gaben 45 % der befragten Reiterinnen und Reiter an, eine Applikation nicht zu verwenden, wenn sie aus ihrer Sicht zu kompliziert ist. Lediglich 15 % meinten, sie würden sich unabhängig von der Komplexität der App ihr annehmen und sie erlernen. 40 % gaben an, eine komplexe Applikation nur dann zu benutzen, wenn sie dazu gezwungen werden beziehungsweise wenn die App ein Bestandteil des ganzen Systems ist und somit  nicht umgangen werden kann.&lt;/p&gt;
+&lt;p&gt;55% aller befragten ReiterInnen kennen EventClearing und schätzen es. Weitere 30% haben noch nichts davon gehört, finden die Idee aber sehr gut. Lediglich 15% konnten sich bis anhin nicht damit anfreunden. &lt;/p&gt;
+&lt;p&gt;90% der Befragten vertrauen der Technologie voll und ganz. Niemand hatte bei der Verwendung von EventClearing Bedenken oder würde auf Grund ihrer eine solche Veranstaltung in Zukunft meiden. Lediglich 10% möchten sich vor einer Verwendung zuerst besser informieren. &lt;/p&gt;
+&lt;p&gt;Abschliessend gaben die Befragten an, dass sie auch das Wearable Armband von EventClearing benutzen würden um vor Ort kontaktlos zu bezahlen. 55% der ReiterInnen wollen es benutzen, obwohl diese Technologie aktuell nicht sehr weit verbreitet ist. Weitere 25% sind sich noch nicht sicher und 20% möchten auf die Verwendung dieses Wearable verzichten.&lt;/p&gt;
 &lt;h2&gt;Fazit&lt;/h2&gt;
-&lt;p&gt;[Kapiteleinleitung, kurz zusammenfassen, was in diesem Kapitel passiert, 1-2 Sätze]&lt;/p&gt;
+&lt;p&gt;XXX
+[Kapiteleinleitung, kurz zusammenfassen, was in diesem Kapitel passiert, 1-2 Sätze]&lt;/p&gt;
 &lt;h3&gt;Diskussion der Ergebnisse&lt;/h3&gt;
+&lt;p&gt;Die Antworten decken sich mit jenen bisheriger Studien und zeigen eine zunehmende Akzeptanz moderner Bezahlstrukturen.
+Trotz vorhandener Skepsis bei der internationalen Einführung von EventClearing 2016, wird es drei Jahre später von nationalen und internationalen ReiterInnen sehr geschätzt.
+Sicherheitstechnisch gesehen gibt es bei EventClearing sehr wenig Bedenken.&lt;/p&gt;
 &lt;h3&gt;Beantwortung der Fragestellung&lt;/h3&gt;
 &lt;p&gt;Im Folgenden sollen die beiden einleitend gestellten Forschungsfragen basierend auf den Ergebnissen dieser Arbeit beantwortet werden.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Welche Hemmschwellen verhindern die Nutzung von kontaktlosen Bezahlmöglichkeiten?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Welche Hemmschwellen verhindern die Nutzung von kontaktlosen Bezahlmöglichkeiten?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Die Hemmschwelle bei der Nutzung von kontaktlosem Bezahlen wird einerseits durch individuelle Faktoren wie Alter, spezifische Lebensumstände, soziales Bezugsnetz und berufliche Einbettung bestimmt. Andererseits wird sowohl aus der Literatur als auch aus der Umfrage aber ersichtlich, dass die Argumente Sicherheit, Vertrauen und Convenience über alle sozialen Schichten hinweg bei der Entscheidung für oder gegen kontaktloses Bezahlen an erster Stelle stehen. Technologien ohne Interface sind bereits stark verbreitet und bekannt. Die Skepsis, diese zu nutzen, ist daher in den vergangenen Jahren beachtlich gesunken. &lt;/p&gt;
+&lt;p&gt; &lt;strong&gt;Welchen Einfluss hat das Interface auf die Entscheidung für kontaktloses Bezahlen?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Smartphone-Applikationen mit Interface haben hingegen tendenziell noch eine geringere Akzeptanz. Die Benutzerfreundlichkeit der Benutzeroberflächen wird dabei individuell sehr unterschiedlich wahrgenommen. Da Applikationen mit Interface weder obligatorisch noch autoritär eingeführt werden können, bleibt eine Auseinandersetzung der Benutzenden mit der Materie fakultativ und eine Nichtverwendung möglich.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Unter welchen Erfolgsfaktoren kann sich EventClearing im Pferdesport etablieren?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Unter welchen Erfolgsfaktoren kann sich EventClearing im Pferdesport etablieren?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Die Untersuchung zeigt, dass sich die Bezahlstruktur in der Gesellschaft generell sowie auch im Pferdesport in Richtung moderner kontaktloser Zahlungsmittel entwickelt. Um EventClearing und ähnliche Technologien erfolgreich zu etablieren, braucht es jedoch ein gut durchdachtes Konzept. Dabei ist es sinnvoll, auf Systeme und Technologien aufzubauen, welche den Benutzenden bereits bekannt sind, und dieses zu optimieren. Wie die Einführung des kontaktlosen Bezahlens mit Debit- und Kreditkarten können so auch andere Bezahlsysteme autoritär eingeführt werden, ohne dass ein allzu grosses Risiko besteht, dass sie nicht verstanden würden. Das bereits bekannte Verfahren mit seinen einfachen und praktischen Funktionen wirkt vertraut, vermittelt Sicherheit und wird dadurch als angenehm empfunden.&lt;/p&gt;
 &lt;p&gt;Ein weiterer wichtiger Faktor ist die Reichweite des Systems. Die Smartphone-Applikation Twint und NFC-Karten werden schweizweit an sehr vielen Bezahlstellen akzeptiert. Nahezu jedes EC-Terminal verfügt über eine Kontaktlos-Schnittstelle (auch VPay genannt) und über ein kleines Interface, das den Benutzenden neben dem zu zahlenden Preis einen QR-Code anzeigt, der eine Zahlung über Twint ermöglicht. Der Erfolg von Twint liegt mitunter auch in der simplen Gestaltung der Benutzeroberfläche. Die Benutzenden benötigen wenig Onboarding, um die Applikation verstehen und anwenden zu können. In der durchgeführten Umfrage gaben die Reiterinnen und Reiter zwar mehrheitlich an, Bezahl-Applikationen auch zu verwenden, wenn sie schwierig zu bedienen sind, falls keine andere Bezahlmöglichkeit besteht. Jedoch wird die Geschwindigkeit einer erfolgreichen Verbreitung dadurch deutlich reduziert, da weniger Empfehlungen ausgesprochen werden. Damit sich EventClearing in der Szene etablieren kann, ist ein sauberes Interface daher ein zentraler Erfolgsfaktor. Das kontaktlose Bezahlen über die App oder das Wearable sollte reibungslos und schnell funktionieren sowie innerhalb einer Veranstaltung überall akzeptiert werden, damit sich EventClearing längerfristig durchsetzen und eine breite Anwendung finden kann.&lt;/p&gt;
 &lt;h3&gt;Ausblick&lt;/h3&gt;
@@ -561,6 +581,382 @@ reference-text-suffix: &amp;#39; – &amp;#39;&lt;/code&gt;&lt;/pre&gt;&lt;/div&
 &lt;li id=&quot;fn-:fig:pic-source&quot;&gt;
 &lt;p&gt;Abbildung von &lt;a href=&quot;https://upload.wikimedia.org/wikipedia/commons/c/cb/QRCodeWikipedia.png&quot;&gt;https://de.wikipedia.org/wiki/QR-Code&lt;/a&gt;&lt;/p&gt;
 &lt;a href=&quot;#fnref-:fig:pic-source&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Quantified Self]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
+import Grid from 'gatsby-theme-signalwerk/src/components/Grid';
+import…]]></description><link>https://thesis.logrinto.ch/posts/2020/tieukhe/</link><guid isPermaLink="false">https://thesis.logrinto.ch/posts/2020/tieukhe/</guid><pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;
+import Grid from &apos;gatsby-theme-signalwerk/src/components/Grid&apos;;
+import Column from &apos;gatsby-theme-signalwerk/src/components/Column&apos;;
+import Box from &apos;gatsby-theme-signalwerk/src/components/Box&apos;;&lt;/p&gt;
+&lt;h2&gt;Intro&lt;/h2&gt;
+&lt;p&gt;Grundsätzlich verhält sich das Template wie normaler Markdown-Text. Es gibt aber einige erweiterte Funktionen. Für weitere Infos siehe &lt;a href=&quot;https://github.com/signalwerk/gatsby-theme-signalwerk&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Inhaltsverzeichnis&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;toc&quot;&gt;&lt;pre class=&quot;language-toc&quot;&gt;&lt;code class=&quot;language-toc&quot;&gt;exclude: Inhaltsverzeichnis
+from-heading: 2
+to-heading: 6&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;Inhaltsverzeichnis (Element)&lt;/h2&gt;
+&lt;p&gt;Das Inhaltsverzeichnis kann über ein &lt;code class=&quot;language-text&quot;&gt;toc&lt;/code&gt; (Table of Contents) Code-Block gesteuert werden.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;exclude&lt;/code&gt; – welcher Titel soll nicht im Inhaltsverzeichnis erscheinen&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;from-heading&lt;/code&gt; – erste Stufe, die ausgegeben werden soll. &lt;code class=&quot;language-text&quot;&gt;2&lt;/code&gt; = &lt;code class=&quot;language-text&quot;&gt;h2&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;to-heading&lt;/code&gt; – letzte Stufe, die ausgegeben werden soll. &lt;code class=&quot;language-text&quot;&gt;6&lt;/code&gt; = &lt;code class=&quot;language-text&quot;&gt;h6&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token code&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;```&lt;/span&gt;&lt;span class=&quot;token code-language&quot;&gt;toc&lt;/span&gt;
+&lt;span class=&quot;token code-block language-toc&quot;&gt;exclude: Inhaltsverzeichnis
+from-heading: 2
+to-heading: 6&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;```&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;p&gt;siehe oben&lt;/p&gt;
+&lt;!--
+```toc
+exclude: Inhaltsverzeichnis
+from-heading: 2
+to-heading: 6
+``` --&gt;
+&lt;h2&gt;Text&lt;/h2&gt;
+&lt;Margin&gt;
+&lt;h3&gt;Marginalie&lt;/h3&gt;
+&lt;p&gt;Text Marginalie · Randspalten mit &lt;code class=&quot;language-text&quot;&gt;&amp;lt;Margin&amp;gt;&amp;lt;/Margin&amp;gt;&lt;/code&gt;-Tags umschliessen.&lt;/p&gt;
+&lt;/Margin&gt;
+&lt;p&gt;Text · Normaler Text kann wie in Markdown üblich verfasst werden.&lt;/p&gt;
+&lt;h2&gt;Listen&lt;/h2&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Item A
+&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Item B
+&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Item C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Item A&lt;/li&gt;
+&lt;li&gt;Item B&lt;/li&gt;
+&lt;li&gt;Item C&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Nummerierte Listen&lt;/h2&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; Item 1
+&lt;span class=&quot;token list punctuation&quot;&gt;2.&lt;/span&gt; Item 2
+&lt;span class=&quot;token list punctuation&quot;&gt;3.&lt;/span&gt; Item 3&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Item 1&lt;/li&gt;
+&lt;li&gt;Item 2&lt;/li&gt;
+&lt;li&gt;Item 3&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Code&lt;/h2&gt;
+&lt;p&gt;Code kann entweder als Block oder Inline eingegeben werden.&lt;/p&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;Inline &lt;span class=&quot;token code keyword&quot;&gt;`code`&lt;/span&gt;
+
+&lt;span class=&quot;token code&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;```&lt;/span&gt;&lt;span class=&quot;token code-language&quot;&gt;js&lt;/span&gt;
+&lt;span class=&quot;token code-block language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; kk &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;kk&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;```&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;p&gt;Inline &lt;code class=&quot;language-text&quot;&gt;code&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; kk &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;kk&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;Fussnoten&lt;/h2&gt;
+&lt;p&gt;Text mit Fussnoten kann wie in Markdown üblich entweder mit Referenzen gemacht werden:&lt;/p&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;«Zitat A»&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;/span&gt;[^quote-one]
+
+&lt;span class=&quot;token url-reference url&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;^quote-one&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; ...&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;oder inline&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;«Zitat B»&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;/span&gt;[^hier der Text]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;«Zitat A»&lt;/em&gt;&lt;sup id=&quot;fnref-quote-one&quot;&gt;&lt;a href=&quot;#fn-quote-one&quot; class=&quot;footnote-ref&quot;&gt;quote-one&lt;/a&gt;&lt;/sup&gt;
+&lt;em&gt;«Zitat B»&lt;/em&gt;&lt;sup id=&quot;fnref-1&quot;&gt;&lt;a href=&quot;#fn-1&quot; class=&quot;footnote-ref&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h2&gt;Abbildungsverzeichnis&lt;/h2&gt;
+&lt;p&gt;Möchte man die Abbildungen (oder weitere Verzeichnisse) ausserhalb der Fussnoten pflegen, kann man die Fussnoten mit einem Gruppen-Prefix (&lt;code class=&quot;language-text&quot;&gt;:gruppe:&lt;/code&gt;) markieren:&lt;/p&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Bild A&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;/span&gt;[^:fig:one]
+
+&lt;span class=&quot;token url-reference url&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;^:fig:one&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; ...&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;oder inline&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Bild B&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;/span&gt;[^:fig:hier der Text]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Bild A&lt;/em&gt;&lt;sup id=&quot;fnref-:fig:one&quot;&gt;&lt;a href=&quot;#fn-:fig:one&quot; class=&quot;footnote-ref&quot;&gt;:fig:one&lt;/a&gt;&lt;/sup&gt;
+&lt;em&gt;Bild B&lt;/em&gt;&lt;sup id=&quot;fnref-2&quot;&gt;&lt;a href=&quot;#fn-2&quot; class=&quot;footnote-ref&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h2&gt;Zitate&lt;/h2&gt;
+&lt;p&gt;Absätze mit Zitaten können speziell markiert werden.&lt;/p&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token blockquote punctuation&quot;&gt;&gt;&lt;/span&gt; Absatz als Zitat.[^quote-one]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Absatz als Zitat.&lt;sup id=&quot;fnref-quote-one&quot;&gt;&lt;a href=&quot;#fn-quote-one&quot; class=&quot;footnote-ref&quot;&gt;quote-one&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;Bilder&lt;/h2&gt;
+&lt;p&gt;Wenn unter einem Bild direkt im Anschluss ein ausgezeichneter Text (&lt;code class=&quot;language-text&quot;&gt;*text*&lt;/code&gt;) steht, erhält dieser Text die Formatierung für Bildunterschriften.&lt;/p&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token url&quot;&gt;![&lt;span class=&quot;token content&quot;&gt;Cat&lt;/span&gt;](./img/header.jpg)&lt;/span&gt;
+&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Wow so miau. Much cute.[^:fig:pic-source]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Cat&quot;
+        title=&quot;Cat&quot;
+        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
+/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
+/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
+        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Wow so miau. Much cute.&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Video&lt;/h2&gt;
+&lt;p&gt;Videos sollten in eine responsive &lt;code class=&quot;language-text&quot;&gt;Box&lt;/code&gt; gepackt werden. Als Ratio kann 16:9, 4:3 oder 3:2 gangegeben werden.&lt;/p&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Box&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;ratio&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;16:9&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;iframe&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;src&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;https://player.vimeo.com/video/169809377&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;frameborder&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;0&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;iframe&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Box&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;Box ratio=&quot;16-9&quot;&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/169809377&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;/Box&gt;
+&lt;h2&gt;Grid – volle Breite&lt;/h2&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token url&quot;&gt;![&lt;span class=&quot;token content&quot;&gt;Cat&lt;/span&gt;](./img/header.jpg)&lt;/span&gt;
+&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Hello Cat[^:fig:pic-source]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;Grid&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Cat&quot;
+        title=&quot;Cat&quot;
+        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
+/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
+/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
+        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Hello Cat&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/Grid&gt;
+&lt;h2&gt;Grid – volle Breite mit Hintergrund&lt;/h2&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;html&quot;&gt;&lt;pre class=&quot;language-html&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Grid&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;background&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+![Cat](./img/header.jpg)
+*Hello Cat[^:fig:pic-source]*
+
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;Grid background&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Cat&quot;
+        title=&quot;Cat&quot;
+        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
+/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
+/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
+        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Hello Cat&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/Grid&gt;
+&lt;h2&gt;Grid – mit Spalten&lt;/h2&gt;
+&lt;h3&gt;Eingabe&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Column&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;start&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;1&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;end&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;7&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token title important&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;###&lt;/span&gt; Cat Column A&lt;/span&gt;
+...
+
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Column&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Column&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;start&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;7&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;end&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;13&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+&lt;span class=&quot;token title important&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;###&lt;/span&gt; Cat Column B&lt;/span&gt;
+...
+
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Column&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Darstellung&lt;/h3&gt;
+&lt;Grid&gt;
+&lt;Column start=&quot;1&quot; end=&quot;7&quot;&gt;
+&lt;h3&gt;Cat Column A&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Cat&quot;
+        title=&quot;Cat&quot;
+        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
+/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
+/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
+        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Hello Cat&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/Column&gt;
+&lt;Column start=&quot;7&quot; end=&quot;13&quot;&gt;
+&lt;h3&gt;Cat Column B&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Cat&quot;
+        title=&quot;Cat&quot;
+        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
+        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
+/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
+/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
+        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Hello Cat&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/Column&gt;
+&lt;/Grid&gt;
+&lt;!-- references text--&gt;
+&lt;!--
+Vorname Nachname, [Titel der Seite](https://www.google.com/) (Abrufdatum: dd. mm. yyyy).
+Vorname Nachname, Buchtitel, Auflage, Verlag, Erscheinungsort Jahr, erste Seite – letzte Seite.
+--&gt;
+&lt;!-- references figures--&gt;
+&lt;h2&gt;Einzelnachweise&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;references&quot;&gt;&lt;pre class=&quot;language-references&quot;&gt;&lt;code class=&quot;language-references&quot;&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;Abbildungsverzeichnis&lt;/h2&gt;
+&lt;p&gt;(Kann auch bei Einzelnachweis gepflegt werden)&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;references&quot;&gt;&lt;pre class=&quot;language-references&quot;&gt;&lt;code class=&quot;language-references&quot;&gt;# gets repalced with footnotes
+group-include: fig
+
+inline-link-prefix: &amp;#39;Fig. &amp;#39;
+
+reference-link-prefix: &amp;#39;↑ Fig. &amp;#39;
+reference-link-suffix: &amp;#39;&amp;#39;
+
+reference-text-suffix: &amp;#39; – &amp;#39;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;Grid&gt;
+&lt;hr&gt;
+&lt;Column start=&quot;1&quot; end=&quot;5&quot;&gt;
+&lt;h4&gt;Mentoring durch&lt;/h4&gt;
+&lt;p&gt;Vorname Nachname &lt;br/&gt;
+HFIAD 2017 &lt;br/&gt;
+Schule für Gestaltung Zürich &lt;br/&gt;
+&lt;a href=&quot;mailto:name@xyz.ch&quot;&gt;name@xyz.ch&lt;/a&gt;&lt;/p&gt;
+&lt;/Column&gt;
+&lt;Column start=&quot;5&quot; end=&quot;13&quot;&gt;
+&lt;h4&gt;Vorgelegt von&lt;/h4&gt;
+&lt;p&gt;Vorname Nachname &lt;br/&gt;
+sonstiges &lt;br/&gt;
+&lt;a href=&quot;mailto:name@xyz.ch&quot;&gt;name@xyz.ch&lt;/a&gt;
+&lt;/Column&gt;&lt;/p&gt;
+&lt;/Grid&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&quot;fn-quote-one&quot;&gt;
+&lt;p&gt;Beispiel für Fussnote&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-one&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-:fig:one&quot;&gt;
+&lt;p&gt;Beispiel für Abbildungsverzeichnis.&lt;/p&gt;
+&lt;a href=&quot;#fnref-:fig:one&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-:fig:pic-source&quot;&gt;
+&lt;p&gt;Abbildung von &lt;a href=&quot;http://lorempixel.com/800/600/cats/1&quot;&gt;lorempixel.com&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;#fnref-:fig:pic-source&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-1&quot;&gt;
+&lt;p&gt;hier der Text&lt;/p&gt;
+&lt;a href=&quot;#fnref-1&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-2&quot;&gt;
+&lt;p&gt;:fig:hier der Text&lt;/p&gt;
+&lt;a href=&quot;#fnref-2&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Titel der Arbeit]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
@@ -1315,382 +1711,6 @@ sonstiges &lt;br/&gt;
 &lt;a href=&quot;#fnref-2&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Quantified Self]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
-import Grid from 'gatsby-theme-signalwerk/src/components/Grid';
-import…]]></description><link>https://thesis.logrinto.ch/posts/2020/tieukhe/</link><guid isPermaLink="false">https://thesis.logrinto.ch/posts/2020/tieukhe/</guid><pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;
-import Grid from &apos;gatsby-theme-signalwerk/src/components/Grid&apos;;
-import Column from &apos;gatsby-theme-signalwerk/src/components/Column&apos;;
-import Box from &apos;gatsby-theme-signalwerk/src/components/Box&apos;;&lt;/p&gt;
-&lt;h2&gt;Intro&lt;/h2&gt;
-&lt;p&gt;Grundsätzlich verhält sich das Template wie normaler Markdown-Text. Es gibt aber einige erweiterte Funktionen. Für weitere Infos siehe &lt;a href=&quot;https://github.com/signalwerk/gatsby-theme-signalwerk&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;
-&lt;h2&gt;Inhaltsverzeichnis&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;toc&quot;&gt;&lt;pre class=&quot;language-toc&quot;&gt;&lt;code class=&quot;language-toc&quot;&gt;exclude: Inhaltsverzeichnis
-from-heading: 2
-to-heading: 6&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;Inhaltsverzeichnis (Element)&lt;/h2&gt;
-&lt;p&gt;Das Inhaltsverzeichnis kann über ein &lt;code class=&quot;language-text&quot;&gt;toc&lt;/code&gt; (Table of Contents) Code-Block gesteuert werden.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;exclude&lt;/code&gt; – welcher Titel soll nicht im Inhaltsverzeichnis erscheinen&lt;/li&gt;
-&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;from-heading&lt;/code&gt; – erste Stufe, die ausgegeben werden soll. &lt;code class=&quot;language-text&quot;&gt;2&lt;/code&gt; = &lt;code class=&quot;language-text&quot;&gt;h2&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;to-heading&lt;/code&gt; – letzte Stufe, die ausgegeben werden soll. &lt;code class=&quot;language-text&quot;&gt;6&lt;/code&gt; = &lt;code class=&quot;language-text&quot;&gt;h6&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token code&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;```&lt;/span&gt;&lt;span class=&quot;token code-language&quot;&gt;toc&lt;/span&gt;
-&lt;span class=&quot;token code-block language-toc&quot;&gt;exclude: Inhaltsverzeichnis
-from-heading: 2
-to-heading: 6&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;```&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;p&gt;siehe oben&lt;/p&gt;
-&lt;!--
-```toc
-exclude: Inhaltsverzeichnis
-from-heading: 2
-to-heading: 6
-``` --&gt;
-&lt;h2&gt;Text&lt;/h2&gt;
-&lt;Margin&gt;
-&lt;h3&gt;Marginalie&lt;/h3&gt;
-&lt;p&gt;Text Marginalie · Randspalten mit &lt;code class=&quot;language-text&quot;&gt;&amp;lt;Margin&amp;gt;&amp;lt;/Margin&amp;gt;&lt;/code&gt;-Tags umschliessen.&lt;/p&gt;
-&lt;/Margin&gt;
-&lt;p&gt;Text · Normaler Text kann wie in Markdown üblich verfasst werden.&lt;/p&gt;
-&lt;h2&gt;Listen&lt;/h2&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Item A
-&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Item B
-&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Item C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Item A&lt;/li&gt;
-&lt;li&gt;Item B&lt;/li&gt;
-&lt;li&gt;Item C&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Nummerierte Listen&lt;/h2&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; Item 1
-&lt;span class=&quot;token list punctuation&quot;&gt;2.&lt;/span&gt; Item 2
-&lt;span class=&quot;token list punctuation&quot;&gt;3.&lt;/span&gt; Item 3&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;Code&lt;/h2&gt;
-&lt;p&gt;Code kann entweder als Block oder Inline eingegeben werden.&lt;/p&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;Inline &lt;span class=&quot;token code keyword&quot;&gt;`code`&lt;/span&gt;
-
-&lt;span class=&quot;token code&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;```&lt;/span&gt;&lt;span class=&quot;token code-language&quot;&gt;js&lt;/span&gt;
-&lt;span class=&quot;token code-block language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; kk &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;kk&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;```&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;p&gt;Inline &lt;code class=&quot;language-text&quot;&gt;code&lt;/code&gt;&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; kk &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;kk&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;Fussnoten&lt;/h2&gt;
-&lt;p&gt;Text mit Fussnoten kann wie in Markdown üblich entweder mit Referenzen gemacht werden:&lt;/p&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;«Zitat A»&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;/span&gt;[^quote-one]
-
-&lt;span class=&quot;token url-reference url&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;^quote-one&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; ...&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;oder inline&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;«Zitat B»&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;/span&gt;[^hier der Text]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;«Zitat A»&lt;/em&gt;&lt;sup id=&quot;fnref-quote-one&quot;&gt;&lt;a href=&quot;#fn-quote-one&quot; class=&quot;footnote-ref&quot;&gt;quote-one&lt;/a&gt;&lt;/sup&gt;
-&lt;em&gt;«Zitat B»&lt;/em&gt;&lt;sup id=&quot;fnref-1&quot;&gt;&lt;a href=&quot;#fn-1&quot; class=&quot;footnote-ref&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;h2&gt;Abbildungsverzeichnis&lt;/h2&gt;
-&lt;p&gt;Möchte man die Abbildungen (oder weitere Verzeichnisse) ausserhalb der Fussnoten pflegen, kann man die Fussnoten mit einem Gruppen-Prefix (&lt;code class=&quot;language-text&quot;&gt;:gruppe:&lt;/code&gt;) markieren:&lt;/p&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Bild A&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;/span&gt;[^:fig:one]
-
-&lt;span class=&quot;token url-reference url&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;^:fig:one&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; ...&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;oder inline&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Bild B&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;/span&gt;[^:fig:hier der Text]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Bild A&lt;/em&gt;&lt;sup id=&quot;fnref-:fig:one&quot;&gt;&lt;a href=&quot;#fn-:fig:one&quot; class=&quot;footnote-ref&quot;&gt;:fig:one&lt;/a&gt;&lt;/sup&gt;
-&lt;em&gt;Bild B&lt;/em&gt;&lt;sup id=&quot;fnref-2&quot;&gt;&lt;a href=&quot;#fn-2&quot; class=&quot;footnote-ref&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;h2&gt;Zitate&lt;/h2&gt;
-&lt;p&gt;Absätze mit Zitaten können speziell markiert werden.&lt;/p&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token blockquote punctuation&quot;&gt;&gt;&lt;/span&gt; Absatz als Zitat.[^quote-one]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Absatz als Zitat.&lt;sup id=&quot;fnref-quote-one&quot;&gt;&lt;a href=&quot;#fn-quote-one&quot; class=&quot;footnote-ref&quot;&gt;quote-one&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;Bilder&lt;/h2&gt;
-&lt;p&gt;Wenn unter einem Bild direkt im Anschluss ein ausgezeichneter Text (&lt;code class=&quot;language-text&quot;&gt;*text*&lt;/code&gt;) steht, erhält dieser Text die Formatierung für Bildunterschriften.&lt;/p&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token url&quot;&gt;![&lt;span class=&quot;token content&quot;&gt;Cat&lt;/span&gt;](./img/header.jpg)&lt;/span&gt;
-&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Wow so miau. Much cute.[^:fig:pic-source]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Cat&quot;
-        title=&quot;Cat&quot;
-        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
-/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
-/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
-        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;
-&lt;em&gt;Wow so miau. Much cute.&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;Video&lt;/h2&gt;
-&lt;p&gt;Videos sollten in eine responsive &lt;code class=&quot;language-text&quot;&gt;Box&lt;/code&gt; gepackt werden. Als Ratio kann 16:9, 4:3 oder 3:2 gangegeben werden.&lt;/p&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Box&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;ratio&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;16:9&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;iframe&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;src&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;https://player.vimeo.com/video/169809377&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;frameborder&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;0&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;iframe&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Box&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;Box ratio=&quot;16-9&quot;&gt;
-&lt;iframe src=&quot;https://player.vimeo.com/video/169809377&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
-&lt;/Box&gt;
-&lt;h2&gt;Grid – volle Breite&lt;/h2&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-
-&lt;span class=&quot;token url&quot;&gt;![&lt;span class=&quot;token content&quot;&gt;Cat&lt;/span&gt;](./img/header.jpg)&lt;/span&gt;
-&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Hello Cat[^:fig:pic-source]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;/span&gt;
-
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;Grid&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Cat&quot;
-        title=&quot;Cat&quot;
-        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
-/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
-/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
-        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;
-&lt;em&gt;Hello Cat&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;/Grid&gt;
-&lt;h2&gt;Grid – volle Breite mit Hintergrund&lt;/h2&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;html&quot;&gt;&lt;pre class=&quot;language-html&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Grid&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;background&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-
-![Cat](./img/header.jpg)
-*Hello Cat[^:fig:pic-source]*
-
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;Grid background&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Cat&quot;
-        title=&quot;Cat&quot;
-        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
-/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
-/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
-        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;
-&lt;em&gt;Hello Cat&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;/Grid&gt;
-&lt;h2&gt;Grid – mit Spalten&lt;/h2&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Column&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;start&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;1&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;end&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;7&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-
-&lt;span class=&quot;token title important&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;###&lt;/span&gt; Cat Column A&lt;/span&gt;
-...
-
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Column&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Column&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;start&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;7&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;end&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;13&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-
-&lt;span class=&quot;token title important&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;###&lt;/span&gt; Cat Column B&lt;/span&gt;
-...
-
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Column&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;Grid&gt;
-&lt;Column start=&quot;1&quot; end=&quot;7&quot;&gt;
-&lt;h3&gt;Cat Column A&lt;/h3&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Cat&quot;
-        title=&quot;Cat&quot;
-        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
-/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
-/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
-        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;
-&lt;em&gt;Hello Cat&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;/Column&gt;
-&lt;Column start=&quot;7&quot; end=&quot;13&quot;&gt;
-&lt;h3&gt;Cat Column B&lt;/h3&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Cat&quot;
-        title=&quot;Cat&quot;
-        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
-/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
-/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
-        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;
-&lt;em&gt;Hello Cat&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;/Column&gt;
-&lt;/Grid&gt;
-&lt;!-- references text--&gt;
-&lt;!--
-Vorname Nachname, [Titel der Seite](https://www.google.com/) (Abrufdatum: dd. mm. yyyy).
-Vorname Nachname, Buchtitel, Auflage, Verlag, Erscheinungsort Jahr, erste Seite – letzte Seite.
---&gt;
-&lt;!-- references figures--&gt;
-&lt;h2&gt;Einzelnachweise&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;references&quot;&gt;&lt;pre class=&quot;language-references&quot;&gt;&lt;code class=&quot;language-references&quot;&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;Abbildungsverzeichnis&lt;/h2&gt;
-&lt;p&gt;(Kann auch bei Einzelnachweis gepflegt werden)&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;references&quot;&gt;&lt;pre class=&quot;language-references&quot;&gt;&lt;code class=&quot;language-references&quot;&gt;# gets repalced with footnotes
-group-include: fig
-
-inline-link-prefix: &amp;#39;Fig. &amp;#39;
-
-reference-link-prefix: &amp;#39;↑ Fig. &amp;#39;
-reference-link-suffix: &amp;#39;&amp;#39;
-
-reference-text-suffix: &amp;#39; – &amp;#39;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;Grid&gt;
-&lt;hr&gt;
-&lt;Column start=&quot;1&quot; end=&quot;5&quot;&gt;
-&lt;h4&gt;Mentoring durch&lt;/h4&gt;
-&lt;p&gt;Vorname Nachname &lt;br/&gt;
-HFIAD 2017 &lt;br/&gt;
-Schule für Gestaltung Zürich &lt;br/&gt;
-&lt;a href=&quot;mailto:name@xyz.ch&quot;&gt;name@xyz.ch&lt;/a&gt;&lt;/p&gt;
-&lt;/Column&gt;
-&lt;Column start=&quot;5&quot; end=&quot;13&quot;&gt;
-&lt;h4&gt;Vorgelegt von&lt;/h4&gt;
-&lt;p&gt;Vorname Nachname &lt;br/&gt;
-sonstiges &lt;br/&gt;
-&lt;a href=&quot;mailto:name@xyz.ch&quot;&gt;name@xyz.ch&lt;/a&gt;
-&lt;/Column&gt;&lt;/p&gt;
-&lt;/Grid&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&quot;fn-quote-one&quot;&gt;
-&lt;p&gt;Beispiel für Fussnote&lt;/p&gt;
-&lt;a href=&quot;#fnref-quote-one&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
-&lt;/li&gt;
-&lt;li id=&quot;fn-:fig:one&quot;&gt;
-&lt;p&gt;Beispiel für Abbildungsverzeichnis.&lt;/p&gt;
-&lt;a href=&quot;#fnref-:fig:one&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
-&lt;/li&gt;
-&lt;li id=&quot;fn-:fig:pic-source&quot;&gt;
-&lt;p&gt;Abbildung von &lt;a href=&quot;http://lorempixel.com/800/600/cats/1&quot;&gt;lorempixel.com&lt;/a&gt;&lt;/p&gt;
-&lt;a href=&quot;#fnref-:fig:pic-source&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
-&lt;/li&gt;
-&lt;li id=&quot;fn-1&quot;&gt;
-&lt;p&gt;hier der Text&lt;/p&gt;
-&lt;a href=&quot;#fnref-1&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
-&lt;/li&gt;
-&lt;li id=&quot;fn-2&quot;&gt;
-&lt;p&gt;:fig:hier der Text&lt;/p&gt;
-&lt;a href=&quot;#fnref-2&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
 &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Machine Learning im Designprozess]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
 import Grid from 'gatsby-theme-signalwerk/src/components/Grid';
 import…]]></description><link>https://thesis.logrinto.ch/posts/2020/pascale/</link><guid isPermaLink="false">https://thesis.logrinto.ch/posts/2020/pascale/</guid><pubDate>Wed, 11 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;
@@ -2067,6 +2087,448 @@ Dietzingerstrasse 12&lt;br/&gt;
 &lt;li id=&quot;fn-:qu:six&quot;&gt;
 &lt;p&gt;Josh Lovejoy, &lt;a href=&quot;https://design.google/library/ux-ai/&quot;&gt;medium.com&lt;/a&gt; (Abrufdatum: 24. 12. 2019)&lt;/p&gt;
 &lt;a href=&quot;#fnref-:qu:six&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Wie Co-Creation Unternehmen und KundInnen näher zusammenbringt]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
+import Grid from 'gatsby-theme-signalwerk/src/components/Grid';
+import…]]></description><link>https://thesis.logrinto.ch/posts/2020/wolfgang/</link><guid isPermaLink="false">https://thesis.logrinto.ch/posts/2020/wolfgang/</guid><pubDate>Sun, 01 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;
+import Grid from &apos;gatsby-theme-signalwerk/src/components/Grid&apos;;
+import Column from &apos;gatsby-theme-signalwerk/src/components/Column&apos;;
+import Box from &apos;gatsby-theme-signalwerk/src/components/Box&apos;;&lt;/p&gt;
+&lt;h2&gt;Inhaltsverzeichnis&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;toc&quot;&gt;&lt;pre class=&quot;language-toc&quot;&gt;&lt;code class=&quot;language-toc&quot;&gt;exclude: Inhaltsverzeichnis
+from-heading: 2
+to-heading: 6&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;Einleitung&lt;/h2&gt;
+&lt;h3&gt;Unternehmen und KundInnen – früher und heute&lt;/h3&gt;
+&lt;p&gt;In der ersten Hälfte des 19. Jahrhunderts zeichnete sich der Laden um die Ecke über Kundennähe aus, die Ladenbesitzer kannten ihre Kundschaft und konnten diese individuell beraten und bedienen. Durch die Form des persönlichen Austauschs hatten die Läden eine entscheidende gesellschaftliche Funktion inne, indem sie Lokalnachrichten verbreiteten, bevor dies Radio und Fernsehen übernahmen&lt;sup id=&quot;fnref-quote-one&quot;&gt;&lt;a href=&quot;#fn-quote-one&quot; class=&quot;footnote-ref&quot;&gt;quote-one&lt;/a&gt;&lt;/sup&gt;. Das Einkaufserlebnis war folglich also ein ganz persönliches und durch Interaktion mit den VerkäuferInnen geprägt, zudem wurden zwischen diesen beiden Parteien auch eine Vielzahl an nützlichen Informationen, sowohl für die KundInnen als auch für die VerkäuferInnen ausgetauscht.&lt;/p&gt;
+&lt;p&gt;Seither hat sich das Einkaufserlebnis mehrfach stark gewandelt, Warenhäuser wie das Selfridges in London boten Kunden neben verschiedenen Warenabteilungen auch Restaurants, ein Erste-Hilfe-Zimmer oder sogar einen Dachgarten an und versuchten sich damals vor allem über Service auszuzeichnen. Harry Selfridge prägte im Zuge dessen die Formel «Der Kunde hat immer Recht»&lt;sup id=&quot;fnref-quote-two&quot;&gt;&lt;a href=&quot;#fn-quote-two&quot; class=&quot;footnote-ref&quot;&gt;quote-two&lt;/a&gt;&lt;/sup&gt;. Und auch die daraufhin entstehenden Einkaufszentren versuchten den KundInnen ein möglichst bequemes Einkaufserlebnis zu ermöglichen, indem dass mehrere Geschäfte an einem Ort erreichbar gemacht und diese durch Gastronomiebereiche und Kinos miteinander verbunden wurden.&lt;/p&gt;
+&lt;p&gt;Als daraufhin zwischenzeitlich «der Kunde ist König» zum alles bestimmenden Leitsatz erhoben wurde und riesige Supermärkte versuchten, sich vor allem über Multipackungen, Rabatte und dem damit verbundenen niedrigen Preis zu profilieren, kamen in den 1980er Jahren wieder vermehrt Fachgeschäfte auf, die sich auf spezifische Marken und exklusive Produkte konzentrierten und versuchten, den KundInnen im Geschäft selbst ein möglichst besonderes Einkaufserlebnis zu ermöglichen.&lt;/p&gt;
+&lt;p&gt;Heute wird ein grosser Teil der Produkte direkt über das Internet bezogen und dadurch bietet sich für Unternehmen und KundInnen die Möglichkeit, wieder direkt und unmittelbar miteinander zu interagieren, wodurch sich auch die Beziehung zwischen den beiden erneut verändert.&lt;/p&gt;
+&lt;p&gt;Bezeichnend für diese Veränderung ist das Beispiel Napster, eine Peer-to-Peer Musiktauschbörse bei welcher über das Internet auf unzählige Musikstücke zugegriffen werden konnte und die nach rechtlichen Streitigkeiten 2001 geschlossen werden musste&lt;sup id=&quot;fnref-quote-three&quot;&gt;&lt;a href=&quot;#fn-quote-three&quot; class=&quot;footnote-ref&quot;&gt;quote-three&lt;/a&gt;&lt;/sup&gt;. Die grosse Beliebtheit der Plattform machte deutlich, dass KundInnen zwar ein überaus grosses Interesse an den Produkten der Musikindustrie haben, auf die Musik aber lieber auf Grund ihrer eigenen Vorlieben und nicht anhand von vordefinierten, durch Plattenfirmen zusammengestellten Produkten wie Alben oder Sampler zugreifen möchten&lt;sup id=&quot;fnref-quote-four&quot;&gt;&lt;a href=&quot;#fn-quote-four&quot; class=&quot;footnote-ref&quot;&gt;quote-four&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Dieses Beispiel zeigt exemplarisch auf, wie durch das Internet der unmittelbare Zugang zu einem breiten Angebot ermöglicht wird und wie sich dadurch auch die Beziehung der KonsumentInnen zu einem Produkt gewandelt hat. Gleichzeitig bietet das Internet aber auch die Möglichkeit, dass sich Unternehmen und KundInnen einander annähern können und dabei wird vermehrt auf eine Kollaboration in Form einer Co-Creation gesetzt.&lt;/p&gt;
+&lt;p&gt;Da KundInnen und Firmen nun in unmittelbarem Kontakt zueinander stehen, können diese direkt miteinander interagieren. Ziel der folgenden Arbeit ist es, die verschiedenen Formen der Zusammenarbeit aufzuzeigen, die durch eine Co-Creation ermöglicht werden und zu ergründen, inwiefern sich diese Kooperation auf die Beziehung zwischen Firmen und KundInnen auswirkt. Anschliessend soll auf die Veränderungen in Bezug auf das Angebot und die damit verbundene Definition von Wertschöpfung sowie auf Chancen und Risiken in Zusammenhang mit einer Co-Creation eingegangen werden.&lt;/p&gt;
+&lt;h2&gt;Die direkte Zusammenarbeit in einer Co-Creation&lt;/h2&gt;
+&lt;h3&gt;Über Co-Creation&lt;/h3&gt;
+&lt;p&gt;Der Begriff Co-Creation wurde von C. K. Prahalad und Venkat Ramaswamy in ihrem 2004 veröffentlichten Buch &lt;em&gt;The Future of Competition&lt;/em&gt; geprägt. Darin wird Co-Creation als eine Zusammenarbeit zwischen Firmen und KundInnen beschrieben, bei der in enger Kooperation gemeinsam Produkte entwickelt werden.&lt;/p&gt;
+&lt;p&gt;Gemäss Prahalad und Ramaswamy (2004) lassen sich vier Hauptaspekte definieren, die bei einer Co-Creation beachtet werden müssen. Das sogenannte DART-Modell (&lt;em&gt;Dialog, Access, Risk Assessment, Transparency&lt;/em&gt;) besagt, dass in einer Co-Creation zwischen Unternehmen und KundInnen der Fokus hauptsächlich auf den Dialog, den Zugang, die Risikobeurteilung sowie die Transparenz gelegt werden sollte. Dabei definieren Prahalad und Ramaswamy die Begriffe wie folgt.&lt;/p&gt;
+&lt;h3&gt;Das DART-Modell&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Dialog:&lt;/em&gt;&lt;/strong&gt; Zwischen einer Firma und den KundInnen wird ein enger Austausch gepflegt. Diese sollten sich dabei auf Augenhöhe begegnen, sich intensiv miteinander auseinandersetzen und bereit sein, voneinander zu lernen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Access:&lt;/em&gt;&lt;/strong&gt; Ein direkter Zugang sollte gewährleistet werden, etwa zu einer Plattform, um sich mit Gleichgesinnten auszutauschen oder aber auch zu Experten, um von deren Fachwissen zu profitieren. Dabei sollten Werkzeugen bereitgestellt werden, die eine individuelle Nutzung eines Angebots ermöglichen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Risk assessment:&lt;/em&gt;&lt;/strong&gt; Das eigenverantwortliche Abwägen zwischen Vor- und Nachteilen gewinnt an Bedeutung. Das Risiko in Bezug auf ein Produkt, sollte sowohl von den Unternehmen als auch den KundInnen selbst eingeschätzt werden können.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Transparency:&lt;/em&gt;&lt;/strong&gt; Um Rückschlüsse, z. B. auf Firmenabläufe oder auf das persönliche Verhalten, zuzulassen, sollten Informationen frei verfügbar sein und offen mit diesen umgegangen werden.&lt;/p&gt;
+&lt;p&gt;Werden die Punkte aus dem DART-Modell berücksichtigt, gehen Prahalad und Ramaswamy (2004) davon aus, dass sich eine für beide Seiten interessante Zusammenarbeit ergeben kann. Beispielhaft für eine Kollaboration im Stile einer Co-Creation ist die Firma &lt;em&gt;Local Motors&lt;/em&gt;, die im Folgenden vorgestellt werden soll.&lt;/p&gt;
+&lt;h3&gt;Die Firma &lt;em&gt;Local Motors&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Local Motors&lt;/em&gt; ist ein Autohersteller aus den USA, der in einem engen Austausch mit einer &lt;em&gt;Community&lt;/em&gt; aus DesignerInnen, IngenieurInnen und Autofans Fahrzeuge über das Internet entwickelt.&lt;/p&gt;
+&lt;p&gt;Die &lt;em&gt;Community&lt;/em&gt;-Mitglieder sind dabei in einzelne Kategorien eingeteilt, z. B. Builder, Designer, Visitor etc. und je nach Registrierung können diese auf einer extra darauf ausgerichteten &lt;em&gt;Online&lt;/em&gt;-Plattform Entwürfe für Fahrzeuge hochladen und so anhand von regelmässig stattfindenden Wettbewerben das Design oder auch das Innenleben von diesen mitgestalten. Dabei legt &lt;em&gt;Local Motors&lt;/em&gt; viel Wert auf gegenseitiges Feedback, so geben sich die TeilnehmerInnen während des Wettbewerbs wechselseitig Rückmeldungen zu den kontinuierlich auf der Website veröffentlichten Vorschlägen.&lt;/p&gt;
+&lt;p&gt;Über ein &lt;em&gt;Crowd-Voting&lt;/em&gt; wird anschliessend in der &lt;em&gt;Community&lt;/em&gt; darüber abgestimmt, welche Vorschläge in Produktion gehen sollen. Wird ein Fahrzeug von einem Kunden oder einer Kundin  geordert, liefern Partnerfirmen die Komponenten an sogenannte &lt;em&gt;Microfactories&lt;/em&gt;, kleine Werkhallen, in denen die Autos dann von &lt;em&gt;Local Motors&lt;/em&gt;-MechanikerInnen sowie den KundInnen selbst zusammengebaut werden&lt;sup id=&quot;fnref-quote-five&quot;&gt;&lt;a href=&quot;#fn-quote-five&quot; class=&quot;footnote-ref&quot;&gt;quote-five&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Diese Form der direkten Beteiligung sowohl von KonsumentInnen als auch von Partnerfirmen an einem Produkt ist bezeichnend für eine Co-Creation. Anschliessend soll nun beleuchtet werden, inwiefern sich durch eine aktive Beteiligung die Rolle der KonsumentInnen verändert.&lt;/p&gt;
+&lt;h3&gt;Die neue Rolle der KonsumentInnen innerhalb des Marktes&lt;/h3&gt;
+&lt;p&gt;Die heutigen KonsumentInnen sind gemäss Prahalad und Ramaswamy (2004) informiert, vernetzt und gestalten ihren Konsum aktiv mit, wodurch sich auch ihre Position innerhalb eines Marktes grundlegend verändert. Während sie früher innerhalb des Marktes isoliert und auf die Rolle der KonsumentInnen reduziert wurden, verfügen sie nun dank dem Internet über eine Vielzahl an Informationen und Tools, die es ihnen ermöglichen, sich direkt zu beteiligen&lt;sup id=&quot;fnref-quote-six&quot;&gt;&lt;a href=&quot;#fn-quote-six&quot; class=&quot;footnote-ref&quot;&gt;quote-six&lt;/a&gt;&lt;/sup&gt;. Aufgrund der wachsenden Unzufriedenheit mit einer von Firmen vordefinierten Auswahl, kombiniert mit den Möglichkeiten des Internets, bringen KonsumentInnen ihre Wünsche und Bedürfnisse also vermehrt in einen Wertschöpfungsprozess mit ein&lt;sup id=&quot;fnref-quote-seven&quot;&gt;&lt;a href=&quot;#fn-quote-seven&quot; class=&quot;footnote-ref&quot;&gt;quote-seven&lt;/a&gt;&lt;/sup&gt; und begeben sich dabei mit Firmen in einen engen Austausch. Prahalad und Ramaswamy empfehlen daher, den Markt primär als ein Forum zu betrachten, in dem sich die beiden Rollenbilder Konsument und Produzent miteinander vermischen &lt;sup id=&quot;fnref-quote-eight&quot;&gt;&lt;a href=&quot;#fn-quote-eight&quot; class=&quot;footnote-ref&quot;&gt;quote-eight&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1800px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ad5df24c80ed9f27f73c0cbe378736d5/1dd40/co-creation_3.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMEBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAelTSJKj/8QAFxABAQEBAAAAAAAAAAAAAAAAAgEDEP/aAAgBAQABBQK7mN7QTNzQ9//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABkQAQADAQEAAAAAAAAAAAAAAAEAERIgMf/aAAgBAQAGPwLOX2paMsOP/8QAGBAAAwEBAAAAAAAAAAAAAAAAAREhACD/2gAIAQEAAT8hP7xQDMRVTPMAavH/2gAMAwEAAgADAAAAEOPP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGhAAAwADAQAAAAAAAAAAAAAAAAERITFBUf/aAAgBAQABPxBpWqQGm/d3oopDhJkUyJuCii0oU//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Co-Creation&quot;
+        title=&quot;Co-Creation&quot;
+        src=&quot;/static/ad5df24c80ed9f27f73c0cbe378736d5/3d0fe/co-creation_3.jpg&quot;
+        srcset=&quot;/static/ad5df24c80ed9f27f73c0cbe378736d5/90185/co-creation_3.jpg 450w,
+/static/ad5df24c80ed9f27f73c0cbe378736d5/7288a/co-creation_3.jpg 900w,
+/static/ad5df24c80ed9f27f73c0cbe378736d5/3d0fe/co-creation_3.jpg 1800w,
+/static/ad5df24c80ed9f27f73c0cbe378736d5/1dd40/co-creation_3.jpg 2400w&quot;
+        sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Die Interaktion zwischen KonsumentInnen und Firmen ist auf den Austausch von Produkten reduziert.&lt;sup id=&quot;fnref-:fig:pic-source-one&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source-one&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source-one&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Dabei verschwindet die klare Trennung innerhalb des Wertschöpfungsprozesses zwischen Produzenten und Konsumenten. Der Futurologe Alvin Toffler hat dafür den Begriff «Prosumenten» geprägt, der benennt, dass KonsumentInnen nun also auch gleichzeitig ProduzentInnen sind&lt;sup id=&quot;fnref-quote-nine&quot;&gt;&lt;a href=&quot;#fn-quote-nine&quot; class=&quot;footnote-ref&quot;&gt;quote-nine&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1800px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/dafbd9a79b851c31b9fa53ae97009240/1dd40/co-creation_2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAECAwX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHchchgH//EABkQAAIDAQAAAAAAAAAAAAAAAAEQABESIf/aAAgBAQABBQI8mi6X/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAGRABAAIDAAAAAAAAAAAAAAAAAQAQESEx/9oACAEBAAE/IXhohR2AK//aAAwDAQACAAMAAAAQg8//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAbEAEBAQACAwAAAAAAAAAAAAABEQAQIUFRgf/aAAgBAQABPxCF5vRqmixnRwwRKZCwfmu//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Co-Creation&quot;
+        title=&quot;Co-Creation&quot;
+        src=&quot;/static/dafbd9a79b851c31b9fa53ae97009240/3d0fe/co-creation_2.jpg&quot;
+        srcset=&quot;/static/dafbd9a79b851c31b9fa53ae97009240/90185/co-creation_2.jpg 450w,
+/static/dafbd9a79b851c31b9fa53ae97009240/7288a/co-creation_2.jpg 900w,
+/static/dafbd9a79b851c31b9fa53ae97009240/3d0fe/co-creation_2.jpg 1800w,
+/static/dafbd9a79b851c31b9fa53ae97009240/1dd40/co-creation_2.jpg 2400w&quot;
+        sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Der Markt wird als Forum betrachtet, in dem sich KundInnen und Firmen austauschen.&lt;sup id=&quot;fnref-:fig:pic-source-two&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source-two&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source-two&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Unterstützt durch das Internet verändert sich also die Rolle der KonsumentInnen. Während früher die Interaktion zwischen einer Firma und den KundInnen oftmals nur auf den Austausch von Produkten reduziert war, wird heute ein direkter und kontinuierlicher Dialog geführt. Dadurch werden auch Produktentwicklungen ganz massgeblich beeinflusst. Anschliessend soll erst aus Firmen- und dann aus KundInnenperspektive betrachtet werden, welche Auswirkungen der direkte Austausch auf die Entwicklung von Produkten hat und inwiefern beide Seiten von einer engen Kooperation profitieren können.&lt;/p&gt;
+&lt;h3&gt;Wie Firmen anhand von Co-Creation Innovation entwickeln&lt;/h3&gt;
+&lt;p&gt;ManagerInnen fokussierten sich früher primär auf intern entwickelte Innovationen, um einen Wettbewerbsvorteil zu erhalten. Dabei wurden die Produkte auf Grund von Marktforschungen oder in punktueller Zusammenarbeit mit sogenannten Lead Usern (KundInnen welche sich aufgrund ihrer aussergewöhnlichen Merkmalen von anderen abheben) entwickelt und diese darauf dann an den Märkten den KonsumentInnen angeboten.&lt;/p&gt;
+&lt;p&gt;Nun werden die NutzerInnen bereits bei der Entwicklung eines Produktes aktiv mit einbezogen. Auf Grund der vereinfachten Mobilisierung einer grossen Anzahl an Menschen über das Internet ist es möglich, in kurzer Zeit, eine Vielzahl an Rückmeldungen zu generieren – dabei ersetzen kontinuierliche Feedback-Schleifen den bisher linear vordefinierten Ablauf einer Produktentwicklung, wodurch Firmen die Entwicklungszeit drastisch verkürzen sowie ihre Kosten reduzieren können.&lt;/p&gt;
+&lt;p&gt;Auch bei &lt;em&gt;Local Motors&lt;/em&gt; wird ein Fahrzeug nicht intern entwickelt und im Anschluss daran dann ein fertiges Produkt auf den Markt gebracht, vielmehr werden die KonsumentInnen bereits von Anfang an in der sogenannten Create it-Phase anhand von Wettbewerben direkt mit eingebunden. Dadurch sind die Entwicklungskosten für die Firma erheblich geringer. Zum Vergleich: Während die Entwicklungszeit des Modells Rally Fighter bei &lt;em&gt;Local Motors&lt;/em&gt; gerade mal 18 Monate dauerte und 3,6 Millionen Dollar gekostet hat, liegt der Zeitraum für eine Produktlancierung in der klassischen Autoindustrie bei 5 bis 7 Jahren und die Kosten dafür können sich auch gut einmal auf 1,5 Milliarden belaufen&lt;sup id=&quot;fnref-quote-ten&quot;&gt;&lt;a href=&quot;#fn-quote-ten&quot; class=&quot;footnote-ref&quot;&gt;quote-ten&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Zudem führt der frühe Einbezug der NutzerInnen in einen Entwicklungsprozess auch dazu, dass Firmen zielgerichteter produzieren können. Dank dem direkten Feedback (quasi in Echtzeit), kennen Firmen ihre KundInnen heute besser denn je und können dadurch ihre Strategie gezielter anpassen.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Local Motors&lt;/em&gt; nutzt dafür ihre &lt;em&gt;Online&lt;/em&gt;-Plattform, auf der sich die &lt;em&gt;Community&lt;/em&gt; über aktuelle Projekte austauschen kann. Dadurch wird einerseits die Innovationskraft der &lt;em&gt;Crowd&lt;/em&gt; genutzt, indem auf die Ideen und Anregungen einer Vielzahl von Menschen zurückgegriffen werden kann, zusätzlich gewinnt &lt;em&gt;Local Motors&lt;/em&gt; über den direkten Austausch mit den KundInnen aber auch Einblicke in Bezug auf deren Bedürfnisse und Wünsche &lt;sup id=&quot;fnref-quote-eleven&quot;&gt;&lt;a href=&quot;#fn-quote-eleven&quot; class=&quot;footnote-ref&quot;&gt;quote-eleven&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Die unmittelbare Rückmeldung der KundInnen hat somit auch starken Einfluss darauf, wie Firmen ihre Prozesse organisieren. Während früher anhand von langwieriger Marktforschung Erkenntnisse über ein Produkt gewonnen wurden, können Firmen heute aufgrund der schnellen Rückmeldungen der KundInnen über das Internet in viel kürzeren Intervallen ihre Entwicklungen anpassen und bei Bedarf auch neu ausrichten.&lt;/p&gt;
+&lt;p&gt;Folglich werden Innovationen heute nicht mehr im Alleingang durch Firmen entwickelt wodurch die bisherige Firmenzentrierte Sicht immer mehr durch eine Konsumentenzentrierte ersetzt wird. Die KundInnen rücken damit im Innovationsprozess zunehmend ins Zentrum.&lt;/p&gt;
+&lt;p&gt;Dank dem unmittelbaren Austausch haben also auch die KonsumentInnen die Möglichkeit direkten Einfluss auf eine Produktentwicklung zu nehmen und Angebote in ihrem Sinne mit zu gestalten. Dieser Aspekt soll im Folgenden behandelt werden.&lt;/p&gt;
+&lt;h3&gt;Wie KundInnen von einer Co-Creation profitieren können&lt;/h3&gt;
+&lt;p&gt;Während Innovationen also früher hinter verschlossenen Türen vorangetrieben wurden, werden diese heute in einem engen Austausch mit den KundInnen entwickelt.&lt;/p&gt;
+&lt;p&gt;Mittels Feedback, Umfragen, &lt;em&gt;Crowd-Voting&lt;/em&gt; oder Wettbewerben können diese dabei direkt an einer Produktentwicklung teilhaben. So dient die &lt;em&gt;Online&lt;/em&gt;-Plattform von &lt;em&gt;Local Motors&lt;/em&gt; einerseits dazu, um mit den KundInnen in einen Dialog zu treten und dadurch ihre Bedürfnisse und Wünsche besser kennenzulernen, die Website kann aber zudem auch dazu genutzt werden, um Produktinnovationen von Anfang an und in enger Zusammenarbeit mit den KundInnen anhand von Wettbewerben zu entwickeln.&lt;/p&gt;
+&lt;p&gt;Im Falle von &lt;em&gt;Local Motors&lt;/em&gt; wird dafür ein Gesamtprojekt in monatliche Einzelwettbewerbe unterteilt, welche über die &lt;em&gt;Online&lt;/em&gt;-Plattform ausgeschrieben werden. Die Vorschläge der TeilnehmerInnen werden darauf in einer sogenannten &lt;em&gt;Punch-List&lt;/em&gt; veröffentlicht und dokumentiert, wobei sich die DesignerInnen gegenseitiges Feedback geben. Mittels &lt;em&gt;Crowd-Voting&lt;/em&gt; wird dann bestimmt, welches Design am besten ankommt und für das fertige Produkt zur Anwendung kommt&lt;sup id=&quot;fnref-quote-twelve&quot;&gt;&lt;a href=&quot;#fn-quote-twelve&quot; class=&quot;footnote-ref&quot;&gt;quote-twelve&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Da die KundInnen über die Plattform einen unmittelbaren Zugang zu der Firma erhalten und sich somit einfacher denn je mit einbringen können, ist es möglich, dass diese ihre Wertvorstellungen, Bedürfnisse und Wünsche direkt in eine Produktentwicklung mit einfliessen lassen&lt;sup id=&quot;fnref-quote-thirteen&quot;&gt;&lt;a href=&quot;#fn-quote-thirteen&quot; class=&quot;footnote-ref&quot;&gt;quote-thirteen&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Durch dieses Engagement erreichen die KundInnen, dass sich ein neues Angebot näher an ihren Bedürfnissen orientiert. Während früher darauf abgezielt wurde, ein Produkt anhand von Marketing-Massnahmen zu verkaufen, wird heute also vermehrt versucht, eine Nachfrage über die Passgenauigkeit eines Produkts im Bezug auf die Ansprüche der NutzerInnen zu schaffen.&lt;/p&gt;
+&lt;p&gt;Durch den engen Einbezug der KundInnen wird die bisher übliche Unterteilung in eine interne Entwicklungsphase und den darauffolgenden Verkauf eines Produktes auf dem Markt, aufgehoben. Diese enge Zusammenarbeit setzt dabei aber einen offenen Dialog zwischen den Unternehmen und den KundInnen voraus, worauf hier im Folgenden eingegangen werden soll.&lt;/p&gt;
+&lt;h3&gt;Offenheit als Strategie – Dialogbereitschaft und Transparenz&lt;/h3&gt;
+&lt;p&gt;Während Firmen früher von einer gewissen Informationsasymmetrie durchaus auch profitieren konnten&lt;sup id=&quot;fnref-quote-fourteen&quot;&gt;&lt;a href=&quot;#fn-quote-fourteen&quot; class=&quot;footnote-ref&quot;&gt;quote-fourteen&lt;/a&gt;&lt;/sup&gt; und z. B. die Zusammensetzung eines Produkts ein gut gehütetes Firmengeheimnis war, herrscht heute eine neue Form der Transparenz, etwa in Bezug auf Preise sowie Kosten und KonsumentInnen können sich über Produkte oder aber auch deren Herstellungsprozesse genau informieren.&lt;/p&gt;
+&lt;p&gt;Wenn Folglich Information über Produkte einfach abgerufen werden können&lt;sup id=&quot;fnref-quote-fifteen&quot;&gt;&lt;a href=&quot;#fn-quote-fifteen&quot; class=&quot;footnote-ref&quot;&gt;quote-fifteen&lt;/a&gt;&lt;/sup&gt;, sind die Firmen gut beraten, über ein transparentes Verhalten, Vertrauen zwischen sich und ihren KundInnen aufzubauen&lt;sup id=&quot;fnref-quote-sixteen&quot;&gt;&lt;a href=&quot;#fn-quote-sixteen&quot; class=&quot;footnote-ref&quot;&gt;quote-sixteen&lt;/a&gt;&lt;/sup&gt;. Dabei geht es um weit mehr als Pressemitteilungen und wirksame Publicity, sondern darum, die KundInnen in einen engen und kontinuierlichen Dialog sowie in öffentliche Debatten mit einzubinden&lt;sup id=&quot;fnref-quote-seventeen&quot;&gt;&lt;a href=&quot;#fn-quote-seventeen&quot; class=&quot;footnote-ref&quot;&gt;quote-seventeen&lt;/a&gt;&lt;/sup&gt; und diese dabei als gleichwertige Gesprächspartner zu betrachten.&lt;/p&gt;
+&lt;p&gt;Gleichzeitig betrifft diese neue Transparenz aber auch die KonsumentInnen, in dem diese, z. B. im Gegenzug für den Zugriff auf Angebote, auch Informationen im Bezug auf ihr persönliches Verhalten oder ihre Wertvorstellungen offenlegen.&lt;/p&gt;
+&lt;p&gt;Die enge Kollaboration zwischen Unternehmen und KundInnen verändert aber nicht nur deren Beziehung untereinander, auch der Umgang mit den Produkten selbst ist dank einem unmittelbaren Zugang zu diesen einem Wandel unterzogen, was im nächsten Abschnitt erläutert werden soll.&lt;/p&gt;
+&lt;h2&gt;Das Erlebnis als zentraler Wert in einer Co-Creation&lt;/h2&gt;
+&lt;h3&gt;Der Wert von Produkten&lt;/h3&gt;
+&lt;p&gt;Prahalad und Ramaswamy (2004) gehen davon aus, dass der effektive Besitz eines Produktes zunehmend an Bedeutung verliert und die KonsumentInnen in Zukunft vielmehr nach einem Zugang zu einem auf sie zugeschnittenen Erlebnis suchen. Während früher versucht wurde, über eine möglichst breite Produktpalette oder über eine Vielzahl an zusätzlichen Funktionen verschiedenste Kundengruppen für sich zu gewinnen, wird zunehmend das individuelle Erlebnis bei der Nutzung eines Angebots wichtiger.&lt;/p&gt;
+&lt;p&gt;Dies wird am Beispiel einer Digitalkamera illustriert, bei der für Prahalad und Ramaswamy nicht primär deren Produktionsart oder Funktionalitäten relevant sind, sondern in  erster Linie das Erlebnis, welches durch die Kamera ermöglicht wird, z. B. in dem Bilder aus dem Urlaub mit anderen geteilt werden können&lt;sup id=&quot;fnref-quote-eighteen&quot;&gt;&lt;a href=&quot;#fn-quote-eighteen&quot; class=&quot;footnote-ref&quot;&gt;quote-eighteen&lt;/a&gt;&lt;/sup&gt;. Dafür müssen die KundInnen ein Produkt nicht zwangsläufig besitzen, oftmals besteht der Wert eines Angebots für sie bereits in dessen Nutzung.&lt;/p&gt;
+&lt;p&gt;Da sich Wettbewerbsvorteile also nicht primär über den Preis, die Qualität sowie die Vielfalt an Funktionen erreichen lassen, empfehlen Prahalad und Ramaswamy (2004), dass sich Firmen weg von einer produktzentrierten Sichtweise, hin zu einem Co-Creation-Erlebnis aus der Sicht der KonsumentInnen bewegen. Dabei ist es für sie nicht entscheidend, ob und durch welches Gerät dieses Erlebnis ermöglicht wird&lt;sup id=&quot;fnref-quote-nineteen&quot;&gt;&lt;a href=&quot;#fn-quote-nineteen&quot; class=&quot;footnote-ref&quot;&gt;quote-nineteen&lt;/a&gt;&lt;/sup&gt;, Produkte und Services sind für sie nur ein Teil eines gesamthaften Erlebnisses&lt;sup id=&quot;fnref-quote-twenty&quot;&gt;&lt;a href=&quot;#fn-quote-twenty&quot; class=&quot;footnote-ref&quot;&gt;quote-twenty&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Haben sich Firmen in der Vergangenheit also darauf fokussiert, Produktinnovationen zu entwickeln, wird es zukünftig gemäss Prahalad und Ramaswamy (2004) mehr darum gehen, ein Umfeld für ein entsprechendes Erlebnis bereitzustellen.&lt;/p&gt;
+&lt;p&gt;Firmen sollten daher darum bemüht sein, den KonsumentInnen ein möglichst breites Angebot zu offerieren aus welchem sich diese dann ihr ganz persönliches und individuelles Produkt zusammenstellen können&lt;sup id=&quot;fnref-quote-tone&quot;&gt;&lt;a href=&quot;#fn-quote-tone&quot; class=&quot;footnote-ref&quot;&gt;quote-tone&lt;/a&gt;&lt;/sup&gt;. Im Folgenden soll auf diese verschiedenen Formen der Personalisierung eingegangen werden.&lt;/p&gt;
+&lt;h3&gt;Das personalisierte Nutzererlebnis&lt;/h3&gt;
+&lt;p&gt;Die KundInnen haben über das Internet die Möglichkeit, Produkte auf einfache Weise zu verändern und diese ihren persönlichen Bedürfnissen anzupassen. In dem Zusammenhang spricht man von einem personalisierten Kundenerlebnis. Nicht selten legen Firmen daher ehemals interne, produktspezifische Daten zu einzelnen Komponenten offen, damit sich die KundInnen daraus ihr ganz individuelles Angebot zusammenstellen können.&lt;/p&gt;
+&lt;p&gt;Bei &lt;em&gt;Local Motors&lt;/em&gt; haben IngenieurInnen und DesignerInnen der &lt;em&gt;Community&lt;/em&gt; in der sogenannten Develop it-Phase direkten Zugang zu sämtlichen Bauteilen als CAD-Dateien, können diese bearbeiten und im Detail weiterentwickeln. Somit können theoretisch alle Bestandteile eines Fahrzeugs individuell verändert und angepasst werden.&lt;/p&gt;
+&lt;p&gt;In der so genannten Mod it-Phase lässt sich zudem ein Fahrzeug auch nach dem Kauf durch die KonsumentIn weiter modifizieren und anpassen. So stehen alle Bauteile der Fahrzeuge weiterhin als Open Source der &lt;em&gt;Community&lt;/em&gt; zur Verfügung und können von dieser bearbeitet und anschliessend auch den anderen NutzerInnen wieder zur Verfügung gestellt werden&lt;sup id=&quot;fnref-quote-ttwo&quot;&gt;&lt;a href=&quot;#fn-quote-ttwo&quot; class=&quot;footnote-ref&quot;&gt;quote-ttwo&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Anders als früher kaufen die KonsumentInnen also heute nicht ein abgeschlossenes Gesamtpaket, sondern stellen sich aus einer Vielzahl von Angeboten ihr ganz persönliches Produkt zusammen. Dabei besteht aber ein grundsätzlicher Unterschied zwischen einer Co-Creation und einer Individualisierung von Produkten, was im Anschluss erläutert werden soll.&lt;/p&gt;
+&lt;h3&gt;&lt;em&gt;Maß Customization&lt;/em&gt; in Abgrenzung zu Co-Creation&lt;/h3&gt;
+&lt;p&gt;Haben Firmen früher primär mit einer Diversifizierung des Angebots auf unterschiedlichen Kundenwünsche reagiert, wird heute auch versucht über eine sogenannte &lt;em&gt;Maß Customization&lt;/em&gt;&lt;sup id=&quot;fnref-quote-tthree&quot;&gt;&lt;a href=&quot;#fn-quote-tthree&quot; class=&quot;footnote-ref&quot;&gt;quote-tthree&lt;/a&gt;&lt;/sup&gt; auf Basis von bestehenden Komponenten ein individuell passendes Produkt anzubieten. Prahalad und Ramaswamy (2004) definieren den Begriff so, dass dabei die Vorteile einer Massenproduktion zu niedrigen Kosten mit dem gezielten Ausrichten auf die einzelnen KonsumentInnen kombiniert werden. Dank der sogenannten &lt;em&gt;Maß Customization&lt;/em&gt; ist es möglich, ohne grossen Mehraufwand auf die unterschiedlichen Bedürfnisse der KundInnen einzugehen.&lt;/p&gt;
+&lt;p&gt;Anstelle der bisherigen Massenproduktion können KundInnen also aus einer Anzahl vordefinierter Komponenten ihr eigenes Produkt zusammenstellen. Dies ist aber nicht eine Co-Creation im eigentlichen Sinne, vielmehr können die KundInnen ihr Produkt anhand von bestimmten Vorgaben selbst konfigurieren. So haben z. B. bei &lt;em&gt;Local Motors&lt;/em&gt; KundInnen bei der sogenannten Skin-Customization die Möglichkeit, die Lackierung des Fahrzeugs selber zu definieren&lt;sup id=&quot;fnref-quote-tfour&quot;&gt;&lt;a href=&quot;#fn-quote-tfour&quot; class=&quot;footnote-ref&quot;&gt;quote-tfour&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Die AnbieterInnen gehen so aber eigentlich nur im Ansatz auf die Wünsche und Präferenzen ihrer KundInnen ein (Prahalad / Ramaswamy 2004, 89). Primär wird die &lt;em&gt;Maß Customization&lt;/em&gt; dazu genutzt, unter Berücksichtigung der eigenen Lieferkette produzieren zu können. Dabei handelt es sich also nur um eine Spielart der Co-Creation, die den KonsumentInnen zwar ein individualisiertes aber dadurch noch nicht personalisiertes Produkt verschafft.&lt;/p&gt;
+&lt;p&gt;Anders als bei einer &lt;em&gt;Maß Customization&lt;/em&gt;, bei der Produkte am Ende einer Produktionskette noch einen letzten Schliff durch den Kunden erhalten, definieren sich Produkte bei einer Co-Creation also über ein kontinuierliches Mitgestalten über das gesamte Angebot hinweg sowie über das damit verbundene, persönliche Gesamterlebnis. In dem Zusammenhang gewinnt auch das Firmennetzwerk zusätzlich an Bedeutung, da erst durch eine Vielzahl an unterschiedlichen Angeboten eine entsprechendes flexibles und individuelles Umfeld für den Konsumenten gewährleistet werden kann&lt;sup id=&quot;fnref-quote-tfive&quot;&gt;&lt;a href=&quot;#fn-quote-tfive&quot; class=&quot;footnote-ref&quot;&gt;quote-tfive&lt;/a&gt;&lt;/sup&gt;. Auf diese neuen Formen der Partnerschaften soll im nächsten Abschnitt eingegangen werden.&lt;/p&gt;
+&lt;h3&gt;Die Gewichtung von Partnerschaften&lt;/h3&gt;
+&lt;p&gt;Um auf möglichst viele Fähigkeiten zurückgreifen und den KonsumentInnen dadurch ein möglichst breites Angebot bieten zu können, ist es wichtig, dass sich Firmen mit anderen Anbietern zusammenschliessen und sich dabei als Knotenpunkte innerhalb eines Netzwerkes begreifen, die den KonsumentInnen ein vollumfängliches Erlebnis über verschiedenste Kanäle hinweg ermöglichen&lt;sup id=&quot;fnref-quote-tsix&quot;&gt;&lt;a href=&quot;#fn-quote-tsix&quot; class=&quot;footnote-ref&quot;&gt;quote-tsix&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1800px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b19789307c89262bf84520b5b7c0a5ef/1dd40/co-creation_1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAd6bQig//8QAFxAAAwEAAAAAAAAAAAAAAAAAAAERIP/aAAgBAQABBQITLj//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAY/Al//xAAaEAEAAwADAAAAAAAAAAAAAAABABARITFR/9oACAEBAAE/IePIapnUNUGV/9oADAMBAAIAAwAAABATD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EAB0QAAMAAQUBAAAAAAAAAAAAAAABEUEhMVFhcZH/2gAIAQEAAT8QiPZ8Eunx0QWGbqIZvkSSwf/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Co-Creation&quot;
+        title=&quot;Co-Creation&quot;
+        src=&quot;/static/b19789307c89262bf84520b5b7c0a5ef/3d0fe/co-creation_1.jpg&quot;
+        srcset=&quot;/static/b19789307c89262bf84520b5b7c0a5ef/90185/co-creation_1.jpg 450w,
+/static/b19789307c89262bf84520b5b7c0a5ef/7288a/co-creation_1.jpg 900w,
+/static/b19789307c89262bf84520b5b7c0a5ef/3d0fe/co-creation_1.jpg 1800w,
+/static/b19789307c89262bf84520b5b7c0a5ef/1dd40/co-creation_1.jpg 2400w&quot;
+        sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Das Erlebnis-Umfeld besteht aus einem Netzwerk aus Firmen sowie einer Community.&lt;sup id=&quot;fnref-:fig:pic-source-three&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source-three&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source-three&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Dies hat Auswirkungen auf die gesamte Lieferkette. Da auf Grund der spezifischen Anforderungen der KundInnen nach jeweils unterschiedlichen Lösungen verlangt wird, läuft diese nicht mehr linear ab, sondern wird je nach individuellen Bedürfnissen immer wieder neu sortiert&lt;sup id=&quot;fnref-quote-tseven&quot;&gt;&lt;a href=&quot;#fn-quote-tseven&quot; class=&quot;footnote-ref&quot;&gt;quote-tseven&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1800px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5ebe651f715adad4300d19e5d6434f74/7a27c/co-creation_4.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.68054977092878%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIDBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAe7GolQ//8QAGBABAAMBAAAAAAAAAAAAAAAAAQAQERL/2gAIAQEAAQUCnWI6X//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABgQAAIDAAAAAAAAAAAAAAAAAAABICEx/9oACAEBAAY/AhVsf//EABoQAQEAAgMAAAAAAAAAAAAAAAERACAhMUH/2gAIAQEAAT8hIqTrEg9JnNTT/9oADAMBAAIAAwAAABBjD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABoQAAMAAwEAAAAAAAAAAAAAAAABESExQXH/2gAIAQEAAT8Qa0rwKE2TbUV10XCyzMlHHwUSiP/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Co-Creation&quot;
+        title=&quot;Co-Creation&quot;
+        src=&quot;/static/5ebe651f715adad4300d19e5d6434f74/3d0fe/co-creation_4.jpg&quot;
+        srcset=&quot;/static/5ebe651f715adad4300d19e5d6434f74/90185/co-creation_4.jpg 450w,
+/static/5ebe651f715adad4300d19e5d6434f74/7288a/co-creation_4.jpg 900w,
+/static/5ebe651f715adad4300d19e5d6434f74/3d0fe/co-creation_4.jpg 1800w,
+/static/5ebe651f715adad4300d19e5d6434f74/7a27c/co-creation_4.jpg 2401w&quot;
+        sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;CEine Firma erstellt in Zusammenarbeit mit Lieferanten Produkte und verkauft diese anschliessend an unterschiedliche Kundengruppen. &lt;sup id=&quot;fnref-:fig:pic-source-four&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source-four&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source-four&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Da alle Standardbauteile der &lt;em&gt;Local Motors&lt;/em&gt; Fahrzeuge auch in vielen weiteren Autos verbaut sind, können diese nach dem Kauf auch in anderen Werkstätten gewartet werden. Weil zudem die technische Informationen und Baupläne offen liegen und über das Internet heruntergeladen werden können, wird hier über den Einbezug von Partnerfirmen erreicht, dass die KundInnen ein möglichst bequemes Nutzererlebnis haben&lt;sup id=&quot;fnref-quote-teight&quot;&gt;&lt;a href=&quot;#fn-quote-teight&quot; class=&quot;footnote-ref&quot;&gt;quote-teight&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Auch daran wird deutlich, dass für die KundInnen Werte neu also nicht mehr primär aus der Konsumation eines Produktes am Ende einer Wertschöpfungskette bestehen, sondern über die Teilnahme an der gesamten Wertschöpfung.&lt;/p&gt;
+&lt;p&gt;Um optimal auf die Interessen der KundInnen eingehen zu können, werden Angebote über die verschiedensten Bereiche hinweg kombiniert und dabei Allianzen mit den unterschiedlichsten Partnern gebildet. Eine Co-Creation intensiviert also nicht nur den Austausch zwischen Unternehmen und KundInnen, auch Firmen untereinander nähern sich darüber einander an. Dadurch lassen sich vielfältige Angebote über unterschiedliche Themenfeldern hinweg erstellen, worauf im nächsten Abschnitt eingegangen werden soll.&lt;/p&gt;
+&lt;h3&gt;Relevante Inhalte durch strategische Partnerschaften&lt;/h3&gt;
+&lt;p&gt;Erst durch das gezielte Einbeziehen diverser Angebote von verschiedensten Partnern wird ein umfassendes Kundenerlebnis also überhaupt erst möglich. Die Zusammenarbeit zwischen Firmen dient aber auch oftmals dazu, für die NutzerInnen relevanten Inhalt zu generieren und diesen ein auf ihre Interessen abgestimmtes Angebot zu ermöglichen.&lt;/p&gt;
+&lt;p&gt;Dies zeigt sich beispielsweise an der Zusammenarbeit zwischen Apple und Nike im Rahmen von Nike+. Bei diesem Angebot können NutzerInnen über einen Sender im Schuh und ursprünglich in Kombination mit einem iPod Daten über ihre absolvierten Läufe aufzeichnen. Gleichzeitig bekommen sie über eine Plattform im Internet Zugang zu den &lt;em&gt;Online-Communities&lt;/em&gt; von Apple und Nike. Das Angebot setzt dabei auf die bei Joggern beliebte Kombination aus Musik hören und Laufen und stellt somit die Schnittmenge der Interessensfelder der potentiellen NutzerInnen dar. Da sich beide Firmen in dem Zusammenhang gut ergänzen, wird dadurch für die NutzerInnen ein sinnstiftendes Angebot ermöglicht&lt;sup id=&quot;fnref-quote-tnine&quot;&gt;&lt;a href=&quot;#fn-quote-tnine&quot; class=&quot;footnote-ref&quot;&gt;quote-tnine&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Erst die in dem Zusammenhang häufig genannte Entstehung eines Ökosystems aus Partnerfirmen bietet den KonsumentInnen die Möglichkeit, ihre verschiedenen Interessen während der Nutzung eines Angebots miteinander zu verbinden. Gleichzeitig erweitert dieses Netzwerk aber auch die &lt;em&gt;Community&lt;/em&gt; insgesamt, wie der folgende Abschnitt verdeutlicht.&lt;/p&gt;
+&lt;h3&gt;Der Austausch mit der &lt;em&gt;Community&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;Auch der Austausch in der &lt;em&gt;Community&lt;/em&gt; über Plattformen ermöglicht es, für die NutzerInnen relevanten Inhalt und somit ein sinnstiftendes Gesamterlebnis zu generieren. Dabei stehen für die NutzerInnen primär die Interaktionen mit Gleichgesinnten oder aber auch SpezialistInnen im Zentrum.&lt;/p&gt;
+&lt;p&gt;Ein Beispiel für einen sinnstiftenden Austausch zwischen Laien und Fachleuten ist die &lt;em&gt;Local Motors-Community&lt;/em&gt;. Dort besteht für NutzerInnen die Möglichkeit sich über das Netzwerk mit IngenieurInnen und MechanikerInnen auszutauschen und dadurch mehr über ihr spezifisches Interessenfeld zu erfahren.&lt;/p&gt;
+&lt;p&gt;In der Build it-Phase haben die KonsumentInnen die Möglichkeit, ihr Fahrzeug mit MechanikerInnen von &lt;em&gt;Local Motors&lt;/em&gt; gemeinsam in einer &lt;em&gt;Microfactory&lt;/em&gt; zusammenzubauen. Dabei werden die Basisarbeiten von den &lt;em&gt;Local Motors&lt;/em&gt; MitarbeiterInnen übernommen und anschliessend wird das komplette Fahrzeug zusammen mit den KundInnen fertig montiert. Dadurch erhalten die KundInnen vertiefte Einblicke in den Fertigungsprozess und haben, dank dem direkten Zugang zu den MechanikerInnen die Möglichkeit, sich Fachwissen anzueignen&lt;sup id=&quot;fnref-quote-fone&quot;&gt;&lt;a href=&quot;#fn-quote-fone&quot; class=&quot;footnote-ref&quot;&gt;quote-fone&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Während früher also die Werbung um ein fertiges Produkt herum eine künstliche Erlebniswelt geschaffen hat, wird heute mittels Co-Creation anhand eines realen Erlebnisses einen Wert für die KonsumentInnen generiert.&lt;/p&gt;
+&lt;p&gt;Ein weiteres Beispiel für einen sinnstiftenden Zugang zu einem für die NutzerInnen relevanten Inhalt bietet Nike+. So haben NutzerInnen über die Website von Nike+ die Möglichkeit, Trainingstipps von Profis zu erhalten, sich über beliebte Laufstrecken zu informieren, sich gegenseitig anzuspornen, etc. Der Austausch innerhalb der &lt;em&gt;Community&lt;/em&gt; ist für sie also ein ganz elementarer Grund für die Nutzung des Angebots&lt;sup id=&quot;fnref-quote-ftwo&quot;&gt;&lt;a href=&quot;#fn-quote-ftwo&quot; class=&quot;footnote-ref&quot;&gt;quote-ftwo&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Wie aufgezeigt wurde, verändert sich also ganz grundlegend die Beziehung zwischen KundInnen und Unternehmen und damit geht auch eine neue  Wertedefinition in Bezug auf Produkte einher. Diese Entwicklungen bringen sowohl Vor- als auch Nachteile mit sich und im Folgenden sollen daher Chancen und Risiken thematisiert werden, die sich auf Grund der Co-Creation ergeben können.&lt;/p&gt;
+&lt;h2&gt;Chancen und Risiken der Co-Creation&lt;/h2&gt;
+&lt;h3&gt;Das Abwägen zwischen Vor- und Nachteilen&lt;/h3&gt;
+&lt;p&gt;Gemäss Prahalad und Ramaswamy (2004) wird Co-Creation die Debatte um das Abwägen zwischen Vor- und Nachteilen einer Produktnutzung intensivieren. Eine grössere Transparenz und mehr Mitbestimmung für die KundInnen kann dazu führen, dass diese auch vermehrt eine Eigenverantwortung wahrnehmen müssen, ob und unter Einbezug welcher Risiken sie ein Angebot nutzen wollen&lt;sup id=&quot;fnref-quote-fthree&quot;&gt;&lt;a href=&quot;#fn-quote-fthree&quot; class=&quot;footnote-ref&quot;&gt;quote-fthree&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Da KonsumentInnen Zugang zu ehemals internem Wissen erhalten, steigen auch die Möglichkeiten, sich über allfällige Risiken bei der Nutzung eines Angebots detaillierter zu informieren. Zukünftig wird also nicht mehr das Management einer Firma für sie entscheiden, welche Risiken wie einzuschätzen und tragbar sind&lt;sup id=&quot;fnref-quote-ffour&quot;&gt;&lt;a href=&quot;#fn-quote-ffour&quot; class=&quot;footnote-ref&quot;&gt;quote-ffour&lt;/a&gt;&lt;/sup&gt;. So müssen die NutzerInnen im Falle von Nike+ z. B. selber abwägen, ob sie bereit sind, ihre persönlichen Trainingsdaten gegen für sie relevanten Inhalt, wie beispielsweise Trainingstipps herzugeben und dafür der Firma Einsicht in ihre persönlichen Vorlieben gewähren&lt;sup id=&quot;fnref-quote-ffive&quot;&gt;&lt;a href=&quot;#fn-quote-ffive&quot; class=&quot;footnote-ref&quot;&gt;quote-ffive&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Aber auch sicherheitstechnische Aspekte spielen dabei eine Rolle. Da die Fahrzeuge bei &lt;em&gt;Local Motors&lt;/em&gt; nicht in einer fertigen, abgeschlossenen Form auf den Markt kommen und sich die Konstruktionen von den KundInnen beliebig abändern lassen, ist folglich auch keine Herstellergarantie im eigentlichen Sinne möglich. Auch hier liegt es in der Eigenverantwortung der NutzerInnen, was für sie  wichtiger ist, das ganz individuelle Fahrzeug oder eine Sicherheitsgarantie, wie sie bei herkömmlichen Automarken üblich ist.&lt;/p&gt;
+&lt;p&gt;Da Firmen also mehr einen «Werkzeugkasten» als ein fertiges Produkt bereitstellen, aus dem sich die NutzerInnen dann bedienen können, liegt der Umgang mit einem Angebot stärker in deren eigenem Ermessen.&lt;/p&gt;
+&lt;p&gt;Gleichzeitig müssen aber auch Firmen eine neue Risikoabwägung vornehmen, da die zunehmende Transparenz dazu führt, dass auch die Konkurrenz Einblicke in ehemals interne Firmenabläufe, wie z. B. Herstellungsprozesse, erhalten können. So macht die enge Zusammenarbeit mit anderen Firmen zwar ein umfassendes Kundenerlebnis erst möglich, gleichzeitig führt diese aber auch dazu, dass ehemals interne Informationen mit potentiellen Konkurrenten ausgetauscht werden müssen und diese somit auch einen vertieften Einblick in das eigene Geschäftsmodell erhalten.&lt;/p&gt;
+&lt;p&gt;Im Falle der Baupläne von &lt;em&gt;Local Motors&lt;/em&gt;-Fahrzeugen wiegt diese Tatsache aber wohl weniger schwer, als der Umstand, dass durch diese Öffnung zufriedene KundInnen erreicht werden. Diese neue Transparenz bei Firmen ist ein Zeichen dafür, dass frühere Wettbewerbsvorteile, wie z. B. die Bauweise von Produkten, nicht mehr so gewichtig sind und dafür zunehmend versucht wird, diese über ein Kundenerlebnis und der damit verbundenen, gesteigerten Kundenloyalität aufzuwiegen.&lt;/p&gt;
+&lt;h3&gt;Die &lt;em&gt;Community&lt;/em&gt; erhält mehr Gewicht&lt;/h3&gt;
+&lt;p&gt;Wie bei Plattformen üblich, stellt sich auch die Frage nach der Kuratierung. Der vermehrte Austausch muss zunehmend betreut werden, dadurch wird Community-Management immer wichtiger. Zwar wird bei &lt;em&gt;Local Motors&lt;/em&gt; versucht, eine Betreuung durch eine Verteilung auf unterschiedliche Schultern innerhalb der &lt;em&gt;Community&lt;/em&gt; zu bewerkstelligen (so dienen z. B. engagierte NutzerInnen anderen als Vorbilder), trotzdem wurden aber auch extra weitere &lt;em&gt;Community&lt;/em&gt;-ManagerInnen eingestellt&lt;sup id=&quot;fnref-quote-fsix&quot;&gt;&lt;a href=&quot;#fn-quote-fsix&quot; class=&quot;footnote-ref&quot;&gt;quote-fsix&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Der Dialog auf Augenhöhe mit der &lt;em&gt;Community&lt;/em&gt; führt zudem auch zu mehr Einfluss der KonsumentInnen. So haben diese dank dem Internet die Möglichkeiten, sich öffentlich zu äussern sowie Debatten anzustossen und damit direkten Einfluss auf eine Firma zu nehmen, wodurch sich auch ihre Macht gegenüber einer Firma vergrössert.&lt;/p&gt;
+&lt;h3&gt;Die Demokratisierung von Entscheidungen&lt;/h3&gt;
+&lt;p&gt;Durch die zunehmend demokratischen Verhältnisse z. B. bei Abstimmungen sollten Prozesse, welche unter Einbezug der &lt;em&gt;Crowd&lt;/em&gt; vollführt werden, klaren Regeln folgen und sich innerhalb eines vordefinierten Rahmens bewegen. Dabei sollten die Entscheidungsgewalten und Rollenverteilungen im Vorfeld klar definiert und auch kommuniziert werden. So ist das Mitbestimmungsrecht der &lt;em&gt;Community&lt;/em&gt; im Falle von &lt;em&gt;Local Motors&lt;/em&gt; beispielsweise limitiert. Die letzte Entscheidung darüber, welcher Wettbewerbs-Vorschlag effektiv für die Produktion verwendet wird, liegt bei Jay Rogers, dem CEO der Firma&lt;sup id=&quot;fnref-quote-fseven&quot;&gt;&lt;a href=&quot;#fn-quote-fseven&quot; class=&quot;footnote-ref&quot;&gt;quote-fseven&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;h2&gt;Fazit&lt;/h2&gt;
+&lt;p&gt;Das Internet hat die Beziehung zwischen KundInnen und Unternehmen grundlegend verändert. Auf Grund von kontinuierlichen Feedbacks können Produktentwicklungen in enger Zusammenarbeit erstellt werden, wodurch Firmen ihre Strategie gezielter ausrichten und für NutzerInnen passgenauere Angebote ermöglicht werden.&lt;/p&gt;
+&lt;p&gt;Dadurch verändert sich auch die Rolle der KundInnen, diese werden von passiven KonsumentInnen zu aktiven Mitwirkenden in der gesamten Wertschöpfungskette. Da ein Produkt nun direkt mitgestaltet und, dank dem vereinfachten Zugang über das Internet, auch den persönlichen Bedürfnissen angepasst werden kann, haben diese Produkte aber keine klar definierte Form mehr, sondern unterscheiden sich je nach Anforderungen der KundInnen.&lt;/p&gt;
+&lt;p&gt;Mit der Individualisierung und dem direkten Zugang zu einer breiten Auswahl an Angeboten geht auch eine neue Wertedefinition einher. Der effektive Besitz eines materiellen Produktes wird weniger wichtig, vielmehr steht für den Kunden die Nutzung eines Angebots, also z. B. der Austausch innerhalb einer &lt;em&gt;Community&lt;/em&gt; oder der Zugang zu relevanten Inhalten sowie das damit verbundene Erlebnis im Zentrum.&lt;/p&gt;
+&lt;p&gt;Über den Ausbau von Partnerschaften versuchen Firmen dabei, den vielseitigen Ansprüchen der KundInnen gerecht zu werden und diesen ein personalisiertes Erlebnis zu ermöglichen. Der Wertschöpfungsprozess verschiebt sich dabei weg von Produkten und Services hin zu einem Co-Creation-Erlebnis unter Einbezug der gesamten &lt;em&gt;Community&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Diese Form der Kollaboration setzt eine erhöhte Transparenz sowohl auf Firmenseite als auch bei den KundInnen voraus. Mit dem Austausch von Informationen und dem Zugang zu persönlichen Daten steigt aber auch das Risiko, da z. B. ehemals internes Wissen auch von der Konkurrenz genutzt werden kann oder aber die gesammelten Daten der KonsumentInnen auch in anderen Nutzungskontexten wiederverwendet werden können.&lt;/p&gt;
+&lt;p&gt;In gewissem Sinne führt die Co-Creation über das Internet aber wieder zu einer Annäherung zwischen Firmen und ihren KundInnen und zu einer Form des direkten Austauschs, wie dieser früher in einem Laden um die Ecke gepflegt wurde, allerdings neu in Kombination mit den Skalierungsmöglichkeiten, welche durch das Internet ermöglicht werden.&lt;/p&gt;
+&lt;p&gt;Abschliessend kann daher gesagt werden, dass sowohl der enge Austausch als auch die damit einhergehende grössere Transparenz und der unmittelbare Zugang zu Angeboten sowohl Chancen als auch Risiken beinhalten und zwar für die Firmen als auch die KundInnen selbst. Wenn diese aber bereit sind, sich trotz allfälliger Risiken zu öffnen und dadurch gegenseitig voneinander zu lernen führt dies im Idealfall dazu, dass beide Seiten von dieser neuen Nähe zwischen Unternehmen und Kunden profitieren können.&lt;/p&gt;
+&lt;h2&gt;Anhang&lt;/h2&gt;
+&lt;h3&gt;Literaturverzeichnis&lt;/h3&gt;
+&lt;p&gt;Galloway, S. (2018). the four. Die geheime DNA von Amazon, Apple, Facebook und Google.
+Deutschland: Plassen.&lt;/p&gt;
+&lt;p&gt;Prahalad, C. K./Ramaswamy V. (2004). The Future of Competition. Co-Creating Unique Value with Customers.
+USA: Harvard Business School Press.&lt;/p&gt;
+&lt;p&gt;Eichenauer S. (2017). Crowdsourcing als neuer Ansatz der Interaktion zwischen Marken und ihren Kunden.
+Deutschland: Verlag Dr. Kovač.&lt;/p&gt;
+&lt;p&gt;Buhse W./Reppesgaard L./Lessmann U./Henkel S./Lange J. O. (2011). Der Case Local Motors: Co-Creation und Collaboration in der Automotive-Industrie.
+Deutschland/Schweiz: doubleYUU/Forschungsstelle für Customer Insight der Universität St. Gallen/T-Systems International GmbH.&lt;/p&gt;
+&lt;p&gt;Ramaswamy V. (2008). Co-creating value through customers’ experiences: the Nike case.
+England: Emerald Group Publishing Limited.&lt;/p&gt;
+&lt;h3&gt;Quellenverzeichnis&lt;/h3&gt;
+&lt;p&gt;Wikipedia (2020). Napster (Online-Musikdienst).
+&lt;a href=&quot;https://de.wikipedia.org/wiki/Napster_(Online-Musikdienst)&quot;&gt;https://de.wikipedia.org/wiki/Napster_(Online-Musikdienst)&lt;/a&gt;,
+zuletzt besucht am Sonntag, 6. Januar 2020; 10:14 Uhr.&lt;/p&gt;
+&lt;p&gt;Wikipedia (2020). Prosumer.
+&lt;a href=&quot;https://de.wikipedia.org/wiki/Prosumer&quot;&gt;https://de.wikipedia.org/wiki/Prosumer&lt;/a&gt;,
+zuletzt besucht am Sonntag, 5. Januar 2020; 16:46 Uhr.&lt;/p&gt;
+&lt;h3&gt;Abbildungsverzeichnis&lt;/h3&gt;
+&lt;p&gt;USA: Harvard Business School Press. (97)
+Nachbau der Originalgrafik&lt;/p&gt;
+&lt;p&gt;USA: Harvard Business School Press. (96)
+Nachbau der Originalgrafik&lt;/p&gt;
+&lt;p&gt;USA: Harvard Business School Press. (120)
+Nachbau der Originalgrafik&lt;/p&gt;
+&lt;p&gt;USA: Harvard Business School Press. (122)
+Nachbau der Originalgrafik&lt;/p&gt;
+&lt;h2&gt;Einzelnachweise&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;references&quot;&gt;&lt;pre class=&quot;language-references&quot;&gt;&lt;code class=&quot;language-references&quot;&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;Abbildungsverzeichnis&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;references&quot;&gt;&lt;pre class=&quot;language-references&quot;&gt;&lt;code class=&quot;language-references&quot;&gt;# gets repalced with footnotes
+group-include: fig
+
+inline-link-prefix: &amp;#39;Fig. &amp;#39;
+
+reference-link-prefix: &amp;#39;↑ Fig. &amp;#39;
+reference-link-suffix: &amp;#39;&amp;#39;
+
+reference-text-suffix: &amp;#39; – &amp;#39;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&quot;fn-quote-one&quot;&gt;
+&lt;p&gt;Galloway 2017, 27&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-one&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-two&quot;&gt;
+&lt;p&gt;Galloway 2017, 27&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-two&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-three&quot;&gt;
+&lt;p&gt;Wikipedia 2020, Napster&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-three&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-four&quot;&gt;
+&lt;p&gt;Prahalad/Ramaswamy 2004, 36&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-four&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-five&quot;&gt;
+&lt;p&gt;Buhse/Reppesgaard/Lessmann/Henkel/Lange 2011&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-five&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-six&quot;&gt;
+&lt;p&gt;Prahalad/Ramaswamy 2004, 2&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-six&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-seven&quot;&gt;
+&lt;p&gt;Prahalad/Ramaswamy 2004, 4&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-seven&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-eight&quot;&gt;
+&lt;p&gt;Prahalad/Ramaswamy 2004, 134&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-eight&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-nine&quot;&gt;
+&lt;p&gt;Wikipedia 2020, Prosumer&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-nine&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-ten&quot;&gt;
+&lt;p&gt;Buhse/Reppesgaard/Lessmann/Henkel/Lange 2011, 10&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-ten&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-eleven&quot;&gt;
+&lt;p&gt;Buhse/Reppesgaard/Lessmann/Henkel/Lange 2011, 27&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-eleven&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-twelve&quot;&gt;
+&lt;p&gt;Buhse/Reppesgaard/Lessmann/Henkel/Lange 2011, 28&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-twelve&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-thirteen&quot;&gt;
+&lt;p&gt;Prahalad/Ramaswamy 2004, 31&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-thirteen&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-fourteen&quot;&gt;
+&lt;p&gt;Prahalad / Ramaswamy 2004, 30&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-fourteen&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-fifteen&quot;&gt;
+&lt;p&gt;Prahalad/Ramaswamy 2004, 30&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-fifteen&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-sixteen&quot;&gt;
+&lt;p&gt;Prahalad/Ramaswamy 2004, 32&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-sixteen&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-seventeen&quot;&gt;
+&lt;p&gt;Prahalad/Ramaswamy 2004, 129&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-seventeen&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-eighteen&quot;&gt;
+&lt;p&gt;Prahalad / Ramaswamy 2004, 47&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-eighteen&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-nineteen&quot;&gt;
+&lt;p&gt;Prahalad/Ramaswamy 2004, 59&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-nineteen&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-twenty&quot;&gt;
+&lt;p&gt;Prahalad/Ramaswamy 2004, 116&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-twenty&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-tone&quot;&gt;
+&lt;p&gt;Prahalad/Ramaswamy 2004, 116&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-tone&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-ttwo&quot;&gt;
+&lt;p&gt;Buhse/Reppesgaard/Lessmann/Henkel/Lange 2011, 49&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-ttwo&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-tthree&quot;&gt;
+&lt;p&gt;Eichenauer 2017, 32&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-tthree&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-tfour&quot;&gt;
+&lt;p&gt;Buhse / Reppesgaard / Lessmann / Henkel / Lange 2011, 47&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-tfour&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-tfive&quot;&gt;
+&lt;p&gt;Prahalad / Ramaswamy 2004, 97&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-tfive&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-tsix&quot;&gt;
+&lt;p&gt;Prahalad/Ramaswamy 2004, 49&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-tsix&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-tseven&quot;&gt;
+&lt;p&gt;Prahalad/Ramaswamy 2004, 97&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-tseven&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-teight&quot;&gt;
+&lt;p&gt;Buhse/Reppesgaard/Lessmann/Henkel/Lange 2011, 46&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-teight&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-tnine&quot;&gt;
+&lt;p&gt;Ramaswamy 2008&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-tnine&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-fone&quot;&gt;
+&lt;p&gt;Buhse / Reppesgaard / Lessmann / Henkel / Lange 2011, 44&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-fone&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-ftwo&quot;&gt;
+&lt;p&gt;Ramaswamy 2008&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-ftwo&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-fthree&quot;&gt;
+&lt;p&gt;Prahalad/Ramaswamy 2004, 32&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-fthree&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-ffour&quot;&gt;
+&lt;p&gt;Prahalad/Ramaswamy 2004, 27&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-ffour&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-ffive&quot;&gt;
+&lt;p&gt;Ramaswamy 2008&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-ffive&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-fsix&quot;&gt;
+&lt;p&gt;Buhse/Reppesgaard/Lessmann/Henkel/Lange 2011, 36&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-fsix&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-fseven&quot;&gt;
+&lt;p&gt;Buhse/Reppesgaard/Lessmann/Henkel/Lange 2011, 17&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-fseven&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-:fig:pic-source-one&quot;&gt;
+&lt;p&gt;Abb. 1: Prahalad, C. K. / Ramaswamy V. (2004). The Future of Competition. Co-Creating Unique Value with Customers.&lt;/p&gt;
+&lt;a href=&quot;#fnref-:fig:pic-source-one&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-:fig:pic-source-two&quot;&gt;
+&lt;p&gt;Abb. 2: Prahalad, C. K. / Ramaswamy V. (2004). The Future of Competition. Co-Creating Unique Value with Customers.&lt;/p&gt;
+&lt;a href=&quot;#fnref-:fig:pic-source-two&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-:fig:pic-source-three&quot;&gt;
+&lt;p&gt;Abb. 3: Prahalad, C. K. / Ramaswamy V. (2004). The Future of Competition. Co-Creating Unique Value with Customers.&lt;/p&gt;
+&lt;a href=&quot;#fnref-:fig:pic-source-three&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-:fig:pic-source-four&quot;&gt;
+&lt;p&gt;Abb. 4: Prahalad, C. K. / Ramaswamy V. (2004). The Future of Competition. Co-Creating Unique Value with Customers.&lt;/p&gt;
+&lt;a href=&quot;#fnref-:fig:pic-source-four&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Dynamische Strukturen in digitalen Produkten]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
@@ -2974,7 +3436,7 @@ to-heading: 6&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;blockquote&gt;
 &lt;p&gt;«Durch Social Commerce ergeben sich neue Möglichkeiten der Interaktion und Kollaboration zwischen Unternehmen und Einzelpersonen. Das Vertrauen in Soziale Netzwerke fördert die Kaufentscheidung für individuell vorgeschlagene Produkte.» – Kilchhofer S.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Meine Definition von Social Commerce setzt sich aus dem Zitat von Marsden (2009&lt;sup id=&quot;fnref-:qv:marsden_2009&quot;&gt;&lt;a href=&quot;#fn-:qv:marsden_2009&quot; class=&quot;footnote-ref&quot;&gt;:qv:marsden_2009&lt;/a&gt;&lt;/sup&gt;) und Baghdadi (2019, S. 6&lt;sup id=&quot;fnref-:lv:buerklin_2019&quot;&gt;&lt;a href=&quot;#fn-:lv:buerklin_2019&quot; class=&quot;footnote-ref&quot;&gt;:lv:buerklin_2019&lt;/a&gt;&lt;/sup&gt;) zusammen.&lt;/p&gt;
+&lt;p&gt;Meine Definition von Social Commerce setzt sich aus dem Zitat von Marsden (2009&lt;sup id=&quot;fnref-:qv:marsden_2009&quot;&gt;&lt;a href=&quot;#fn-:qv:marsden_2009&quot; class=&quot;footnote-ref&quot;&gt;:qv:marsden_2009&lt;/a&gt;&lt;/sup&gt;) und Baghdadi (Bürklin, 2019, S. 6&lt;sup id=&quot;fnref-:lv:buerklin_2019&quot;&gt;&lt;a href=&quot;#fn-:lv:buerklin_2019&quot; class=&quot;footnote-ref&quot;&gt;:lv:buerklin_2019&lt;/a&gt;&lt;/sup&gt;) zusammen.&lt;/p&gt;
 &lt;p&gt;Nachfolgend die beiden Zitate.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;«social shopping is the new motor driving the social commerce trend. Promotes purchase decisions primarily through the ‘liking’ social intelligence heuristic allowing people to shop with people they know, like, and trust. Adds emotion into the e-commerce mix, and enables real time recommendations.» – Marsden P.&lt;/p&gt;
@@ -2986,25 +3448,25 @@ to-heading: 6&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Im Jahr 2005 startete Yahoo mit einem ersten Indikator von Social Commerce. Der Service erlaubte den BenutzerInnen eine Funktion, Produkte online zu teilen und zu kommentieren. Nachfolgend zu dieser Entwicklung entstand 2009 der erste Facebook Shop. Dieser beinhaltete einen Webshop der Blumenfirma 1800flowers und dieser wurde direkt über ihre Facebookseite eingebunden. (vgl. Crunchbase, 2009&lt;sup id=&quot;fnref-:qv:crunchbase_2009&quot;&gt;&lt;a href=&quot;#fn-:qv:crunchbase_2009&quot; class=&quot;footnote-ref&quot;&gt;:qv:crunchbase_2009&lt;/a&gt;&lt;/sup&gt;) Dieses Ereignis gilt bis heute als Meilenstein von Social Commerce.&lt;/p&gt;
 &lt;p&gt;In dieser Weise hat sich Social Commerce mit der schnellen Entwicklung der Sozialen Medien rasant weiterentwickelt. Der Ansatz führt weg von Produkt orientierten Plattformen (typischerweise E-Commerce)  zu Nutzer orientierten Plattformen (Social Commerce).&lt;/p&gt;
 &lt;h3&gt;2.3 Was ist der Unterschied zwischen E-Commerce und S-Commerce?&lt;/h3&gt;
-&lt;p&gt;Beide Formen von Commerce haben dasselbe Ziel. Das beinhaltet den Verkauf von Produkten und Dienstleistungen über eine Online Umgebung. Zudem streben beide Formen grosse Verbreitung und Vertrauen der KäuferInnen an. KonsumentInnen erwarten heutzutage, dass sie jedes Produkt jederzeit und von überall auf der Welt direkt und unkompliziert bestellen können.&lt;/p&gt;
+&lt;p&gt;Beide Formen von Commerce (Handel) haben dasselbe Ziel. Das beinhaltet den Verkauf von Produkten und Dienstleistungen über eine Online Umgebung. Zudem streben beide Formen grosse Verbreitung und Vertrauen der KäuferInnen an. KonsumentInnen erwarten heutzutage, dass sie jedes Produkt jederzeit und von überall auf der Welt direkt und unkompliziert bestellen können.&lt;/p&gt;
 &lt;p&gt;Die klassische Form von E-Commerce findet über eine Webseite auf einem Computer oder einem Smartphone statt. Einzelne Unternehmen bieten Online ihre Produkte zum Kauf an und KäuferInnen können diese Produkte dort beziehen. Zusätzlich gibt es unabhängige Portale, welche Produkte verschiedener Hersteller anbieten. Auf solchen Plattformen werden Produkte angeschaut, verglichen und bestellt. Der ganze Einkaufsprozess wird über diese abgewickelt. Diese Interaktionen mit den angebotenen Produkten finden heute vermehrt statt. Jene belaufen sich auf Kommentare und Bewertungen der Produkte. Auf diese Art können Kaufentscheide beeinflusst werden. Die Interaktion zwischen den Nutzern und den Firmen hinter den Produkten, sowie zwischen anderen Nutzern, findet beinahe nicht statt. Drei bekannte E-Commerce Plattformen sind Amazon, Alibaba und Digitec.&lt;/p&gt;
 &lt;p&gt;Im Gegenzug ist Social Commerce vermehrt in einer App auf mobilen Geräten vorhanden und wird in einem Sozialen Netzwerk angewendet. Die Käuferinnen befinden sich somit nicht mehr auf einer losgelösten Einkaufsplattform, sondern in einem Sozialen Netzwerk. Auf diesen werden die Profile von Freunden und Unternehmen identisch angezeigt und so ist es schwierig die Inhalte voneinander zu unterscheiden. Dies hilft den kommerziellen Profilen Vertrauen zu schaffen und nähe zum Kunden zu gewinnen. NutzerInnen entscheiden selbst über ihre Interessen und richten sich das Netzwerk auf ihre Bedürfnisse ein. Dies geschieht oft unterbewusst, indem sie unterschiedlichen Seiten folgen. Die Hürde sich dabei kommerzielle Inhalte anzusehen, sinkt stark. Ich werde auf dieses Verhalten mit einem Beispiel, von einer Sportartikelfirma, im Kapitel 3.1 eingehen. &lt;/p&gt;
-&lt;p&gt;Der grosse Unterschied zwischen diesen zwei Verkaufsformen entsteht beim Kaufprozess. Die Möglichkeiten der Interaktion mit den Verkäufern und anderen NutzerInnen auf Sozialen Plattformen sind vielfältiger und der Kaufentscheid kann dadurch stärker beeinflusst werden. So können NutzerInnen auf unterschiedliche Art und Weise mit Unternehmen interagieren. (vgl. Bürklin, 2019, S. 3&lt;sup id=&quot;fnref-:lv:buerklin_2019&quot;&gt;&lt;a href=&quot;#fn-:lv:buerklin_2019&quot; class=&quot;footnote-ref&quot;&gt;:lv:buerklin_2019&lt;/a&gt;&lt;/sup&gt;) Beispielsweise werden Posts kommentiert, geliked und geteilt. Über diese Plattformen können sogar private Nachrichten direkt an das Unternehmen gesendet werden. Die Unternehmen sehen dieses Feedback unmittelbar und können in Echtzeit darauf reagieren.&lt;/p&gt;
+&lt;p&gt;Der grosse Unterschied zwischen diesen zwei Verkaufsformen entsteht beim Kaufprozess. Die Möglichkeiten der Interaktion mit den Verkäufern und anderen NutzerInnen auf Sozialen Plattformen sind vielfältiger und der Kaufentscheid kann dadurch stärker beeinflusst werden. So können NutzerInnen auf unterschiedliche Art und Weise mit Unternehmen interagieren. (vgl. Bürklin, 2019, S. 3&lt;sup id=&quot;fnref-:lv:buerklin_2_2019&quot;&gt;&lt;a href=&quot;#fn-:lv:buerklin_2_2019&quot; class=&quot;footnote-ref&quot;&gt;:lv:buerklin_2_2019&lt;/a&gt;&lt;/sup&gt;) Beispielsweise werden Posts kommentiert, geliked und geteilt. Über diese Plattformen können sogar private Nachrichten direkt an das Unternehmen gesendet werden. Die Unternehmen sehen dieses Feedback unmittelbar und können in Echtzeit darauf reagieren.&lt;/p&gt;
 &lt;h3&gt;2.4 Welche Schritte beinhaltet ein Kaufprozess?&lt;/h3&gt;
 &lt;p&gt;Um den Kaufprozess darzustellen, stütze ich mich auf das «Fünf-Phasen-Modell» von Philip Kotler. (vgl. Hofer, 2019&lt;sup id=&quot;fnref-:qv:hofer_2019&quot;&gt;&lt;a href=&quot;#fn-:qv:hofer_2019&quot; class=&quot;footnote-ref&quot;&gt;:qv:hofer_2019&lt;/a&gt;&lt;/sup&gt;) Er berücksichtigt den gesamten Kaufprozess und nicht nur die Kaufentscheidung. Das Modell von Kotler wird in folgende fünf Phasen aufgeteilt: &lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/58b4bac07ecdb2036bc64d6495560fc5/kaufprozess.svg&quot; alt=&quot;Die fünf Phasen des Kaufprozesses&quot;&gt;
-Die fünf Phasen des Kaufprozesses&lt;sup id=&quot;fnref-:av:phasen_kaufprozess&quot;&gt;&lt;a href=&quot;#fn-:av:phasen_kaufprozess&quot; class=&quot;footnote-ref&quot;&gt;:av:phasen_kaufprozess&lt;/a&gt;&lt;/sup&gt;*&lt;/p&gt;
+Die fünf Phasen des Kaufprozesses&lt;sup id=&quot;fnref-:av:phasen_kaufprozess&quot;&gt;&lt;a href=&quot;#fn-:av:phasen_kaufprozess&quot; class=&quot;footnote-ref&quot;&gt;:av:phasen_kaufprozess&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;h4&gt;2.4.1 Problemerkennung&lt;/h4&gt;
-&lt;p&gt;Das Zentrale bei der Problemerkennung ist ein Bedürfnis zu schaffen, welches gestillt werden muss. Wenn bei einem Kunden der Bedarf nach einem Gut oder einer Dienstleistung entsteht, beginnt der Kunde mit der Informationssuche eines passenden Produktes.&lt;/p&gt;
+&lt;p&gt;Das Zentrale bei der Problemerkennung ist ein Bedürfnis zu schaffen, welches gestillt werden muss. Wenn bei einem Kunden der Bedarf nach einem Gut oder einer Dienstleistung entsteht, beginnt der Kunde mit der Informationssuche eines passenden Produktes. (vgl. Hofer, 2019&lt;sup id=&quot;fnref-:qv:hofer_2019&quot;&gt;&lt;a href=&quot;#fn-:qv:hofer_2019&quot; class=&quot;footnote-ref&quot;&gt;:qv:hofer_2019&lt;/a&gt;&lt;/sup&gt;)&lt;/p&gt;
 &lt;h4&gt;2.4.2 Informationssuche&lt;/h4&gt;
-&lt;p&gt;Kotler nennt bei der Informationssuche zwei Suchzustände. Der erste ist die «aktive Informationssuche». Auf Social Commerce bezogen, werden hier aktiv Produkte zu einer gewollten Kategorie angeschaut. Ein Beispiel hierfür könnten Winterschuhe sein, welche ein Bedürfnis des Kunden in den kommenden Monaten sind. Die Informationssuche auf ein solches Produkt kann lange andauern und wird durch einen höheren Leistungsanspruch zusätzlich genauer. Der zweite Suchzustand nennt Kotler die «erhöhte Wachsamkeit». Ein Beispiel hierfür wäre der Kauf von Zahnpasta. Der Kunde hat das Bedürfnis einer neuen Zahnpasta und wird passiv durch Werbung beeinflusst. Meistens kauft der Kunde durch eine spontane Entscheidung das Zahnpasta Produkt ein ohne sich vorher gross über dessen Informationen informiert zu haben.&lt;/p&gt;
+&lt;p&gt;Kotler nennt bei der Informationssuche zwei Suchzustände. Der erste ist die «aktive Informationssuche». Auf Social Commerce bezogen, werden hier aktiv Produkte zu einer gewollten Kategorie angeschaut. Ein Beispiel hierfür könnten Winterschuhe sein, welche ein Bedürfnis des Kunden in den kommenden Monaten sind. Die Informationssuche auf ein solches Produkt kann lange andauern und wird durch einen höheren Leistungsanspruch zusätzlich genauer. Der zweite Suchzustand nennt Kotler die «erhöhte Wachsamkeit». Ein Beispiel hierfür wäre der Kauf von Zahnpasta. Der Kunde hat das Bedürfnis einer neuen Zahnpasta und wird passiv durch Werbung beeinflusst. Meistens kauft der Kunde durch eine spontane Entscheidung das Zahnpasta Produkt ein ohne sich vorher gross über dessen Informationen informiert zu haben. (vgl. Hofer, 2019&lt;sup id=&quot;fnref-:qv:hofer_2019&quot;&gt;&lt;a href=&quot;#fn-:qv:hofer_2019&quot; class=&quot;footnote-ref&quot;&gt;:qv:hofer_2019&lt;/a&gt;&lt;/sup&gt;)&lt;/p&gt;
 &lt;h4&gt;2.4.3 Bewertung der Alternativen&lt;/h4&gt;
-&lt;p&gt;Das gesammelte Wissen der Informationssuche wird nun verwendet um Produkte miteinander zu Vergleichen und zu Bewerten. Die Kriterien hierfür sind meist sehr persönlich. Der letzte Schritt besteht darin, dass der Suchende den Artikel mit dem grössten Gesamtnutzen präferiert und in den Prozess der Kaufentscheidung einmündet.&lt;/p&gt;
+&lt;p&gt;Das gesammelte Wissen der Informationssuche wird nun verwendet um Produkte miteinander zu Vergleichen und zu Bewerten. Die Kriterien hierfür sind meist sehr persönlich. Der letzte Schritt besteht darin, dass der Suchende den Artikel mit dem grössten Gesamtnutzen präferiert und in den Prozess der Kaufentscheidung einmündet. (vgl. Hofer, 2019&lt;sup id=&quot;fnref-:qv:hofer_2019&quot;&gt;&lt;a href=&quot;#fn-:qv:hofer_2019&quot; class=&quot;footnote-ref&quot;&gt;:qv:hofer_2019&lt;/a&gt;&lt;/sup&gt;)&lt;/p&gt;
 &lt;h4&gt;2.4.4 Kaufentscheidung&lt;/h4&gt;
-&lt;p&gt;Für die Kaufentscheidung sind zwei Kräfte ausschlaggebend. Zum einen kann die Meinung von einer Drittperson ein unerwartetes Ereignis auslösen. Je vertrauter die Person ist, umso eher wird den Kauf beeinflusst. Dies kann sich positiv sowie negativ auswirken. Die andere Kraft beschäftigt sich mit der sozialen Bewährtheit. Dies betrifft unter anderem Social Commerce. Die Bewährtheit trifft zu, wenn viele andere Personen das Produkt ebenfalls gekauft haben und dies in Form eines Likes oder einer Bewertung geteilt haben. So kann eine positive Meinung entstehen, welche zu einer schnelleren Kaufentscheidung führt.&lt;/p&gt;
-&lt;p&gt;Andere Einflussfaktoren können zum Abbruch des Bestellprozess führen, wenn zum Beispiel die Webseite währenddessen abstürzt oder der Prozess zu umständlich funktioniert.&lt;/p&gt;
+&lt;p&gt;Für die Kaufentscheidung sind zwei Kräfte ausschlaggebend. Zum einen kann die Meinung von einer Drittperson ein unerwartetes Ereignis auslösen. Je vertrauter die Person ist, umso eher wird den Kauf beeinflusst. Dies kann sich positiv sowie negativ auswirken. Die andere Kraft beschäftigt sich mit der sozialen Bewährtheit. Dies betrifft unter anderem Social Commerce. Die Bewährtheit trifft zu, wenn viele andere Personen das Produkt ebenfalls gekauft haben und dies in Form eines Likes oder einer Bewertung geteilt haben. So kann eine positive Meinung entstehen, welche zu einer schnelleren Kaufentscheidung führt. (vgl. Hofer, 2019&lt;sup id=&quot;fnref-:qv:hofer_2019&quot;&gt;&lt;a href=&quot;#fn-:qv:hofer_2019&quot; class=&quot;footnote-ref&quot;&gt;:qv:hofer_2019&lt;/a&gt;&lt;/sup&gt;)&lt;/p&gt;
+&lt;p&gt;Andere Einflussfaktoren können zum Abbruch des Bestellprozess führen, wenn zum Beispiel die Webseite währenddessen abstürzt oder der Prozess zu umständlich funktioniert. (vgl. Hofer, 2019&lt;sup id=&quot;fnref-:qv:hofer_2019&quot;&gt;&lt;a href=&quot;#fn-:qv:hofer_2019&quot; class=&quot;footnote-ref&quot;&gt;:qv:hofer_2019&lt;/a&gt;&lt;/sup&gt;)&lt;/p&gt;
 &lt;h4&gt;2.4.5 Verhalten nach dem Kauf&lt;/h4&gt;
-&lt;p&gt;Die Kundenbindung ist das grosse Ziel in der Nachkaufphase. Dies erfolgt unter anderem durch gezielte Werbung neuer Produkte oder Mund zu Mund Propaganda, wenn der Kunde zufrieden ist. Diese Propaganda wird immer mehr über Soziale Netzwerke geführt, womit die Marke eine höhere Reichweite erlangt.&lt;/p&gt;
+&lt;p&gt;Die Kundenbindung ist das grosse Ziel in der Nachkaufphase. Dies erfolgt unter anderem durch gezielte Werbung neuer Produkte oder Mund zu Mund Propaganda, wenn der Kunde zufrieden ist. Diese Propaganda wird immer mehr über Soziale Netzwerke geführt, womit die Marke eine höhere Reichweite erlangt. (vgl. Hofer, 2019&lt;sup id=&quot;fnref-:qv:hofer_2019&quot;&gt;&lt;a href=&quot;#fn-:qv:hofer_2019&quot; class=&quot;footnote-ref&quot;&gt;:qv:hofer_2019&lt;/a&gt;&lt;/sup&gt;)&lt;/p&gt;
 &lt;h3&gt;2.5 Wie verändert sich das Einkaufsverhalten online?&lt;/h3&gt;
 &lt;p&gt;Wenn wir zurück in die analoge Welt blicken, gibt es immer noch sehr viele kleine Läden in Einkaufshäusern und Shoppingstrassen. Einen grossen Teil der Kundschaft macht die Laufkundschaft aus. Viele stöbern in den Läden und kaufen Produkte, welche sie nicht gesucht haben und ihnen trotzdem gefallen. Preisreduktionen und Rabatte steuern dieses Phänomen zusätzlich. &lt;/p&gt;
 &lt;p&gt;In der Onlinewelt wird vermehrt auf dieses Einkaufsverhalten gesetzt. Unternehmen wollen Kunden dazu ermutigen Dinge zu kaufen, welche sie eigentlich gar nicht gesucht haben. In der Welt von Sozialen Medien werden rund um die Uhr Inhalte unter UserInnen geteilt, die das Einkaufen ankurbeln. Unter anderem können die UserInnen zielgruppenorientiert erfasst werden und so bestimmte Werbeinhalte erhalten. Die Beeinflussung der Kaufentscheidung befasst sich mit der Meinungsbildung von Drittpersonen. Die Beeinflussung ist dadurch sehr unterbewusst und die letzte Entscheidung vor dem Kauf kann so dem Käufer abgenommen werden.&lt;/p&gt;
@@ -3016,6 +3478,9 @@ Produkte werden durch andere Käufer vorgeschlagen und der Nutzer betätigt mit 
 Was bietet Instagram bezüglich Social Commerce bereits heute und wo wird der Weg bezüglich sozialem Einkaufen hingehen?&lt;/p&gt;
 &lt;h3&gt;3.1 Wie sich On Running auf Instagram präsentiert&lt;/h3&gt;
 &lt;p&gt;Eine riesige Anzahl an Marken präsentieren sich auf Instagram. Nicht nur um ihre Produkte zu zeigen, sondern vielmehr um die Follower mit eigenen Inhalten zu berauschen. Viele Unternehmen verwenden ein Instagram Profil, um sich als Marke zu positionieren und bekannter zu machen. Die Inhalte werden mit Hochglanz bearbeitet und danach dem Endverbraucher präsentiert. &lt;/p&gt;
+&lt;Grid&gt;
+&lt;Column start=&quot;1&quot; end=&quot;5&quot;&gt;&lt;/Column&gt;
+&lt;Column start=&quot;5&quot; end=&quot;9&quot;&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1125px;&quot;
@@ -3046,9 +3511,13 @@ Was bietet Instagram bezüglich Social Commerce bereits heute und wo wird der We
   &lt;/a&gt;
     &lt;/span&gt;
 Das Profil von On Running vom 25.12.2019.&lt;sup id=&quot;fnref-:av:profile_on-running&quot;&gt;&lt;a href=&quot;#fn-:av:profile_on-running&quot; class=&quot;footnote-ref&quot;&gt;:av:profile_on-running&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/Column&gt;
+&lt;Column start=&quot;9&quot; end=&quot;13&quot;&gt;&lt;/Column&gt;
+&lt;/Grid&gt;  
 &lt;p&gt;Für meine Arbeit habe ich das Profil von On Running analysiert. Ich folge dem Profil bereits seit einigen Jahren und habe somit die Firma in ihrere Wachstumsphase miterlebt. On Running ist eine Sportartikelmarke aus Zürich, die anfänglich mit einem neuen System für Laufschuhe auf sich aufmerksam machte. Mittlerweile hat sie den Markt sehr beeinflusst und ist weltweit bekannt. On Running nutzt Instagram um einerseits ihre Produktpalette zu zeigen und andererseits ihr Engagement bei Anlässen zu repräsentieren. Unter anderem geben sie immer wieder Einblicke in ihre Produktentwicklung, welche zur Offenheit und Transparenz des Unternehmens beitragen. Ich als Enduser kann mich somit stark mit dem Unternehmen identifizieren und kaufe so eventuell mehr Produkte. Durch diese Verbundenheit sehe ich jederzeit neue Produkte und kann diese durch einen Kommentar meinen Freunden weiterempfehlen. Nachfolgend habe ich zwei Posts ausgewählt, welche die Vielfalt der Beiträge aufzeigt. &lt;/p&gt;
 &lt;Grid&gt;
-&lt;Column start=&quot;1&quot; end=&quot;7&quot;&gt;
+&lt;Column start=&quot;1&quot; end=&quot;3&quot;&gt;&lt;/Column&gt;
+&lt;Column start=&quot;3&quot; end=&quot;7&quot;&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1125px;&quot;
@@ -3078,9 +3547,9 @@ Das Profil von On Running vom 25.12.2019.&lt;sup id=&quot;fnref-:av:profile_on-r
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;
-In diesem Post wird ein Projekt gezeigt, um die Verbundenheit zur Schweiz und den Schweizer Bergen darzustellen.&lt;sup id=&quot;fnref-:av:on-running_post_shoe&quot;&gt;&lt;a href=&quot;#fn-:av:on-running_post_shoe&quot; class=&quot;footnote-ref&quot;&gt;:av:on-running_post_shoe&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+In diesem Post wird ein Projekt gezeigt, um die Verbundenheit zur Schweiz und den Schweizer Bergen darzustellen.&lt;sup id=&quot;fnref-:av:on-running_post_moutain&quot;&gt;&lt;a href=&quot;#fn-:av:on-running_post_moutain&quot; class=&quot;footnote-ref&quot;&gt;:av:on-running_post_moutain&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;/Column&gt;
-&lt;Column start=&quot;7&quot; end=&quot;13&quot;&gt;
+&lt;Column start=&quot;7&quot; end=&quot;11&quot;&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1125px;&quot;
@@ -3110,8 +3579,9 @@ In diesem Post wird ein Projekt gezeigt, um die Verbundenheit zur Schweiz und de
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;
-Hier wird in einem Video ein neuer Schuh vorgestellt. Dieser Einblick zeigt den Head of Design von On Running selbst. Solche Posts geben Einsicht in das Unternehmen und in die Entwicklung ihrer Produkte. &lt;sup id=&quot;fnref-:av:on-running_post_moutain&quot;&gt;&lt;a href=&quot;#fn-:av:on-running_post_moutain&quot; class=&quot;footnote-ref&quot;&gt;:av:on-running_post_moutain&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+Hier wird in einem Video ein neuer Schuh vorgestellt. Dieser Einblick zeigt den Head of Design von On Running selbst. Solche Posts geben Einsicht in das Unternehmen und in die Entwicklung ihrer Produkte.&lt;sup id=&quot;fnref-:av:on-running_post_shoe&quot;&gt;&lt;a href=&quot;#fn-:av:on-running_post_shoe&quot; class=&quot;footnote-ref&quot;&gt;:av:on-running_post_shoe&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;/Column&gt;
+&lt;Column start=&quot;11&quot; end=&quot;13&quot;&gt;&lt;/Column&gt;
 &lt;/Grid&gt;
 &lt;h3&gt;3.2 Wie wird heute auf Instagram sozial eingekauft?&lt;/h3&gt;
 &lt;p&gt;Instagram bietet verschiedene Interaktionsmöglichkeiten auf einem einzelnen Post. Er kann geliked, kommentiert und geteilt werden. Zusätzlich können Posts auf eine Merkliste gesetzt werden. Diese sind zu einem späteren Zeitpunkt einfacher auffindbar. Alle Funktionen sind unter dem Beitrag mit einem Tipp erreichbar.
@@ -3501,18 +3971,18 @@ Das Vergleichen der Produkte, welches den gesellschaftliche Druck gerade unter J
 &lt;h2&gt;Literaturverzeichnis&lt;/h2&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;references&quot;&gt;&lt;pre class=&quot;language-references&quot;&gt;&lt;code class=&quot;language-references&quot;&gt;group-include: lv
 
-inline-link-prefix: &amp;#39;&amp;#39;
+inline-link-prefix: &amp;#39;Lit. &amp;#39;
 
-reference-link-prefix: &amp;#39;↑ &amp;#39;
+reference-link-prefix: &amp;#39;↑ Lit. &amp;#39;
 reference-link-suffix: &amp;#39;&amp;#39;
 
 reference-text-suffix: &amp;#39; – &amp;#39;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h2&gt;Quellenverzeichnis&lt;/h2&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;references&quot;&gt;&lt;pre class=&quot;language-references&quot;&gt;&lt;code class=&quot;language-references&quot;&gt;group-include: qv
 
-inline-link-prefix: &amp;#39;&amp;#39;
+inline-link-prefix: &amp;#39;Qu. &amp;#39;
 
-reference-link-prefix: &amp;#39;↑ &amp;#39;
+reference-link-prefix: &amp;#39;↑ Qu. &amp;#39;
 reference-link-suffix: &amp;#39;&amp;#39;
 
 reference-text-suffix: &amp;#39; – &amp;#39;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
@@ -3549,13 +4019,13 @@ Würzwies 10&lt;br/&gt;
 &lt;p&gt;Bürklin, N. (2019). &lt;em&gt;Social Commerce Consumer Behaviour in Online Environments&lt;/em&gt;. Cham: Springer. DOI: 10.1007/978-3-030-03617-1&lt;/p&gt;
 &lt;a href=&quot;#fnref-:lv:buerklin_2019&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
+&lt;li id=&quot;fn-:lv:buerklin_2_2019&quot;&gt;
+&lt;p&gt;Bürklin, N. (2019). &lt;em&gt;Social Commerce Consumer Behaviour in Online Environments&lt;/em&gt;. Cham: Springer. DOI: 10.1007/978-3-030-03617-1&lt;/p&gt;
+&lt;a href=&quot;#fnref-:lv:buerklin_2_2019&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
 &lt;li id=&quot;fn-:lv:yao&quot;&gt;
 &lt;p&gt;Yao, Y. (2019). &lt;em&gt;Social Commerce Consumer Behaviour in Online Environments&lt;/em&gt;. Cham: Springer. DOI: 10.1007/978-3-030-03617-1&lt;/p&gt;
 &lt;a href=&quot;#fnref-:lv:yao&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
-&lt;/li&gt;
-&lt;li id=&quot;fn-:qv:test_jahr&quot;&gt;
-&lt;p&gt;Nachname, Vorname (Jahr). &lt;a href=&quot;link&quot;&gt;&lt;em&gt;Titel der Webseite&lt;/em&gt;&lt;/a&gt;, Abgerufen am 03. Januar 2020.&lt;/p&gt;
-&lt;a href=&quot;#fnref-:qv:test_jahr&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;li id=&quot;fn-:qv:marsden_2009&quot;&gt;
 &lt;p&gt;Marsden, P. (2009). &lt;a href=&quot;https://digitalwellbeing.org/the-6-dimensions-of-social-commerce-rated-and-reviewed&quot;&gt;&lt;em&gt;The 6 Dimensions of Social Commerce: Rated and Reviewed&lt;/em&gt;&lt;/a&gt;, Abgerufen am 03. Januar 2020.&lt;/p&gt;
@@ -3586,43 +4056,43 @@ Würzwies 10&lt;br/&gt;
 &lt;a href=&quot;#fnref-:qv:topdigitalagency_2019&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;li id=&quot;fn-:av:phasen_kaufprozess&quot;&gt;
-&lt;p&gt;Groissberger.at. (2019). &lt;a href=&quot;http://www.groissberger.at/phasen-des-kaufprozesses-nach-kotler/&quot;&gt;&lt;em&gt;Phasen des Kaufprozess nach Kotler&lt;/em&gt;&lt;/a&gt;, Abgerufen am 02. Januar 2020.&lt;/p&gt;
+&lt;p&gt;Abbildung erstellt von Severin Kilchhofer, Grundlage der Grafik von Groissberger.at. &lt;a href=&quot;http://www.groissberger.at/phasen-des-kaufprozesses-nach-kotler/&quot;&gt;&lt;em&gt;Phasen des Kaufprozess nach Kotler&lt;/em&gt;&lt;/a&gt;, Abgerufen am 02. Januar 2020.&lt;/p&gt;
 &lt;a href=&quot;#fnref-:av:phasen_kaufprozess&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;li id=&quot;fn-:av:profile_on-running&quot;&gt;
-&lt;p&gt;Instagram, (2019). &lt;a href=&quot;https://www.instagram.com/on_running&quot;&gt;_on-running Profilseite&lt;/a&gt;, Abgerufen am 25. Dezember 2019.&lt;/p&gt;
+&lt;p&gt;Instagram, (2019). &lt;a href=&quot;https://www.instagram.com/on_running&quot;&gt;&lt;em&gt;on-running Profilseite&lt;/em&gt;&lt;/a&gt;, Abgerufen am 25. Dezember 2019.&lt;/p&gt;
 &lt;a href=&quot;#fnref-:av:profile_on-running&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
-&lt;/li&gt;
-&lt;li id=&quot;fn-:av:on-running_post_shoe&quot;&gt;
-&lt;p&gt;Instagram, (2019). &lt;a href=&quot;https://www.instagram.com/tv/B3w3u5kB6QB/?igshid=1bku54zz2ayub&quot;&gt;&lt;em&gt;on-running Cloud Hi Edge&lt;/em&gt;&lt;/a&gt;, Abgerufen am 25. Dezember 2019.&lt;/p&gt;
-&lt;a href=&quot;#fnref-:av:on-running_post_shoe&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;li id=&quot;fn-:av:on-running_post_moutain&quot;&gt;
 &lt;p&gt;Instagram, (2019). &lt;a href=&quot;https://www.instagram.com/p/B4NgDZ5B8aw/?igshid=n4gb7m6lwvoo&quot;&gt;&lt;em&gt;on-running On Moutain Hut&lt;/em&gt;&lt;/a&gt;, Abgerufen am 25. Dezember 2019.&lt;/p&gt;
 &lt;a href=&quot;#fnref-:av:on-running_post_moutain&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
+&lt;li id=&quot;fn-:av:on-running_post_shoe&quot;&gt;
+&lt;p&gt;Instagram, (2019). &lt;a href=&quot;https://www.instagram.com/tv/B3w3u5kB6QB/?igshid=1bku54zz2ayub&quot;&gt;&lt;em&gt;on-running Cloud Hi Edge&lt;/em&gt;&lt;/a&gt;, Abgerufen am 25. Dezember 2019.&lt;/p&gt;
+&lt;a href=&quot;#fnref-:av:on-running_post_shoe&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
 &lt;li id=&quot;fn-:av:on-running_kaufprozess_1&quot;&gt;
-&lt;p&gt;Instagram, (2019). Abgerufen am 25. Dezember 2019.&lt;/p&gt;
+&lt;p&gt;Instagram Post, (2019). &lt;a href=&quot;https://www.instagram.com/p/B5DdcD1hevi/?igshid=m6jkqlhrghu4&quot;&gt;&lt;em&gt;on-running On Products&lt;/em&gt;&lt;/a&gt; Abgerufen am 25. Dezember 2019.&lt;/p&gt;
 &lt;a href=&quot;#fnref-:av:on-running_kaufprozess_1&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;li id=&quot;fn-:av:on-running_kaufprozess_2&quot;&gt;
-&lt;p&gt;Instagram, (2019). Abgerufen am 25. Dezember 2019.&lt;/p&gt;
+&lt;p&gt;Instagram Post, (2019). &lt;a href=&quot;https://www.instagram.com/p/B5DdcD1hevi/?igshid=m6jkqlhrghu4&quot;&gt;&lt;em&gt;on-running In this photo&lt;/em&gt;&lt;/a&gt; Abgerufen am 25. Dezember 2019.&lt;/p&gt;
 &lt;a href=&quot;#fnref-:av:on-running_kaufprozess_2&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;li id=&quot;fn-:av:on-running_kaufprozess_3&quot;&gt;
-&lt;p&gt;Instagram, (2019). Abgerufen am 25. Dezember 2019.&lt;/p&gt;
+&lt;p&gt;Instagram Post, (2019). &lt;a href=&quot;https://www.instagram.com/p/B5DdcD1hevi/?igshid=m6jkqlhrghu4&quot;&gt;&lt;em&gt;on-running On View on Website&lt;/em&gt;&lt;/a&gt; Abgerufen am 25. Dezember 2019.&lt;/p&gt;
 &lt;a href=&quot;#fnref-:av:on-running_kaufprozess_3&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;li id=&quot;fn-:av:on-running_kaufprozess_4&quot;&gt;
-&lt;p&gt;Instagram, (2019). Abgerufen am 25. Dezember 2019.&lt;/p&gt;
+&lt;p&gt;on-running.com, (2019). &lt;a href=&quot;https://www.on-running.com/de-ch/products/cloud&quot;&gt;&lt;em&gt;on-running Cloud Slate | Rock&lt;/em&gt;&lt;/a&gt; Abgerufen am 25. Dezember 2019.&lt;/p&gt;
 &lt;a href=&quot;#fnref-:av:on-running_kaufprozess_4&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;li id=&quot;fn-:av:on-running_kaufprozess_5&quot;&gt;
-&lt;p&gt;Instagram, (2019). Abgerufen am 25. Dezember 2019.&lt;/p&gt;
+&lt;p&gt;on-running.com, (2019). &lt;a href=&quot;https://www.on-running.com/de-ch/products/cloud&quot;&gt;&lt;em&gt;on-running Add to cart&lt;/em&gt;&lt;/a&gt; Abgerufen am 25. Dezember 2019.&lt;/p&gt;
 &lt;a href=&quot;#fnref-:av:on-running_kaufprozess_5&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;li id=&quot;fn-:av:on-running_kaufprozess_6&quot;&gt;
-&lt;p&gt;Instagram, (2019). Abgerufen am 25. Dezember 2019.&lt;/p&gt;
+&lt;p&gt;on-running.com, (2019). &lt;a href=&quot;https://www.on-running.com/de-ch/products/cloud&quot;&gt;&lt;em&gt;on-running Checkout&lt;/em&gt;&lt;/a&gt; Abgerufen am 25. Dezember 2019.&lt;/p&gt;
 &lt;a href=&quot;#fnref-:av:on-running_kaufprozess_6&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;li id=&quot;fn-:av:instagram_checkout&quot;&gt;
@@ -3638,7 +4108,12 @@ Würzwies 10&lt;br/&gt;
 &lt;a href=&quot;#fnref-:av:wechat-mini-programs&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;li id=&quot;fn-:av:wechat-giesswein-vergleich&quot;&gt;
+&lt;p&gt;walkthechat.com, (2019), &lt;a href=&quot;https://walkthechat.com/wechat-shops/&quot;&gt;&lt;em&gt;What is a WeChat Shop?&lt;/em&gt;&lt;/a&gt;, Abgerufen am 02. Januar 2020.&lt;/p&gt;
 &lt;a href=&quot;#fnref-:av:wechat-giesswein-vergleich&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-:av:wechat-good-product-circle&quot;&gt;
+&lt;p&gt;walkthechat.com, (2019), &lt;a href=&quot;https://walkthechat.com/wechat-released-new-recommended-products-e-commerce-function/&quot;&gt;&lt;em&gt;WeChat released new “recommended products” e-commerce function&lt;/em&gt;&lt;/a&gt;, Abgerufen am 02. Januar 2020.&lt;/p&gt;
+&lt;a href=&quot;#fnref-:av:wechat-good-product-circle&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Inwiefern hat sich die Customer Journey durch den neuen Touch-Point «Sprachassistent» verändert?]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
