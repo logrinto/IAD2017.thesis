@@ -169,7 +169,7 @@ Die «Jimquisition» ist ein Format in der Jim Sterling vordergründig Probleme 
 
 ### Bellular
 
-Bellular, oder auch Michael Bell, wie er mit bürgerlichem Namen heisst, ist ein Gaming-Youtuber der sich vor allem mit dem Thema «World of Warcraft» bekannt gemacht hat, mittlerweile aber auch allgemeine News aus der Gaming-Branche in einem Zweitkanal publiziert. Bellular ist schon einige Zeit bei Patreon, allerdings ist nicht genau festzustellen seit wann schon. Es ist aber anzunehmen, dass auch sein Wechsel zu Patreon der verminderten Einnahmen seines Youtube-Kanals zu schulden ist. Mit 529.000 Abonnenten auf seinem [Hauptkanal](https://www.youtube.com/channel/UCwiaPYufmQOq5F1TI-FzQhw) und 162.000 auf seinem [Nebenkanal](https://www.youtube.com/channel/UC3nPaf5MeeDTHA2JN7clidg), hätte er nach altem Youtube-Revenue-Modell ein gutes Einkommen gehabt. Bei 610 Patrons (Stand Dezember 2019) ist seine Anzahl an Unterstützern deutlich geringer als bei Jim Sterling, allerdings kann sich $8,187 pro Monat trotzdem sehen lassen. [Quelle](https://www.patreon.com/Bellular) Seine Unterstützer sind zu grösseren monatlichen Donations bereit, wie es scheint. Allerdings ist anzumerken, dass Bellular deutlich mehr Tiers hat, die man wählen kann – und auch mehr Content und selbst physische Rewards, wie Pins und Postkarten, bietet, wenn man dazu bereit ist, mehr zu bezahlen.
+Bellular, oder auch Michael Bell, wie er mit bürgerlichem Namen heisst, ist ein Gaming-Youtuber der sich vor allem mit dem Thema «World of Warcraft» bekannt gemacht hat, mittlerweile aber auch allgemeine News aus der Gaming-Branche in einem Zweitkanal publiziert. Bellular ist schon einige Zeit bei Patreon, allerdings ist nicht genau festzustellen seit wann schon. Es ist aber anzunehmen, dass auch sein Wechsel zu Patreon der verminderten Einnahmen seines Youtube-Kanals zu schulden ist. Mit 529.000 Abonnenten auf seinem [Hauptkanal](https://www.youtube.com/channel/UCwiaPYufmQOq5F1TI-FzQhw) und 162.000 auf seinem [Nebenkanal](https://www.youtube.com/channel/UC3nPaf5MeeDTHA2JN7clidg), hätte er nach altem Youtube-Revenue-Modell ein gutes Einkommen gehabt. Bei 610 Patrons (Stand Dezember 2019) ist seine Anzahl an Unterstützern deutlich geringer als bei Jim Sterling, allerdings kann sich $8,187 pro Monat trotzdem sehen lassen. [^quote-twentyone] Seine Unterstützer sind zu grösseren monatlichen Donations bereit, wie es scheint. Allerdings ist anzumerken, dass Bellular deutlich mehr Tiers hat, die man wählen kann – und auch mehr Content und selbst physische Rewards, wie Pins und Postkarten, bietet, wenn man dazu bereit ist, mehr zu bezahlen.
 
 Die Art seines Content kann man als Journalismus bezeichnen. Er geht allerdings deutlich neutraler und kinderfreundlicher vor als Jim Sterling und spricht deshalb auch eine andere Zielgruppe an.
 
@@ -180,9 +180,9 @@ Während man die beiden anderen Fallbeispiele eher als Einzelfirmen bezeichnen k
 
 2016 war auch das Gründungsjahr des Youtube-Channels Noclip, mit folgendem Versprechen:
 
-"Gamers deserve our media that reflects our passions, a press that uses its access to tell stories about how games get made, the people who play them, and the ways in which they reflect our lives—stories that make us proud to be gamers." [Quelle](https://mazerats.com/community/publications/danny-odwyer-funds-video-game-documentary-series/)
+"Gamers deserve our media that reflects our passions, a press that uses its access to tell stories about how games get made, the people who play them, and the ways in which they reflect our lives—stories that make us proud to be gamers." [^quote-twentytwo]
 
-Seiner Meinung nach hat das traditionelle Revenue-Modell, in dem über Werbeeinnahmen Geld generiert wird, die Qualität des Gaming-Journalismus stark beeinträchtigt. [Quelle](https://mazerats.com/education/article/video-essay/danny-odwyer-on-the-problems-with-games-journalism/) Reisserische Titel, um Clicks zu generieren, und die Art der Berichterstattung werden als Gründe dafür aufgeführt. Aus diesem Grund hat er sich schon bei der Gründung von NoClip dazu entschieden, auf das traditionelle Modell zu verzichten und stattdessen Geld über Crowdfunding, in diesem Fall Patreon, zu generieren. Stand Dezember 2019 verzeichnet die Patreon-Seite 4,122 Patrons und generiert damit einen Umsatz von $21,642. [Quelle](https://www.patreon.com/noclip) Und der [Youtube-Kanal](https://www.youtube.com/channel/UC0fDG3byEcMtbOqPMymDNbw) kann sich mit 445.000 Abonnenten ebenfalls sehen lassen. Der Content von NoClip dreht sich über Dokumentationen die in Kooperation mit Gaming-Studios und Publishern gedreht werden. In Ihnen wird der Entstehungsprozess eines Projekts dokumentiert, oder vergangene Titel genauer beleuchtet.
+Seiner Meinung nach hat das traditionelle Revenue-Modell, in dem über Werbeeinnahmen Geld generiert wird, die Qualität des Gaming-Journalismus stark beeinträchtigt. [^quote-twentythree](https://mazerats.com/education/article/video-essay/danny-odwyer-on-the-problems-with-games-journalism/) Reisserische Titel, um Clicks zu generieren, und die Art der Berichterstattung werden als Gründe dafür aufgeführt. Aus diesem Grund hat er sich schon bei der Gründung von NoClip dazu entschieden, auf das traditionelle Modell zu verzichten und stattdessen Geld über Crowdfunding, in diesem Fall Patreon, zu generieren. Stand Dezember 2019 verzeichnet die Patreon-Seite 4,122 Patrons und generiert damit einen Umsatz von $21,642. [^quote-twentyfour](https://www.patreon.com/noclip) Und der [Youtube-Kanal](https://www.youtube.com/channel/UC0fDG3byEcMtbOqPMymDNbw) kann sich mit 445.000 Abonnenten ebenfalls sehen lassen. Der Content von NoClip dreht sich über Dokumentationen die in Kooperation mit Gaming-Studios und Publishern gedreht werden. In Ihnen wird der Entstehungsprozess eines Projekts dokumentiert, oder vergangene Titel genauer beleuchtet.
 
 
 ### Gemeinsamkeiten
@@ -209,27 +209,27 @@ Als Unterstützer werden mir von einem Content-Creator gewisse Tiers angeboten, 
 
 #### Tier 1:
 
-Zitat: «$3 PER MONTH: Supporters get access to our **patron-only discord** and **exclusive update posts **on our docs and upcoming projects here on Patreon. **Plus: **Our sincere thanks for supporting our work.» [Quelle](https://www.patreon.com/noclip)
+Zitat: «$3 PER MONTH: Supporters get access to our **patron-only discord** and **exclusive update posts **on our docs and upcoming projects here on Patreon. **Plus: **Our sincere thanks for supporting our work.» [^quote-twentyfive]
 
 
 #### Tier 2:
 
-Zitat: «$5 PER MONTH: Insiders get access to all of our behind-the-scenes videos (filming around the world, working in the studio, updates), plus exclusive episodes of the Noclip Podcast every single month. **Plus: **Discord Access, Patron Posts, our sincere thanks!» [Quelle](https://www.patreon.com/noclip)
+Zitat: «$5 PER MONTH: Insiders get access to all of our behind-the-scenes videos (filming around the world, working in the studio, updates), plus exclusive episodes of the Noclip Podcast every single month. **Plus: **Discord Access, Patron Posts, our sincere thanks!» [^quote-twentysix]
 
 
 #### Tier 3:
 
-Zitat: «$10 PER MONTH: Join our crew to **watch the documentaries days before** they go public and get access to **bonus scenes** that didn't make it into the final cut.  **Plus: **Behind-the-Scenes Video Library, Bonus Podcasts, Discord Access, Patron Posts, our sincere thanks!» [Quelle](https://www.patreon.com/noclip)
+Zitat: «$10 PER MONTH: Join our crew to **watch the documentaries days before** they go public and get access to **bonus scenes** that didn't make it into the final cut.  **Plus: **Behind-the-Scenes Video Library, Bonus Podcasts, Discord Access, Patron Posts, our sincere thanks!» [^quote-twentyseven]
 
 
 #### Tier 4:
 
-Zitat: «$30 PER MONTH:Immortalize your patronage by becoming a Noclip producer. Pledge at this tier, and your **name will appear during the closing credits** of our docs. Plus join us** live for a Q&A every month**. **Plus: **Early Access, Behind-the-Scenes Video Library, Bonus Scenes, Bonus Podcasts, Discord Access, Patron Posts, our love and thanks!» [Quelle](https://www.patreon.com/noclip)
+Zitat: «$30 PER MONTH:Immortalize your patronage by becoming a Noclip producer. Pledge at this tier, and your **name will appear during the closing credits** of our docs. Plus join us** live for a Q&A every month**. **Plus: **Early Access, Behind-the-Scenes Video Library, Bonus Scenes, Bonus Podcasts, Discord Access, Patron Posts, our love and thanks!» [^quote-twentyeight]
 
 
 #### Tier 5:
 
-Zitat: «$1,337 PER MONTH: If you are an organization or studio that would like to support the work we do we offer this level which will **cover most of our studio’s rent for a month**. In return we’ll film **a special thank you video** for you or your team, give you a **shout out on every podcast & stream we produce that month** and add your name, headshot or logo to our **studio's wall of benefactors**. **Plus: **Your name in the credits, Monthly Live Q&A, Early Access, Behind-the-Scenes Video Library, Bonus Scenes, Bonus Podcasts, Discord Access, Patron Posts, our love and thanks!» [Quelle](https://www.patreon.com/noclip)
+Zitat: «$1,337 PER MONTH: If you are an organization or studio that would like to support the work we do we offer this level which will **cover most of our studio’s rent for a month**. In return we’ll film **a special thank you video** for you or your team, give you a **shout out on every podcast & stream we produce that month** and add your name, headshot or logo to our **studio's wall of benefactors**. **Plus: **Your name in the credits, Monthly Live Q&A, Early Access, Behind-the-Scenes Video Library, Bonus Scenes, Bonus Podcasts, Discord Access, Patron Posts, our love and thanks!» [^quote-twentynine]
 
 Wie man an diesem Beispiel deutlich sieht, erhält ein Patron eine Vielzahl an «Goodies», die es ihm ermöglichen noch tiefer mit dem Content des Anbieters zu interagieren. Man erhält also nicht nur den Content der ohnehin produziert wird, sondern dazu noch Bonus-Content, der den Preis zu rechtfertigen versucht.
 
@@ -261,40 +261,38 @@ Vorname Nachname, [Titel der Seite](https://www.google.com/) (Abrufdatum: dd. 
 Vorname Nachname, Buchtitel, Auflage, Verlag, Erscheinungsort Jahr, erste Seite – letzte Seite.
 -->
 
-[^quote-one]: [alexa.com](https://www.alexa.com/siteinfo/patreon.com) (Abrufdatum: dd. mm. yyyy)
-[^quote-two]: [web.archive.org](https://web.archive.org/web/20140717100534/http://ww2.kqed.org/arts/2014/07/12/local-companys-app-creating-patrons-of-the-arts-through-crowdfunding/)
-[^quote-three]: [polygon.com](https://www.polygon.com/2017/5/10/15609660/youtube-youtuber-ad-money-google)
-[^quote-four]: [polygon.com](https://www.polygon.com/2017/5/10/15609660/youtube-youtuber-ad-money-google)
-[^quote-five]: [wikipedia.com](https://de.wikipedia.org/wiki/Alt-Right)
-[^quote-six]: [thestreet.com](https://www.thestreet.com/lifestyle/what-is-patreon-14865916)
-[^quote-seven]: [medium.com](https://medium.com/@harrisonmalone_/getting-paid-for-content-5fb52195552b)
-[^quote-eight]: [techcrunch.com](https://techcrunch.com/2019/02/23/patreons-future-and-potential-exits/)
-[^quote-nine]: [web.archive.org](https://web.archive.org/web/20140717100534/http://ww2.kqed.org/arts/2014/07/12/local-companys-app-creating-patrons-of-the-arts-through-crowdfunding/)
-[^quote-ten]: [wikipedia.org](https://en.wikipedia.org/wiki/Patronage)
-[^quote-eleven]: [thestreet.com](https://www.thestreet.com/lifestyle/what-is-patreon-14865916)
-[^quote-twelve]: [techcrunch.com](https://techcrunch.com/2019/02/23/patreons-future-and-potential-exits/)
-[^quote-thirteen]: [youtube.com](https://www.youtube.com/about/policies/#community-guidelines)
-[^quote-fourteen]: [patreon.com](https://www.patreon.com/policy/guidelines)
-[^quote-fifteen]: [digitalmusicnews.com](https://www.digitalmusicnews.com/2018/01/02/patreon-content-creators-monthly-minimum-wage/)
-[^quote-sixteen]: [thestreet.com](https://www.thestreet.com/lifestyle/what-is-patreon-14865916)
-[^quote-seventeen]: [businessinsider.com](https://www.businessinsider.com/patreon-crowdfunding-platform-defends-itself-amid-boycott-2018-12?r=US&IR=T)
-[^quote-eighteen]: [wikipedia.com](https://de.wikipedia.org/wiki/M%C3%A4zen)
-[^quote-nineteen]:[kotaku.com](https://kotaku.com/angered-game-developer-sues-game-critic-jim-sterling-fo-1765484317)
-[^quote-twenty]:[patreon.com](https://www.patreon.com/jimquisition)
-Quelle
-<!-- references figures-->
-[^:fig:one]: Beispiel für Abbildungsverzeichnis.
-[^:fig:pic-source]: Abbildung von [lorempixel.com](http://lorempixel.com/800/600/cats/1)
+[^quote-one]: [alexa.com](https://www.alexa.com/siteinfo/patreon.com) Analysedaten: Zunahme der Seitenpopularität im Laufe der Zeit (Abrufdatum: 02. 12. 2019)
+[^quote-two]: [web.archive.org](https://web.archive.org/web/20140717100534/http://ww2.kqed.org/arts/2014/07/12/local-companys-app-creating-patrons-of-the-arts-through-crowdfunding/) KQED Arts, Grace Rubenstein: Crowdfunding Site Brings New Patrons to the Arts (Abrufdatum: 01. 12. 2019)
+[^quote-three]: [polygon.com](https://www.polygon.com/2017/5/10/15609660/youtube-youtuber-ad-money-google) Michael Sawyer, Why YouTubers are losing so much ad money (and how they can survive the crunch) (Abrufdatum: 22. 11. 2019)
+[^quote-four]: [polygon.com](https://www.polygon.com/2017/5/10/15609660/youtube-youtuber-ad-money-google) Michael Sawyer, Why YouTubers are losing so much ad money (and how they can survive the crunch) (Abrufdatum: 22. 11. 2019)
+[^quote-five]: [wikipedia.com](https://de.wikipedia.org/wiki/Alt-Right) Artikel über die armerikanische Gruppierung «Alt-Right» (Abrufdatum: 19. 12. 2019)
+[^quote-six]: [thestreet.com](https://www.thestreet.com/lifestyle/what-is-patreon-14865916) Anne Sraders, What Is Patreon? History, Controversies and How It Works (Abrufdatum: 22. 11. 2019)
+[^quote-seven]: [medium.com](https://medium.com/@harrisonmalone_/getting-paid-for-content-5fb52195552b) Harrison Malone, Getting Paid For Content (Abrufdatum: 21. 11. 2019)
+[^quote-eight]: [techcrunch.com](https://techcrunch.com/2019/02/23/patreons-future-and-potential-exits/) Erick Peckham, Patreon’s future and potential exits (Abrufdatum: 22. 11. 2019)
+[^quote-nine]: [web.archive.org](https://web.archive.org/web/20140717100534/http://ww2.kqed.org/arts/2014/07/12/ local-companys-app-creating-patrons-of-the-arts-through-crowdfunding/) KQED Arts, Grace Rubenstein: Crowdfunding Site Brings New Patrons to the Arts (Abrufdatum: 01. 12. 2019)
+[^quote-ten]: [wikipedia.org](https://en.wikipedia.org/wiki/Patronage) Wikipedia-Artikel über «Patronage» wo das Wort Patreon stammt (Abrufdatum: 22. 11. 2019)
+[^quote-eleven]: [thestreet.com](https://www.thestreet.com/lifestyle/what-is-patreon-14865916) Anne Sraders, What Is Patreon? History, Controversies and How It Works (Abrufdatum: 22. 11. 2019)
+[^quote-twelve]: [techcrunch.com](https://techcrunch.com/2019/02/23/patreons-future-and-potential-exits/) Erick Peckham, Patreon’s future and potential exits (Abrufdatum: 22. 11. 2019)
+[^quote-thirteen]: [youtube.com](https://www.youtube.com/about/policies/#community-guidelines) Youtube Community-Guidelines (Abrufdatum: 21. 11. 2019)
+[^quote-fourteen]: [patreon.com](https://www.patreon.com/policy/guidelines) Patreon Community-Guidelines (Abrufdatum: 21. 11. 2019)
+[^quote-fifteen]: [digitalmusicnews.com](https://www.digitalmusicnews.com/2018/01/02/patreon-content-creators-monthly-minimum-wage/) Daniel Sanchez, Less Than 2% of Content Creators on Patreon Earn Monthly Minimum Wage (Abrufdatum: 30. 11. 2019)
+[^quote-sixteen]: [thestreet.com](https://www.thestreet.com/lifestyle/what-is-patreon-14865916) Anne Sraders, What Is Patreon? History, Controversies and How It Works (Abrufdatum: 22. 11. 2019)
+[^quote-seventeen]: [businessinsider.com](https://www.businessinsider.com/patreon-crowdfunding-platform-defends-itself-amid-boycott-2018-12?r=US&IR=T) Benjamin Goggin, Crowdfunding platform Patreon defends itself from protests by 'intellectual dark web,' publishes slur-filled posts from banned YouTuber (Abrufdatum: 01. 12. 2019)
+[^quote-eighteen]: [wikipedia.com](https://de.wikipedia.org/wiki/M%C3%A4zen) Wikipedia-Beitrag über Mäzene (Abrufdatum: 12. 12. 2019)
+[^quote-nineteen]:[kotaku.com](https://kotaku.com/angered-game-developer-sues-game-critic-jim-sterling-fo-1765484317) Patrick Klepek, Angered Game Developer Sues Critic Jim Sterling For $10 Million (Abrufdatum: 19. 12. 2019)
+[^quote-twenty]:[patreon.com](https://www.patreon.com/jimquisition) Patreon-Seite von Jim Sterling (Abrufdatum: 21. 11. 2019)
+[^quote-twentyone]:[patreon.com](https://www.patreon.com/Bellular) Patreon-Seite von Bellular (Abrufdatum: 21. 11. 2019)
+[^quote-twentytwo]:[mazerats.com](https://mazerats.com/community/publications/danny-odwyer-funds-video-game-documentary-series/) Bronson O'Quinn, Danny O’Dwyer Crowdfunds Video Game Documentary Series (Abrufdatum: 22. 11. 2019)
+[^quote-twentythree]:[mazerats.com](https://mazerats.com/education/article/video-essay/danny-odwyer-on-the-problems-with-games-journalism/) Bronson O'Quinn, Danny O’Dwyer on the Problems with Games Journalism (Abrufdatum: 22. 11. 2019)
+[^quote-twentyfour]:[patreon.com](https://www.patreon.com/noclip) Patreon-Seite von noClip (Abrufdatum: 21. 11. 2019)
+[^quote-twentyfive]:[patreon.com](https://www.patreon.com/noclip) Patreon-Seite von noClip (Abrufdatum: 21. 11. 2019)
+
 
 
 
 ## Einzelnachweise
 ```references
 ```
-
-
-## Abbildungsverzeichnis
-(Kann auch bei Einzelnachweis gepflegt werden)
 
 ```references
 # gets repalced with footnotes
@@ -319,7 +317,7 @@ reference-text-suffix: ' – '
 Ulrike Felsing <br/>
 HFIAD 2017 <br/>
 Schule für Gestaltung Zürich <br/>
-[name@xyz.ch](mailto:name@xyz.ch)
+[ulrike.felsing@sfgz.ch](mailto:ulrike.felsing@sfgz.ch)
 
 </Column>
 
@@ -327,8 +325,9 @@ Schule für Gestaltung Zürich <br/>
 
 #### Vorgelegt von
 Marc Hatt <br/>
-sonstiges <br/>
-[name@xyz.ch](mailto:name@xyz.ch)
+Pestalozzistrasse 24
+5242 Birr <br/>
+[marc@email.ch](marc@email.ch)
 </Column>
 
 </Grid>
