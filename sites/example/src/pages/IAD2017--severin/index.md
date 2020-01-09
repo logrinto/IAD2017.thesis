@@ -7,7 +7,7 @@ draft: false
 hideInMenu: false
 path: "/posts/2020/severin/"
 tags:
-description: "Wie sich das Kaufverhalten durch Social Commerce beeinflusst"
+description: "Wie das Kaufverhalten durch Social Commerce beeinflusst wird."
 ---
 
 import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
@@ -34,7 +34,7 @@ Unternehmen verbreiten ihre Botschaften heutzutage nicht mehr als Monolog zum Ku
 
 > «Durch Social Commerce ergeben sich neue Möglichkeiten der Interaktion und Kollaboration zwischen Unternehmen und Einzelpersonen. Das Vertrauen in Soziale Netzwerke fördert die Kaufentscheidung für individuell vorgeschlagene Produkte.» – Kilchhofer S.
 
-Meine Definition von Social Commerce setzt sich aus dem Zitat von Marsden (2009[^:qv:marsden_2009]) und Baghdadi (2019, S. 6[^:lv:buerklin_2019]) zusammen.
+Meine Definition von Social Commerce setzt sich aus dem Zitat von Marsden (2009[^:qv:marsden_2009]) und Baghdadi (Bürklin, 2019, S. 6[^:lv:buerklin_2019]) zusammen.
 
 Nachfolgend die beiden Zitate.
 > «social shopping is the new motor driving the social commerce trend. Promotes purchase decisions primarily through the ‘liking’ social intelligence heuristic allowing people to shop with people they know, like, and trust. Adds emotion into the e-commerce mix, and enables real time recommendations.» – Marsden P.
@@ -48,36 +48,36 @@ Im Jahr 2005 startete Yahoo mit einem ersten Indikator von Social Commerce. Der 
 In dieser Weise hat sich Social Commerce mit der schnellen Entwicklung der Sozialen Medien rasant weiterentwickelt. Der Ansatz führt weg von Produkt orientierten Plattformen (typischerweise E-Commerce)  zu Nutzer orientierten Plattformen (Social Commerce).
 
 ### 2.3 Was ist der Unterschied zwischen E-Commerce und S-Commerce?
-Beide Formen von Commerce haben dasselbe Ziel. Das beinhaltet den Verkauf von Produkten und Dienstleistungen über eine Online Umgebung. Zudem streben beide Formen grosse Verbreitung und Vertrauen der KäuferInnen an. KonsumentInnen erwarten heutzutage, dass sie jedes Produkt jederzeit und von überall auf der Welt direkt und unkompliziert bestellen können.
+Beide Formen von Commerce (Handel) haben dasselbe Ziel. Das beinhaltet den Verkauf von Produkten und Dienstleistungen über eine Online Umgebung. Zudem streben beide Formen grosse Verbreitung und Vertrauen der KäuferInnen an. KonsumentInnen erwarten heutzutage, dass sie jedes Produkt jederzeit und von überall auf der Welt direkt und unkompliziert bestellen können.
 
 Die klassische Form von E-Commerce findet über eine Webseite auf einem Computer oder einem Smartphone statt. Einzelne Unternehmen bieten Online ihre Produkte zum Kauf an und KäuferInnen können diese Produkte dort beziehen. Zusätzlich gibt es unabhängige Portale, welche Produkte verschiedener Hersteller anbieten. Auf solchen Plattformen werden Produkte angeschaut, verglichen und bestellt. Der ganze Einkaufsprozess wird über diese abgewickelt. Diese Interaktionen mit den angebotenen Produkten finden heute vermehrt statt. Jene belaufen sich auf Kommentare und Bewertungen der Produkte. Auf diese Art können Kaufentscheide beeinflusst werden. Die Interaktion zwischen den Nutzern und den Firmen hinter den Produkten, sowie zwischen anderen Nutzern, findet beinahe nicht statt. Drei bekannte E-Commerce Plattformen sind Amazon, Alibaba und Digitec.
 
 Im Gegenzug ist Social Commerce vermehrt in einer App auf mobilen Geräten vorhanden und wird in einem Sozialen Netzwerk angewendet. Die Käuferinnen befinden sich somit nicht mehr auf einer losgelösten Einkaufsplattform, sondern in einem Sozialen Netzwerk. Auf diesen werden die Profile von Freunden und Unternehmen identisch angezeigt und so ist es schwierig die Inhalte voneinander zu unterscheiden. Dies hilft den kommerziellen Profilen Vertrauen zu schaffen und nähe zum Kunden zu gewinnen. NutzerInnen entscheiden selbst über ihre Interessen und richten sich das Netzwerk auf ihre Bedürfnisse ein. Dies geschieht oft unterbewusst, indem sie unterschiedlichen Seiten folgen. Die Hürde sich dabei kommerzielle Inhalte anzusehen, sinkt stark. Ich werde auf dieses Verhalten mit einem Beispiel, von einer Sportartikelfirma, im Kapitel 3.1 eingehen. 
 
-Der grosse Unterschied zwischen diesen zwei Verkaufsformen entsteht beim Kaufprozess. Die Möglichkeiten der Interaktion mit den Verkäufern und anderen NutzerInnen auf Sozialen Plattformen sind vielfältiger und der Kaufentscheid kann dadurch stärker beeinflusst werden. So können NutzerInnen auf unterschiedliche Art und Weise mit Unternehmen interagieren. (vgl. Bürklin, 2019, S. 3[^:lv:buerklin_2019]) Beispielsweise werden Posts kommentiert, geliked und geteilt. Über diese Plattformen können sogar private Nachrichten direkt an das Unternehmen gesendet werden. Die Unternehmen sehen dieses Feedback unmittelbar und können in Echtzeit darauf reagieren.
+Der grosse Unterschied zwischen diesen zwei Verkaufsformen entsteht beim Kaufprozess. Die Möglichkeiten der Interaktion mit den Verkäufern und anderen NutzerInnen auf Sozialen Plattformen sind vielfältiger und der Kaufentscheid kann dadurch stärker beeinflusst werden. So können NutzerInnen auf unterschiedliche Art und Weise mit Unternehmen interagieren. (vgl. Bürklin, 2019, S. 3[^:lv:buerklin_2_2019]) Beispielsweise werden Posts kommentiert, geliked und geteilt. Über diese Plattformen können sogar private Nachrichten direkt an das Unternehmen gesendet werden. Die Unternehmen sehen dieses Feedback unmittelbar und können in Echtzeit darauf reagieren.
 
 ### 2.4 Welche Schritte beinhaltet ein Kaufprozess?
 Um den Kaufprozess darzustellen, stütze ich mich auf das «Fünf-Phasen-Modell» von Philip Kotler. (vgl. Hofer, 2019[^:qv:hofer_2019]) Er berücksichtigt den gesamten Kaufprozess und nicht nur die Kaufentscheidung. Das Modell von Kotler wird in folgende fünf Phasen aufgeteilt: 
 
 ![Die fünf Phasen des Kaufprozesses](./img/kaufprozess.svg)
-Die fünf Phasen des Kaufprozesses[^:av:phasen_kaufprozess]*
+Die fünf Phasen des Kaufprozesses[^:av:phasen_kaufprozess]
 
 #### 2.4.1 Problemerkennung
-Das Zentrale bei der Problemerkennung ist ein Bedürfnis zu schaffen, welches gestillt werden muss. Wenn bei einem Kunden der Bedarf nach einem Gut oder einer Dienstleistung entsteht, beginnt der Kunde mit der Informationssuche eines passenden Produktes.
+Das Zentrale bei der Problemerkennung ist ein Bedürfnis zu schaffen, welches gestillt werden muss. Wenn bei einem Kunden der Bedarf nach einem Gut oder einer Dienstleistung entsteht, beginnt der Kunde mit der Informationssuche eines passenden Produktes. (vgl. Hofer, 2019[^:qv:hofer_2019])
 
 #### 2.4.2 Informationssuche
-Kotler nennt bei der Informationssuche zwei Suchzustände. Der erste ist die «aktive Informationssuche». Auf Social Commerce bezogen, werden hier aktiv Produkte zu einer gewollten Kategorie angeschaut. Ein Beispiel hierfür könnten Winterschuhe sein, welche ein Bedürfnis des Kunden in den kommenden Monaten sind. Die Informationssuche auf ein solches Produkt kann lange andauern und wird durch einen höheren Leistungsanspruch zusätzlich genauer. Der zweite Suchzustand nennt Kotler die «erhöhte Wachsamkeit». Ein Beispiel hierfür wäre der Kauf von Zahnpasta. Der Kunde hat das Bedürfnis einer neuen Zahnpasta und wird passiv durch Werbung beeinflusst. Meistens kauft der Kunde durch eine spontane Entscheidung das Zahnpasta Produkt ein ohne sich vorher gross über dessen Informationen informiert zu haben.
+Kotler nennt bei der Informationssuche zwei Suchzustände. Der erste ist die «aktive Informationssuche». Auf Social Commerce bezogen, werden hier aktiv Produkte zu einer gewollten Kategorie angeschaut. Ein Beispiel hierfür könnten Winterschuhe sein, welche ein Bedürfnis des Kunden in den kommenden Monaten sind. Die Informationssuche auf ein solches Produkt kann lange andauern und wird durch einen höheren Leistungsanspruch zusätzlich genauer. Der zweite Suchzustand nennt Kotler die «erhöhte Wachsamkeit». Ein Beispiel hierfür wäre der Kauf von Zahnpasta. Der Kunde hat das Bedürfnis einer neuen Zahnpasta und wird passiv durch Werbung beeinflusst. Meistens kauft der Kunde durch eine spontane Entscheidung das Zahnpasta Produkt ein ohne sich vorher gross über dessen Informationen informiert zu haben. (vgl. Hofer, 2019[^:qv:hofer_2019])
 
 #### 2.4.3 Bewertung der Alternativen
-Das gesammelte Wissen der Informationssuche wird nun verwendet um Produkte miteinander zu Vergleichen und zu Bewerten. Die Kriterien hierfür sind meist sehr persönlich. Der letzte Schritt besteht darin, dass der Suchende den Artikel mit dem grössten Gesamtnutzen präferiert und in den Prozess der Kaufentscheidung einmündet.
+Das gesammelte Wissen der Informationssuche wird nun verwendet um Produkte miteinander zu Vergleichen und zu Bewerten. Die Kriterien hierfür sind meist sehr persönlich. Der letzte Schritt besteht darin, dass der Suchende den Artikel mit dem grössten Gesamtnutzen präferiert und in den Prozess der Kaufentscheidung einmündet. (vgl. Hofer, 2019[^:qv:hofer_2019])
 
 #### 2.4.4 Kaufentscheidung
-Für die Kaufentscheidung sind zwei Kräfte ausschlaggebend. Zum einen kann die Meinung von einer Drittperson ein unerwartetes Ereignis auslösen. Je vertrauter die Person ist, umso eher wird den Kauf beeinflusst. Dies kann sich positiv sowie negativ auswirken. Die andere Kraft beschäftigt sich mit der sozialen Bewährtheit. Dies betrifft unter anderem Social Commerce. Die Bewährtheit trifft zu, wenn viele andere Personen das Produkt ebenfalls gekauft haben und dies in Form eines Likes oder einer Bewertung geteilt haben. So kann eine positive Meinung entstehen, welche zu einer schnelleren Kaufentscheidung führt.
+Für die Kaufentscheidung sind zwei Kräfte ausschlaggebend. Zum einen kann die Meinung von einer Drittperson ein unerwartetes Ereignis auslösen. Je vertrauter die Person ist, umso eher wird den Kauf beeinflusst. Dies kann sich positiv sowie negativ auswirken. Die andere Kraft beschäftigt sich mit der sozialen Bewährtheit. Dies betrifft unter anderem Social Commerce. Die Bewährtheit trifft zu, wenn viele andere Personen das Produkt ebenfalls gekauft haben und dies in Form eines Likes oder einer Bewertung geteilt haben. So kann eine positive Meinung entstehen, welche zu einer schnelleren Kaufentscheidung führt. (vgl. Hofer, 2019[^:qv:hofer_2019])
 
-Andere Einflussfaktoren können zum Abbruch des Bestellprozess führen, wenn zum Beispiel die Webseite währenddessen abstürzt oder der Prozess zu umständlich funktioniert.
+Andere Einflussfaktoren können zum Abbruch des Bestellprozess führen, wenn zum Beispiel die Webseite währenddessen abstürzt oder der Prozess zu umständlich funktioniert. (vgl. Hofer, 2019[^:qv:hofer_2019])
 
 #### 2.4.5 Verhalten nach dem Kauf
-Die Kundenbindung ist das grosse Ziel in der Nachkaufphase. Dies erfolgt unter anderem durch gezielte Werbung neuer Produkte oder Mund zu Mund Propaganda, wenn der Kunde zufrieden ist. Diese Propaganda wird immer mehr über Soziale Netzwerke geführt, womit die Marke eine höhere Reichweite erlangt.
+Die Kundenbindung ist das grosse Ziel in der Nachkaufphase. Dies erfolgt unter anderem durch gezielte Werbung neuer Produkte oder Mund zu Mund Propaganda, wenn der Kunde zufrieden ist. Diese Propaganda wird immer mehr über Soziale Netzwerke geführt, womit die Marke eine höhere Reichweite erlangt. (vgl. Hofer, 2019[^:qv:hofer_2019])
 
 ### 2.5 Wie verändert sich das Einkaufsverhalten online?
 Wenn wir zurück in die analoge Welt blicken, gibt es immer noch sehr viele kleine Läden in Einkaufshäusern und Shoppingstrassen. Einen grossen Teil der Kundschaft macht die Laufkundschaft aus. Viele stöbern in den Läden und kaufen Produkte, welche sie nicht gesucht haben und ihnen trotzdem gefallen. Preisreduktionen und Rabatte steuern dieses Phänomen zusätzlich. 
@@ -95,24 +95,36 @@ Was bietet Instagram bezüglich Social Commerce bereits heute und wo wird der We
 ### 3.1 Wie sich On Running auf Instagram präsentiert
 Eine riesige Anzahl an Marken präsentieren sich auf Instagram. Nicht nur um ihre Produkte zu zeigen, sondern vielmehr um die Follower mit eigenen Inhalten zu berauschen. Viele Unternehmen verwenden ein Instagram Profil, um sich als Marke zu positionieren und bekannter zu machen. Die Inhalte werden mit Hochglanz bearbeitet und danach dem Endverbraucher präsentiert. 
 
+
+<Grid>
+<Column start="1" end="5"></Column>
+<Column start="5" end="9">
+
 ![Profilseite on-running](./img/profile_on-running.png)
 Das Profil von On Running vom 25.12.2019.[^:av:profile_on-running]
+
+</Column>
+<Column start="9" end="13"></Column>
+</Grid>  
+
 
 Für meine Arbeit habe ich das Profil von On Running analysiert. Ich folge dem Profil bereits seit einigen Jahren und habe somit die Firma in ihrere Wachstumsphase miterlebt. On Running ist eine Sportartikelmarke aus Zürich, die anfänglich mit einem neuen System für Laufschuhe auf sich aufmerksam machte. Mittlerweile hat sie den Markt sehr beeinflusst und ist weltweit bekannt. On Running nutzt Instagram um einerseits ihre Produktpalette zu zeigen und andererseits ihr Engagement bei Anlässen zu repräsentieren. Unter anderem geben sie immer wieder Einblicke in ihre Produktentwicklung, welche zur Offenheit und Transparenz des Unternehmens beitragen. Ich als Enduser kann mich somit stark mit dem Unternehmen identifizieren und kaufe so eventuell mehr Produkte. Durch diese Verbundenheit sehe ich jederzeit neue Produkte und kann diese durch einen Kommentar meinen Freunden weiterempfehlen. Nachfolgend habe ich zwei Posts ausgewählt, welche die Vielfalt der Beiträge aufzeigt. 
 
 <Grid>
-<Column start="1" end="7">
+<Column start="1" end="3"></Column>
+<Column start="3" end="7">
 
 ![Post On Montain Hut](./img/on-running_post_mountain.png)
-In diesem Post wird ein Projekt gezeigt, um die Verbundenheit zur Schweiz und den Schweizer Bergen darzustellen.[^:av:on-running_post_shoe]
+In diesem Post wird ein Projekt gezeigt, um die Verbundenheit zur Schweiz und den Schweizer Bergen darzustellen.[^:av:on-running_post_moutain]
 
 </Column>
-<Column start="7" end="13">
+<Column start="7" end="11">
 
 ![Post Cloud Hi Edge](./img/on-running_post_shoe.png)
-Hier wird in einem Video ein neuer Schuh vorgestellt. Dieser Einblick zeigt den Head of Design von On Running selbst. Solche Posts geben Einsicht in das Unternehmen und in die Entwicklung ihrer Produkte. [^:av:on-running_post_moutain]
+Hier wird in einem Video ein neuer Schuh vorgestellt. Dieser Einblick zeigt den Head of Design von On Running selbst. Solche Posts geben Einsicht in das Unternehmen und in die Entwicklung ihrer Produkte.[^:av:on-running_post_shoe]
 
 </Column>
+<Column start="11" end="13"></Column>
 </Grid>
 
 ### 3.2 Wie wird heute auf Instagram sozial eingekauft?
@@ -242,14 +254,15 @@ Social Commerce ist vielfältig und doch sehr konkret. Zu dieser Erkenntnis bin 
 
 ## Literaturverzeichnis
 [^:lv:buerklin_2019]: Bürklin, N. (2019). _Social Commerce Consumer Behaviour in Online Environments_. Cham: Springer. DOI: 10.1007/978-3-030-03617-1
+[^:lv:buerklin_2_2019]: Bürklin, N. (2019). _Social Commerce Consumer Behaviour in Online Environments_. Cham: Springer. DOI: 10.1007/978-3-030-03617-1
 [^:lv:yao]: Yao, Y. (2019). _Social Commerce Consumer Behaviour in Online Environments_. Cham: Springer. DOI: 10.1007/978-3-030-03617-1
 
 ```references
 group-include: lv
 
-inline-link-prefix: ''
+inline-link-prefix: 'Lit. '
 
-reference-link-prefix: '↑ '
+reference-link-prefix: '↑ Lit. '
 reference-link-suffix: ''
 
 reference-text-suffix: ' – '
@@ -257,9 +270,6 @@ reference-text-suffix: ' – '
 
 
 ## Quellenverzeichnis
-
-[^:qv:test_jahr]: Nachname, Vorname (Jahr). [_Titel der Webseite_](link), Abgerufen am 03. Januar 2020.
-
 [^:qv:marsden_2009]: Marsden, P. (2009). [_The 6 Dimensions of Social Commerce: Rated and Reviewed_](https://digitalwellbeing.org/the-6-dimensions-of-social-commerce-rated-and-reviewed), Abgerufen am 03. Januar 2020.
 [^:qv:crunchbase_2009]: Crunchbase (2009). [_1-800-FLOWERS.COM Sets Up Shop Inside Facebook_](https://techcrunch.com/2009/07/29/1-800-flowerscom-sets-up-shop-inside-facebook/), Abgerufen am 23. November 2019.
 [^:qv:hofer_2019]: Hofer, K. (2019). [_Kaufprozess_](hhttps://www.advidera.com/glossar/kaufprozess/), Abgerufen am 15. Dezember 2019.
@@ -271,9 +281,9 @@ reference-text-suffix: ' – '
 ```references
 group-include: qv
 
-inline-link-prefix: ''
+inline-link-prefix: 'Qu. '
 
-reference-link-prefix: '↑ '
+reference-link-prefix: '↑ Qu. '
 reference-link-suffix: ''
 
 reference-text-suffix: ' – '
@@ -281,21 +291,21 @@ reference-text-suffix: ' – '
 
 
 ## Abbildungsverzeichnis
-[^:av:phasen_kaufprozess]: Groissberger.at. (2019). [_Phasen des Kaufprozess nach Kotler_](http://www.groissberger.at/phasen-des-kaufprozesses-nach-kotler/), Abgerufen am 02. Januar 2020.
-[^:av:profile_on-running]: Instagram, (2019). [_on-running Profilseite](https://www.instagram.com/on_running), Abgerufen am 25. Dezember 2019.
-[^:av:on-running_post_shoe]: Instagram, (2019). [_on-running Cloud Hi Edge_](https://www.instagram.com/tv/B3w3u5kB6QB/?igshid=1bku54zz2ayub), Abgerufen am 25. Dezember 2019.
+[^:av:phasen_kaufprozess]: Abbildung erstellt von Severin Kilchhofer, Grundlage der Grafik von Groissberger.at. [_Phasen des Kaufprozess nach Kotler_](http://www.groissberger.at/phasen-des-kaufprozesses-nach-kotler/), Abgerufen am 02. Januar 2020.
+[^:av:profile_on-running]: Instagram, (2019). [_on-running Profilseite_](https://www.instagram.com/on_running), Abgerufen am 25. Dezember 2019.
 [^:av:on-running_post_moutain]: Instagram, (2019). [_on-running On Moutain Hut_](https://www.instagram.com/p/B4NgDZ5B8aw/?igshid=n4gb7m6lwvoo), Abgerufen am 25. Dezember 2019.
-[^:av:on-running_kaufprozess_1]: Instagram, (2019). Abgerufen am 25. Dezember 2019.
-[^:av:on-running_kaufprozess_2]: Instagram, (2019). Abgerufen am 25. Dezember 2019.
-[^:av:on-running_kaufprozess_3]: Instagram, (2019). Abgerufen am 25. Dezember 2019.
-[^:av:on-running_kaufprozess_4]: Instagram, (2019). Abgerufen am 25. Dezember 2019.
-[^:av:on-running_kaufprozess_5]: Instagram, (2019). Abgerufen am 25. Dezember 2019.
-[^:av:on-running_kaufprozess_6]: Instagram, (2019). Abgerufen am 25. Dezember 2019.
+[^:av:on-running_post_shoe]: Instagram, (2019). [_on-running Cloud Hi Edge_](https://www.instagram.com/tv/B3w3u5kB6QB/?igshid=1bku54zz2ayub), Abgerufen am 25. Dezember 2019.
+[^:av:on-running_kaufprozess_1]: Instagram Post, (2019). [_on-running On Products_](https://www.instagram.com/p/B5DdcD1hevi/?igshid=m6jkqlhrghu4) Abgerufen am 25. Dezember 2019.
+[^:av:on-running_kaufprozess_2]: Instagram Post, (2019). [_on-running In this photo_](https://www.instagram.com/p/B5DdcD1hevi/?igshid=m6jkqlhrghu4) Abgerufen am 25. Dezember 2019.
+[^:av:on-running_kaufprozess_3]: Instagram Post, (2019). [_on-running On View on Website_](https://www.instagram.com/p/B5DdcD1hevi/?igshid=m6jkqlhrghu4) Abgerufen am 25. Dezember 2019.
+[^:av:on-running_kaufprozess_4]: on-running.com, (2019). [_on-running Cloud Slate | Rock_](https://www.on-running.com/de-ch/products/cloud) Abgerufen am 25. Dezember 2019.
+[^:av:on-running_kaufprozess_5]: on-running.com, (2019). [_on-running Add to cart_](https://www.on-running.com/de-ch/products/cloud) Abgerufen am 25. Dezember 2019.
+[^:av:on-running_kaufprozess_6]: on-running.com, (2019). [_on-running Checkout_](https://www.on-running.com/de-ch/products/cloud) Abgerufen am 25. Dezember 2019.
 [^:av:instagram_checkout]: Instagram, (2019). [_Instagram Checkout_](https://instagram-press.com/blog/2019/03/19/instagram-checkout/), Abgerufen am 15. November 2019.
 [^:av:geschaefts-und_mitarbeiterentwicklung_alibaba]: Wikipedia, (2019). [_Geschäfts- und Mitarbeiterentwicklung_](https://de.wikipedia.org/wiki/Alibaba_Group), Abgerufen am 27. Dezember 2019.
 [^:av:wechat-mini-programs]: digilinkasia.com, (2019), [_WeChat New Feature -- 好物圈_](http://www.digilinkasia.com/?route=wechat-new-feature), Abgerufen am 02. Januar 2020.
-[^:av:wechat-giesswein-vergleich]: 
-
+[^:av:wechat-giesswein-vergleich]: walkthechat.com, (2019), [_What is a WeChat Shop?_](https://walkthechat.com/wechat-shops/), Abgerufen am 02. Januar 2020.
+[^:av:wechat-good-product-circle]: walkthechat.com, (2019), [_WeChat released new “recommended products” e-commerce function_](https://walkthechat.com/wechat-released-new-recommended-products-e-commerce-function/), Abgerufen am 02. Januar 2020.
 
 ```references
 group-include: av
