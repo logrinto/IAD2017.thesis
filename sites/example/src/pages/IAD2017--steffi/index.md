@@ -171,10 +171,8 @@ In Bezug auf den Einfluss von Benutzerführung und Interface auf die Entscheidun
 Abschliessend gaben die Befragten an, dass sie auch das Wearable Armband von EventClearing benutzen würden um vor Ort kontaktlos zu bezahlen. 55% der ReiterInnen wollen es benutzen, obwohl diese Technologie aktuell nicht sehr weit verbreitet ist. Weitere 25% sind sich noch nicht sicher und 20% möchten auf die Verwendung dieses Wearable verzichten.
 
 ## Fazit
-XXX
-[Kapiteleinleitung, kurz zusammenfassen, was in diesem Kapitel passiert, 1-2 Sätze]
 ### Diskussion der Ergebnisse
-Die Antworten decken sich mit jenen bisheriger Studien und zeigen eine zunehmende Akzeptanz moderner Bezahlstrukturen. Trotz vorhandener Skepsis bei der internationalen Einführung von EventClearing 2016, wird es drei Jahre später von nationalen und internationalen ReiterInnen sehr geschätzt. Sicherheitstechnisch gesehen gibt es bei EventClearing sehr wenig Bedenken.
+Die Antworten aud der Umfrage «Kontaktloses Bezahlen im Pferdesport – Status Quo, Möglichkeiten und Perspektiven» decken sich mit jenen bisheriger Studien und zeigen eine zunehmende Akzeptanz moderner Bezahlstrukturen. Trotz vorhandener Skepsis bei der internationalen Einführung von EventClearing 2016, wird es drei Jahre später von nationalen und internationalen ReiterInnen sehr geschätzt. Sicherheitstechnisch gibt es bei Benutzenden gegenüber EventClearing sehr wenig Bedenken. 
 ### Beantwortung der Fragestellung
 Im Folgenden sollen die beiden einleitend gestellten Forschungsfragen basierend auf den Ergebnissen dieser Arbeit beantwortet werden.
 
@@ -252,7 +250,7 @@ Zelgatt 19 <br/>
 
 #### Lehrgang
 Schule für Gestaltung Zürich <br/>
-Bildungsgang Interaction Design HF | Dipl. Gestalter/-in HF <br/>
+Bildungsgang Interaction Design HF 2017-2020 <br/>
 Kommunikationsdesign mit Vertiefung Interaction Design <br/>
 [www.sfgz.ch](https://sfgz.ch/)
 </Column>
