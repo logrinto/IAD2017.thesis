@@ -25,8 +25,8 @@ Zum Schluss der Arbeit sollen auch die Chancen, Risiken und Gefahren der persona
 ## Inhaltsverzeichnis
 ```toc
 exclude: Inhaltsverzeichnis
-exclude: Mentoring durch
-exclude: Vorgelegt von
+  - Mentoring durch
+  - Vorgelegt von
 from-heading: 2
 to-heading: 3
 ```
@@ -137,6 +137,8 @@ Wie es für die Firmen, auch in den kommenden Jahren, ein Ziel sein wird möglic
 ### 5.2 Fazit
 Das Ziel der Werbung war es schon immer, einen Einfluss auf die Betrachtenden zu nehmen und sie dadurch in einer gewissen Art zu beeinflussen. Das Prinzip ist also nichts Neues und existiert schon lange in der Werbung. Durch den Einfluss der Digitalisierung auf die Werbung hat sich also vor allem das Medium verändert. Durch Möglichkeiten des Targetings in der Werbung ist es den Werbetreibenden möglich geworden, die Konsumierenden direkter und persönlicher anzusprechen und zu bewerben. Dadurch können die Werbetreibenden bei den Konsumenten mehr emotionale Reaktionen erzeugen und damit Bedürfnisse kreieren und Einfluss auf dessen Kaufverhalten zu nehmen. Oftmals ist es für die Konsumierenden nicht nachvollziehbar, wie es zu der entsprechenden Werbung kam und wird daher oftmals auch nicht weiter hinterfragt. In diesem Fall können Konsumierende von der Werbung ohne deren Wissen manipuliert werden. Meine Meinung zur personalisierten Werbung ist, dass es sich dabei um etwas gefährliches handelt solange die Mehrheit der Menschen sich der Funktionsweise nicht bewusst ist und sich uneingeschränkt der personalisierter Werbung aussetzten. Weiter bin ich der Meinung dass personalisierte Inhalte und Werbung in einer begrenzten Menge konsumiert werden sollte, aus diesem Grund empfehle ich die Verwendung von AdBlockern. Leider können damit noch lange nicht alle Werbeformen unterdrückt werden und nicht alle Werbungen, Inhalte und Beiträge sind klar ersichtlich als Werbung gekennzeichnet, daher betrachte ich es als besonders wichtig dass die Konsumierenden Inhalte und Beiträge auf Social Media kritisch konsumieren. Denn anhand der Targeting Möglichkeiten ist es nicht nur möglich uns eine für uns relevante Werbung zu zeigen, sondern Werbungen die wir überall und immer wieder antreffen sprechen unser Unterbewusstsein an und können Bedürfnisse in uns erwecken. Weiter möchte ich nicht dass jede meiner Bewegungen im Internet aufgezeichnet wird und sich auf mich persönlich zurück verfolgen lässt. Als Massnahme dessen werde ich meinen Standard Browser auf Firefox wechseln und Meldungen wie «Diese Seite verwendet Cookies» nicht länger Akzeptieren soferne das möglich ist. Solange es im Datenschutzgesetz keine massgebende Änderungen gibt, ist es meiner Meinung nach wichtig, dass man sich das Konzept der personalisierten Werbung im Internet bewusst ist und sich aktiv damit befasst, um ein Bewusstsein zu erlangen und dementsprechend eigenverantwortlich zu handeln. Die Werbung soll mit einem gesunden Misstrauen konsumiert werden. Schlussendlich liegt die Entscheidung über einen Kauf oder einer politischen Wahl bei jedem Einzelnen.<!-- references text-->
 
+---
+
 <!--
 Vorname Nachname, [Titel der Seite](https://www.google.com/) (Abrufdatum: dd. mm. yyyy).
 Vorname Nachname, Buchtitel, Auflage, Verlag, Erscheinungsort Jahr, erste Seite – letzte Seite.
@@ -154,7 +156,6 @@ Vorname Nachname, Buchtitel, Auflage, Verlag, Erscheinungsort Jahr, erste Seite�
 <!-- references figures-->
 [^:fig:one]: Abb. 1 Online Werbung Distributionsnetzwerk, Eigene Abbildung basierend auf: [Guide to Digital Display Advertising](https://www.youtube.com/watch?v=efHVOWcNJZo)
 [^:fig:two]: Abb. 2 via Matthias Erni auf [Twitter](https://twitter.com/matthias_erni/status/1173838188558848001)
-
 
 
 ## Einzelnachweise
