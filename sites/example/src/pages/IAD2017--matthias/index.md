@@ -186,6 +186,7 @@ reference-text-suffix: ' – '
 
 #### Mentoring durch
 Christoph Caviezel <br/>
+
 [christoph.caviezel@wirz.ch](mailto:christoph.caviezel@wirz.ch)
 
 </Column>
@@ -194,6 +195,8 @@ Christoph Caviezel <br/>
 
 #### Vorgelegt von
 Matthias Koch <br/>
+HFIAD 2017 <br/>
+Schule für Gestaltung Zürich<br/>
 [hello@matthiasko.ch.ch](mailto:hello@matthiasko.ch)
 </Column>
 
