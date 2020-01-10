@@ -60,7 +60,7 @@ Der grosse Unterschied zwischen diesen zwei Verkaufsformen entsteht beim Kaufpro
 Um den Kaufprozess darzustellen, stütze ich mich auf das «Fünf-Phasen-Modell» von Philip Kotler. (vgl. Hofer, 2019[^:qv:hofer_2019]) Er berücksichtigt den gesamten Kaufprozess und nicht nur die Kaufentscheidung. Das Modell von Kotler wird in folgende fünf Phasen aufgeteilt: 
 
 ![Die fünf Phasen des Kaufprozesses](./img/kaufprozess.svg)
-Die fünf Phasen des Kaufprozesses[^:av:phasen_kaufprozess]
+*Die fünf Phasen des Kaufprozesses[^:av:phasen_kaufprozess]*
 
 #### 2.4.1 Problemerkennung
 Das Zentrale bei der Problemerkennung ist ein Bedürfnis zu schaffen, welches gestillt werden muss. Wenn bei einem Kunden der Bedarf nach einem Gut oder einer Dienstleistung entsteht, beginnt der Kunde mit der Informationssuche eines passenden Produktes. (vgl. Hofer, 2019[^:qv:hofer_2019])
@@ -101,7 +101,7 @@ Eine riesige Anzahl an Marken präsentieren sich auf Instagram. Nicht nur um ihr
 <Column start="5" end="9">
 
 ![Profilseite on-running](./img/profile_on-running.png)
-Das Profil von On Running vom 25.12.2019.[^:av:profile_on-running]
+*Das Profil von On Running vom 25.12.2019.[^:av:profile_on-running]*
 
 </Column>
 <Column start="9" end="13"></Column>
@@ -115,13 +115,13 @@ Für meine Arbeit habe ich das Profil von On Running analysiert. Ich folge dem P
 <Column start="3" end="7">
 
 ![Post On Montain Hut](./img/on-running_post_mountain.png)
-In diesem Post wird ein Projekt gezeigt, um die Verbundenheit zur Schweiz und den Schweizer Bergen darzustellen.[^:av:on-running_post_moutain]
+*In diesem Post wird ein Projekt gezeigt, um die Verbundenheit zur Schweiz und den Schweizer Bergen darzustellen.[^:av:on-running_post_moutain]*
 
 </Column>
 <Column start="7" end="11">
 
 ![Post Cloud Hi Edge](./img/on-running_post_shoe.png)
-Hier wird in einem Video ein neuer Schuh vorgestellt. Dieser Einblick zeigt den Head of Design von On Running selbst. Solche Posts geben Einsicht in das Unternehmen und in die Entwicklung ihrer Produkte.[^:av:on-running_post_shoe]
+*Hier wird in einem Video ein neuer Schuh vorgestellt. Dieser Einblick zeigt den Head of Design von On Running selbst. Solche Posts geben Einsicht in das Unternehmen und in die Entwicklung ihrer Produkte.[^:av:on-running_post_shoe]*
 
 </Column>
 <Column start="11" end="13"></Column>
@@ -136,20 +136,20 @@ Mit dem folgenden Post werde ich einen möglichen Kaufprozess eines Produktes er
 <Column start="1" end="5">
 
 ![Instagram Kaufprozess 1](img/on-running_kaufprozess_1.png)
-Ein Klick auf das «Einkaufstaschen» Symbol, «View products», unten links, lässt auf dem Bild kleine weisse Punkte erscheinen.[^:av:on-running_kaufprozess_1]
+*Ein Klick auf das «Einkaufstaschen» Symbol, «View products», unten links, lässt auf dem Bild kleine weisse Punkte erscheinen.[^:av:on-running_kaufprozess_1]*
 
 </Column>
 <Column start="5" end="9">
 
 ![Instagram Kaufprozess 2](img/on-running_kaufprozess_2.png)
-Bei einem weiteren Klick auf einen der Punkte. werden die Produkte, welchen auf dem Foto zu erkennen sind, angezeigt.[^:av:on-running_kaufprozess_2]
+*Bei einem weiteren Klick auf einen der Punkte. werden die Produkte, welchen auf dem Foto zu erkennen sind, angezeigt.[^:av:on-running_kaufprozess_2]*
 
 </Column>
 
 <Column start="9" end="13">
 
 ![Instagram Kaufprozess 3](img/on-running_kaufprozess_3.png)
-Wenn nun ein Produkt gewählt wird, kommt eine detaillierte Ansicht des Produktes zum Vorschein. Diese Ansicht zeigt den Namen und den Preis des Produktes.[^:av:on-running_kaufprozess_3]
+*Wenn nun ein Produkt gewählt wird, kommt eine detaillierte Ansicht des Produktes zum Vorschein. Diese Ansicht zeigt den Namen und den Preis des Produktes.[^:av:on-running_kaufprozess_3]*
 
 </Column>
 </Grid>
@@ -160,20 +160,20 @@ Der User hat bis zu diesem Zeitpunkt die Instagram App noch nicht verlassen. Wen
 <Column start="1" end="5">
 
 ![Instagram Kaufprozess 4](img/on-running_kaufprozess_4.png)
-Produkt On Cloud Schuh[^:av:on-running_kaufprozess_4]
+*Produkt On Cloud Schuh[^:av:on-running_kaufprozess_4]*
 
 </Column>
 <Column start="5" end="9">
 
 ![Instagram Kaufprozess 5](img/on-running_kaufprozess_5.png)
-Modell und Grösse auswählen[^:av:on-running_kaufprozess_5]
+*Modell und Grösse auswählen[^:av:on-running_kaufprozess_5]*
 
 </Column>
 
 <Column start="9" end="13">
 
 ![Instagram Kaufprozess 6](img/on-running_kaufprozess_6.png)
-Produkt auschecken[^:av:on-running_kaufprozess_6]
+*Produkt auschecken[^:av:on-running_kaufprozess_6]*
 
 </Column>
 </Grid>  
@@ -196,13 +196,13 @@ Eine andere Angehensweise werde ich im Kapitel 4.2 in einem Fallbeispiel des chi
 
 
 ![Profilseite on-running](./img/instagram_checkout.png)
-Prozess von Instagram Checkout[^:av:instagram_checkout] 
+*Prozess von Instagram Checkout[^:av:instagram_checkout]* 
 
 ## 4 Die Eigenheiten des chinesischen Marktes
 Der chinesische Online Markt ist sehr spezifisch und unterscheidet sich stark vom Rest der Welt. In diesem Kapitel möchte ich den dynamischen Markt und seine Eigenheiten aufzeigen. Zudem gehe ich auf die Soziale Plattform WeChat ein und werde einige Funktionen davon genauer vorstellen. In China gibt es bereits sehr grosse E-Commerce Plattformen wie Alibaba und JingDong (JD). Alleine Alibaba dominiert den Markt mit einem Anteil von 53%. (Yao, 2019, S. 47[^:lv:yao]) Um ein Gefühl der gewaltigen Zahlen zu erhalten, nachfolgend eine Übersicht der Geschäfts- und Mitarbeiterentwicklung von Alibaba:
 
 ![Geschäfts- und Mitarbeiterentwicklung](./img/geschaefts-und_mitarbeiterentwicklung_alibaba.png)
-Geschäfts- und Mitarbeiterentwicklung von Alibaba[^:av:geschaefts-und_mitarbeiterentwicklung_alibaba] 
+*Geschäfts- und Mitarbeiterentwicklung von Alibaba[^:av:geschaefts-und_mitarbeiterentwicklung_alibaba]* 
 
 Der chinesische E-Commerce Markt hat dementsprechend ein riesiges Potential, ebenfalls in Social Commerce durchzustarten. Bereits heute wurde analysiert, warum chinesische Millennials das Bedürfnis einer hohen sozialen Interaktion haben. Millennials, junge Menschen die zwischen 1980 und 1995 geboren wurden, sind durch die Ein-Kind-Politik geprägt. Die Eltern haben in nur ein Kind investiert und dieses ist privilegierter in seinen Ausgabegewohnheiten und kann sich im Vergleich zu westlichen Millennials mehr leisten. Die chinesischen Millenials interagieren sehr stark Digital, um Kontakte zu knüpfen und online Spass zu haben. Daher ist Einkaufen für sie nicht nur Einkaufen, sondern Geselligkeit und Unterhaltung. Das Onlineshopping und die soziale Interaktion verschmelzen ineinander. Die Kommunikation über Soziale Medien ist daher der wichtigste Einflussfaktor für ihre Kaufentscheidungen. Dies zeigt der chinesische Luxusmarkt, bei dem die Millennials und die Generation Z bis 2025 45% des Konsums beitragen werden.(Yao, 2019, S. 49[^:lv:yao]) 
 
@@ -219,7 +219,7 @@ Ein Onlineshop kann eine losgelöste App entwickeln, welche dann als WeChat Stor
 Grundsätzlich gibt es vier Kategorien, für welche Mini-Programme ausgelegt sind. Spiele, Nachrichten, Werkzeuge und Onlinehandel. Da ich mich in meiner Arbeit nur auf das Thema des Einkaufens fokussiere, werde ich nur auf den Bereich des Onlinehandels eingehen. Im Vergleich zu einem WeChat Store sind Mini-Programme viel leichtgewichtiger und binden sich besser in das WeChat Ökosystem ein. Nutzer können bei einem geteilten Link direkt in der Messenger App bleiben und sind sich diese Basisfunktionalitäten bereits gewohnt. Die Mini-Programme benötigen keine manuelle Installation und können mit ihren maximalen 10 Megabyte sehr schnell geladen werden. Das interessante an Mini-Programmen ist, dass diese selber gestaltet werden können. So kann sich ein ausserordentlich gut umgesetzter Shop zusätzlich von der Konkurrenz abheben. Um ein bildhaftes Beispiel zu zeigen, wie solche Programme aussehen könnten, sind folgend der Shop von Starbucks und Walmart abgebildet. Beide Stores können ihren Produktauftritt und Bestellprozess selber wählen.
 
 ![WeChat Mini-Programme](./img/wechat-mini-programs.jpg)
-WeChat Mini-Programme von Starbucks und Walmart[^:av:wechat-mini-programs] 
+*WeChat Mini-Programme von Starbucks und Walmart[^:av:wechat-mini-programs]* 
 
 Die Nutzeranzahl von Mini-Programmen stieg von 2017 zu 2018 um 68%. Ausserdem beträgt die Summe aller WeChat Mini-Programme aktuell 2.3 Millionen. Im Vergleich umfasst der Apple Appstore heute 2.1 Millionen Applikationen. (Topdigitalagency, 2019[^:qv:topdigitalagency_2019])
 
@@ -227,14 +227,14 @@ Die Nutzeranzahl von Mini-Programmen stieg von 2017 zu 2018 um 68%. Ausserdem be
 WeChat Stores und WeChat Mini-Programme  sind sehr ähnlich und lassen sich mit einem Beispiel des Giesswein Online Shops gut erklären. Bei einem Mini-Programm wird der Onlineshop direkt in das Ökosystem der WeChat eingebunden und kein Absprung auf eine andere App ist nötig. Auf der Abbildung[^:av:wechat-giesswein-vergleich] wird der Shop in WeChat direkt eingebunden und es fühlt sich an wie eine richtige App. Rechts hingegen wird die Webseite von Giesswein aufgerufen und diese dann als Browser Ansicht angezeigt. Letztere Anzeige ist somit ähnlich wie derzeit bei Instagram.
 
 ![WeChat Giesswein Vergleich](./img/wechat-giesswein-vergleich.jpg)
-WeChat Mini-Programme von Starbucks und Walmart[^:av:wechat-giesswein-vergleich] 
+*WeChat Mini-Programme von Starbucks und Walmart[^:av:wechat-giesswein-vergleich]* 
 
 
 #### 4.2.3 WeChat Good Product Circle
 Beim Good Product Circle gibt es drei unterschiedliche Arten der sozialen Interaktion unter Freunden. Es gibt zum einen Empfehlungen von Freunden, private Gruppen sowie eine Funktion, die anzeigt, was andere gekauft haben. Auf der folgenden Abbildung[^:av:wechat-good-product-circle] wird gezeigt, wie ein Produkt als Empfehlung in den gesamten Freundeskreis oder in eine private Gruppe geteilt werden kann. In diesem Beispiel wird ein Smartphone aus einem Mini-Programm vom Onlineshop JD.com geteilt. Dieses wird danach auf dem Feed der Freunde geteilt.
 
 ![WeChat Giesswein Vergleich](img/wechat-good-product-circle.jpg)
-WeChat Good Product Circle[^:av:wechat-good-product-circle] 
+*WeChat Good Product Circle[^:av:wechat-good-product-circle]* 
 
 Im Umkehrschluss kann danach ein Freund auf den geteilten Artikel klicken und wird auf die Seite von JD.com geleitet. Dort kann er das Produkt mit Alipay kaufen. Der Bezahldienst Alipay ist direkt in WeChat integriert und von allen Mini-Programmen eingebunden. Dies vereinfacht allen beteiligten die Eingabe der Nutzerdaten und führt zu einem sehr schlanken Bestellprozess.
 
