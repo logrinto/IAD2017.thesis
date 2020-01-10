@@ -22,10 +22,13 @@ In einem konkreten Fallbeispiel von Instagram beleuchte ich den Kaufprozess eine
 
 ## Inhaltsverzeichnis
 ```toc
-exclude: Inhaltsverzeichnis
+exclude: 
+  - Inhaltsverzeichnis
+  - Mentoring durch
+  - Vorgelegt von
 from-heading: 2
 to-heading: 6
-``` 
+```
 
 ## Theoretische Ebene
 
