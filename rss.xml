@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Thesis IAD2017]]></title><description><![CDATA[A starter blog ...]]></description><link>https://thesis.logrinto.ch</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 10 Jan 2020 15:00:07 GMT</lastBuildDate><item><title><![CDATA[Thesis]]></title><description><![CDATA[Schule für Gestaltung Zürich · 2019 · CC-BY-SA 4.0 Dokumentation Beispiel · Stefan Huber Pascale Anderegg Stephanie Fuchs Marc Hatt Severin…]]></description><link>https://thesis.logrinto.chroot</link><guid isPermaLink="false">https://thesis.logrinto.chroot</guid><content:encoded>&lt;div class=&quot;column__text&quot;&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Thesis IAD2017]]></title><description><![CDATA[A starter blog ...]]></description><link>https://thesis.logrinto.ch</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 10 Jan 2020 15:12:10 GMT</lastBuildDate><item><title><![CDATA[Thesis]]></title><description><![CDATA[Schule für Gestaltung Zürich · 2019 · CC-BY-SA 4.0 Dokumentation Beispiel · Stefan Huber Pascale Anderegg Stephanie Fuchs Marc Hatt Severin…]]></description><link>https://thesis.logrinto.chroot</link><guid isPermaLink="false">https://thesis.logrinto.chroot</guid><content:encoded>&lt;div class=&quot;column__text&quot;&gt;
 &lt;p&gt;&lt;a href=&quot;https://sfgz.ch/&quot;&gt;Schule für Gestaltung Zürich&lt;/a&gt; · 2019 · &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;&lt;/p&gt;
 &lt;br /&gt;
 &lt;br /&gt;
@@ -141,33 +141,19 @@ sonstiges &lt;br/&gt;
 &lt;a href=&quot;#fnref-:abb:first&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Quantified Self]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Titel der Arbeit]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
 import Grid from 'gatsby-theme-signalwerk/src/components/Grid';
-import…]]></description><link>https://thesis.logrinto.ch/posts/2020/tieukhe/</link><guid isPermaLink="false">https://thesis.logrinto.ch/posts/2020/tieukhe/</guid><pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;
+import…]]></description><link>https://thesis.logrinto.ch/posts/2020/example/</link><guid isPermaLink="false">https://thesis.logrinto.ch/posts/2020/example/</guid><pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;
 import Grid from &apos;gatsby-theme-signalwerk/src/components/Grid&apos;;
 import Column from &apos;gatsby-theme-signalwerk/src/components/Column&apos;;
 import Box from &apos;gatsby-theme-signalwerk/src/components/Box&apos;;&lt;/p&gt;
-&lt;h2&gt;1 Einleitung&lt;/h2&gt;
-&lt;h3&gt;1.1 Relevanz&lt;/h3&gt;
-&lt;p&gt;Schon seit Jahrhunderten beobachten und dokumentieren Menschen ihren Körper und ihr eigenes Verhalten. Der Wunsch, den eigenen Körper mittels technischer Hilfsmittel besser zu verstehen, ist also nicht neu. Durch die technologischen Fortschritte erhält dieses Bedürfnis jedoch ein neues Ausmass. Die Menschen interessieren sich heute verstärkt für ihr eigenes Wohlbefinden und ihre Persönlichkeitsentwicklung. Dabei informieren sich Menschen immer mehr im Internet und auf mobilen Geräten über ihre eigene Gesundheit. Zudem werden immer mehr Selbstvermessungstechnologien wie Fitness-Armbänder oder Fitness-Apps genutzt (QS, 2016). Im Jahre 2016 wurde die Anzahl Applikationen im Bereich Fitness- und Gesundheit auf 249’000 geschätzt (research2guidance, 2016 in: QS, 2016), womit dies der App-Bereich mit dem grössten Zuwachs ist. Der grösste Teil machte dabei mit 39% der Fitnessbereich aus. Häufig fällt in Verbindung mit Quantified Self das Stichwort «Wearable Computing Systems» oder kurz gesagt Wearables, mit Sensoren versehene Geräte, welche  Daten aufzeichnen und am Körper des Menschen getragen werden können. Jährlich werden neue Produkte wie Wearables auf den Markt gebracht – im Jahr 2018 waren es nahezu 172 Millionen Fitness-Tracker, die verkauft wurden. Die Selbstvermessung und somit auch die Selbstoptimierung liegt im Trend und hat sich im Zuge der Digitalisierung zu einem schnell wachsenden Gebiet entwickelt.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;«BLABLA»&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;/span&gt;[^https://www.onlinepc.ch/hardware/smart-wearables/2018-172-millionen-wearables-verkauft-1696771.html]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;&lt;em&gt;«Zitat B»&lt;/em&gt;&lt;sup id=&quot;fnref-https://www.onlinepc.ch/hardware/smart-wearables/2018-172-millionen-wearables-verkauft-1696771.html&quot;&gt;&lt;a href=&quot;#fn-https://www.onlinepc.ch/hardware/smart-wearables/2018-172-millionen-wearables-verkauft-1696771.html&quot; class=&quot;footnote-ref&quot;&gt;https://www.onlinepc.ch/hardware/smart-wearables/2018-172-millionen-wearables-verkauft-1696771.html&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;h3&gt;1.2 Mein Interesse und meine Motivation zum Thema&lt;/h3&gt;
-&lt;p&gt;Mein Interesse für das Thema Quantified Self stammt aus privaten Erfahrungen. Ich selbst besitze einen Fitness-Tracker von Fitbit und habe damit auch eine Zeit lang trainiert und meine Workouts damit aufgezeichnet. Damals bin ich aus purer Neugier auf diesen Fitness-Tracker gestossen und wollte sie zum Spass ausprobieren. Eine Zeit lang, war es auch wirklich spannend zu sehen wie viele Schritte ich gehe, wie meine Schlafphasen waren oder zusammenfassend auf einer App zu sehen wie oft ich welche Workouts absolviert habe. Doch nach ein paar Monaten legte sich diese Neugier. Über die getrackten Schlafphasen wurde ich nicht schlauer und konnte keine Rückschlüsse ziehen – es war dann halt einfach so wie es war. Auch die Anzahl empfohlenen Schritte konnte ich oft gar nicht erreichen, was auch ein wenig demotivierend auf mich wirkte.
-Heute trainiere ich nicht mehr damit, dafür habe ich aber eine Coaching-Fitness-App auf dem Smartphone, die mir zeigt, welche Übungen ich machen kann, wie ich diese auszuführen habe und mich so durch meine Trainings führt.&lt;/p&gt;
-&lt;h3&gt;1.3 Ziel der Arbeit&lt;/h3&gt;
-&lt;p&gt;Ausgehend von diesem aktuellen Trend möchte ich in der folgenden Arbeit darlegen, wie sich die Selbstvermessung durch die Digitalisierung verändert hat. Das Ziel der Arbeit ist es aufzuzeigen, welche möglichen Folgen die Nutzung von Fitness-Trackern und Fitness-Apps hat und wie AnwenderInnen in ihrem Alltag beeinflusst werden. Ein weiterer Aspekt der Arbeit ist es aufzuzeigen, welche Risiken mit dem Sammeln, Speichern und Teilen digitaler Daten einhergehen.
-Um diese Fragen zu beantworten werden Informationen aus verschiedenen Quellen zusammengetragen und drei Personen, welche regelmässig Fitness-Tracker und Fitness-Apps in ihrem Alltag benutzen interviewt.&lt;/p&gt;
-&lt;h3&gt;1.4 Schwerpunkt&lt;/h3&gt;
-&lt;p&gt;Da der Umfang dieses Themas sehr gross ist, gehe ich mit meiner Arbeit bewusst nur auf einen kleinen Bereich ein. Der Schwerpunkt der Arbeit liegt deshalb im Bereich Sport und Fitness. Andere Gebiete wo Selbstvermessung stattfindet werden in dieser Arbeit nicht thematisiert.&lt;/p&gt;
-&lt;h3&gt;1.5 Wie hängt das Thema mit Dynamik zusammen?&lt;/h3&gt;
-&lt;p&gt;Die Selbstvermessung hängt von den technologischen Fortschritten der Kommunikationstechnologien ab. Während man früher mittels einseitiger Kommunikation gemessen hat, geschieht dies heute in einer wechselseitigen Kommunikation. Die heutige digitale Selbstvermessung verbindet viel mit Dynamik, wobei die Vernetzung, die permanente Aufzeichnung und die Personalisierung wesentliche Aspekte der Dynamik ausmachen.
-Ein Fitness-Tracker ist unter konstanter Bereitschaft, das heisst er ist immer eingeschaltet, bereit und verfügbar. So findet ein permanenter Informationsaustausch zwischen Mensch und Computer statt. Man spricht von hochfrequenter Interaktion wenn es einen konstanten Fluss von Aktion und Reaktion zwischen dem Nutzer und dem Interface gibt. Wenn der Nutzer ständig die direkte Konsequenz seiner Handlungen sehen kann, erhält er auch ein ständiges Feedback.  Doch nicht nur zwischen Mensch und Computer findet ein permanenter Informationsaustausch statt – die Selbstvermessungsgeräte können auch selbstständig mit anderen Geräten über das Internet kommunizieren und Daten austauschen. Das zeigt sich am Beispiel der Personenwaage. Während früher eine Waage lediglich wiegen konnte, kann die Personenwaage heute das Gewiegte als Daten an ein anderes Gerät oder an eine Anwendung weiterleiten, welche dort vom Menschen eingesehen werden können.
-Ausserdem werden auf den Anwender zugeschnittene Vorschläge erstellt. Je nach Eingabe, Leistung, und Aktion ändern sich die Feedbacks aktiv auf den Nutzer bezogen. So passen sich der Fitnessplan oder die Ziele stetig an und bleiben so dynamisch.&lt;/p&gt;
 &lt;h2&gt;Intro&lt;/h2&gt;
 &lt;p&gt;Grundsätzlich verhält sich das Template wie normaler Markdown-Text. Es gibt aber einige erweiterte Funktionen. Für weitere Infos siehe &lt;a href=&quot;https://github.com/signalwerk/gatsby-theme-signalwerk&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;Inhaltsverzeichnis&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;toc&quot;&gt;&lt;pre class=&quot;language-toc&quot;&gt;&lt;code class=&quot;language-toc&quot;&gt;exclude: Inhaltsverzeichnis
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;toc&quot;&gt;&lt;pre class=&quot;language-toc&quot;&gt;&lt;code class=&quot;language-toc&quot;&gt;exclude:
+  - Inhaltsverzeichnis
+  - Mentoring durch
+  - Vorgelegt von
 from-heading: 2
 to-heading: 6&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h2&gt;Inhaltsverzeichnis (Element)&lt;/h2&gt;
@@ -534,19 +520,33 @@ sonstiges &lt;br/&gt;
 &lt;a href=&quot;#fnref-2&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Titel der Arbeit]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Quantified Self]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
 import Grid from 'gatsby-theme-signalwerk/src/components/Grid';
-import…]]></description><link>https://thesis.logrinto.ch/posts/2020/example/</link><guid isPermaLink="false">https://thesis.logrinto.ch/posts/2020/example/</guid><pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;
+import…]]></description><link>https://thesis.logrinto.ch/posts/2020/tieukhe/</link><guid isPermaLink="false">https://thesis.logrinto.ch/posts/2020/tieukhe/</guid><pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;
 import Grid from &apos;gatsby-theme-signalwerk/src/components/Grid&apos;;
 import Column from &apos;gatsby-theme-signalwerk/src/components/Column&apos;;
 import Box from &apos;gatsby-theme-signalwerk/src/components/Box&apos;;&lt;/p&gt;
+&lt;h2&gt;1 Einleitung&lt;/h2&gt;
+&lt;h3&gt;1.1 Relevanz&lt;/h3&gt;
+&lt;p&gt;Schon seit Jahrhunderten beobachten und dokumentieren Menschen ihren Körper und ihr eigenes Verhalten. Der Wunsch, den eigenen Körper mittels technischer Hilfsmittel besser zu verstehen, ist also nicht neu. Durch die technologischen Fortschritte erhält dieses Bedürfnis jedoch ein neues Ausmass. Die Menschen interessieren sich heute verstärkt für ihr eigenes Wohlbefinden und ihre Persönlichkeitsentwicklung. Dabei informieren sich Menschen immer mehr im Internet und auf mobilen Geräten über ihre eigene Gesundheit. Zudem werden immer mehr Selbstvermessungstechnologien wie Fitness-Armbänder oder Fitness-Apps genutzt (QS, 2016). Im Jahre 2016 wurde die Anzahl Applikationen im Bereich Fitness- und Gesundheit auf 249’000 geschätzt (research2guidance, 2016 in: QS, 2016), womit dies der App-Bereich mit dem grössten Zuwachs ist. Der grösste Teil machte dabei mit 39% der Fitnessbereich aus. Häufig fällt in Verbindung mit Quantified Self das Stichwort «Wearable Computing Systems» oder kurz gesagt Wearables, mit Sensoren versehene Geräte, welche  Daten aufzeichnen und am Körper des Menschen getragen werden können. Jährlich werden neue Produkte wie Wearables auf den Markt gebracht – im Jahr 2018 waren es nahezu 172 Millionen Fitness-Tracker, die verkauft wurden. Die Selbstvermessung und somit auch die Selbstoptimierung liegt im Trend und hat sich im Zuge der Digitalisierung zu einem schnell wachsenden Gebiet entwickelt.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;«BLABLA»&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;/span&gt;[^https://www.onlinepc.ch/hardware/smart-wearables/2018-172-millionen-wearables-verkauft-1696771.html]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;«Zitat B»&lt;/em&gt;&lt;sup id=&quot;fnref-https://www.onlinepc.ch/hardware/smart-wearables/2018-172-millionen-wearables-verkauft-1696771.html&quot;&gt;&lt;a href=&quot;#fn-https://www.onlinepc.ch/hardware/smart-wearables/2018-172-millionen-wearables-verkauft-1696771.html&quot; class=&quot;footnote-ref&quot;&gt;https://www.onlinepc.ch/hardware/smart-wearables/2018-172-millionen-wearables-verkauft-1696771.html&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h3&gt;1.2 Mein Interesse und meine Motivation zum Thema&lt;/h3&gt;
+&lt;p&gt;Mein Interesse für das Thema Quantified Self stammt aus privaten Erfahrungen. Ich selbst besitze einen Fitness-Tracker von Fitbit und habe damit auch eine Zeit lang trainiert und meine Workouts damit aufgezeichnet. Damals bin ich aus purer Neugier auf diesen Fitness-Tracker gestossen und wollte sie zum Spass ausprobieren. Eine Zeit lang, war es auch wirklich spannend zu sehen wie viele Schritte ich gehe, wie meine Schlafphasen waren oder zusammenfassend auf einer App zu sehen wie oft ich welche Workouts absolviert habe. Doch nach ein paar Monaten legte sich diese Neugier. Über die getrackten Schlafphasen wurde ich nicht schlauer und konnte keine Rückschlüsse ziehen – es war dann halt einfach so wie es war. Auch die Anzahl empfohlenen Schritte konnte ich oft gar nicht erreichen, was auch ein wenig demotivierend auf mich wirkte.
+Heute trainiere ich nicht mehr damit, dafür habe ich aber eine Coaching-Fitness-App auf dem Smartphone, die mir zeigt, welche Übungen ich machen kann, wie ich diese auszuführen habe und mich so durch meine Trainings führt.&lt;/p&gt;
+&lt;h3&gt;1.3 Ziel der Arbeit&lt;/h3&gt;
+&lt;p&gt;Ausgehend von diesem aktuellen Trend möchte ich in der folgenden Arbeit darlegen, wie sich die Selbstvermessung durch die Digitalisierung verändert hat. Das Ziel der Arbeit ist es aufzuzeigen, welche möglichen Folgen die Nutzung von Fitness-Trackern und Fitness-Apps hat und wie AnwenderInnen in ihrem Alltag beeinflusst werden. Ein weiterer Aspekt der Arbeit ist es aufzuzeigen, welche Risiken mit dem Sammeln, Speichern und Teilen digitaler Daten einhergehen.
+Um diese Fragen zu beantworten werden Informationen aus verschiedenen Quellen zusammengetragen und drei Personen, welche regelmässig Fitness-Tracker und Fitness-Apps in ihrem Alltag benutzen interviewt.&lt;/p&gt;
+&lt;h3&gt;1.4 Schwerpunkt&lt;/h3&gt;
+&lt;p&gt;Da der Umfang dieses Themas sehr gross ist, gehe ich mit meiner Arbeit bewusst nur auf einen kleinen Bereich ein. Der Schwerpunkt der Arbeit liegt deshalb im Bereich Sport und Fitness. Andere Gebiete wo Selbstvermessung stattfindet werden in dieser Arbeit nicht thematisiert.&lt;/p&gt;
+&lt;h3&gt;1.5 Wie hängt das Thema mit Dynamik zusammen?&lt;/h3&gt;
+&lt;p&gt;Die Selbstvermessung hängt von den technologischen Fortschritten der Kommunikationstechnologien ab. Während man früher mittels einseitiger Kommunikation gemessen hat, geschieht dies heute in einer wechselseitigen Kommunikation. Die heutige digitale Selbstvermessung verbindet viel mit Dynamik, wobei die Vernetzung, die permanente Aufzeichnung und die Personalisierung wesentliche Aspekte der Dynamik ausmachen.
+Ein Fitness-Tracker ist unter konstanter Bereitschaft, das heisst er ist immer eingeschaltet, bereit und verfügbar. So findet ein permanenter Informationsaustausch zwischen Mensch und Computer statt. Man spricht von hochfrequenter Interaktion wenn es einen konstanten Fluss von Aktion und Reaktion zwischen dem Nutzer und dem Interface gibt. Wenn der Nutzer ständig die direkte Konsequenz seiner Handlungen sehen kann, erhält er auch ein ständiges Feedback.  Doch nicht nur zwischen Mensch und Computer findet ein permanenter Informationsaustausch statt – die Selbstvermessungsgeräte können auch selbstständig mit anderen Geräten über das Internet kommunizieren und Daten austauschen. Das zeigt sich am Beispiel der Personenwaage. Während früher eine Waage lediglich wiegen konnte, kann die Personenwaage heute das Gewiegte als Daten an ein anderes Gerät oder an eine Anwendung weiterleiten, welche dort vom Menschen eingesehen werden können.
+Ausserdem werden auf den Anwender zugeschnittene Vorschläge erstellt. Je nach Eingabe, Leistung, und Aktion ändern sich die Feedbacks aktiv auf den Nutzer bezogen. So passen sich der Fitnessplan oder die Ziele stetig an und bleiben so dynamisch.&lt;/p&gt;
 &lt;h2&gt;Intro&lt;/h2&gt;
 &lt;p&gt;Grundsätzlich verhält sich das Template wie normaler Markdown-Text. Es gibt aber einige erweiterte Funktionen. Für weitere Infos siehe &lt;a href=&quot;https://github.com/signalwerk/gatsby-theme-signalwerk&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;Inhaltsverzeichnis&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;toc&quot;&gt;&lt;pre class=&quot;language-toc&quot;&gt;&lt;code class=&quot;language-toc&quot;&gt;exclude:
-  - Inhaltsverzeichnis
-  - Mentoring durch
-  - Vorgelegt von
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;toc&quot;&gt;&lt;pre class=&quot;language-toc&quot;&gt;&lt;code class=&quot;language-toc&quot;&gt;exclude: Inhaltsverzeichnis
 from-heading: 2
 to-heading: 6&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h2&gt;Inhaltsverzeichnis (Element)&lt;/h2&gt;
@@ -2062,38 +2062,6 @@ to-heading: 6&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 Vorname Nachname, [Titel der Seite](https://www.google.com/) (Abrufdatum: dd. mm. yyyy).
 Vorname Nachname, Buchtitel, Auflage, Verlag, Erscheinungsort Jahr, erste Seite – letzte Seite.
 --&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1800px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/d456c660539ca6cca27907197cd54dcf/24890/noclip.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 61.04910714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABYlAAAWJQFJUiTwAAACKklEQVQoz62TXWvTUBjH8zFc16bdhdg5UHAgiHO+IKiIiljtUFCGIrQOYROcAUH8CpoLcc4p1CsVLwKi1Q6cda5N2yzJeiOzXWntSrtVpZBmOe15fJK+2OqFCj7hz/N6fich5zBud//QQP/A1M5dw3d37zvEb9s+yLtcfbzT6eIdDpZ32NmG7xDLOnnn5i18n3sr39Nr52223jt21jmzqcc2xDx7/mJcjCUgsrAA0agI8/MfQZIkEMUYxONxjBctJRKSVY/HEzgXhehsCGJvXsOHuTkIhUKgKAoEAoFrTKVS8UHDdEKIsZrPE4zbqlY1outVYuBT1Td+9hSRwFsB47qZayagXC77mUKh4DeTGlq9XqdmTCkFXdfh6pgPRjwnwHfpPFwZ9cLFM8dgxHva2r3WEi7BpYZZy2QyY0yxWPQ337CGIIpQK/n+7Ss8fngfBEGAqQfTcPP6BFz2HIG9w3sa07gpDluboyxgNpv9HWgOmGYYBlw454VTxw+Db/Qs+qNw0uOFgwf2Q+srOvRnoOmDr17Co+l78PTJDLwLCvB+NghSLNIFbMZ/B1zNf4FUahlW0inI5bK4IAP4k/4Z2KJS7FFZluiSukgRTtfXSnRD12mD0WVdwPaxwQZpyTwa5fU1kl7+RFbSn4mmaaSz/4uqTaCfKZVK4/CfLJfLTTDhcHiHqqq3UDdQXFuKwqnRCLekyFwymeTwJnCyLFu+aw6FtUmcuY03ZvAHluQeibwzjNwAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;noClip Patreon&quot;
-        title=&quot;noClip Patreon&quot;
-        src=&quot;/static/d456c660539ca6cca27907197cd54dcf/57025/noclip.png&quot;
-        srcset=&quot;/static/d456c660539ca6cca27907197cd54dcf/dfe4e/noclip.png 450w,
-/static/d456c660539ca6cca27907197cd54dcf/6ed10/noclip.png 900w,
-/static/d456c660539ca6cca27907197cd54dcf/57025/noclip.png 1800w,
-/static/d456c660539ca6cca27907197cd54dcf/f6036/noclip.png 2700w,
-/static/d456c660539ca6cca27907197cd54dcf/24890/noclip.png 3584w&quot;
-        sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;
-&lt;em&gt;Die Präsentation von noClip auf Patreon &lt;sup id=&quot;fnref-:fig:six&quot;&gt;&lt;a href=&quot;#fn-:fig:six&quot; class=&quot;footnote-ref&quot;&gt;:fig:six&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h2&gt;Quellenverzeichnis&lt;/h2&gt;
 &lt;p&gt;Aufgrund der enormen Aktualität des Themas wurde auf ein herkömmliches Literaturverzeichnis verzichtet.&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;references&quot;&gt;&lt;pre class=&quot;language-references&quot;&gt;&lt;code class=&quot;language-references&quot;&gt;# gets repalced with footnotes
