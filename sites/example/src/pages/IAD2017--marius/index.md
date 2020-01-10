@@ -40,15 +40,14 @@ Das Finden von zuverlässigen Quellen bezüglich den Geschehnissen auf 4chan ges
 ### Gruppendynamik
 
 #### Definition
-Als Gruppendynamik wird das Zusammenarbeiten einzelner Individuen bezeichnet, welche ein gleiches Ziel anstreben. Die Dynamik entsteht durch die Bildung von Hierarchien und Einstellungen innerhalb der Gruppe. Um ein positives Beeinflussen auf die Gruppe zu gewährleisten, ist eine Unterschiedlichkeit der einzelnen Personen in der Gruppe voraussetzung. Nur eine Mix verschiedener Kompetenzen und Interessen kann eine Gruppe effektiv zum Ziel führen. Dadurch wird auch eine einseitige Polarisierung vermieden.
+Als Gruppendynamik wird das Zusammenarbeiten einzelner Individuen bezeichnet, welche ein gleiches Ziel anstreben. Die Dynamik entsteht durch die Bildung von Hierarchien und Rollen innerhalb der Gruppe. Um ein positives Beeinflussen auf die Gruppe zu gewährleisten, ist eine Unterschiedlichkeit der einzelnen Personen in der Gruppe Voraussetzung. Nur ein Mix verschiedener Kompetenzen und Interessen kann eine Gruppe effektiv zum Ziel führen. Dadurch wird auch eine einseitige Polarisierung vermieden.
 
-Den Begriff «Gruppendynamik» hat der Psychologe Kurt Lewin 1939 erstmals in Zusammenhang mit der Bildung des Dritten Reiches in Deutschland in verschiedenen seiner Fachartikeln verwendet.
+Den Begriff «Gruppendynamik» hat der Psychologe Kurt Lewin 1939 erstmals im Zusammenhang mit der Bildung des Dritten Reiches in Deutschland in verschiedenen seiner Fachartikeln verwendet.
 
-Die Gruppendynamik ergibt sich aber nicht einfach aus der Summe der Mitglieder der Gruppe, da während der Interaktion der einzelnen Individuen untereinander ein Prozess stattfindet. Es werden Rollen verteilt, eine Hierarchie entsteht, es werden Regeln und Umgangsformen festgelegt und entwickelt.
+Die Gruppendynamik ergibt sich aber nicht einfach aus der Summe der Mitglieder der Gruppe, da während der Interaktion der einzelnen Individuen untereinander ein Prozess stattfindet. Es werden Rollen verteilt, eine Hierarchie entsteht, es werden Regeln und Umgangsformen entwickelt und die Zile der Gruppe definiert.
 
-#### Grundsätze
-Grundsätze der Gruppendynamik:
-Laut Prof. Dr. Olaf Germanis gibt es für Gruppendynamik die drei folgenden Grundsätze:
+#### Grundsätze der Gruppendynamik
+Laut Prof. Dr. Olaf Germanis von der Hochschule für Soziale Arbeit FHNW bildet sich Gruppendynamik aus den folgenden drei Grundsätze:
 
 1. Der Mensch ist in der Lage, absichtsvoll zu handeln. Er verfügt über prinzipielle Wahlfreiheit. Dazu gehören Entscheidung wie Zustimmung und Ablehnung.
 
@@ -56,14 +55,17 @@ Laut Prof. Dr. Olaf Germanis gibt es für Gruppendynamik die drei folgenden Grun
 
 3. Gruppen verfolgen ein restriktives Gleichgewichtsmodell. Darin ist die individuelle Wahlfreiheit aufgehoben. Das bedeutet, dass alle ihren Platz, ihre erwartbare Rolle bekommen. Und je erwartbarer eine solche Rolle ist, desto weniger ist diese frei gestaltbar, und die Gruppe sorgt dafür, dass diese auch eingehalten werden.
 
-Somit ist die Individualität der einzelnen Person aufgehoben. Das Konstruktion von Gruppen ist demnach paradox, widersprüchlich, da eine Gruppe von der Individualität der Personen lebt, diese aber nur in vorgegebener Form zulässt.
-Damit Individualität möglich und Entscheidungen zurechenbar werden, muss sich eine Gruppe ausdifferenzieren. Wenn eine Person neu in eine Gruppe kommt, macht diese sichtbar, was die Gruppe von ihr erwarten kann, eine Rolle wird zugeteilt. Dabei werden Normen und Routinen eingeführt. Dadurch wird die Individualität genau genommen verunmöglicht. Das heisst, je genauer die einzelne Person ihre Rolle einnimmt, ihre Aufgaben und Erwartungen erfüllt, desto eingeengter ist sie in ihrer eigenen Individualität.
-Genau erst in dieser Form ermöglicht Gruppe Individualität: über den Weg der gemeinsamen Entscheidung über die Routinen und Normen. Das heisst, Die Rollen der einzelnen Personen können durch Vorschläge und gemeinsame Entscheidungen verändert und erweitert werden. Jedoch ist dies ein dynamischer Prozess der gesamten Gruppe. Wenn eine Person ihre Rolle verändert, werden die restlichen Personen in der Gruppe ebenfalls ihre Rollen verändern und anpassen müssen. Durch eine kontinuierliche infragestellung der Standpunkte, Routinen, Normen und Rollenzuteilung und die Fähigkeit, diese gegebenenfalls immer wieder anpassen zu können, konstruiert eine Gruppe ihre eigene Wirklichkeit. Und das wiederum ermöglicht die individuelle Freiheit der einzelnen Person. Die Ermöglichung von Individualität durch Aufhebung der Individualität.
+Somit ist die Individualität der einzelnen Person aufgehoben. Das Konstrukt von Gruppen ist demnach widersprüchlich, da eine Gruppe von der Individualität der Personen lebt, diese aber nur in vorgegebener Form zulässt.
+Damit Individualität möglich und Entscheidungen zurechenbar werden, muss sich eine Gruppe ausdifferenzieren. Wenn eine Person neu in eine Gruppe kommt, macht diese sichtbar, was die Gruppe von ihr erwarten kann und ihr wird eine Rolle zugeteilt. Dabei werden Normen und Routinen eingeführt. Dadurch wird die Individualität genau genommen verunmöglicht. Das heisst, je genauer die einzelne Person ihre Rolle einnimmt, ihren Aufgaben nachgeht und die Erwartungen erfüllt, desto eingeengter ist sie in ihrer eigenen Individualität.
+Doch erst in dieser Form ermöglicht eine Gruppe Individualität: über den Weg der gemeinsamen Entscheidung über die Routinen und Normen. Das heisst, Die Rollen der einzelnen Personen können durch Vorschläge und gemeinsame Entscheidungen verändert und erweitert werden. Jedoch ist dies ein dynamischer Prozess der gesamten Gruppe. Wenn eine Person ihre Rolle verändert, werden die restlichen Personen in der Gruppe ebenfalls ihre Rollen verändern und anpassen, um weiterhin das Ziel der Gruppe zu erfüllen. Durch eine kontinuierliche Infragestellung der Standpunkte, Routinen, Normen und Rollenzuteilungen und die Fähigkeit, diese gegebenenfalls immer wieder anpassen zu können, konstruiert eine Gruppe ihre eigene Wirklichkeit. Und das wiederum ermöglicht die individuelle Freiheit der einzelnen Person. Die Ermöglichung von Individualität durch Aufhebung der Individualität.
 
 ### Anonymität
 
 #### Definition
-Anonymität wird laut Duden mit «das Nichtbekanntsein, Nichtgenanntsein; Namenlosigkeit» bezeichnet. Das fehlen folgende Informationen macht aus Identität Anonymität: Der Gesetzliche Name, die Adresse, Alphanumerische Symbole wie Personalausweisnummer, Matrikelnummern für Studenten und Personalkennziffer für Angestellte einer Firma, Pseudonyme welche einem bestimmten Bekanntenkreis bekannt sind, Verhaltensmuster, Soziale Kategorisierung, Zertifikate und Bestätigungen.
+Anonymität wird laut Duden mit «das Nichtbekanntsein, Nichtgenanntsein; Namenlosigkeit» bezeichnet.  
+Das Wort «Anonym» kommt aus dem Griechischen:  
+*anṓnymos, zu: an- = nicht, un- und ónoma (ónyma) = Name.*  
+Das Fehlen folgender Informationen macht aus Identität Anonymität: Der Gesetzliche Name, die Adresse, Alphanumerische Symbole wie Personalausweisnummer, Matrikelnummern für Studenten und Personalkennziffer für Angestellte einer Firma, Pseudonyme welche einem bestimmten Bekanntenkreis bekannt sind, Verhaltensmuster, Soziale Kategorisierung, Zertifikate und Bestätigungen.
 
 #### Anonymität im Internet
 Anonymität ist eine Frage für unsere gesamte Gesellschaft und nicht nur fürs Internet. Weltweit wird Anonymität verschieden interpretiert und verschieden grossen Wert zugeschrieben.
@@ -75,6 +77,11 @@ Im Web treffen alle verschiedenen Kulturen und Wertvorstellungen aufeinander und
 ### 4chan, Memes und Trolling
 
 #### 4chan
+4chan.org ist ein am 1. Oktober 2003 von Christopher Poole gegründetes Imageboard. «4chan is a forum. It's an image board, so it's just kind of a forum that the primary focus is the posting of images.» beschreibt Christopher Poole die Seite 4chan dem Richter Thomas W. Phillips am  22. April 2010. 4chan ist für alle BenutzerInnen kostenlos und ohne Anmeldung zugänglich und alle können auf einem der Boards einen neuen Thread erfassen, solange auch ein Bild hochgeladen wird. Antworten auf einen Post müssen kein Bild mehr beinhalten und können aus reinem Text bestehen.
+Das Posten von Bildern und Kommentaren geschieht ohne Anmeldung, ist kostenlos und Anonym. Nur die Administratoren haben Einblick auf die IP-Adresse des/der VerfasserIn. Alle Posts werden unter dem Pseudonym «Anonymous» veröffentlicht und bekommen eine vom System generierte Nummer, welche als Link auf den jeweiligen Beitrag verwendet werden kann.
+
+Das bekannteste und meistgenutzte Board auf 4chan ist das /b/ Board, auch bezeichnet als das Random-Board. Dieses ist für jedmöglichen Inhalt gedacht solange dieser das US-Amerikanische Recht befolgt und der/die BenutzerIn über 18 Jahre alt ist.
+Alle anderen Board verfügt über weitere Regeln, welche Pornografie (ausgenommen den Boards der Kategorie «Adult») und Rassismus (ausgenommen dem /pol/ Politically Incorrect Board) untersagen. Bei Nichtbefolgen dieser Regeln können die Administratoren von 4chan die Beiträge löschen und die IP-Adresse des/der BenutzerIn vorübergehend sperren.
 
 #### Memes
 
