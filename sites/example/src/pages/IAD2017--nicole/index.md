@@ -341,7 +341,7 @@ reference-text-suffix: ' – '
 
 ```
 
-[^source-statista]: [Statista, 2016); Statistik](https://de.statista.com/statistik/daten/studie/290274/umfrage/anzahl-der-webseiten-weltweit/) (Abrufdatum: 29.12.2019)
+[^source-statista]: [Statista (2016); Statistik](https://de.statista.com/statistik/daten/studie/290274/umfrage/anzahl-der-webseiten-weltweit/) (Abrufdatum: 29.12.2019)
 
 [^source-edureka]: [Edureka (2018); YouTube-Video](https://www.youtube.com/watch?v=WSbgixdC9g8) (Abrufdatum: 06.12.2019)
 
