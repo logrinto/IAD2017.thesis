@@ -9,7 +9,7 @@ path: "/posts/2020/tieukhe/"
 tags:
   - "TagOne"
   - "TagTwo"
-description: "Digitale Selbstvermessung"
+description: "Digitale Selbstvermessung – Welche möglichen Folgen hat die Nutzung eines Fitnesstrackers oder einer Fitness-App auf Individuen?"
 ---
 
 import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
@@ -19,7 +19,10 @@ import Box from 'gatsby-theme-signalwerk/src/components/Box';
 
 ## Inhaltsverzeichnis
 ```toc
-exclude: Inhaltsverzeichnis
+exclude:
+  - Inhaltsverzeichnis
+  - Mentoring durch
+  - Vorgelegt von
 from-heading: 2
 to-heading: 6
 ```
@@ -27,10 +30,10 @@ to-heading: 6
 
 ## 1 Einleitung
 ### 1.1 Relevanz des Themas
-Schon seit Jahrhunderten beobachten und dokumentieren Menschen ihren Körper und ihr eigenes Verhalten. Der Wunsch, den eigenen Körper mittels technischer Hilfsmittel besser zu verstehen, ist also nicht neu. Durch die technologischen Fortschritte erhält dieses Bedürfnis jedoch ein neues Ausmass mit verschiedenen Facetten. Die Menschen interessieren sich heute verstärkt für ihr eigenes Wohlbefinden und ihre Persönlichkeitsentwicklung. Zu diesem Themainformieren sich Menschen immer mehr im Internet und auf mobilen Geräten. Zudem werden immer mehr Selbstvermessungstechnologien wie Fitness-Armbänder oder Fitness-Apps genutzt.[^quote-one] Im Jahr 2016 wurde die Anzahl Applikationen im Bereich Fitness- und Gesundheit auf 249’000 geschätzt.[^quote-two] Häufig fällt in Verbindung mit Quantified Self das Stichwort «Wearable Computing Systems» oder kurz gesagt Wearables: mit Sensoren versehene Geräte, welche  Daten aufzeichnen und am Körper des Menschen getragen werden können. Jährlich werden neue Produkte wie Wearables auf den Markt gebracht – im Jahr 2018 waren es nahezu 172 Millionen Fitness-Tracker, die verkauft wurden.[^quote-three] Die Selbstvermessung und somit auch die Selbstoptimierung liegt im Trend und hat sich im Zuge der Digitalisierung zu einem schnell wachsenden Gebiet entwickelt.
+Schon seit Jahrhunderten beobachten und dokumentieren Menschen ihren Körper und ihr eigenes Verhalten. Der Wunsch, den eigenen Körper mittels technischer Hilfsmittel besser zu verstehen, ist also nicht neu. Durch die technologischen Fortschritte erhält dieses Bedürfnis jedoch ein neues Ausmass mit verschiedenen Facetten. Die Menschen interessieren sich heute verstärkt für ihr eigenes Wohlbefinden und ihre Persönlichkeitsentwicklung. Zu diesem Thema informieren sich Menschen immer mehr im Internet und auf mobilen Geräten. Zudem werden immer mehr Selbstvermessungstechnologien wie Fitness-Armbänder oder Fitness-Apps genutzt.[^quote-one] Im Jahr 2016 wurde die Anzahl Applikationen im Bereich Fitness- und Gesundheit auf 249&#x202F;000 geschätzt.[^quote-two] Häufig fällt in Verbindung mit Quantified Self das Stichwort «Wearable Computing Systems» oder kurz gesagt Wearables: mit Sensoren versehene Geräte, welche  Daten aufzeichnen und am Körper des Menschen getragen werden können. Jährlich werden neue Produkte wie Wearables auf den Markt gebracht – im Jahr 2018 waren es nahezu 172&#x202F;Millionen Fitness-Tracker, die verkauft wurden.[^quote-three] Die Selbstvermessung und somit auch die Selbstoptimierung liegt im Trend und hat sich im Zuge der Digitalisierung zu einem schnell wachsenden Gebiet entwickelt.
 
-[^quote-one]: Prof.&#x202F;Dr.&#x202F; Becker H.,  Meidert U., Scheermesser M., 2018; S. 42
-[^quote-two]: research2guidance, 2016; in: Prof.&#x202F;Dr.&#x202F; Becker H.,  Meidert U., Scheermesser M., 2018; S. 42
+[^quote-one]: Becker, Meidert, Scheermesser (2018), S.&#x202F;42
+[^quote-two]: research2guidance, 2016; in: Becker,  Meidert, Scheermesser, (2018), S.&#x202F;42
 [^quote-three]: Verkauf von Fitness-Tracker, 2018  
 
 
@@ -46,21 +49,21 @@ Um diese Fragen zu beantworten werden Informationen aus verschiedenen Quellen zu
 Da der Umfang dieses Themas sehr gross ist, gehe ich mit meiner Arbeit bewusst nur auf einen kleinen Bereich ein. Der Schwerpunkt der Arbeit liegt deshalb im Bereich Sport und Fitness. Andere Gebiete wo Selbstvermessung stattfindet werden in dieser Arbeit nicht thematisiert.
 
 ### 1.5 Wie hängt das Thema mit Dynamik zusammen?
-Die Selbstvermessung ist eng mit dem technologischen Fortschritt in der Kommunikationstechnologie verbunden. Während man früher mittels einseitiger Kommunikation gemessen hat, geschieht dies heute in einer wechselseitigen Kommunikation. Die heutige digitale Selbstvermessung verbindet viel mit Dynamik, wobei die Vernetzung, die permanente Aufzeichnung und die Personalisierung wesentliche Aspekte der Dynamik ausmachen.
-Ein Beispiel dazu ist der Fitness-Tracker, welcher  unter konstanter Bereitschaft ist, das heisst er ist immer eingeschaltet und verfügbar. So findet ein permanenter Informationsaustausch zwischen Mensch und Computer statt. Man spricht von hochfrequenter Interaktion, wenn es einen konstanten Fluss von Aktion und Reaktion zwischen dem Nutzer und dem Interface gibt. Wenn der Nutzer ständig die direkte Konsequenz seiner Handlungen sehen kann, erhält er auch ein ständiges Feedback.  Doch nicht nur zwischen Mensch und Computer findet ein permanenter Informationsaustausch statt – die Selbstvermessungsgeräte können auch selbstständig mit anderen Geräten über das Internet kommunizieren und Daten austauschen. Das zeigt sich am Beispiel der Personenwaage. Während früher eine Waage lediglich wiegen konnte, kann die Personenwaage heute das Gewiegte als Daten an ein anderes Gerät oder an eine Anwendung weiterleiten, welche dort vom Menschen eingesehen werden können. Ausserdem werden auf den Anwender zugeschnittene Vorschläge erstellt. Je nach Eingabe, Leistung, und Aktion ändern sich die Feedbacks aktiv auf den Nutzer bezogen. So passen sich der Fitnessplan oder die Ziele stetig an und bleiben so dynamisch.
+Die Selbstvermessung ist eng mit dem technologischen Fortschritt in der Kommunikationstechnologie verbunden. Die heutige digitale Selbstvermessung verbindet viel mit Dynamik, wobei die Vernetzung, die permanente Aufzeichnung und die Personalisierung wesentliche Aspekte der Dynamik ausmachen.
+Ein Beispiel dazu ist der Fitness-Tracker, welcher unter konstanter Bereitschaft ist, das heisst er ist immer eingeschaltet und verfügbar. So findet ein permanenter Informationsaustausch zwischen Mensch und Computer statt. Wenn der Nutzer ständig die direkte Konsequenz seiner Handlungen sehen kann, erhält er ein ständiges Feedback. Doch nicht nur zwischen Mensch und Computer findet ein permanenter Informationsaustausch statt – die Selbstvermessungsgeräte können auch selbstständig mit anderen Geräten über das Internet kommunizieren und Daten austauschen. Das zeigt sich am Beispiel der Personenwaage. Während früher eine Waage lediglich wiegen konnte, kann die Personenwaage heute das Gewiegte als Daten an ein anderes Gerät oder an eine Anwendung weiterleiten, welche dort vom Menschen eingesehen werden können. Ausserdem werden auf den Anwender zugeschnittene Vorschläge erstellt. Je nach Eingabe, Leistung, und Aktion ändern sich die Feedbacks aktiv auf den Nutzer bezogen. So passen sich der Fitnessplan oder die Ziele stetig an und bleiben so dynamisch.
 
 ## 2 Quantified Self
 ### 2.1 Definition
-Mit «The Quantified Self» ist eine Gruppe oder ein Individuum gemeint, die ihre Aktivitäten mit Geräten und Applikationen messen. Anhand der Analyseresultate generieren diese Menschen Wissen über ihr eigenes Verhalten und ihre Aktivitäten. Es handelt sich also um eine Tätigkeit, die zur besseren Selbstwahrnehmung beitragen soll.[^quote-four] Gary Wolf – einer der Gründer der Quantified-Self-Bewegung – argumentierte an der TED-Konferenz im Jahre 2010[^quote-five], dass wir durch die Vermessung unseres Körpers einen Spiegel vorgehalten bekommen und sich dadurch unser Bewusstsein über den eigenen Körper verändert. «Wir sollten Quantified Self systematisch zur Selbstverbesserung, Selbsterkenntnis und Selbstfindung nutzen. Nur so können wir im Leben effektiver agieren und mehr erreichen.», so Gary Wolf. Der Aspekt des Erkenntnisgewinns und der Verhaltensänderung ist bei Quantified Self von zentraler Bedeutung.
+Mit «The Quantified Self» ist eine Gruppe oder ein Individuum gemeint, die ihre Aktivitäten mit Geräten und Applikationen messen. Anhand der Analyseresultate generieren diese Menschen Wissen über ihr eigenes Verhalten und ihre Aktivitäten.[^quote-four] Es handelt sich also um eine Tätigkeit, die zur besseren Selbstwahrnehmung beitragen soll. Gary Wolf – einer der Gründer der Quantified-Self-Bewegung – argumentierte an der TED-Konferenz im Jahre 2010[^quote-five], dass wir durch die Vermessung unseres Körpers einen Spiegel vorgehalten bekommen und sich dadurch unser Bewusstsein über den eigenen Körper verändert. «Wir sollten Quantified Self systematisch zur Selbstverbesserung, Selbsterkenntnis und Selbstfindung nutzen. Nur so können wir im Leben effektiver agieren und mehr erreichen.», so Gary Wolf. Der Aspekt des Erkenntnisgewinns und der Verhaltensänderung ist bei Quantified Self von zentraler Bedeutung.
 
 Heute ist die Quantified-Self-Bewegung ein Netzwerk, das sich über 35 Länder ausgebreitet hat. Die Community umfasst Selbstvermesser, Entwickler und Anbieter von Self-Tracking-Lösungen mit deren sie umwelt- und personenbezogene Daten aufzeichnen, analysieren und auswerten. Der Blog quantified-self.com ist die Haupthomepage aus Amerika, wobei es in den anderen Ländern jeweils auch eigene Blogs gibt. Die Mitglieder tauschen sich dort über Selbstvermessung aus und treffen sich dabei auch regelmässig auf Veranstaltungen, um sich über persönliche Erlebnisse und Erfahrungen, sowie über die neuesten Produkte auszutauschen.[^quote-six]
 
 Ziel der Quantified-Self-Bewegung ist es mittels Datenaufzeichnung Wissen zu generieren und gleichzeitig verschiedene Lebensbereiche zu optimieren, wobei dies nicht nur den Bereich Sport betrifft, sondern auch die Gesundheit, das Verhalten oder die Umwelt. Ihr Motto lautet «self-knowledge through numbers», was so viel bedeutet wie: «Ich lerne mich besser kennen, indem ich mich selbst vermesse».[^quote-seven]
 
-[^quote-four]: Prof.&#x202F;Dr.&#x202F;Becker H., Meidert U., Scheermesser M., Quantified Self - Schnittstelle zwischen Lifestyle und Medizin (2018)
+[^quote-four]: Wikipedia, Quantified Self (2020)
 [^quote-five]: Wolf G., Unser vermessener Körper (2010)
-[^quote-six]: Wikipedia, Quantified Self
-[^quote-seven]: Wikipedia, Quantified Self
+[^quote-six]: Wikipedia, Quantified Self (2020)
+[^quote-seven]: Wikipedia, Quantified Self (2020)
 
 
 ### 2.2 Begriffsklärung
@@ -75,12 +78,12 @@ Mit Self-Tracking (dt. Selbstvermessung) ist die kontinuierliche und freiwillige
 Für den Selbstvermessungstrend werden überwiegend Wearables eingesetzt. Wearables gehören in die Sparte IoT (Internet of Things, dt. Internet der Dinge) womit sie selbstständig über das Internet mit anderen Geräten oder Anwendungen kommunizieren können. Das Angebot der Wearables zur Selbstvermessung ist heute grösser denn je, besonders wachsend im Sport- und Fitnessbereich. Dank der Miniaturisierung werden Sensoren immer kleiner und lassen sich so problemlos in Alltagsgegenstände wie Schuhe, Armbänder oder Kleider einpassen. Wearables sind also elektronische Kleingeräte, die der Nutzer am Körper trägt. Bekannte Beispiele für Wearables für die private Nutzung sind Google Glass, SmartWatches und Activity Tracker. Die Sensoren dienen zur Messung körperlicher Aktivitäten und Vorgänge und lassen sich mit einer Applikation verbinden, welche die aufgezeichneten Daten sammelt, speichert und auswertet. Die besonderen Eigenschaften von Wearables sind, dass Sie eher im Hintergrund laufen, also dass sie nicht permanent wahrgenommen werden, und dass sie überall zu jederzeit Einsatzbereit sind.
 
 #### 2.2.3 Fitness-Applikationen
-«Fitness-Apps sind Medientechnologien in denen sich Hardware (Messgeräte wie Fitness-Tracker) und Software (Mobile Apps, Interfaces) mit dem Ziel der Motivation und Vermessung körperlicher Leistungen verbinden.», so Stefanie Duttweiler.[^quote-nine] Apps können nebst der Vermessung und Übersetzung von Körperaktivitäten in digitale Daten und deren Speicherung und Auswertung verschiedene Funktionen ausführen, wie z.B. das Setzen von Fitness-Zielen, das Verfolgen der Kalorienzufuhr, das Sammeln von Trainingsideen und das Teilen von Fortschritten in sozialen Medien. Sie können als Plattform zur Förderung einer gesunden Verhaltensänderung mit personalisierten Trainingseinheiten, Fitnessberatung und Ernährungsplänen genutzt werden. «Von den anderen Medien unterscheiden sich die Fitness-Apps vor allem durch die Verobjektivierung der körperlichen Leistungen.», Stefanie Duttweiler.[^quote-ten] Typisch für solche Applikationen ist das Fitness-Portal, das sogenannte Dashboard indem die körperlichen Leistungen in Zahlen und Bildern übersichtlich dargestellt werden (Reichert 2010).[^quote-eleven] Auch typisch für Fitness-Apps ist der Einsatz von Gamification wie beispielsweise Pokale, Medaillen oder Fitness-Levels, welche die erbrachten Leistungen versinnbildlichen und den Nutzer dadurch auch motivieren (Stefanie Duttweiler, 2016).[^quote-twelve]
+«Fitness-Apps sind Medientechnologien in denen sich Hardware (Messgeräte wie Fitness-Tracker) und Software (Mobile Apps, Interfaces) mit dem Ziel der Motivation und Vermessung körperlicher Leistungen verbinden.», so Stefanie Duttweiler.[^quote-nine] Apps können nebst der Vermessung und Übersetzung von Körperaktivitäten in digitale Daten und deren Speicherung und Auswertung verschiedene Funktionen ausführen, wie z.&#x202F;B. das Setzen von Fitness-Zielen, das Verfolgen der Kalorienzufuhr, das Sammeln von Trainingsideen und das Teilen von Fortschritten in sozialen Medien. Sie können als Plattform zur Förderung einer gesunden Verhaltensänderung mit personalisierten Trainingseinheiten, Fitnessberatung und Ernährungsplänen genutzt werden. «Von den anderen Medien unterscheiden sich die Fitness-Apps vor allem durch die Verobjektivierung der körperlichen Leistungen.», erklärt Stefanie Duttweiler.[^quote-ten] Typisch für solche Applikationen ist das Fitness-Portal, das sogenannte Dashboard indem die körperlichen Leistungen in Zahlen und Bildern übersichtlich dargestellt werden.[^quote-eleven] Auch typisch für Fitness-Apps ist der Einsatz von Gamification wie beispielsweise Pokale, Medaillen oder Fitness-Levels, welche die erbrachten Leistungen versinnbildlichen und den Nutzer dadurch auch motivieren.[^quote-twelve]
 
-[^quote-nine]: Duttweiler S., Gugutzer R., Passoth J., Strübing J., Leben nach Zahlen – Self-Tracking als Optimierungsprojekt (2016)
-[^quote-ten]: Duttweiler S., Gugutzer R., Passoth J., Strübing J., Leben nach Zahlen – Self-Tracking als Optimierungsprojekt (2016)
-[^quote-eleven]: Reichert 2010; in: Duttweiler S., Gugutzer R., Passoth J., Strübing J., Leben nach Zahlen – Self-Tracking als Optimierungsprojekt (2016)
-[^quote-twelve]: Duttweiler S., Gugutzer R., Passoth J., Strübing J., Leben nach Zahlen – Self-Tracking als Optimierungsprojekt (2016)
+[^quote-nine]: Duttweiler, Gugutzer, Passoth, Strübing (2016), S.&#x202F;227
+[^quote-ten]: Duttweiler, Gugutzer, Passoth, Strübing (2016), S.&#x202F;229
+[^quote-eleven]: Reichert, 2010; in: Duttweiler, Gugutzer, Passoth, Strübing (2016), S.&#x202F;228
+[^quote-twelve]: Duttweiler, Gugutzer, Passoth, Strübing (2016), S.&#x202F;231
 
 #### 2.2.4 Big Data
 Unter Big Data werden grosse Mengen an Daten verstanden, die mit speziellen technologischen Lösungen (wie bspw. dem Fitness-Tracker) gespeichert, verarbeitet und ausgewertet werden. Dank technologischen Fortschritten und vor allem aus wirtschaftlichen Interessen wird Big Data schnell vorangetrieben und nimmt heute einen hohen Stellenwert ein.[^quote-thirteen]
@@ -104,21 +107,22 @@ Die Selbstvermessung und somit der Wunsch, den eigenen Körper mittels technisch
 
 Als eines der ersten Instrumente der Selbstvermessung kann man den Spiegel verstehen, der bereits in der Kupfersteinzeit – indem man zu dieser Zeit verfügbare Metalle zu diesem Zweck polierte – Einsatz fand.[^quote-seventeen] Durch den Blick in den Spiegel erhielt man einen Eindruck der äusseren Merkmale.<br/>
 Im Mittelalter fand das Tagebuchschreiben – so wie wir es heute kennen – erstmals Verwendung.[^quote-eightteen] Dabei wurden erlebte Ereignisse und Erfahrungen niedergeschrieben. Später in der Renaissance bekam das Tagebuch eine andere Rolle. Es wurde nicht nur für das Festhalten von besonderen Ereignissen genutzt, sondern es diente immer mehr auch als Protokollierung des eigenen Ichs, wie man sich ernährt oder richtig verhält.<br/>
-Am Beispiel der Waage  lässt sich nachvollziehen wie eine frühe Technologie zur Selbstvermessung Einzug in den privaten Sektor erhielt. Der Ursprung des Wiegens liegt mehrere Jahrhunderte zurück. Das Bedürfnis zum Wiegen entstand mit dem Beginn des Handels zur Wertmessung von Gütern. Seit dem 18. Jahrhundert entwickelten sich die Waagen schnell. Am Anfang des 19. Jahrhundert tauchte die Säulenwaage erstmals in der USA auf. Sie wurde zuerst weitgehend für das Wiegen von Gütern verwendet, später wurde sie auch als Personenwaage benutzt. Gegen Ende des 19. Jahrhundert erkannte man den medizinischen Nutzen vom Wiegen.[^quote-nineteen] Einzug in den Hausgebrauch fand die Personenwaage ungefähr im ersten Viertel des 20. Jahrhunderts (Debora Frommeld, 2019).<br/>
-Tendenzen zur Optimierung lassen sich früh erkennen. Anfang des 20. Jahrhunderts erschienen die ersten Ratgeber über das Thema Selbstvermessung. 1927 erschien das Buch vom Psychologe und Ökonom Gustav Großmann «Sich selbst rationalisieren. Lebenserfolg ist erlernbar». Dort findet man Tipps, wie man sich durch sorgfältige Tagebuch-Aufzeichnung selbst optimieren kann.<br/>
+Am Beispiel der Waage  lässt sich nachvollziehen wie eine frühe Technologie zur Selbstvermessung Einzug in den privaten Sektor erhielt. Der Ursprung des Wiegens liegt mehrere Jahrhunderte zurück. Das Bedürfnis zum Wiegen entstand mit dem Beginn des Handels zur Wertmessung von Gütern. Seit dem 18.&#x202F;Jahrhundert entwickelten sich die Waagen schnell. Am Anfang des 19.&#x202F;Jahrhundert tauchte die Säulenwaage erstmals in der USA auf. Sie wurde zuerst weitgehend für das Wiegen von Gütern verwendet, später wurde sie auch als Personenwaage benutzt. Gegen Ende des 19.&#x202F;Jahrhundert erkannte man den medizinischen Nutzen vom Wiegen.[^quote-nineteen] Einzug in den Hausgebrauch fand die Personenwaage ungefähr im ersten Viertel des 20.&#x202F;Jahrhunderts.[^quote-twenty]<br/>
+Tendenzen zur Optimierung lassen sich früh erkennen. Anfang des 20.&#x202F;Jahrhunderts erschienen die ersten Ratgeber über das Thema Selbstvermessung. 1927 erschien das Buch vom Psychologe und Ökonom Gustav Großmann «Sich selbst rationalisieren. Lebenserfolg ist erlernbar». Dort findet man Tipps, wie man sich durch sorgfältige Tagebuch-Aufzeichnung selbst optimieren kann.<br/>
 Die ersten tragbaren Tracking-Geräte setzten sich erstmals 1977 im Sportbereich durch. Die Firma Polar war der erste kommerzielle Anbieter, der das drahtlose Aufzeichnen von Puls am Handgelenk mit dem «Sport Tester PE 2000» ermöglichte.<br/>
-Die aufkommenden Technologien zur Selbstvermessung weckten Aufmerksamkeit bei den beiden Journalisten des Technologie-Magazins «Wired» Gary Wolf und Kevin Kelley. Sie teilen ein gemeinsames Interesse für komplexer werdende Technologien. Ihnen wird nachgesagt, dass sie den Begriff «Quantified Self» geprägt haben, als sie gemeinsam ein Projekt begannen, um all die neuen Tracking-Technologien zu verfolgen. Somit entstand 2007 die Quantified-Self-Bewegung, welche sich zum Ziel gemacht hat, den Nutzern und Herstellern von Tracking-Tools zu dienen.<br/>
-Der «Fitbit Tracker Classic» war schliesslich der Erfinder des heutigen modernen Self-Trackings im Jahre 2008. Das Modell war sehr klein, es konnte an die Hosentasche geklemmt werden, wobei es Schritte, zurückgelegte Distanz, verbrannte Kalorien und Schlaf misst.
+Die aufkommenden Technologien zur Selbstvermessung weckten Aufmerksamkeit bei den beiden Journalisten des Technologie-Magazins «Wired» Gary Wolf und Kevin Kelley. Sie teilen ein gemeinsames Interesse für komplexer werdende Technologien. Ihnen wird nachgesagt, dass sie den Begriff «Quantified Self» geprägt haben, als sie gemeinsam ein Projekt begannen, um all die neuen Tracking-Technologien zu verfolgen. Somit entstand 2007 die Quantified-Self-Bewegung, welche sich zum Ziel gemacht hat, den Nutzern und Herstellern von Tracking-Tools zu dienen.[^quote-twenty-one]<br/>
+Der «Fitbit Tracker Classic» war schliesslich der Erfinder des heutigen modernen Self-Trackings im Jahre 2008. Das Modell war sehr klein, es konnte an die Hosentasche geklemmt werden, wobei es Schritte, zurückgelegte Distanz, verbrannte Kalorien und Schlaf misst.[^quote-twenty-two]
 
-[^quote-seventeen]: Wikipedia, Spiegel
-[^quote-eightteen]: Wikipedia, Tagebuch
+[^quote-seventeen]: Wikipedia, Spiegel (2020)
+[^quote-eightteen]: Wikipedia, Tagebuch (2020)
 [^quote-nineteen]: o.&#x202F;V.: Eine kurze Geschichte des Wiegens (n.&#x202F;D.)
-[^quote-twenty:]: Kenton W., Quantified Self (2018)
-[^quote-twenty-one:]: Liewehr D., Die Selbstvermessung der Welt (n.&#x202F;D.)
+[^quote-twenty]: Frommeld (2019), S.&#x202F;21
+[^quote-twenty-one]: Kenton, Quantified Self (2018)
+[^quote-twenty-two]: Liewehr, Die Selbstvermessung der Welt (n.&#x202F;D.)
 
 Die rasant entwickelnde Technologie scheint nicht zu bremsen. Es ist zu erwarten dass in den kommenden Jahren die Sensoren und somit die Geräte im Bereich Selbstvermessung immer besser und genauer, sowie auch kleiner und mobiler werden. Das wird zur Folge haben, dass sich die Geräte in Zukunft immer mehr in unsere Alltagsgegenstände verschmelzen und uns so unbemerkt im Hintergrund unterstützen, sei es in der Kleidung oder sogar unter unserer Haut als Implantate.
 
-## 3 Interviews – Erfahrungen von Anwendern
+## 3 Interviews – Erfahrungen von AnwenderInnen
 ### 3.1 Interviews
 Es wurden drei Interviews geführt, um die Folgen der Nutzung von Fitness-Tracker zu erforschen. Spezielles Augenmerk wurde dabei auf die drei Aspekte eigenes Verhalten, sportliche Aktivität und Motivation gelegt. Für die Auswahl der InterviewpartnerInnen waren folgende Faktoren ausschlaggebend:
 * die Person nutzt regelmässig ein Wearable mit einer dazugehörigen App
@@ -153,31 +157,31 @@ Eine Befragte meinte, sie könne mittlerweile besser einschätzen wie sie sich s
 Zwei der Befragten sagten aus, dass das ein relevantes und heikles Thema sei, und dass sie sich durchaus auch schon Gedanken darüber machten. Sie schauen auch darauf, dass sie nicht ständig GPS-Daten tracken sondern nur bewusst während den Aktivitäten. Aber auch sie bewegt es aktuell nicht so stark, so dass sie aufhören würden sich zu verdaten. Eine Befragte scheint es überhaupt nicht zu kümmern und achtet gar nicht darauf.
 
 **Teilst du deine Daten, deine Leistungen mit anderen über eine Community? Ist das motivierend?**
-Für den Hobbysportler ist es spannend und gleichzeitig herausfordernd, wenn er seine geleisteten Daten mit anderen, z.B. seinen Freunden, vergleichen kann. Für zwei der Befragten scheint die Community nicht in Frage zu kommen, und somit das Teilen der eigenen Daten mit den anderen auch nicht. Die eine Person dieser beiden meinte, man müsse dafür viel verfressener am Sport sein wie sie, um die Daten mit anderen teilen zu wollen. Der professionelle Sportler braucht das schlichtweg nicht.
+Für den Hobbysportler ist es spannend und gleichzeitig herausfordernd, wenn er seine geleisteten Daten mit anderen, z.&#x202F;B. seinen Freunden, vergleichen kann. Für zwei der Befragten scheint die Community nicht in Frage zu kommen, und somit das Teilen der eigenen Daten mit den anderen auch nicht. Die eine Person dieser beiden meinte, man müsse dafür viel verfressener am Sport sein wie sie, um die Daten mit anderen teilen zu wollen. Der professionelle Sportler braucht das schlichtweg nicht.
 
 ### 3.2 Ergebnisse der Interviews
 Anhand der Antworten meiner GesprächspartnerInnen und in Hinblick auf die Fragestellung ergaben sich thematische Schwerpunkte, welche in der nachfolgenden Analyse in den Vordergrund treten.
 
 #### 3.2.1 Änderung von Verhalten und Empfinden
-Die Fitness-Tracker haben die Eigenschaft, bisher nicht sichtbares sichtbar zu machen.[^quote-twenty-two] Durch die erhobenen und ausgewerteten Daten lernen sich die AnwenderInnen besser kennen, indem das Gerät seine – zum Teil auch unbewusste – Verhaltensmuster erkennt und diese in Zahlen, Kurven und Diagramme transformiert. So wird dem Anwender durch die Bewusstmachung von Verhalten eine Verhaltensänderung begünstigt.[^quote-twenty-three] Diese Bewusstmachungen haben einen grossen Einfluss auf die interviewten Personen. Sie gaben an, diese Beeinflussung und dadurch die Veränderung an sich zu spüren, indem sie Dinge vermehrt – zum Teil auch unbewusst – aufgrund dessen machen. Eine Befragte gab das Bewusstmachen ihrer inaktiven Zeit als Grund an, warum sie den Fitness-Tracker kaufte:
+Die Fitness-Tracker haben die Eigenschaft, bisher nicht sichtbares sichtbar zu machen.[^quote-twenty-three] Durch die erhobenen und ausgewerteten Daten lernen sich die AnwenderInnen besser kennen, indem das Gerät seine – zum Teil auch unbewusste – Verhaltensmuster erkennt und diese in Zahlen, Kurven und Diagramme transformiert. So wird dem Anwender durch die Bewusstmachung von Verhalten eine Verhaltensänderung begünstigt.[^quote-twenty-four] Diese Bewusstmachungen haben einen grossen Einfluss auf die interviewten Personen. Sie gaben an, diese Beeinflussung und dadurch die Veränderung an sich zu spüren, indem sie Dinge vermehrt – zum Teil auch unbewusst – aufgrund dessen machen. Eine Befragte gab das Bewusstmachen ihrer inaktiven Zeit als Grund an, warum sie den Fitness-Tracker kaufte:
 
-[^quote-twenty-two]: Duttweiler S., Gugutzer R., Passoth J., Strübing J., Leben nach Zahlen – Self-Tracking als Optimierungsprojekt (2016)
-[^quote-twenty-three]: Wikipedia, Quantified Self
+[^quote-twenty-three]: Duttweiler, Gugutzer, Passoth, Strübing (2016), S.&#x202F;12
+[^quote-twenty-four]: Wikipedia, Quantified Self (2020)
 
 
 > «[...] damit ich mit der Uhr merke, wie viel ich mich eigentlich gar nicht bewege, habe ich das gekauft um mich zu motivieren mich mehr zu bewegen.»
 
-Das Messen der Schritte scheint bei allen interviewten ein Thema zu sein, sodass sie durch die Sportuhr automatisch mehr gehen als sie eigentlich müssten. Sie legen sich unbewusst Gewohnheiten an. «Diese werden verinnerlicht und als sozial geprägtes Handeln und Verhalten vom Anwender als natürlich wahrgenommen.», Becker.[^quote-twenty-four]
+Das Messen der Schritte scheint bei allen interviewten ein Thema zu sein, sodass sie durch die Sportuhr automatisch mehr gehen als sie eigentlich müssten. Sie legen sich unbewusst Gewohnheiten an. Diese werden verinnerlicht und als sozial geprägtes Handeln und Verhalten vom Anwender als natürlich wahrgenommen.[^quote-twenty-five]
 
-[^quote-twenty-four]: Becker ; in: Duttweiler S., Gugutzer R., Passoth J., Strübing J., Leben nach Zahlen – Self-Tracking als Optimierungsprojekt (2016)
+[^quote-twenty-five]: Becker, 2009; in: Becker, Meidert, Scheermesser (2018), S.&#x202F;73
 
 > «[...] im Sommer laufe ich mehr als ich das Auto nehmen würde.»
 
 > «Ich habe mir auch unbewusst Sachen angewöhnt, beispielsweise habe ich keinen langen Arbeitsweg, und laufe nun aber teilweise einen Umweg, um ein wenig weiter zu laufen.»
 
-Dieses Sichtbarmachen durch Zahlen begünstigt somit auch die Beobachtung, Analyse und nicht zuletzt die Überwachung und Kontrolle. Der Anwender beobachten sich selbst über eine längere Zeit und können durch die ausgewerteten Daten Zusammenhänge erkennen, Rückschlüsse ziehen und sich dementsprechend anders verhalten. «Dieses Mehr an Wissen und die gesteigerte Sichtbarkeit der Körperinformationen impliziert auch eine erhöhte Aufforderung, verantwortlich zu handeln.», erklärt Duttweiler.[^quote-twenty-five] Ein Interviewter schilderte seine Erfahrung so:
+Dieses Sichtbarmachen durch Zahlen begünstigt somit auch die Beobachtung, Analyse und nicht zuletzt die Überwachung und Kontrolle. Die Anwendenden beobachten sich selbst über eine längere Zeit und können durch die ausgewerteten Daten Zusammenhänge erkennen, Rückschlüsse ziehen und sich dementsprechend anders verhalten. «Dieses Mehr an Wissen und die gesteigerte Sichtbarkeit der Körperinformationen impliziert auch eine erhöhte Aufforderung, verantwortlich zu handeln.», erklärt Duttweiler.[^quote-twenty-six] Ein Interviewte Person schilderte seine Erfahrung so:
 
-[^quote-twenty-five]: Duttweiler S., Gugutzer R., Passoth J., Strübing J., Leben nach Zahlen – Self-Tracking als Optimierungsprojekt (2016)
+[^quote-twenty-six]: Duttweiler, Gugutzer, Passoth, Strübing (2016), S.&#x202F;13
 
 > «Es ist einfach spannend für mich zu sehen wie sich über längere Zeit durchschnittliche Auswertung ergeben und ich dadurch erkenne, dass ich vielleicht mal wieder früher ins Bett sollte – hier beeinflusst mich die Sportuhr sicher ein wenig.»
 
@@ -185,17 +189,17 @@ Die Schlafanalysen geben Einblick in die Schlafphasen der vergangenen Nacht. Bei
 
 > «Meistens. Ich bin oft am nächsten Tag kaputt, und dann schaue ich, an was es gelegen hat. Beispielsweise wenn der Tiefschlaf mehr als eine Stunde gewesen ist, bin ich am nächsten Tag recht fit. Wenn es aber unter einer Stunde ist, dann merke ich es.»
 
-Ich interpretiere diese Aussage so, dass ihre Selbsteinschätzung durch das positive oder negative Feedback über ihren Schlaf beeinflusst wird. Die Daten wirken zurück auf ihr Befinden. Dabei spielt es keine Rolle, wie viel oder wie gut sie tatsächlich geschlafen hat. Neitzert und Harvey (2005)[^quote-twenty-six] haben festgestellt, dass die Selbsteinschätzung durch den Vergleich mit objektivierten Daten verändert werden, da das Wahrnehmen und Erleben des Körpers davon geprägt ist, was an Wissen über ihn vorhanden ist. «Das subjektive Empfinden in Bezug auf die Schlafdauer [...] wird von der Information beeinflusst, die man einer Person gibt. Vergleicht eine Person ihre persönlichen Aufzeichnungen zum Schlaf mehrmals mit objektiven Messungen, verringern sich die Differenzen zwischen Selbsteinschätzung und den Messdaten.»[^quote-twenty-seven]
+Ich interpretiere diese Aussage so, dass ihre Selbsteinschätzung durch das positive oder negative Feedback über ihren Schlaf beeinflusst wird. Die Daten wirken zurück auf ihr Befinden. Dabei spielt es keine Rolle, wie viel oder wie gut sie tatsächlich geschlafen hat. Neitzert und Harvey (2005) haben festgestellt, dass die Selbsteinschätzung durch den Vergleich mit objektivierten Daten verändert werden, da das Wahrnehmen und Erleben des Körpers davon geprägt ist, was an Wissen über ihn vorhanden ist.[^quote-twenty-seven] «Das subjektive Empfinden in Bezug auf die Schlafdauer [...] wird von der Information beeinflusst, die man einer Person gibt. Vergleicht eine Person ihre persönlichen Aufzeichnungen zum Schlaf mehrmals mit objektiven Messungen, verringern sich die Differenzen zwischen Selbsteinschätzung und den Messdaten.»[^quote-twenty-eight]
 
-[^quote-twenty-six]: Neitzert und Harvey (2005); in: Duttweiler S., Gugutzer R., Passoth J., Strübing J., Leben nach Zahlen – Self-Tracking als Optimierungsprojekt (2016)
-[^quote-twenty-seven]: Tang & Harvey (2004); in: Duttweiler S., Gugutzer R., Passoth J., Strübing J., Leben nach Zahlen – Self-Tracking als Optimierungsprojekt (2016)
+[^quote-twenty-seven]: Neitzert und Harvey (2005); in: Becker, Meidert, Scheermesser (2018), S.&#x202F;72
+[^quote-twenty-eight]: Tang & Harvey (2004); in: Becker, Meidert, Scheermesser (2018), S.&#x202F;73
 
 #### 3.2.2 erweitertes Trainingserlebnis
 Die Sportuhren haben sich heute auf verschiedene sportliche Aktivitäten (beispielsweise für Golfen, Laufen, Schwimmen, etc.) spezialisiert und etabliert. Für Sportler und Freizeitsportler ist die Sportuhr dadurch eine wichtige Unterstützung, nicht nur für die Analysierung der getrackten und ausgewerteten Daten nach der Aktivität, sondern auch während der Ausführung der Aktivität. Diese technischen Hilfsmittel und somit das erweiterte Trainingserlebnis macht den Anwendern Spass. Ein Interviewte schilderte dies als die grösste Veränderung seit er die Sportuhr einsetzt und spricht sogar von Genuss:
 
 > «Eigentlich hat sich nicht so viel verändert. Ausser vielleicht dass ich mehr Spass während dem Sport habe, dank der Funktionen der Sportuhr. [...] Das ist eigentlich die grösste Veränderung in meinem Alltag, dass ich die Funktionalitäten meiner Sportuhr während den Sportaktivitäten geniessen kann.»
 
-Nebst der Auswirkung mehr Spass am Sport zu haben, ist es dem Anwender möglich seine Leistungen und Werte besser einzuschätzen. Durch die permanenten Feedbacks in Echtzeit erhält der Anwender wertvolle Informationen an die er sich orientieren, seine Aktivität während der Ausführung einschätzen und unmittelbar auch ändern oder anpassen kann. Mit diesem Hilfsmittel ist man in Echtzeit informiert und man kann sofort darauf reagieren.
+Nebst der Auswirkung mehr Spass am Sport zu haben, ist es den Anwendenden möglich seine Leistungen und Werte besser einzuschätzen. Durch die permanenten Feedbacks in Echtzeit erhält der Anwender wertvolle Informationen an die er sich orientieren, seine Aktivität während der Ausführung einschätzen und unmittelbar auch ändern oder anpassen kann. Mit diesem Hilfsmittel ist man in Echtzeit informiert und man kann sofort darauf reagieren.
 
 > «[...] hilft es beim Wettkampf sich Leistungsmässig besser einzuschätzen [...]. Die Uhr hilft vor allem durch GPS/Pulsmonitor um z.B. das Tempo einzuhalten oder innerhalb eines festgelegten Puls-Bereiches zu bleiben.»
 
@@ -208,7 +212,7 @@ Eine weitere Folge ist die Motivation und der Ansporn, der sich bei den Intervie
 
 > «[...] damit ich mit der Uhr merke, wie viel ich mich eigentlich gar nicht bewege, habe ich das gekauft um mich zu motivieren mich mehr zu bewegen.[...] die Uhr motiviert mich schon [...].»
 
-Wenn aber die gesteckten Ziele nicht erreicht werden können, wirkt das ernüchternd und eher demotivierend auf den Anwender. Solche Rückschläge wurden von zwei Interviewten mit folgenden Aussagen angedeutet:
+Wenn aber die gesteckten Ziele nicht erreicht werden können, wirkt das ernüchternd und eher demotivierend auf die AnwenderInnen. Solche Rückschläge wurden von zwei Interviewten mit folgenden Aussagen angedeutet:
 
 > «Garmin passt immer die Anzahl Schritte an, also wenn du sehr lange viel machst, dann passt es automatisch dein Tagesziel auf viel an, und wenn du dich eher wenig bewegst geht das Ziel wieder runter, damit du es auch eher erreichen kannst. Nach einer sehr sportlichen Woche aber ist es fast unmöglich im Arbeitsalltag wieder dieses Ziel zu erreichen, damit du wieder den Streak hast...»
 
@@ -218,24 +222,24 @@ Wenn aber die gesteckten Ziele nicht erreicht werden können, wirkt das ernücht
 
 Bei den Interviewten konnte eine positive Grundeinstellung gegenüber den Fitness-Trackern festgestellt werden, dadurch wurde die methodische Problematik wie erwartet bestätigt. Im Nachfolgenden werden positive und negative Aspekte beleuchtet, die Selbstvermessung mit Fitness-Trackern und Fitness-Apps mit sich bringen kann.
 
-Die Ergebnisse der Interviews haben gezeigt, dass das Auseinandersetzen mit dem eigenen Körper und die Verdatung von eigenem Verhalten und Aktivitäten durchaus eine positive und gesunde Entwicklung von verschiedenen Lebensbereichen begünstigen kann, wie beispielsweise mehr Bewegung oder sich gesünder ernähren. Der Nutzer macht es sich zur Gewohnheit mehr Schritte zu gehen als er eigentlich müsste, bewegt sich dadurch im Schnitt mehr, was sich positiv auf seine Gesundheit auswirken kann. Ein weiterer Pluspunkt der Selbstvermessung ist die Zielkontrolle, das Verfolgen der Leistung und die Motivation die dadurch entsteht. «Der Vergleich mit anderen Personen kann anspornend wirken und dadurch Anlass für Leistungssteigerung und Verhaltensänderung sein.», so Duttweiler.[^quote-twenty-eight]
-Doch wenn man zu krampfhaft versucht sich zu verbessern und sich ausserdem zu fest auf die Daten verlässt, zeigen sich schnell mal die Schattenseiten dieses Selbstvermessungstrends. Man läuft Gefahr sich von dem Tracker überwachen und kontrollieren zu lassen und man verliert dabei schnell mal das eigene Körpergefühl. Der Körper wird nur noch als Ergebnis einer persönlichen Leistung gesehen. Das heisst die eigene Leistung wird vom eigentlichen Körper abgelöst, und erhält dadurch eine eigene versachlichte Gestalt. Unsere Leistung ist dadurch zwar viel einfacher Vergleichbar mit anderen, da wir ihnen durch die numerischen Daten gleichgesetzt sind.[^quote-twenty-nine] Doch der Körper selbst wird immer mehr als Objekt wahrgenommen, das man kontrollieren und formen muss, wobei die Leiberfahrung in den Hintergrund rückt und gar verloren geht.[^quote-thirty] Statt der vermeintlichen Kontrolle erleben wir dann einen Kontrollverlust über unseren Körper.
+Die Ergebnisse der Interviews haben gezeigt, dass das Auseinandersetzen mit dem eigenen Körper und die Verdatung von eigenem Verhalten und Aktivitäten durchaus eine positive und gesunde Entwicklung von verschiedenen Lebensbereichen begünstigen kann, wie beispielsweise mehr Bewegung oder sich gesünder ernähren. Die NutzerInnen machen es sich zur Gewohnheit mehr Schritte zu gehen als sie eigentlich müssten, bewegen sich dadurch im Schnitt mehr, was sich positiv auf ihre Gesundheit auswirken kann. Ein weiterer Pluspunkt der Selbstvermessung ist die Zielkontrolle, das Verfolgen der Leistung und die Motivation die dadurch entsteht. Der Vergleich mit anderen Personen kann anspornend wirken und dadurch der Grund für Leistungssteigerung und Verhaltensänderung sein.[^quote-twenty-nine]
+Doch wenn man zu krampfhaft versucht sich zu verbessern und sich ausserdem zu fest auf die Daten verlässt, zeigen sich schnell mal die Schattenseiten dieses Selbstvermessungstrends. Man läuft Gefahr sich von dem Tracker überwachen und kontrollieren zu lassen und man verliert dabei schnell mal das eigene Körpergefühl. Der Körper wird nur noch als Ergebnis einer persönlichen Leistung gesehen. Das heisst die eigene Leistung wird vom eigentlichen Körper abgelöst, und erhält dadurch eine eigene versachlichte Gestalt. Unsere Leistung ist dadurch zwar viel einfacher Vergleichbar mit anderen, da wir ihnen durch die numerischen Daten gleichgesetzt sind.[^quote-thirty] Doch der Körper selbst wird immer mehr als Objekt wahrgenommen, das man kontrollieren und formen muss, wobei die Leiberfahrung in den Hintergrund rückt und gar verloren geht.[^quote-thirty-one] Statt der vermeintlichen Kontrolle erleben wir dann einen Kontrollverlust über unseren Körper.
 
-[^quote-twenty-eight]: Duttweiler S., Gugutzer R., Passoth J., Strübing J., Leben nach Zahlen – Self-Tracking als Optimierungsprojekt (2016)
-[^quote-twenty-nine]: Duttweiler S., Gugutzer R., Passoth J., Strübing J., Leben nach Zahlen – Self-Tracking als Optimierungsprojekt (2016)
-[^quote-thirty]: Prof.&#x202F;Dr.&#x202F;Becker H., Meidert U., Scheermesser M., Quantified Self - Schnittstelle zwischen Lifestyle und Medizin (2018)
+[^quote-twenty-nine]: Duttweiler, Gugutzer, Passoth, Strübing (2016), S.&#x202F;10
+[^quote-thirty]: Duttweiler, Gugutzer, Passoth, Strübing (2016), S.&#x202F;230
+[^quote-thirty-one]: Becker, Meidert, Scheermesser (2018), S.&#x202F;72
 
-Eine Befragte Expertin im Buch QS, 2018 schildert dies so: “Wenn das Tracken dazu führen würde, dass die Selbstwahrnehmung des Körpers verbessert wird, dann wäre das positiv. Es kann aber auch kontraproduktiv sein, dass man sich mehr auf das verlässt, was die Daten angeben, als den eigenen Körper zu spüren. Dann fängt man an nicht ganzheitlich, sondern den Körper parzelliert zu betrachten. Das ist eigentlich nicht das Ziel”., Abel.[^quote-thirty-one]
+Eine Befragte Expertin im Buch Quantified Self (2018) schildert dies so: «Wenn das Tracken dazu führen würde, dass die Selbstwahrnehmung des Körpers verbessert wird, dann wäre das positiv. Es kann aber auch kontraproduktiv sein, dass man sich mehr auf das verlässt, was die Daten angeben, als den eigenen Körper zu spüren. Dann fängt man an nicht ganzheitlich, sondern den Körper parzelliert zu betrachten. Das ist eigentlich nicht das Ziel.»[^quote-thirty-two]
 
-[^quote-thirty-one]: Prof.&#x202F;Dr.&#x202F;Becker H., Meidert U., Scheermesser M., Quantified Self - Schnittstelle zwischen Lifestyle und Medizin (2018)
+[^quote-thirty-two]: Abel; in: Becker, Meidert, Scheermesser (2018), S.&#x202F;76
 
 Das Ergebnis der drei Befragten sagt aber etwas anderes aus. Die Befragten sind sich durchaus bewusst wie ungenau die Messungen sein können und sind den erhobenen Daten gegenüber kritisch eingestellt. Alle erwähnten, dass sie sich nicht auf die Zahlen verlassen und nach wie vor auf das eigene Gefühl hören.
 
-Ein weiterer kritischer Punkt ist die durch die Gesellschaft geprägten Normen und Werte, welche Einfluss auf unsere Persönlichkeitsentwicklung haben können. Die Menschen versuchen seit jeher den gesellschaftlichen Idealen durch die Optimierung an sich selbst zu entsprechen.[^quote-thirty-two] «Es wird deutlich, dass Körperarbeit keine Individuelle, private und subjektive Angelegenheit mehr ist, sondern normativ und gesellschaftlich geprägt wird.», Villa.[^quote-thirty-three] Dies trägt auch Gefahren mit sich, wie Normierung, Gleichmachung oder sogar Ausgrenzung, welches der Quantified Self Community auch vorgeworfen wird. «Dieses Mehr an Wissen und die gesteigerte Sichtbarkeit der Körperinformationen impliziert auch eine erhöhte Aufforderung, verantwortlich zu handeln.», Duttweiler S.[^quote-thirty-four] Dieses «verantwortliche Handeln» übt Druck aus auf diejenigen, die nicht den Normen entsprechen und anders sind.
+Ein weiterer kritischer Punkt ist die durch die Gesellschaft geprägten Normen und Werte, welche Einfluss auf unsere Persönlichkeitsentwicklung haben können. Die Menschen versuchen seit jeher den gesellschaftlichen Idealen durch die Optimierung an sich selbst zu entsprechen.[^quote-thirty-three] «Es wird deutlich, dass Körperarbeit keine Individuelle, private und subjektive Angelegenheit mehr ist, sondern normativ und gesellschaftlich geprägt wird.»[^quote-thirty-four] Dies trägt auch Gefahren mit sich, wie Normierung, Gleichmachung oder sogar Ausgrenzung, welches der Quantified Self Community auch vorgeworfen wird. «Dieses Mehr an Wissen und die gesteigerte Sichtbarkeit der Körperinformationen impliziert auch eine erhöhte Aufforderung, verantwortlich zu handeln.»[^quote-thirty-five] Dieses «verantwortliche Handeln» übt Druck aus auf diejenigen, die nicht den Normen entsprechen und anders sind.
 
-[^quote-thirty-two]: vgl. Küenzlen 2016; Stark 2016:302; in: Prof.&#x202F;Dr.&#x202F;Becker H., Meidert U., Scheermesser M., Quantified Self - Schnittstelle zwischen Lifestyle und Medizin (2018)
-[^quote-thirty-three]: Villa, 2015; in: Prof.&#x202F;Dr.&#x202F;Becker H., Meidert U., Scheermesser M., Quantified Self - Schnittstelle zwischen Lifestyle und Medizin (2018)
-[^quote-thirty-four]: Duttweiler S., Gugutzer R., Passoth J., Strübing J., Leben nach Zahlen – Self-Tracking als Optimierungsprojekt (2016)
+[^quote-thirty-three]: vgl. Küenzlen 2016; Stark 2016:302; in: Becker, Meidert, Scheermesser (2018), S.&#x202F;71
+[^quote-thirty-four]: Villa, 2015; in: Becker, Meidert, Scheermesser (2018), S.&#x202F;70
+[^quote-thirty-five]: Duttweiler, Gugutzer, Passoth, Strübing (2016), S.&#x202F;13
 
 ## 5 Fazit
 Die vorliegende Arbeit beschäftigt sich mit moderner Selbstvermessung, durch die Nutzung von Fitness-Tracker oder Fitness-Apps. Insbesondere wurden die möglichen Folgen für Individuen untersucht.
@@ -267,24 +271,24 @@ Interviews
 ### Quellenverzeichnis
 
 * [Wikipedia, Quantified Self] (https://de.wikipedia.org/wiki/Quantified_Self)
-(zuletzt besucht am 6. Januar 2020)
+(zuletzt besucht am 6.&#x202F;Januar 2020)
 
 * [Wikipedia, Tagebuch] (https://de.wikipedia.org/wiki/Tagebuch)
-(zuletzt besucht am 2. Januar 2020)
+(zuletzt besucht am 2.&#x202F;Januar 2020)
 
 * [Wikipedia, Spiegel] (https://de.m.wikipedia.org/wiki/Spiegel)
-(zuletzt besucht am 2. Januar 2020)
+(zuletzt besucht am 2.&#x202F;Januar 2020)
 
-* [Almaki M., Gray K., Martin-Sanchez F., The use of self-quantification systems for personal health information: Big data management activities and prospects (2015)] (https://www.researchgate.net/publication/277409696_The_use_of_self-quantification_systems_for_personal_health_information_Big_data_management_activities_and_prospects) (zuletzt besucht am 28. Dezember 2019)
-* [Wolf G., Unser vermessener Körper [Video] (2010)] (https://www.ted.com/talks/gary_wolf_the_quantified_self?language=de#t-253181) (zuletzt besucht am 19. Dezember 2019)
-* [Liewehr D., Die Selbstvermessung der Welt (n.&#x202F;D.)] (https://wp.uni-passau.de/werte/die-selbstvermessung-der-welt/) (zuletzt besucht am 22. Dezember 2019)
-* [Kenton W., Quantified Self (2018)] (https://www.investopedia.com/terms/q/quantified-self.asp) (zuletzt besucht am 2. Januar 2020)
-* [o.&#x202F;V.: Eine kurze Geschichte des Wiegens (n.&#x202F;D.)] (https://de.secashop.com/stories/story/eine-kurze-geschichte-des-wiegens) (zuletzt besucht am 5. Januar 2020)
-* [Prof.&#x202F;Dr.&#x202F; Bendel O., Definition Big Data (n.&#x202F;D.)] (https://wirtschaftslexikon.gabler.de/definition/big-data-54101) (zuletzt besucht am 28. Dezember 2019)
-* [Grimm P., Internet der Dinge (2016)] (http://www.bpb.de/gesellschaft/medien-und-sport/medienpolitik/236524/internet-der-dinge?p=all) (zuletzt besucht am 28. Dezember 2019)
-* [Strauss K., Wearables und Fitness-Apps – Spione im Kleinformat (2019)] (https://www.datenschutzexperte.de/blog/datenschutz-im-alltag/wearables-und-fitness-apps-datenschutzrisiko/) (zuletzt besucht am 30. Dezember 2019)
-* [Walter J., Die digitale Entblössung – von den Risiken der Selbstvermessung des eigenen Körpers (2016)] (https://dievolkswirtschaft.ch/de/2016/03/walter-04-2016/) (zuletzt besucht am 8. Januar 2020)
-* [o.&#x202F;V.: Verkauf von Fitness-Tracker (2018)] (https://www.onlinepc.ch/hardware/smart-wearables/2018-172-millionen-wearables-verkauft-1696771.html) (zuletzt besucht am 5. Januar 2020)
+* [Almaki M., Gray K., Martin-Sanchez F., The use of self-quantification systems for personal health information: Big data management activities and prospects (2015)] (https://www.researchgate.net/publication/277409696_The_use_of_self-quantification_systems_for_personal_health_information_Big_data_management_activities_and_prospects) (zuletzt besucht am 28.&#x202F;Dezember 2019)
+* [Wolf G., Unser vermessener Körper [Video] (2010)] (https://www.ted.com/talks/gary_wolf_the_quantified_self?language=de#t-253181) (zuletzt besucht am 19.&#x202F;Dezember 2019)
+* [Liewehr D., Die Selbstvermessung der Welt (n.&#x202F;D.)] (https://wp.uni-passau.de/werte/die-selbstvermessung-der-welt/) (zuletzt besucht am 22.&#x202F;Dezember 2019)
+* [Kenton W., Quantified Self (2018)] (https://www.investopedia.com/terms/q/quantified-self.asp) (zuletzt besucht am 2.&#x202F;Januar 2020)
+* [o.&#x202F;V.: Eine kurze Geschichte des Wiegens (n.&#x202F;D.)] (https://de.secashop.com/stories/story/eine-kurze-geschichte-des-wiegens) (zuletzt besucht am 5.&#x202F;Januar 2020)
+* [Prof.&#x202F;Dr.&#x202F; Bendel O., Definition Big Data (n.&#x202F;D.)] (https://wirtschaftslexikon.gabler.de/definition/big-data-54101) (zuletzt besucht am 28.&#x202F;Dezember 2019)
+* [Grimm P., Internet der Dinge (2016)] (http://www.bpb.de/gesellschaft/medien-und-sport/medienpolitik/236524/internet-der-dinge?p=all) (zuletzt besucht am 28.&#x202F;Dezember 2019)
+* [Strauss K., Wearables und Fitness-Apps – Spione im Kleinformat (2019)] (https://www.datenschutzexperte.de/blog/datenschutz-im-alltag/wearables-und-fitness-apps-datenschutzrisiko/) (zuletzt besucht am 30.&#x202F;Dezember 2019)
+* [Walter J., Die digitale Entblössung – von den Risiken der Selbstvermessung des eigenen Körpers (2016)] (https://dievolkswirtschaft.ch/de/2016/03/walter-04-2016/) (zuletzt besucht am 8.&#x202F;Januar 2020)
+* [o.&#x202F;V.: Verkauf von Fitness-Tracker (2018)] (https://www.onlinepc.ch/hardware/smart-wearables/2018-172-millionen-wearables-verkauft-1696771.html) (zuletzt besucht am 5.&#x202F;Januar 2020)
 
 
 
@@ -320,7 +324,8 @@ Schule für Gestaltung Zürich <br/>
 
 #### Vorgelegt von
 Tieu Khe Mayer <br/>
-sonstiges <br/>
+Weststrasse 75 <br/>
+8003 Zürich <br/>
 [tieukhe.mayer@gmail.ch](mailto:name@xyz.ch)
 </Column>
 
