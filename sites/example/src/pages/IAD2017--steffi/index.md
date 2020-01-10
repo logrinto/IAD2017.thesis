@@ -75,7 +75,7 @@ Als Basis für diese Arbeit dient Literatur bezüglich kontaktlosem/mobilen/digi
 
 ### Funktionsweise des kontaktlosen Bezahlens
 
-Unter kontaktlosem Bezahlen versteht man einen Zahlvorgang, der ohne physischen Kontakt abgeschlossen wird. Dabei werden einerseits Debit- oder Kreditkarten verwendet, welche mittels NFC-Technologie ohne physischen Kontakt zu einem Terminal den offenen Betrag abbuchen, oder es werden Smartphone-Applikationen wie zum Beispiel TWINT, Apple Pay oder Samsung Pay eingesetzt, wobei die Bezahlung nebst NFC auch durch das Erfassen eines QR-Codes oder mittels BLE-Technologie erfolgen kann. Im Folgenden wird näher auf diese drei Technologien eingegangen.
+Unter kontaktlosem Bezahlen versteht man einen Zahlvorgang, der ohne physischen Kontakt abgeschlossen wird. Dabei werden einerseits Debit- oder Kreditkarten verwendet, welche mittels NFC-Technologie ohne physischen Kontakt zu einem Terminal den offenen Betrag abbuchen, oder es werden Smartphone-Applikationen wie zum Beispiel Twint, Apple Pay oder Samsung Pay eingesetzt, wobei die Bezahlung nebst NFC auch durch das Erfassen eines QR-Codes oder mittels BLE-Technologie erfolgen kann. Im Folgenden wird näher auf diese drei Technologien eingegangen.
 
 #### Near Field Communication
 
@@ -209,7 +209,7 @@ Pferdesport-Veranstaltungen werden zunehmend grösser und komplexer, das Feld de
 
 ### Historische Entwicklung der Bezahlstruktur
 
-Noch bis vor 20 Jahren wurde für die Teilnahme an einem Pferdesportanlass eine analoge Nennkarte mit den entsprechenden Informationen über Reiter, Reiterin und Pferd zur eindeutigen Identifikation ausgefüllt und den Veranstaltenden überreicht oder per Post zugestellt, während das zu bezahlende Nenngeld bar vor Ort beglichen werden konnte. Der entsprechende Betrag musste von der Reiterin, dem Reiter oder einer Mittelsperson vor Prüfungsbeginn im Sekretariat bezahlt werden. Nach Abschluss der einzelnen Prüfungen wurden die Preisgelder an der Rangverkündigung bar in einem vorab abgefüllten Umschlag ausgehändigt. Immer häufiger wurde jedoch eine Bezahlung der Nenngelder via Banküberweisung verlangt, was mit der Einführung des Online-Bankings im Zuge der Digitalisierung deutlich vereinfacht wurde. Das Bezahl-Prozedere blieb jedoch für die Veranstaltenden mit einen beträchtlichen Aufwand verbunden, da die Einzahlungen weiterhin manuell kontrolliert wurden und die Auszahlungen wie gehabt in bar erfolgten. Lediglich die Einzahlung der Nenngelder konnte durch Online-Banking getätigt werden.
+Noch bis vor 20&#x00A0;Jahren wurde für die Teilnahme an einem Pferdesportanlass eine analoge Nennkarte mit den entsprechenden Informationen über Reiter, Reiterin und Pferd zur eindeutigen Identifikation ausgefüllt und den Veranstaltenden überreicht oder per Post zugestellt, während das zu bezahlende Nenngeld bar vor Ort beglichen werden konnte. Der entsprechende Betrag musste von der Reiterin, dem Reiter oder einer Mittelsperson vor Prüfungsbeginn im Sekretariat bezahlt werden. Nach Abschluss der einzelnen Prüfungen wurden die Preisgelder an der Rangverkündigung bar in einem vorab abgefüllten Umschlag ausgehändigt. Immer häufiger wurde jedoch eine Bezahlung der Nenngelder via Banküberweisung verlangt, was mit der Einführung des Online-Bankings im Zuge der Digitalisierung deutlich vereinfacht wurde. Das Bezahl-Prozedere blieb jedoch für die Veranstaltenden mit einen beträchtlichen Aufwand verbunden, da die Einzahlungen weiterhin manuell kontrolliert wurden und die Auszahlungen wie gehabt in bar erfolgten. Lediglich die Einzahlung der Nenngelder konnte durch Online-Banking getätigt werden.
 
 Im Jahr 2017 schaltete der Schweizerische Verband für Pferdesport auf seiner Website eine Plattform auf, welche digitale Nennungen ermöglichte und die analoge Nennkarte nach und nach zum Verschwinden brachte. Um eine Nennung zu tätigen, mussten die Benutzenden nun auf der Plattform einen Account eröffnen und die Nenngelder direkt auf der Plattform mittels Kreditkarte oder einem Postfinance-Konto begleichen. Andere Bezahlungsarten waren nicht mehr möglich. Das neue System wurde schweizweit eingeführt. Bei der Auszahlung der Preisgelder änderte sich vorerst nichts. Diese wurden weiterhin bar in ein Couvert abgefüllt und an der Preisverteilung überreicht.[^quote-20] 
 
@@ -335,15 +335,12 @@ Abschliessend gaben die Befragten an, dass sie auch das Wearable Armband von Eve
 
 ## Fazit
 
-### Diskussion
-
-Die Antworten aud der Umfrage «Kontaktloses Bezahlen im Pferdesport&#x00A0;– Status Quo, Möglichkeiten und Perspektiven» decken sich mit jenen bisheriger Studien und zeigen eine zunehmende Akzeptanz moderner Bezahlstrukturen. Trotz vorhandener Skepsis bei der internationalen Einführung von EventClearing 2016, wird es drei Jahre später von nationalen und internationalen ReiterInnen sehr geschätzt. Sicherheitstechnisch gibt es bei Benutzenden gegenüber EventClearing sehr wenig Bedenken. 
-
 ### Beantwortung der Fragestellung
 
 Im Folgenden sollen die beiden einleitend gestellten Forschungsfragen basierend auf den Ergebnissen dieser Arbeit beantwortet werden.
 
 **Welche Faktoren bilden Hemmschwellen oder verhindern die Nutzung von kontaktlosen Bezahlmöglichkeiten?**
+
 Die Hemmschwelle bei der Nutzung von kontaktlosem Bezahlen wird einerseits durch individuelle Faktoren wie Alter, spezifische Lebensumstände, soziales Bezugsnetz und berufliche Einbettung bestimmt. Andererseits wird sowohl aus der Literatur als auch aus der Umfrage aber ersichtlich, dass die Argumente Sicherheit, Vertrauen und Convenience über alle sozialen Schichten hinweg bei der Entscheidung für oder gegen kontaktloses Bezahlen an erster Stelle stehen. Technologien ohne Interface sind bereits stark verbreitet und bekannt. Die Skepsis, diese zu nutzen, ist daher in den vergangenen Jahren beachtlich gesunken. 
 
  **Welchen Einfluss hat das Interface auf die Entscheidung für kontaktloses Bezahlen?**
@@ -356,9 +353,12 @@ Die Untersuchung zeigt, dass sich die Bezahlstruktur in der Gesellschaft generel
 
 Ein weiterer wichtiger Faktor ist die Reichweite des Systems. Die Smartphone-Applikation Twint und NFC-Karten werden schweizweit an sehr vielen Bezahlstellen akzeptiert. Nahezu jedes EC-Terminal verfügt über eine Kontaktlos-Schnittstelle (auch VPay genannt) und über ein kleines Interface, das den Benutzenden neben dem zu zahlenden Preis einen QR-Code anzeigt, der eine Zahlung über Twint ermöglicht. Der Erfolg von Twint liegt mitunter auch in der simplen Gestaltung der Benutzeroberfläche. Die Benutzenden benötigen wenig Onboarding, um die Applikation verstehen und anwenden zu können. In der durchgeführten Umfrage gaben die Reiterinnen und Reiter zwar mehrheitlich an, Bezahl-Applikationen auch zu verwenden, wenn sie schwierig zu bedienen sind, falls keine andere Bezahlmöglichkeit besteht. Jedoch wird die Geschwindigkeit einer erfolgreichen Verbreitung dadurch deutlich reduziert, da weniger Empfehlungen ausgesprochen werden. Damit sich EventClearing in der Szene etablieren kann, ist ein sauberes Interface daher ein zentraler Faktor für den Erfolg der Applikation. Das kontaktlose Bezahlen über die App oder das Wearable sollte reibungslos und schnell funktionieren sowie innerhalb einer Veranstaltung überall akzeptiert werden, damit sich EventClearing längerfristig durchsetzen und eine breite Anwendung finden kann.
 
-### Ausblick
+### Ausblick und Diskussion
 
 Technischen Entwicklungen sind in unserer Zeit kaum mehr Grenzen gesetzt, und die Geschwindigkeit der Entwicklung nimmt stetig zu. Die neuere Geschichte des Zahlungsverkehrs ist durch eine stetige Veränderung und Entwicklung geprägt. Man kann auch sagen, dass es eine Geschichte von Versuch und Irrtum ist. Möglichkeiten werden eruiert und ausprobiert. Verfahren, die nicht funktionieren, werden früher oder später von neuen Konzepten abgelöst. Erfolgreiche Methoden werden stets weiterentwickelt. Rückschläge sind ein Bestandteil der Entwicklung und verbessern die jeweiligen Prozesse. Mittels Testing und Usability Walkthroughs kann diesen entgegengewirkt werden und so bleibt zu hoffen, dass Fehlfunktionen oder Unverständlichkeiten in einem frühen Stadium erkannt und behoben werden können. So gesehen scheint es folgerichtig, dass die Zukunft bezüglich einer Weiterentwicklung offen ist und dynamisch verlaufen wird.
+
+Die Antworten aus der Umfrage *Kontaktloses Bezahlen im Pferdesport&#x00A0;– Status Quo, Möglichkeiten und Perspektiven* decken sich mit jenen bisheriger Studien und zeigen eine zunehmende Akzeptanz moderner Bezahlstrukturen. Trotz vorhandener Skepsis bei der internationalen Einführung von Event&#x200D;Clearing 2016, wird es drei Jahre später von nationalen und internationalen ReiterInnen sehr geschätzt. Sicherheitstechnisch gibt es bei Benutzenden gegenüber EventClearing sehr wenig Bedenken. 
+
 
 ## Einzelnachweise
 
@@ -388,9 +388,9 @@ reference-text-suffix: ' – '
 
 #### Mentoring durch
 
-Prof. Alex Hanimann <br/>
+Prof.&#x202F;Alex Hanimann <br/>
 Rehetobelstrasse 31 <br/>
-9000 St. Gallen <br/>
+9000 St.&#x202F;Gallen <br/>
 [alex.hanimann@bluewin.ch](mailto:alex.hanimann@bluewin.ch)
 
 </Column>
