@@ -9,7 +9,7 @@ path: "/posts/2020/wolfgang/"
 tags:
   - "TagOne"
   - "TagTwo"
-description: "Durch das Internet ergeben sich neue Möglichkeiten, für Unternehmen und KundInnen eng miteinander zu kooperieren. Eine Co-Creation bietet dabei verschiedenste Ansätze für eine gemeinsame Zusammenarbeit. Dadurch verändert sich aber die Rollenverteilung zwischen Firmen und Ihren KundInnen sowie der Umgang mit Produkten ganz allgemein."
+description: "Durch das Internet ergeben sich für Unternehmen und KundInnen neue Möglichkeiten, eng miteinander zu kooperieren. Eine Co-Creation bietet dabei verschiedenste Ansätze für eine gemeinsame Zusammenarbeit. Dadurch verändert sich aber die Rollenverteilung zwischen Firmen und Ihren KundInnen sowie der Umgang mit Produkten ganz allgemein."
 ---
 
 import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
@@ -42,7 +42,7 @@ Als daraufhin zwischenzeitlich «der Kunde ist König» zum alles bestimmenden L
 
 Heute wird ein grosser Teil der Produkte direkt über das Internet bezogen und dadurch bietet sich für Unternehmen und KundInnen die Möglichkeit, wieder direkt und unmittelbar miteinander zu interagieren, wodurch sich auch die Beziehung zwischen den beiden erneut verändert.
 
-Bezeichnend für diese Veränderung ist das Beispiel *Napster*, eine *Peer-to-Peer* Musiktauschbörse bei welcher über das Internet auf unzählige Musikstücke zugegriffen werden konnte und die nach rechtlichen Streitigkeiten 2001 geschlossen werden musste.[^quote-three] Die grosse Beliebtheit der Plattform machte deutlich, dass KundInnen zwar ein überaus grosses Interesse an den Produkten der Musikindustrie haben, auf die Musik aber lieber auf Grund ihrer eigenen Vorlieben und nicht anhand von vordefinierten, durch Plattenfirmen zusammengestellten Produkten wie Alben oder Sampler zugreifen möchten.[^quote-four]
+Bezeichnend für diese Veränderung ist das Beispiel *Napster*, eine *Peer-to-Peer* Musiktauschbörse bei welcher über das Internet auf unzählige Musikstücke zugegriffen werden konnte und die nach rechtlichen Streitigkeiten 2001 geschlossen werden musste.[^quote-three] Die grosse Beliebtheit der Plattform machte deutlich, dass KonsumentInnen zwar ein überaus grosses Interesse an den Produkten der Musikindustrie haben, auf die Musik aber lieber auf Grund ihrer eigenen Vorlieben und nicht anhand von vordefinierten, durch Plattenfirmen zusammengestellten Produkten wie Alben oder Sampler zugreifen möchten.[^quote-four]
 
 [^quote-three]: Wikipedia 2020, Napster
 
@@ -147,7 +147,7 @@ Durch den engen Einbezug der KundInnen wird die bisher übliche Unterteilung in 
 ### Offenheit als Strategie – Dialogbereitschaft und Transparenz
 Während Firmen früher von einer gewissen Informationsasymmetrie durchaus auch profitieren konnten[^quote-fourteen] und z. B. die Zusammensetzung eines Produkts ein gut gehütetes Firmengeheimnis war, herrscht heute eine neue Form der Transparenz, etwa in Bezug auf Preise sowie Kosten und KonsumentInnen können sich über Produkte oder aber auch deren Herstellungsprozesse genau informieren.
 
-[^quote-fourteen]: Prahalad / Ramaswamy 2004, S.&#x202F;30
+[^quote-fourteen]: Prahalad/Ramaswamy 2004, S.&#x202F;30
 
 Wenn Folglich Information über Produkte einfach abgerufen werden können,[^quote-fifteen] sind die Firmen gut beraten, über ein transparentes Verhalten, Vertrauen zwischen sich und ihren KundInnen aufzubauen.[^quote-sixteen] Dabei geht es um weit mehr als Pressemitteilungen und wirksame Publicity, sondern darum, die KundInnen in einen engen und kontinuierlichen Dialog sowie in öffentliche Debatten mit einzubinden[^quote-seventeen] und diese dabei als gleichwertige Gesprächspartner zu betrachten.
 
@@ -169,7 +169,7 @@ Prahalad und Ramaswamy (2004) gehen davon aus, dass der effektive Besitz eines P
 
 Dies wird am Beispiel einer Digitalkamera illustriert, bei der für Prahalad und Ramaswamy nicht primär deren Produktionsart oder Funktionalitäten relevant sind, sondern in  erster Linie das Erlebnis, welches durch die Kamera ermöglicht wird, z. B. in dem Bilder aus dem Urlaub mit anderen geteilt werden können.[^quote-eighteen] Dafür müssen die KundInnen ein Produkt nicht zwangsläufig besitzen, oftmals besteht der Wert eines Angebots für sie bereits in dessen Nutzung.
 
-[^quote-eighteen]: Prahalad / Ramaswamy 2004, S.&#x202F;47
+[^quote-eighteen]: Prahalad/Ramaswamy 2004, S.&#x202F;47
 
 Da sich Wettbewerbsvorteile also nicht primär über den Preis, die Qualität sowie die Vielfalt an Funktionen erreichen lassen, empfehlen Prahalad und Ramaswamy, dass sich Firmen weg von einer produktzentrierten Sichtweise, hin zu einem Co-Creation-Erlebnis aus der Sicht der KonsumentInnen bewegen. Dabei ist es für sie nicht entscheidend, ob und durch welches Gerät dieses Erlebnis ermöglicht wird,[^quote-nineteen] Produkte und Services sind für sie nur ein Teil eines gesamthaften Erlebnisses.[^quote-twenty]
 
@@ -201,15 +201,15 @@ Haben Firmen früher primär mit einer Diversifizierung des Angebots auf untersc
 
 Anstelle der bisherigen Massenproduktion können KundInnen also aus einer Anzahl vordefinierter Komponenten ihr eigenes Produkt zusammenstellen. Dies ist aber nicht eine Co-Creation im eigentlichen Sinne, vielmehr können die KundInnen ihr Produkt anhand von bestimmten Vorgaben selbst konfigurieren. So haben z. B. bei *Local Motors* KundInnen bei der sogenannten *Skin-Customization* die Möglichkeit, die Lackierung des Fahrzeugs selber zu definieren.[^quote-tfour]
 
-[^quote-tfour]: Buhse / Reppesgaard / Lessmann / Henkel / Lange 2011, S.&#x202F;47
+[^quote-tfour]: Buhse/Reppesgaard/Lessmann/Henkel/Lange 2011, S.&#x202F;47
 
 Die AnbieterInnen gehen so aber eigentlich nur im Ansatz auf die Wünsche und Präferenzen ihrer KundInnen ein.[^quote-tfourb] Primär wird die *Mass Customization* dazu genutzt, unter Berücksichtigung der eigenen Lieferkette produzieren zu können. Dabei handelt es sich also nur um eine Spielart der Co-Creation, die den KonsumentInnen zwar ein individualisiertes aber dadurch noch nicht personalisiertes Produkt verschafft.
 
-[^quote-tfourb]: Prahalad / Ramaswamy 2004, S.&#x202F;89
+[^quote-tfourb]: Prahalad/Ramaswamy 2004, S.&#x202F;89
 
 Anders als bei einer *Mass Customization*, bei der Produkte am Ende einer Produktionskette noch einen letzten Schliff durch den Kunden erhalten, definieren sich Produkte bei einer Co-Creation also über ein kontinuierliches Mitgestalten über das gesamte Angebot hinweg sowie über das damit verbundene, persönliche Gesamterlebnis. In dem Zusammenhang gewinnt auch das Firmennetzwerk zusätzlich an Bedeutung, da erst durch eine Vielzahl an unterschiedlichen Angeboten eine entsprechend flexibles und individuelles Umfeld für die KonsumentInnen gewährleistet werden kann.[^quote-tfive] Auf diese neuen Formen der Partnerschaften soll im nächsten Abschnitt eingegangen werden.
 
-[^quote-tfive]: Prahalad / Ramaswamy 2004, S.&#x202F;97
+[^quote-tfive]: Prahalad/Ramaswamy 2004, S.&#x202F;97
 
 ### Die Gewichtung von Partnerschaften
 Um auf möglichst viele Fähigkeiten zurückgreifen und den KonsumentInnen dadurch ein möglichst breites Angebot bieten zu können, ist es wichtig, dass sich Firmen mit anderen Anbietern zusammenschliessen und sich dabei als Knotenpunkte innerhalb eines Netzwerkes begreifen, die den KonsumentInnen ein vollumfängliches Erlebnis über verschiedenste Kanäle hinweg ermöglichen.[^quote-tsix]
@@ -250,7 +250,7 @@ Ein Beispiel für einen sinnstiftenden Austausch zwischen Laien und Fachleuten i
 
 In der *Build it*-Phase haben die KonsumentInnen die Möglichkeit, ihr Fahrzeug mit MechanikerInnen von *Local Motors* gemeinsam in einer *Microfactory* zusammenzubauen. Dabei werden die Basisarbeiten von den *Local Motors* MitarbeiterInnen übernommen und anschliessend wird das komplette Fahrzeug zusammen mit den KundInnen fertig montiert. Dadurch erhalten die KundInnen vertiefte Einblicke in den Fertigungsprozess und haben, dank dem direkten Zugang zu den MechanikerInnen die Möglichkeit, sich Fachwissen anzueignen.[^quote-fone]
 
-[^quote-fone]: Buhse / Reppesgaard / Lessmann / Henkel / Lange 2011, S.&#x202F;44
+[^quote-fone]: Buhse/Reppesgaard/Lessmann/Henkel/Lange 2011, S.&#x202F;44
 
 Während früher also die Werbung um ein fertiges Produkt herum eine künstliche Erlebniswelt geschaffen hat, wird heute mittels Co-Creation anhand eines realen Erlebnisses einen Wert für die KonsumentInnen generiert.
 
