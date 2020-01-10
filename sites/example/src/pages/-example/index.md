@@ -22,7 +22,10 @@ Grundsätzlich verhält sich das Template wie normaler Markdown-Text. Es gibt ab
 
 ## Inhaltsverzeichnis
 ```toc
-exclude: Inhaltsverzeichnis
+exclude:
+  - Inhaltsverzeichnis
+  - Mentoring durch
+  - Vorgelegt von
 from-heading: 2
 to-heading: 6
 ```
