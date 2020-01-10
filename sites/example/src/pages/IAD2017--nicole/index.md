@@ -293,7 +293,7 @@ Die Wahrung der Privatsphäre ist eine weitere Herausforderung beim Einsatz von 
 Bei der Datensammlung sind soziale Kompetenzen gefragt, um zu wissen, wie weit ein Unternehmen (beispielsweise Netflix oder Google mit Gmail) bei der Personalisierung gehen kann. Abschliessend finde ich, dass personalisierte Webseiten dennoch ein grosser Gewinn sowohl für Marketingexperten als auch für Webseiten-Benutzer sind. Letztlich können Marketingspezialisten Webseiten effizienter nutzen. Gleichzeitig müssen sich die NutzerInnen weniger mit für sie unnötigen Inhalten auseinandersetzen und erhalten nur die Informationen, die sie auch interessieren ([Kemmis 2015](https://www.smartbugmedia.com/blog/8-reasons-personalized-websites-are-the-way-of-the-future)[^source-kemmis]).
 
 ### 5.2 Ausblick
-Datenschutz ist im Web ein grosses Thema. Die Problematik des Eingriffs in die Privatsphäre durch das Sammeln und Nutzen der persönlichen Daten muss beachtet werden. Vor allem im Zusammenhang mit Hyperpersonalisierung muss man sich fragen, wo die Grenzen sind, damit sich der User nicht zu beobachtet fühlt, aber trotzdem direkt auf seine Bedürfnisse eingegangen werden kann. Wie weit kann man gehen, um die Arbeit eines Benutzers zu erleichtern, ohne dass er sich entblösst fühlt? Des Weiteren wäre es interessant zu untersuchen, wie stark sich die individuellen Interessen jedes Users unterscheiden bzw. ob sich Personalisierung auf individueller Ebene überhaupt lohnt oder ob es auch reicht, lediglich Cluster <b>(mit gleichen Interessen)</b> zu bilden.
+Datenschutz ist im Web ein grosses Thema. Die Problematik des Eingriffs in die Privatsphäre durch das Sammeln und Nutzen der persönlichen Daten muss beachtet werden. Vor allem im Zusammenhang mit Hyperpersonalisierung muss man sich fragen, wo die Grenzen sind, damit sich der User nicht zu beobachtet fühlt, aber trotzdem direkt auf seine Bedürfnisse eingegangen werden kann. Wie weit kann man gehen, um die Arbeit eines Benutzers zu erleichtern, ohne dass er sich entblösst fühlt? Des Weiteren wäre es interessant zu untersuchen, wie stark sich die individuellen Interessen jedes Users unterscheiden bzw. ob sich Personalisierung auf individueller Ebene überhaupt lohnt oder ob es auch reicht, lediglich Cluster mit gleichen Interessen zu bilden.
 
 
 
@@ -312,26 +312,26 @@ reference-link-suffix: ''
 reference-text-suffix: ' – '
 ```
 
-[^:lit:one]: L. A. MacAulay, et al. (2007). ‘Co-Evolving E-tail and On-Line Communities: Conceptual Framework’. International Journal of Electronic Commerce 11(4):53 – 77.
+[^:lit:one]: L. A. MacAulay, et al. (2007). ‘Co-Evolving E-tail and On-Line Communities: Conceptual Framework’. International Journal of Electronic Commerce 11(4):53&#x202F;–&#x202F;77.
 
-[^:lit:two]: G. S. Shergill & Z. Chen (2005). ‘Web-Based Shopping: Consumers’ Attitudes Towards Online Shopping In New Zealand’. Journal of Electronic Commerce Research 6(2):79 – 84.
+[^:lit:two]: G. S. Shergill & Z. Chen (2005). ‘Web-Based Shopping: Consumers’ Attitudes Towards Online Shopping In New Zealand’. Journal of Electronic Commerce Research 6(2):79&#x202F;–&#x202F;84.
 
 
-[^:lit:three]: K. Y. Tam & S. Y. Ho (2006). ‘Understanding the Impact of Web Personalization on User Information Processing and Decision Outcomes’. MIS Quarterly 30(4):865 – 890.
+[^:lit:three]: K. Y. Tam & S. Y. Ho (2006). ‘Understanding the Impact of Web Personalization on User Information Processing and Decision Outcomes’. MIS Quarterly 30(4):865&#x202F;–&#x202F;890.
 
-[^:lit:four]: S. Gauch, et al. (2007). ‘User Profiles for Personalized Information Access’. In P. Brusilovsky, A. Kobsa, & W. Nejdl (eds.), The Adaptive Web, vol. 4321 of Lecture Notes in Computer Science, chap. 2, pp. 54 – 89. Springer Berlin / Heidelberg.
+[^:lit:four]: S. Gauch, et al. (2007). ‘User Profiles for Personalized Information Access’. In P. Brusilovsky, A. Kobsa, & W. Nejdl (eds.), The Adaptive Web, vol. 4321 of Lecture Notes in Computer Science, chap. 2, pp. 54&#x202F;–&#x202F;89. Springer Berlin / Heidelberg.
 
-[^:lit:five]: T.-P. Liang, et al. (2006). ‘Personalized Content Recommendation and User Satisfaction: Theoretical Synthesis and Empirical Findings’. Journal of Management Information Systems 23(3):45 – 70.
+[^:lit:five]: T.-P. Liang, et al. (2006). ‘Personalized Content Recommendation and User Satisfaction: Theoretical Synthesis and Empirical Findings’. Journal of Management Information Systems 23(3):45&#x202F;–&#x202F;70.
 
-[^:lit:six]: A. Sieg, et al. (2007). ‘Web Search Personalization with Ontological User Profiles’. In Proceedings of the Sixteenth ACM Conference on Conference on Information and Knowledge Management, CIKM ’07, pp. 525 – 534, New York, NY, USA. ACM.
+[^:lit:six]: A. Sieg, et al. (2007). ‘Web Search Personalization with Ontological User Profiles’. In Proceedings of the Sixteenth ACM Conference on Conference on Information and Knowledge Management, CIKM ’07, pp.&#x202F;525&#x202F;–&#x202F;534, New York, NY, USA. ACM.
 
-[^:lit:seven]: K. Kwon & C. Kim (2012). ‘How to Design Personalization in a Context of Customer Retention: Who Personalizes What and to What Extent?’. Electronic Commerce Research and Applications 11(2):101 – 116.
+[^:lit:seven]: K. Kwon & C. Kim (2012). ‘How to Design Personalization in a Context of Customer Retention: Who Personalizes What and to What Extent?’. Electronic Commerce Research and Applications 11(2):101&#x202F;–&#x202F;116.
 
-[^:lit:eight]: R. T. Rust & C. Miu (2006). ‘What Academic Research Tells Us About Service’. Communications of the ACM 49(7):49 – 54.
+[^:lit:eight]: R. T. Rust & C. Miu (2006). ‘What Academic Research Tells Us About Service’. Communications of the ACM 49(7):49&#x202F;–&#x202F;54.
 
-[^:lit:nine]: Richi Nayak, Nikhil Ichalkaranje, Lakhmi C. Jain (Eds.) (2008). Evolution of the Web in Artificial lntelligence Environments. Studies in Computational lntelligence. Volume 130. Seiten 17–40,
+[^:lit:nine]: Richi Nayak, Nikhil Ichalkaranje, Lakhmi C. Jain (Eds.) (2008). Evolution of the Web in Artificial lntelligence Environments. Studies in Computational lntelligence. Volume 130. Seiten 17&#x202F;–&#x202F;40,
 
-[^:lit:ten]: Waldemar Karwowski, Tareq Ahram Editors, Intelligent Human Systems Integration, Proceedings of the 1st International Conference on Intelligent Human Systems Integration (IHSI 2018): Integrating People and Intelligent Systems, January 7–9, 2018, Dubai, United Arab Emirates, Seiten 62–68.
+[^:lit:ten]: Waldemar Karwowski, Tareq Ahram Editors, Intelligent Human Systems Integrat&#x202F;ion, Proceedings of the 1st International Conference on Intelligent Human Systems Integration (IHSI 2018): Integrating People and Intelligent Systems, January 7&#x202F;–&#x202F;9, 2018, Dubai, United Arab Emirates, Seiten 62&#x202F;–&#x202F;68.
 
 [^source-leder]: [Sebastian Leder (2017)](https://www.cio.de/a/was-man-von-spotify-und-netflix-lernen-kann,3557262) (Abrufdatum: 03.01.2020)
 
@@ -341,7 +341,7 @@ reference-text-suffix: ' – '
 
 ```
 
-[^source-statista]: [Statista, 2016); Statistik](https://de.statista.com/statistik/daten/studie/290274/umfrage/anzahl-der-webseiten-weltweit/) (Abrufdatum: 29.12.2019)
+[^source-statista]: [Statista (2016); Statistik](https://de.statista.com/statistik/daten/studie/290274/umfrage/anzahl-der-webseiten-weltweit/) (Abrufdatum: 29.12.2019)
 
 [^source-edureka]: [Edureka (2018); YouTube-Video](https://www.youtube.com/watch?v=WSbgixdC9g8) (Abrufdatum: 06.12.2019)
 
