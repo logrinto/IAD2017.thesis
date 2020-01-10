@@ -1,5 +1,5 @@
 ---
-title: Inwiefern hat sich die Customer Journey durch den neuen Touch-Point «Sprachassistent» verändert
+title: Inwiefern sich die Customer Journey durch den neuen Touch-Point «Sprachassistent» verändert hat
 author: "Nils Mäder"
 date: "2020-01-10"
 layout: post
@@ -31,7 +31,7 @@ from-heading: 2
 to-heading: 2
 ```
 
-## 1.0 Einleitung – Sprachassistenten auf dem Vormarsch
+## 1.0 Einleitung&nbsp;– Sprachassistenten auf dem Vormarsch
 Die Verbreitung von Sprachassistenten hat in den letzten Jahren rasant zugenommen. Die smarten Helfer erfreuen sich nicht nur in den USA grosser Beliebtheit. Zurzeit besitzen ca. 30&#x202F;% aller amerikanischen Haushalte Sprachassistenten, diese Zahl wird zukünftig weiter steigen. Laut dem Voicebot Consumer Adaption Report von 2019 wurden in den USA insgesamt 66.4&#x202F;Mio. neue Sprachassistenten installiert, dies entspricht ca. achtmal der Bevölkerung der Schweiz _(Voicebot.ai, 2019, 10).[^:lit:one]_ 
 
 Daher ist es nicht überraschend, dass Unternehmen sich verstärkt mit Sprachassistenten beschäftigen. Da diese einen neuen Kanal zur Kundenkommunikation darstellen. Diese Arbeit verschafft eine Übersicht über den aktuellen technischen Stand von Sprachassistenten sowie Voice-Apps und deren Einsatz in der Customer Journey. Zusätzlich wird aufgezeigt, inwiefern sich die Customer Journey durch den neuen Touch-Point Sprachassistenten hinsichtlich der zunehmenden Dynamik im E-Commerce verändert hat. Erläutert wird das Potenzial von Sprachassistenten und deren Auswirkungen auf die Customer Journey anhand eines praktischen Fallbeispiels.
@@ -58,7 +58,7 @@ Doch nicht nur die vereinfachte Bedienung der Geräte mittels Sprache ist ein Gr
 *Vergleich von Worte per Minute mittels Tastatur und «Speech to text»._[^:abb:three]_*
 
 
-## 3.0 Sprachassistenten – Hintergrund und Funktionsweise
+## 3.0 Sprachassistenten&nbsp;– Hintergrund und Funktionsweise
 Durch die steigende Beliebtheit von Sprachassistenten in den USA und Europa, ist es keine Überraschung, dass Unternehmen sich mit dieser vielversprechenden Technologie beschäftigen. In folgendem Kapitel soll darauf eingegangen werden, wie Sprachassistenten funktionieren und wie Unternehmen von Sprachassistenten profitieren.
 
 ### 3.1 Was sind Sprachassistenten
@@ -79,19 +79,19 @@ Verwendet werden Sprachassistenten häufig als App auf dem Smartphone (Siri, Goo
 
 Um die Funktionsweise des Sprachassistenten einfach zu erklären, wird das Konzept der Hardware mit dem menschlichen Körper verglichen. Die Software fungiert hierbei als «Gehirn». Folglich können die Bestandteile, welche mit ihrer Umgebung interagieren, als weitere Körperteile verstanden werden, nämlich «Ohren» und «Mund».
 
-#### 3.2.1 Das Mikrofon – die «Ohren» des Sprachassistenten
+#### 3.2.1 Das Mikrofon&nbsp;– die «Ohren» des Sprachassistenten
 Damit Sprachassistenten Befehle entgegennehmen können, benötigen sie Mikrofone. Die Geräte müssen jederzeit einsatzbereit sein und nehmen daher ihre Umgebung ständig auf, um Informationen zu verarbeiten. Wird ein festgelegtes Aktivierungswort bemerkt (z.B.: «Ok, Google»), wird die Hardware «Körper», mit der Software «Gehirn», im Rechenzentrum verbunden. Das permanente Zuhören mag zuerst ethisch fragwürdig erscheinen, allerdings deuten Anbieter und Anbieterinnen von Sprachassistenten darauf hin, keine Aufnahmen zu machen, solange kein Aktivierungswort registriert wurde [(Siehe auch: 6.2 Nachteile der Sprachassistenten in der Customer Journey aus Sicht der Kundinnen und Kunden)](#64-vorteile-der-sprachassistenten-in-der-customer-journey-aus-sicht-der-der-kundinnen-und-kunden) _(Hörner, 2019, 10).[^:lit:three]_
 
-#### 3.2.2 Die Software – das «Gehirn» des Sprachassistenten
+#### 3.2.2 Die Software&nbsp;– das «Gehirn» des Sprachassistenten
 Die Software verarbeitet jetzt die eingehenden Sprachbefehle. Zuerst muss die Sprache von Hintergrundgeräuschen separiert werden, danach ist das Verstehen des Gesprochenen notwendig, wobei Sinn mit Wissen verknüpft wird. Dazu müssen der Wunsch und die dazugehörige Einschränkung erkannt werden. Bei einer Anfrage wie: «Ok, Google, sag Spotify, es soll die Playlist Training abspielen», wäre der Wunsch das Abspielen der Playlist und die Einschränkung die Namen der Playlists sowie die Software, welche die Musik abspielt. Nach der Verarbeitung erfolgt eine direkte Antwort an die BenutzerInnen, dabei kommen die Lautsprecher («Mund») zum Einsatz _(Hörner, 2019, 10–17).[^:lit:three]_
 
-#### 3.2.3 Lautsprecher – der «Mund» des Sprachassistenten
+#### 3.2.3 Lautsprecher&nbsp;– der «Mund» des Sprachassistenten
 Die Antwort an die BenutzerInnen des Sprachassistenten erfolgt in der Regel über die Lautsprecher («Mund») und kann die Form eines Sprachfeedbacks, einer Rückfrage oder das Ausführen eines Dienstes annehmen (z.B. Abspielen der Musik) _(Hörner, 2019, 10).[^:lit:three]_
 
 ![Skizze der Funktionsweise von Sprachassistenten](./img/skizze.jpg)
 *Skizze der Funktionsweise von Sprachassistenten._[^:abb:four]_*
 
-### 3.3 Wie Unternehmen Sprachassistenten nutzen – das Beispiel Alexa Skills und Voice Apps
+### 3.3 Wie Unternehmen Sprachassistenten nutzen&nbsp;– das Beispiel Alexa Skills und Voice Apps
 Um die Fragestellung, inwiefern sich die Customer Journey durch den neuen Touch-Point «Sprachassistent» verändert hat, beantworten zu können. Wird in folgendem Abschnitt aufgezeigt, wie Unternehmen Sprachassistenten nutzen können. Jedes Gehirn (in diesem Fall die Software des Sprachassistenten) ist nur so gut, wie die Informationen, mit denen es gefüttert wird. Hier kommt eine Besonderheit der Sprachassistenten zu Tage: die Erweiterung des Gehirns und dessen Fähigkeiten durch sog. Voice Apps. Vergleichbar ist dieses System mit dem Smartphone. Nützlich für den Alltag wird das Gerät erst durch Apps von Drittanbietern _(Hörner, 2019, 15).[^:lit:three]_
 
 Voice Apps stellen neben der Verbindung zum Sprachassistenten (z.B. Google Assistent oder Amazon Echo) zusätzlich eine Methode zur Ermittlung von Antworten aus der eigenen Datenbank (Datenbank von Drittanbieterinnen und Drittanbietern) zur Verfügung _(Hörner, 2019, 16–17).[^:lit:three]_
@@ -140,7 +140,7 @@ In diesem Szenario befinden sich die Kundinnen und Kunden zu Hause und werden si
 Durch die Steigerung der Effizienz mittels Sprachassistenten und das Integrieren der Voice-App in den Alltag der NutzerInnen, überspringen diese die zweite und die dritte Phasen in der Customer Journey nach Kotler. Vielmehr gehen diese direkt in die vierte Stufe über, nämlich die der Kaufentscheidung. Hierbei geht es wie auch in der herkömmlichen Customer Journey darum, wie einfach oder komfortabel ein Produkt gekauft werden kann _(Hörner, 2019, 79–80).[^:lit:three]_
 
 #### 5.3.1 Aktivierung der Voice-App
-Die Kundinnen und Kunden stellen nun folgende Anfrage an den Sprachassistenten und die Voice-App: «Alexa, sag Starbucks, ich möchte meinen Lieblingskaffee zum Abholen in meiner Filiale bestellen». Durch das Aktivierungswort «Alexa» hört der Sprachassistent der Umgebung nun aktiv zu. Anhand der Anweisung «sag Starbucks», weiss der Sprachassistent, dass er sein «Gehirn» (Software) (s. 2.0 Sprachassistenten – Hintergründe und Funktionsweise) um die Informationen aus der Starbucks Datenbank erweitern muss. Nun verbindet er sich mit der vorinstallierten Starbucks Voice-App. Erst jetzt kann der Sprachassistent die Anfrage bearbeiten _(Hörner, 2019, 16–17).[^:lit:three]_ Dies ist notwendig, da die Anfrage der Kundinnen und Kunden mehrere der Software unbekannte Parameter enthält. Somit sind deren Lieblingskaffee sowie die betroffene Filiale Informationen, welche in der Voice-App von Starbucks vorhanden sind _(Hörner, 2019, 7–8).[^:lit:three]_
+Die Kundinnen und Kunden stellen nun folgende Anfrage an den Sprachassistenten und die Voice-App: «Alexa, sag Starbucks, ich möchte meinen Lieblingskaffee zum Abholen in meiner Filiale bestellen». Durch das Aktivierungswort «Alexa» hört der Sprachassistent der Umgebung nun aktiv zu. Anhand der Anweisung «sag Starbucks», weiss der Sprachassistent, dass er sein «Gehirn» (Software) (s. 2.0 Sprachassistenten&nbsp;– Hintergründe und Funktionsweise) um die Informationen aus der Starbucks Datenbank erweitern muss. Nun verbindet er sich mit der vorinstallierten Starbucks Voice-App. Erst jetzt kann der Sprachassistent die Anfrage bearbeiten _(Hörner, 2019, 16–17).[^:lit:three]_ Dies ist notwendig, da die Anfrage der Kundinnen und Kunden mehrere der Software unbekannte Parameter enthält. Somit sind deren Lieblingskaffee sowie die betroffene Filiale Informationen, welche in der Voice-App von Starbucks vorhanden sind _(Hörner, 2019, 7–8).[^:lit:three]_
 
 #### 5.3.2 Verarbeitung der Bestellung durch den Sprachassistenten
 Hat der Sprachassistent die Anfrage entgegengenommen, muss diese nun verarbeitet sowie ein Feedback an die Kundinnen und Kunden zurückgegeben werden. Auf die oben beschriebene Anfrage wird ihnen folgendes Feedback wiedergegeben: «Ein Kaffee (Produktname) wurde dem Warenkorb hinzugefügt und ist um XX:XX&#x202F;Uhr (Zeit) in folgender Filiale (Ort) zum Abholen bereit. Möchtest du den Kaffee für ein Total von XX.XX&#x202F;CHF (Betrag) bestellen?» Somit werden der Kundin und dem Kunden nochmals alle Details ihrer Bestellung in einem kurzen Satz vermittelt, da bei einer Bestellung über einen Sprachassistenten nicht zwingend ein Interface mit visuellem Feedback vorausgesetzt werden kann _(Hörner, 2019, 79–80).[^:lit:three]_
@@ -168,7 +168,7 @@ Auch bringt die Interaktion zwischen dem Individuum und dem Gerät mittels Sprac
 Eine weitere Hürde ist die Privatsphäre. Laut einer Umfrage von JWT _(JWT, 2017, 14–15)[^:lit:four]_, fühlen sich 22&#x202F;% der befragten Personen unwohl dabei, einen Sprachassistenten in der Öffentlichkeit zu benutzen. Das Lauschen umstehender Personen, stellt für viele einen Eingriff in die Privatsphäre dar. Für 44&#x202F;% der befragten Personen geht der Eingriff in die Privatsphäre noch weiter. Sie fühlen sich nicht nur durch umstehende Personen belauscht, sie haben auch Bedenken, dass Sprachassistenten permanent zuhören und Gespräche aufzeichnen _(Voicebot.ai, 2019, 30).[^:lit:one]_ 
 
 ### 6.3 Vorteile der Sprachassistenten in der Customer Journey aus Sicht der Anbieterinnen und Anbieter
-Trotz der bisher aufgegriffener Bedenken gewinnen Sprachassistenten zunehmend an Beliebtheit – das nicht ohne Grund. Sprachassistenten bieten den Anbieterinnen und Anbietern einen Mehrwert, somit ergeben sich durch die neu geschaffenen Kontaktpunkte mittels Sprachassistenten und Voice-Apps neue Möglichkeiten mit Kundinnen und Kunden in Kontakt zu treten. Durch personalisierte Dialoge können Bedürfnisse bei ihnen einfacher geweckt werden. Zusätzlich kann sich eine Anbieterin oder ein Anbieter einer Voice-App in deren Alltag integrieren. Bedingung hierfür ist ein offensichtlicher Mehrwert für die NutzerInnen. Dadurch werden Massnahmen zur Bindung von Kundinnen und Kunden subtiler und im Vergleich zu herkömmlichen Massnahmen effektiver _(Held, 2018).[^:qu:one]_
+Trotz der bisher aufgegriffener Bedenken gewinnen Sprachassistenten zunehmend an Beliebtheit&nbsp;– das nicht ohne Grund. Sprachassistenten bieten den Anbieterinnen und Anbietern einen Mehrwert, somit ergeben sich durch die neu geschaffenen Kontaktpunkte mittels Sprachassistenten und Voice-Apps neue Möglichkeiten mit Kundinnen und Kunden in Kontakt zu treten. Durch personalisierte Dialoge können Bedürfnisse bei ihnen einfacher geweckt werden. Zusätzlich kann sich eine Anbieterin oder ein Anbieter einer Voice-App in deren Alltag integrieren. Bedingung hierfür ist ein offensichtlicher Mehrwert für die NutzerInnen. Dadurch werden Massnahmen zur Bindung von Kundinnen und Kunden subtiler und im Vergleich zu herkömmlichen Massnahmen effektiver _(Held, 2018).[^:qu:one]_
 
 ### 6.4 Vorteile der Sprachassistenten in der Customer Journey aus Sicht der der Kundinnen und Kunden
 Nicht nur für Anbieterinnen und Anbieter, sondern auch für Kundinnen und Kunden ergeben sich durch die neu geschaffenen Kontaktpunkte in der Customer Journey mehrere Vorteile. Durch Sprachassistenten wird die Bedienung einfacher und effizienter. Dies bestätigen laut einer einer Umfrage von JWT _(JWT, 2017, 14–15)[^:lit:four]_ auch 76&#x202F;% der befragten NutzerInnen. Durch die Sprache wird die Bedienung und der Prozess des Einkaufens natürlicher, einfacher und schneller [(Siehe auch: 2.0 Sprache als Interaktion mit dem Computer)](#20-sprache-als-interaktion-mit-dem-computer) _(JWT, 2017, 14–15)[^:lit:four]_, was wiederum die Effizienz dieser Vorgänge steigert. 
@@ -221,7 +221,7 @@ Vorname Nachname, Buchtitel, Auflage, Verlag, Erscheinungsort Jahr, erste Seite�
 # gets repalced with footnotes
 group-include: lit
 
-inline-link-prefix: 'Lit. '
+inline-link-prefix: 'Lit.&#x202F;'
 
 reference-link-prefix: '↑ Lit. '
 reference-link-suffix: ''
@@ -245,7 +245,7 @@ reference-text-suffix: ' – '
 # gets repalced with footnotes
 group-include: qu
 
-inline-link-prefix: 'Qu. '
+inline-link-prefix: 'Qu.&nbsp;'
 
 reference-link-prefix: '↑ Qu. '
 reference-link-suffix: ''
@@ -270,7 +270,7 @@ reference-text-suffix: ' – '
 # gets repalced with footnotes
 group-include: abb
 
-inline-link-prefix: 'Abb. '
+inline-link-prefix: 'Abb.&#x202F;'
 
 reference-link-prefix: '↑ Abb. '
 reference-link-suffix: ''
