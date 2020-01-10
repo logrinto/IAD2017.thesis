@@ -389,7 +389,6 @@ reference-text-suffix: ' – '
 #### Mentoriert durch
 
 Prof.&#x202F;Alex Hanimann <br/>
-Rehetobelstrasse 31 <br/>
 9000 St.&#x202F;Gallen <br/>
 [alex.hanimann@bluewin.ch](mailto:alex.hanimann@bluewin.ch)
 
@@ -400,7 +399,6 @@ Rehetobelstrasse 31 <br/>
 #### Vorgelegt von
 
 Stephanie Fuchs <br/>
-Zelgatt 19 <br/>
 8627 Grüningen <br/>
 [stfffchs@gmail.com](mailto:stfffchs@gmail.com)
 </Column>
