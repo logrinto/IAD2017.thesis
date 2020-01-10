@@ -228,6 +228,7 @@ Matthias Koch <br/>
 HFIAD 2017 <br/>
 Schule für Gestaltung Zürich<br/>
 [hello@matthiasko.ch](mailto:hello@matthiasko.ch)
+
 </Column>
 
 </Grid>
