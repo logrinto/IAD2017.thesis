@@ -44,9 +44,9 @@ to-heading: 3
 
 Wahrscheinlich sind Symptome wie Husten, Gliederschmerzen sowie erhöhte Temperatur den meisten bekannt und für gewöhnlich weisen diese auf eine einfache Erkältung hin. Dabei ist die Wahrscheinlichkeit gross eine Erkältung mit einer Grippe zu verwechseln&nbsp;– oder umgekehrt. Besonders für nicht medizinisch ausgebildete Personen ist die richtige Zuordnung von Symptomen zu einer vorhandenen Krankheit kaum ohne Hilfe zu bewerkstelligen. Es ist daher keineswegs verwerflich, dass erkrankte Menschen auf Nummer sicher gehen wollen und einen Arzt oder eine Ärztin aufsuchen möchten. Bereits bekannte Alternativen wie das Hausarzt- oder das Telmed-Modell versuchen hier Entlastung zu schaffen, indem bereits vor Konsultation in einer Praxis versucht wird einfache Krankheiten oder Bagatellfälle abzufangen. Eine in diesem Gebiet noch eher unbekannte Anwendung öffnet möglicherweise mit fortgeschrittener Technik neue Türen&nbsp;– der Einsatz von Sprachassistenten und mithilfe von Künstlicher Intelligenz könnte neue Chancen mit sich bringen.
 
-Diese Arbeit bietet einen Einblick in den aktuellen Stand von Sprachassistenten und wie diese funktionieren. Dabei wird anhand zweier Anwendungsbeispiele untersucht, wie dem Menschen durch den Einsatz von Sprachassistenten geholfen wird den Schweregrad einer Krankheit anhand einer Triage-Diagnose zu bestimmen und/oder diverse Symptome einer Krankheit zuzuordnen. Beide Anwendungsmöglichkeiten werden mit den Zielen der Kommunikation zwischen Arzt/Ärztin und PatientIn anhand des [Modells von Bird und Cohen-Cole](#bird-und-cohen-cole-modell) untersucht. Dabei werden Gemeinsamkeiten hervorgehoben, welche sowohl innerhalb des Anwendungsbeispiels als auch im Bird und Cohen-Cole Modell vorkommen. Es wird speziell auf die Veränderung hinsichtlich der Dynamik und deren Auswirkung eingegangen.
+Diese Arbeit bietet einen Einblick in den aktuellen Stand von Sprachassistenten und wie diese funktionieren. Dabei wird anhand zweier Anwendungsbeispiele untersucht, wie dem Menschen durch den Einsatz von Sprachassistenten geholfen wird den Schweregrad einer Krankheit anhand einer Triage-Diagnose zu bestimmen und/oder diverse Symptome einer Krankheit zuzuordnen. Dabei können je nach verwendeter Voice-App und Schweregrad NutzerInnnen aufgefordert werden den Notfall aufzusuchen. Beide Anwendungsmöglichkeiten werden mit den Zielen der Kommunikation zwischen Arzt/Ärztin und PatientIn anhand des [Modells von Bird und Cohen-Cole](#bird-und-cohen-cole-modell) untersucht. Dabei werden Gemeinsamkeiten hervorgehoben, welche sowohl innerhalb des Anwendungsbeispiels als auch im Bird und Cohen-Cole Modell vorkommen. Es wird speziell auf die Veränderung hinsichtlich der Dynamik und deren Auswirkung eingegangen.
 
-Im [ersteren Anwendungsbeispiel](#medizinische-beratung-über-alexa-mittels-gyant-skill) wird die Abfrage von verifizierten Gesundheitsinformationen über eine Voice-App von GYANT untersucht. Im [letzteren Anwendungsbeispiel](#eine-eigenständige-triage-diagnose-stellen-über-alexa-mittels-«health-navigator»-skill) wird ein durch die Zusammenarbeit von Health Navigator und des Softwareentwicklungsunternehmens Macadamian entstandener Proof-of-Concept beschrieben. Es wird untersucht, wie Menschen im Dialog mit einem Sprachassistenten selbstständig eine Krankheit und deren Schweregrad durch vorhandene Symptome herausfinden können. Dabei kann je nach verwendeter Voice-App und Schweregrad der Krankheit eine zusätzliche Empfehlung ein Arzt, eine Ärztin oder ein Spital aufzusuchen wiedergegeben werden. 
+Im [ersten Anwendungsbeispiel](#medizinische-beratung-über-alexa-mittels-gyant-skill) wird die Abfrage von verifizierten Gesundheitsinformationen über eine Voice-App von GYANT untersucht. Im [zweiten Anwendungsbeispiel](#eine-eigenständige-triage-diagnose-stellen-über-alexa-mittels-«health-navigator»-skill) wird ein enstandener Proof-of-Concept von Health Navigator und Macadamian untersucht.
 
 **Folgende Fragestellungen werden innerhalb der Arbeit untersucht und beantwortet:**
 
@@ -114,15 +114,13 @@ Diese kurze Erläuterung in diesem Kapitel macht deutlich, dass die Definition v
 
 Das Kommunikationsmodell von Bird und Cohen-Cole zeigt eine Möglichkeit wie ein erfolgreiches Arzt/Ärztin-PatientIn-Gespräch ablaufen kann. Es basiert grundsätzlich auf einem direkten Austausch und physischen Kontakt zwischen Arzt oder Ärztin und PatientIn. Der GYANT Skill verschiebt diese physische Ebene ins Digitale und verändert so den Austausch zwischen «Arzt/Ärztin und PatientIn» zu «Sprachassistenten und PatientIn».
 
-Gestüzt auf den eigenen Alexa Skill, hebt das Ministerium für Gesundheit und soziale Fürsorge in England hervor, dass sprachbasierte Anwendungen durch die dynamische und vereinfachte Bedienung mittels Sprache hauptsächlich Patienten und Patientinnen helfen, welche auf klassischem Weg das Internet nicht nutzen können, insbesondere älteren und blinden Personen (Department of Health and Social Care, 2019).[^:qu:dhsc]
-
-Die Bedienung herkömmlicher Geräte wie zum Beispiel Computer kann für ältere Personen schnell zur Herausforderung werden. Für blinde Personen gar zur Unmöglichkeit ohne Einsatz von Lesehilfen wie Bildschirmlesegeräten und Braillezeilen. Diese Hürde wird nun durch die Anwendung einfacher Sprachbefehle aufgehoben. In Sekundenschnelle können nun NutzerInnen professionelle durch GYANT verifizierte Gesundheitsinformationen erhalten.
+Die Bedienung herkömmlicher Geräte wie zum Beispiel Computer kann für ältere Personen schnell zur Herausforderung werden. Für blinde Personen gar zur Unmöglichkeit ohne Einsatz von Lesehilfen wie Bildschirmlesegeräten und Braillezeilen. Gestüzt auf den eigenen Alexa Skill, hebt das Ministerium für Gesundheit und soziale Fürsorge in England hervor, dass sprachbasierte Anwendungen durch die vereinfachte Bedienung mittels Sprache hauptsächlich Patienten und Patientinnen helfen, welche auf klassischem Weg das Internet nicht nutzen können. Diese Hürde wird durch die Anwendung einfacher Sprachbefehle aufgehoben (Department of Health and Social Care, 2019).[^:qu:dhsc]
 
 ### Wie Alexa mit GYANT kommuniziert
 
 Der Skill wird angetrieben von einer Künstlichen Intelligenz. Starten NutzerInnen den Skill über Alexa z.&#x202F;B.&nbsp;mit dem Sprachbefehl: «Alexa, bitte GYANT meine Symptome zu prüfen.» oder «Alexa, starte GYANT.», beginnt GYANT über einen Dialog Daten zu sammeln, um eine ausführliche Vorgeschichte der Krankheit abzubilden, dabei werden mehrere Fragen an den/die Nutzer/-in gestellt (Amazon GYANT, 2019).[^:qu:agyant]
 
-Sobald GYANT alle benötigten Informationen durch den/die Nutzer/-in erhalten hat, werden diese durch die eigens entwickelte Künstliche Intelligenz analysiert und mit der Datenbank von GYANT abgeglichen. Der Skill informiert nun den/die Nutzer/-in über die mögliche Krankheit, dabei wird je nach Einschätzung der Symptome eine Empfehlung abgegeben. Sofern nötig werden die NutzerInnen aufgefordert, möglichst schnell einen Termin beim Arzt, bei einer Ärztin oder einer Notfallpraxis zu vereinbaren (Ellen Foley K. und Zhou Y., 2018).[^:qu:qz]
+Sobald GYANT alle benötigten Informationen erhalten hat, werden diese durch die eigens entwickelte Künstliche Intelligenz analysiert und mit der Datenbank von GYANT abgeglichen. Der Skill informiert nun den/die Nutzer/-in über die mögliche Krankheit, dabei wird je nach Einschätzung der Symptome eine Empfehlung abgegeben. Sofern nötig werden die NutzerInnen aufgefordert, möglichst schnell einen Termin beim Arzt, bei einer Ärztin oder einer Notfallpraxis zu vereinbaren (Ellen Foley K. und Zhou Y., 2018).[^:qu:qz]
 
 ### Anwendungsbeispiel (User Journey)
 
@@ -132,6 +130,8 @@ Nehmen NutzerInnen nun die Hilfe eines Sprachassistenten dazu und sagen zum Beis
 
 Der GYANT Skill ist klinisch verifiziert und NutzerInnen können sich deshalb auf die ausgegebenen Informationen verlassen. Besonders im Bereich der Triage-Diagnose wurde eine umfassende Studie durchgeführt, um die Genauigkeit zu garantieren (MEDCITY NEWS, 2019).[^:qu:medcity]
 
+*Folgendes Gespräch wurde gemäss Originalausgabe auf Englisch transkribiert:*
+
 <Grid>
 
 ![(1/5) – Gespräch zwischen GYANT und User.](./img/gyant-1.svg)
@@ -139,7 +139,7 @@ Der GYANT Skill ist klinisch verifiziert und NutzerInnen können sich deshalb au
 
 </Grid>
 
-GYANT fragt den User an welcher Stelle der Schmerz genau auftaucht und versucht zusätzlich herauszufinden wie sich der Schmerz anfühlt.
+GYANT fragt den User an welcher Stelle der Schmerz auftaucht und versucht zusätzlich herauszufinden wie sich der Schmerz anfühlt.
 
 <Grid>
 
@@ -148,7 +148,7 @@ GYANT fragt den User an welcher Stelle der Schmerz genau auftaucht und versucht 
 
 </Grid>
 
-GYANT fragt nun den User nach der Stärke der Schmerzen, um so den Schweregrad der Bauchschmerzen herauszufinden.
+GYANT fragt den User nach der Stärke der Schmerzen, um so den Schweregrad der Bauchschmerzen herauszufinden.
 
 <Grid>
 
@@ -157,7 +157,7 @@ GYANT fragt nun den User nach der Stärke der Schmerzen, um so den Schweregrad d
 
 </Grid>
 
-Durch Selbstüberprüfung am eigenen Körper wird nun dem Skill mittgeteilt, ob die Schmerzen auch bei gewissen Bewegungen oder Druck auftauchen.
+Durch Selbstüberprüfung am eigenen Körper wird dem Skill mitgeteilt, ob die Schmerzen auch bei gewissen Bewegungen oder Druck auftauchen.
 
 <Grid>
 
@@ -178,13 +178,19 @@ GYANT fragt den User, ob noch ungeklärte Fragen offen sind. Der Skill gleicht d
 
 ### Vergleich durch das Bird und Cohen-Cole Modell hinsichtlich der Dynamik
 
+| Kommunikationsziele                                          | Klassisch  | Sprachassistent |
+|--------------------------------------------------------------|------------|-----------------|
+| Daten gewinnen                                               | ●          | ●               |
+| PatientIn informieren                                        | &#x1F504;  | ×1              |
+| auf die Gefühle von Patienten<br/>und Patientinnen eingehen. | ●          | ○               |
+
 Verglichen mit den Zielen aus dem Modell von Bird und Cohen-Cole überschneiden sich zwar gewisse Berührungspunkte miteinander, jedoch rückt das Ziel «Daten gewinnen» mehr in den Vordergrund, die restlichen Ziele reduzieren sich stark und rücken in den Hintergrund. Der Sprachassistent bricht zwar die Ziele einer Kommunikation stark herunter, bildet aber so gleichzeitig ein dynamisches Umfeld. Zum einen durch die Minimierung von Berührungspunkten zwischen Arzt/Ärztin und PatientIn, sowie die Unabhängigkeit von Zeit und Ort. PatientInnen gelangen so schneller zu ihrem eigentlichen Ziel, den Ursprung ihrer Symptome herauszufinden, da der einzige Berührungspunkt das Starten von Alexa ist. Sei im Normalfall für ein persönliches Gespräch mit einem Arzt oder einer Ärztin zuerst eine Terminvereinbarung und eine Konsultation in der Praxis notwendig, entfallen diese Punkte mittels Sprachassistenten. Der Abruf kann auf jedem beliebigen Gerät erfolgen, welches Zugang zu einem Sprachassistenten bietet. Gleichzeitig erweitert sich auch das von Öffnungszeiten der Praxis abhängige Zeitfenster auf 24 Stunden 7 Tage in der Woche. Dadurch kann nun mittels Sprache jederzeit eine Anfrage an den Sprachassistenten gesendet werden, unabhängig von Ort und Uhrzeit.
 
 ## Eine eigenständige Triage-Diagnose stellen über Alexa mittels «Health Navigator»-Skill
 
-Im ersteren Anwendungsbeispiel sprechen NutzerInnen mit dem Sprachassistenten über ihre Symptome um so eine Triage-Diagnose inkl. Bezeichnung der Krankheit zu erhalten. Auch dieses Anwendungsbeispiel folgt diesem Prinzip. Mit Bezug auf das erstere, gilt auch in diesem Anwendungsbeispiel, dass durch die dynamische und vereinfachte Bedienung mittels Sprache vor allem Patienten und Patientinnen, insbesondere älteren und blinden Personen geholfen wird. Auch hier wird die Hürde der Bedienung durch den Einsatz einfacher Sprachbefehle aufgehoben.
+Im ersteren Anwendungsbeispiel sprechen NutzerInnen mit dem Sprachassistenten über ihre Symptome um so eine Triage-Diagnose inkl. Bezeichnung der Krankheit zu erhalten. Auch dieses Anwendungsbeispiel folgt diesem Prinzip.
 
-Health Navigator ist ein Unternehmen, welches klinische Inhalte für digitale Gesundheit, Telemedizin und eHealth bereitstellt. In Zusammenarbeit mit dem Beratungsunternehmen für Softwaredesign Macadamian wurde ein Proof-of-Concept für den «Health Navigator»-Skill erarbeitet bzw.&nbsp;der Nachweis der Durchführbarkeit über Alexa belegt. Mit der «Health Navigator»-Skill können Menschen über ihren Sprachassistenten jederzeit und überall Gesundheitsinformationen und Ratschläge einholen. Der Schwerpunkt des «Health Navigator»-Skills liegt vor allem auf der bereits existierenden Triage-Engine von Health Navigator. Menschen können so einfach über einen Sprachbefehl den Schweregrad einer Krankheit feststellen. So lassen sich zum Beispiel folgende Fragen über den «Health Navigator»-Skill beantworten (Tabor, 8. August 2018):[^:qu:tabor]
+Health Navigator ist ein Unternehmen, welches klinische Inhalte für digitale Gesundheit bereitstellt. In Zusammenarbeit mit dem Beratungsunternehmen Macadamian wurde ein Proof-of-Concept erarbeitet bzw.&nbsp;der Nachweis der Durchführbarkeit eines Skills über Alexa belegt. Mit der «Health Navigator»-Skill können Menschen über ihren Sprachassistenten jederzeit und überall Gesundheitsinformationen und Ratschläge einholen. Der Schwerpunkt des Skills liegt vor allem auf der bereits existierenden Triage-Engine von Health Navigator. Menschen können so einfach über einen Sprachbefehl den Schweregrad einer Krankheit feststellen. So lassen sich zum Beispiel folgende Fragen über den «Health Navigator»-Skill beantworten (Tabor, 8. August 2018):[^:qu:tabor]
 
 * Wie ernst sind meine Symptome?
 * Ist das ein Notfall?
@@ -193,15 +199,18 @@ Health Navigator ist ein Unternehmen, welches klinische Inhalte für digitale Ge
 
 ### Wie Alexa mit Health Navigator kommuniziert
 
-Sobald der «Health Navigator»-Skill gestartet wird, werden mehrere Fragen zu Alter, Geschlecht, Symptomen und wichtigen Faktoren an den/die Nutzer/-in gestellt, um so eine ausführliche Vorgeschichte der Krankheit abzubilden. Health Navigator gibt so je nach Einschätzung und Schweregrad der Symptome eine Empfehlung ab. Beispielsweise können NutzerInnen Optionen zur Selbstversorgung erhalten oder werden aufgefordert, möglichst schnell einen Termin beim Arzt, bei einer Ärztin oder einer Notfallpraxis zu vereinbaren. Durch die Hilfe von Macadamian und deren Fachwissen im Bereich User Experience und Sprachassistenten konnte ein neuer Skill bzw.&nbsp;ein Proof-of-Concept erschaffen werden, welcher über die vorhandene Anwendungsschnittstelle (API) auf die riesigen Datenbanken von Health Navigator zugreift. Diese wurden mit mehr als fast zwei jahrzehntelangen Expertenarbeiten, Literaturrecherchen, Data Mining, Analysen sowie Tests durch Health Navigator sorgfältig erarbeitet (Tabor, 8. August 2018).[^:qu:tabor]
+Sobald der «Health Navigator»-Skill gestartet wird, werden mehrere Fragen zu Alter, Geschlecht, Symptomen und wichtigen Faktoren an den/die Nutzer/-in gestellt, um so eine ausführliche Vorgeschichte der Krankheit abzubilden. Health Navigator gibt je nach Einschätzung und Schweregrad der Symptome eine Empfehlung ab. Beispielsweise können NutzerInnen Optionen zur Selbstversorgung erhalten oder werden aufgefordert, möglichst schnell einen Termin beim Arzt, bei einer Ärztin oder einer Notfallpraxis zu vereinbaren. Zur Weiterverarbeitung wird auf riesige Datenbanken von Health Navigator zugegriffen, diese wurden mit mehr als fast zwei jahrzehntelangen Expertenarbeiten, Literaturrecherchen, Data Mining, Analysen sowie Tests durch Health Navigator sorgfältig erarbeitet und verifiziert (Tabor, 8. August 2018).[^:qu:tabor]
 
 ### Anwendungsbeispiel (User Journey)
 
 Aus dem [Demonstrationsvideo](https://www.healthnavigator.com/demo-videos/Health+Navigator+Alexa+Skill+Video.mp4) von Health Navigator ist folgender Dialog ersichtlich, welcher zwischen Mike und Alexa entstand. Sobald Mike per Sprachbefehl Alexa auffordert den «Health Navigator»-Skill zu starten, beginnt die Diagnose (Health Navigator, 2018):[^:qu:hn]
 
+
 #### Dauer des gesamten Gesprächs:
 
 ca.&#x00A0;1&#x202F;min 45&#x202F;s
+
+*Folgendes Gespräch wurde gemäss Originalausgabe auf Englisch transkribiert:*
 
 <Grid>
 
@@ -219,7 +228,7 @@ Mike leidet an **Erbrechen** und einem **entzündetem Hals**, diese Symptome tei
 
 </Grid>
 
-Der Skill versucht nun herauszufinden, welche Symptome den/die Nutzer/-in am meisten plagen. Der Fokus wird durch Mike selbst auf das Erbrechen gelegt und der Skill versucht nun mittels mehreren Fragen zusätzliche Informationen über dieses Symptom zu sammeln.
+Der Skill versucht nun herauszufinden, welche Symptome Mike am meisten plagen. Der Fokus wird durch Mike selbst auf das Erbrechen gelegt und der Skill versucht nun mittels mehreren Fragen zusätzliche Informationen über dieses Symptom zu sammeln.
 
 <Grid>
 
@@ -258,13 +267,17 @@ Die Diagnose wird abgeschlossen und der Skill übermittelt eine Triage-Diagnose 
 
 ### Vergleich durch das Bird und Cohen-Cole Modell hinsichtlich der Dynamik
 
-Verglichen mit dem Modell von Bird und Cohen-Cole liegt der Fokus vor allem auf dem Ziel der Datengewinnung, um so eine ausführliche Vorgeschichte der Krankheit zu erheben. Wie bereits im ersten Anwendungsbeispiel erwähnt, entfällt auch hier durch den Einsatz von Sprachassistenten, die im Normalfall für ein persönliches Arztgespräch benötigte Konsultation in einer Praxis. Es findet eine Verschiebung der Abhängigkeit von Öffnungszeiten einer Praxis zu einer dynamischen Allzeit-Bereitschaft statt, es kann nun mittels Sprache jederzeit eine Anfrage an den Sprachassistenten gesendet werden, unabhängig von Ort und Uhrzeit. Die Ziele zwei und drei: «Patienten informieren» und «auf die Gefühle von Patienten und Patientinnen eingehen», rücken in den Hintergrund und verursachen eine Minimierung von Berührungspunkten zwischen Arzt/Ärztin und PatientIn, somit wird eine dynamische Effizienz geschaffen, indem die Dauer einer Diagnose signifikant verkürzt wird. Dies lässt sich gut anhand der Dauer von Start bis hin zur gestellten Diagnose im Anwendungsbeispiel erkennen.
+| Kommunikationsziele                                          | Klassisch  | Sprachassistent |
+|--------------------------------------------------------------|------------|-----------------|
+| Daten gewinnen                                               | ●          | ●               |
+| PatientIn informieren                                        | &#x1F504;  | ×1              |
+| auf die Gefühle von Patienten<br/>und Patientinnen eingehen. | ●          | ○               |
+
+Verglichen mit dem Modell von Bird und Cohen-Cole liegt der Fokus vor allem auf dem Ziel der Datengewinnung, um so eine ausführliche Vorgeschichte der Krankheit zu erheben. Auch in diesem Anwendungsbeispiel entfällt durch den Einsatz eines Sprachassistenten, die im Normalfall für ein persönliches Arztgespräch benötigte Konsultation in einer Praxis. Es findet eine Verschiebung der Abhängigkeit von Öffnungszeiten einer Praxis zu einer dynamischen Allzeit-Bereitschaft statt, es kann nun mittels Sprache jederzeit eine Anfrage an den Sprachassistenten gesendet werden, unabhängig von Ort und Uhrzeit. Die Ziele «Patienten informieren» und «auf die Gefühle von Patienten und Patientinnen eingehen», rücken in den Hintergrund und verursachen eine Minimierung von Berührungspunkten zwischen Arzt/Ärztin und PatientIn, somit wird eine dynamische Effizienz geschaffen, indem die Dauer einer Diagnose signifikant verkürzt wird. Dies lässt sich gut anhand der Dauer von Start bis hin zur gestellten Diagnose im Anwendungsbeispiel erkennen.
 
 ## Diskussion
 
-Weshalb sollen wir zum Arzt oder zur Ärztin, wenn es sich doch nur um eine kleine Erkältung handelt? Es liegt daher fast schon auf der Hand, die Symptome bereits im Vorfeld eines Arzttermins zu prüfen. Dadurch kann nicht nur bares Geld, sondern auch Zeit eingespart werden. 
-
-Durchaus lässt das Gesundheitssystem in der Schweiz bereits zu, dass in Krankheitsfällen eine entsprechende Fachperson 24 Stunden am Tag, 7 Tage die Woche konsultiert werden kann&nbsp;– jedoch sind solche Anlaufstellen für Notfallsituationen geschaffen. Für einfache Krankheiten oder Bagatellfällen ist der eigene Hausarzt oder die eigene Hausärztin die beste Anlaufstelle. Meist ist die Praxis an fixe Öffnungszeiten gebunden und zum Beispiel an Feiertagen nicht geöffnet. Hier können PatientInnen von den durchgehenden «Öffnungszeiten» eines Sprachassistenten profitieren und ihre Symptome auch in solchen Situationen überprüfen lassen, ob ein Notfall besteht oder um welche Krankheit es sich handelt. 
+Durchaus lässt das Gesundheitssystem in der Schweiz bereits zu, dass in Krankheitsfällen eine entsprechende Fachperson 24 Stunden am Tag, 7 Tage die Woche konsultiert werden kann&nbsp;– jedoch sind solche Anlaufstellen für Notfallsituationen geschaffen. Für einfache Krankheiten oder Bagatellfällen ist der eigene Hausarzt oder die eigene Hausärztin die beste Anlaufstelle. Meist ist die Praxis an fixe Öffnungszeiten gebunden und z.&#x202F;B.&nbsp;an Feiertagen nicht geöffnet. Hier können PatientInnen von den durchgehenden «Öffnungszeiten» eines Sprachassistenten profitieren und ihre Symptome auch in solchen Situationen überprüfen lassen, ob ein Notfall besteht oder um welche Krankheit es sich handelt. 
 
 Auch im Internet gibt es unzählige Möglichkeiten und Webseiten um nach Symptomen zu suchen. Dies bringt auch eine gewisse Gefahr mit sich, da die Quellen nicht immer *vertrauenswürdig* sind oder gewisse Abhängigkeiten von Symptomen auf den ersten Blick nicht erkenntlich sind und so schnell Fehlinformationen durch unseriöse Webseiten übermittelt werden können. Die Wahrscheinlichkeit ist gross, dass durch Google einen Tumor diagnostiziert wird, obwohl es sich nur um starke Kopfschmerzen handelt (Lobe, 2016).[^:qu:lobe]
 
@@ -274,13 +287,13 @@ Natürlich dürfen wir uns nun nicht ausschliesslich auf das Internet bzw.&nbsp;
 
 Tian Wang, Neurologin an der Georgetown University, fasste diese suggestive Kommunikation als Trübung des klinischen Urteilsvermögens zusammen:
 
-> *«Während des Medizinstudiums und des Praktikums wurde uns wiederholt mitgeteilt, dass die schlimmste Art von Patientenkontakt darin besteht, suggestive Fragen zu stellen, die mit «Ja» oder «Nein» beantwortet werden können, da dies zu falschen Ergebnissen führt und Ihr klinisches Urteilsvermögen trübt. Offene Fragen werden bevorzugt, insbesondere Fragen wie «Erzählen Sie mir mehr über Ihre Schmerzen», da sie nicht angeben, wo oder wie sich die Schmerzen einer Person anfühlen sollen.»* (vgl. Ellen Foley K. und Zhou Y., 2018).[^:qu:qz]
+> *«Während des Medizinstudiums und des Praktikums wurde uns wiederholt mitgeteilt, dass die schlimmste Art von Patientenkontakt darin besteht, suggestive Fragen zu stellen, die mit «Ja» oder «Nein» beantwortet werden können, da dies zu falschen Ergebnissen führt und Ihr klinisches Urteilsvermögen trübt. Offene Fragen werden bevorzugt, insbesondere Fragen wie «Erzählen Sie mir mehr über Ihre Schmerzen», da sie nicht angeben, wo oder wie sich die Schmerzen einer Person anfühlen sollen.»* (vgl. Ellen Foley K. und Zhou Y., 2018).[^:qu:qz-tian]
 
 Dieses klinische Urteilsvermögen und die physische Interaktion sind wahrscheinlich die grösste Schwäche eines Sprachassistenten, hingegen für einen Arzt oder eine Ärztin die grösste Stärke. Bereits durch das persönliche Sehen des Patienten oder der Patientin, kann ein Arzt oder eine Ärztin bereits ungefähr erahnen welche Fragen gestellt werden müssen und so bereits unnötige oder irrelevante Fragen im Voraus verhindern, welche ein Sprachassistent aber durchaus stellen könnte.
 
 Ellen Foley K. und Zhou Y. beschrieben dazu folgendes Szenario, welches diese Problemstellung gut abbildet:
 
-> *«Zum Beispiel kann ein/eine PatientIn mit anhaltenden Kopfschmerzen zum Arzt oder zur Ärztin kommen. Der Arzt oder die Ärztin könnte den Patienten oder die Patientin fragen, ob er/sie müde ist, und er/sie könnte nein sagen. In der Arztpraxis können jedoch andere Faktoren wie das körperliche Erscheinungsbild den Arzt oder die Ärztin dazu veranlassen, bestimmte Vitalwerte wie den Blutdruck zu bestimmen. Diese Messwerte können wiederum in Verbindung mit den Kopfschmerzen dazu führen, dass der Arzt oder die Ärztin bei dem Patienten oder der Patientin eine Schlafstörung diagnostiziert. Dasselbe Gespräch mit einer Voice-App könnte dazu führen, dass der Sprachassistent beschliesst, den «Schlaf» als unproblematisch einzuschränken.»* (vgl. Ellen Foley K. und Zhou Y., 2018).[^:qu:qz]
+> *«Zum Beispiel kann ein/eine PatientIn mit anhaltenden Kopfschmerzen zum Arzt oder zur Ärztin kommen. Der Arzt oder die Ärztin könnte den Patienten oder die Patientin fragen, ob er/sie müde ist, und er/sie könnte nein sagen. In der Arztpraxis können jedoch andere Faktoren wie das körperliche Erscheinungsbild den Arzt oder die Ärztin dazu veranlassen, bestimmte Vitalwerte wie den Blutdruck zu bestimmen. Diese Messwerte können wiederum in Verbindung mit den Kopfschmerzen dazu führen, dass der Arzt oder die Ärztin bei dem Patienten oder der Patientin eine Schlafstörung diagnostiziert. Dasselbe Gespräch mit einer Voice-App könnte dazu führen, dass der Sprachassistent beschliesst, den «Schlaf» als unproblematisch einzuschränken.»* (vgl. Ellen Foley K. und Zhou Y., 2018).[^:qu:qz-ellen]
 
 ## Fazit
 
@@ -325,6 +338,8 @@ reference-text-suffix: ' – '
 [^:qu:hn]: Health Navigator (2018). *Macadamian – Alexa Skill*. Abgerufen am 23. Dezember 2019, von [healthnavigator.com](https://www.healthnavigator.com/index.html@p=7565.html)
 [^:qu:bag]: BAG 30. Oktober 2019). *Saisonale Grippe (Influenza)*. Abgerufen am 25. Dezember 2019, von [bag.admin.ch](https://www.bag.admin.ch/bag/de/home/krankheiten/krankheiten-im-ueberblick/grippe.html)
 [^:qu:qz]: Ellen Foley K. und Zhou Y. (12. Juli 2018). *Alexa is a terrible doctor*. Abgerufen am 26. Dezember 2019, von [qz.com](https://qz.com/1323940/alexa-is-a-terrible-doctor/)
+[^:qu:qz-tian]: Ellen Foley K. und Zhou Y. (12. Juli 2018). *Alexa is a terrible doctor*. Abgerufen am 26. Dezember 2019, von [qz.com](https://qz.com/1323940/alexa-is-a-terrible-doctor/) [Übersetzung des Verfassers]
+[^:qu:qz-ellen]: Ellen Foley K. und Zhou Y. (12. Juli 2018). *Alexa is a terrible doctor*. Abgerufen am 26. Dezember 2019, von [qz.com](https://qz.com/1323940/alexa-is-a-terrible-doctor/) [Übersetzung des Verfassers]
 [^:qu:agyant]: Amazon GYANT (2019). *Alexa Skill GYANT*. Abgerufen am 02. Januar 2020, von [amazon.com](https://www.amazon.com/GYANT/dp/B071GRTWV9)
 [^:qu:medcity]: MEDCITY NEWS (3. Juni 2019). *MedCitizen Founders’ story: GYANT*. Abgerufen am 02. Januar 2020, von [medcitynews.com](https://medcitynews.com/2019/06/medcitizen-founders-story-gyant/?rf=1)
 [^:qu:lobe]: Lobe A. (30. November 2016). *Google ist ein schlechter Arzt: Suche nach Symptomen kann Krankheit fördern*. Abgerufen am 02. Januar 2020, von [aargauerzeitung.ch](https://www.aargauerzeitung.ch/leben/gesundheit/google-ist-ein-schlechter-arzt-suche-nach-symptomen-kann-krankheit-foerdern-130755301)
