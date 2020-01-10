@@ -1,7 +1,7 @@
 ---
 title: Machine Learning im Designprozess
 author: "Pascale Anderegg"
-date: "2020-11-11"
+date: "2020-01-10"
 layout: post
 draft: false
 hideInMenu: false
@@ -27,7 +27,7 @@ to-heading: 3
 ```
 
 ## 1.0 Einleitung
-Seit dem Aufkommen von Computern denken wir über intelligente Systeme nach, die unserem eigenen Handeln näher kommen. Nach den Ausführungen von Winkler _(2019, 1).[^:lit:one]_ machten sich Menschen bereits im Jahre 1960 Gedanken über die Verbindung des Menschen mit der Maschine. Heutige Computer sind noch weit entfernt von Beispielen, wie Samantha, dem intelligenten Sprachassistenten aus dem Science Fiction Film «Her». Dennoch wird Machine Learning bereits in diversen Bereichen, wie zum Beispiel in der Medizin zur Analyse von Bilddaten bei Krankheitsdiagnosen, eingesetzt und stellt ebenso DesignerInnen neue Werkzeuge im Gestaltungsprozess zur Verfügung _(vgl. Hebron, 2016, 1).[^:lit:two]_
+Seit dem Aufkommen von Computern denken wir über intelligente Systeme nach, die unserem eigenen Handeln näher kommen. Nach den Ausführungen von Winkler _(2019, 1).[^:lit:one]_ machten sich Menschen bereits im Jahre 1960 Gedanken über die Verbindung des Menschen mit der Maschine. Heutige Computer sind noch weit entfernt von Beispielen, wie Samantha, dem intelligenten Sprachassistenten aus dem Science Fiction Film [«Her»](https://de.wikipedia.org/wiki/Her_(2013)). Dennoch wird Machine Learning bereits in diversen Bereichen, wie zum Beispiel in der Medizin zur Analyse von Bilddaten bei Krankheitsdiagnosen, eingesetzt und stellt ebenso DesignerInnen neue Werkzeuge im Gestaltungsprozess zur Verfügung _(vgl. Hebron, 2016, 1).[^:lit:two]_
 
 Die vorliegende Arbeit setzt sich mit der Frage auseinander, auf welche Weise sich Prozesse digitaler GestalterInnen mit Machine Learning verändern. Um dieser Fragestellung nachzugehen, werde ich einen digitalen Gestaltungsprozess analysieren sowie den Begriff Machine Learning erläutern. Ich vermute, dass mit Einbezug von Machine Learning im Gestaltungsprozess ein innovativeres Lösungsspektrum erreicht und der Prozess als variantenreicher wahrgenommen werden kann. Das Ziel der Arbeit ist, mögliche Einsatzbereiche von ML im digitalen Designprozess verständlich aufzuzeigen und dabei die Veränderungen zu beleuchten. Neben einem konkreten Fallbeispiel wird die Rolle von Machine Learning im Gestaltungsprozess untersucht. Auf Basis dieser Grundlagen wird ein möglicher Gestaltungsprozess mit Machine Learning ausgelegt, um in einer anschliessenden Diskussion die Frage bewerten zu können, wie sich ein Gestaltungsprozess mit ML in Hinsicht auf eine zunehmende Dynamik wandeln könnte.
 
@@ -80,7 +80,7 @@ Der Computer kennt nur die Struktur jedoch nicht den Inhalt seiner Daten. Er wur
 ML enthält Anweisungen, die auf grosse Datensätze angesetzt werden, um darin Muster zu erkennen. Basierend auf diesen Mustern werden Handlungsanleitungen abgeleitet und somit mit den Daten gelernt. Eine solche Handlungsanleitung oder auch Algorithmus genannt, enthält Anweisungen, wie ein Ziel Schritt für Schritt erreicht werden kann _(vgl. Matthias Spielkamp, 2019).[^:qu:two]_. Anstatt ein vordefiniertes Regelset zu verwenden, um das mögliche Verhalten eines Programms zu beschreiben, sucht sich ein maschinelles Lernsystem Muster innerhalb von Datensätzen, und produziert die Regeln selbständig _(vgl. Hebron, 2016, 6–11).[^:lit:two]_. Ein Modell wird zum Beispiel an einem Bilderset von Häusern trainiert, wobei es sich Kategorien, wie etwa moderne, kleine, englische oder chinesische Häuser anlegt. Dieses Modell wird zuerst anhand von vielen Bildern mit Häusern trainiert und kann nur diese spezifische Tätigkeit ausführen, da diese in den Daten zu finden ist. Wenn es also darum geht, Häuser zu erkennen, kann das Programm nun unterscheiden, um welche für Häuser es sich handelt. Es weiss jedoch nicht, dass auf den Fotos Pflanzen zu sehen sind. ML ist also im Stande mit unscharfer Information umzugehen, erkennt aber zugleich nur Dinge, mit welchen es trainiert wurde _(vgl. Lenzen, 2002, 107–111).[^:lit:four]_.
 
 ![Englische Häuserkette](./img/englische_haeuserkette.jpg)
-*Abb. 2: Mittels gelerntem Datenset von Häusern, ist das ML-System im Stande zu erkennen, dass auf diesem Foto eine englische Häuserkette abgebildet wird_.[^:abb:two]_*
+*Mittels gelerntem Datenset von Häusern, ist das ML-System im Stande zu erkennen, dass auf diesem Foto eine englische Häuserkette abgebildet wird_.[^:abb:two]_*
 
 ## 3.0 ML im Gestaltungsprozess
 ### 3.1 Welche Rolle kann ML im Designprozess übernehmen?
@@ -90,7 +90,7 @@ Um diese Frage beantworten zu können, sollen zunächst drei verschiedene Formen
 In der ersten Kategorie der Interaktion zwischen dem/der DesignerIn und dem ML-System wird ein bereits bestehendes Objekt wie zum Beispiel eine Fotografie mit Hilfe von ML in einer neuen, veränderten Form dargestellt. Dabei wird die Fotografie mit einem bestehenden Datenset verglichen. Wenn innerhalb des Sets ein Objekt erkannt wird, abstrahiert der Computer die Fotografie in einem bestimmten Stil, zum Beispiel, eines berühmten Malers. Das ML System imitiert demzufolge bereits existierende Gestaltungsanwendungen in Stilen, welche es anhand des Datensets gelernt hat und diese somit anwendet. Während andere Fotobearbeitungs-Programme, wie Instagram lediglich einen Filter über die Bilder legt, generieren ML gestützte Anwendungen mit Hilfe von erkannten Mustern das ganze Bild neu. Dieser Prozess hat einen modifizierenden Charakter, da Originale immer noch erkennbar sind, jedoch mittels einem Datenset verändert werden und sich daraus eine neue Ästhetik bildet. Diese Form von ML kann dem/der GestalterIn neue Sichtweisen auf ein bereits bestehendes Objekt veranschaulichen, bringt dem Gestaltungsprozess sowie der Zusammenarbeit aber keinen direkten Mehrwert.
 
 ![Imitation «der grossen Welle vor Kanagawa» mit ML](./img/welle.jpg)
-*Abb. 3: Eine bestehende Fotografie kann mit Hilfe von ML zum Beispiel den Stil vom japanischen Künstler Katsushika Hokusai («Die grosse Welle vor Kanagawa») imitieren und das Bild in eine neue Ästhetik umwandeln_.[^:abb:three]_*
+*Eine bestehende Fotografie kann mit Hilfe von ML zum Beispiel den Stil vom japanischen Künstler Katsushika Hokusai («Die grosse Welle vor Kanagawa») imitieren und das Bild in eine neue Ästhetik umwandeln_.[^:abb:three]_*
 
 ### 3.3 ML als Unterstützer
 In der unterstützenden Form kann ML bei repetitiven, quantitativen Tätigkeiten, wie Formatanpassungen oder Recherchearbeiten, assistieren sowie Kreativschaffende inspirieren und den Prozess in produktiven Tätigkeiten partizipativ vorwärtstreiben. Der/die DesignerIn legt ein Set von Daten an, auf welches das ML-System trainiert wird. ML kann aus diesen Daten Erkenntnisse ziehen, welche DesignerInnen nutzen können. Dadurch findet ein Wissensaustausch von beiden Seiten statt. Im folgenden Fallbeispiel Fontmap, wird das ML-System zur Inspirationsquelle und erleichtert GestalterInnen die Entscheidung, welche Schrift verwendet werden soll.
@@ -101,15 +101,15 @@ Wie Ho _(2017).[^:qu:three]_, der Ersteller von [Fontmap](http://fontmap.ideo.co
 Das Projekt Fontmap, welches von [IDEO](https://www.ideo.com/eu), einer internationalen Design- und Innovationsberatung entwickelt wurde, basiert auf ML und möchte dem/der GestalterIn ein Werkzeug bieten, dass bei der Wahl der Schrift unterstützt. Das Tool stellt mehr als 750 Google Fonts auf einer Map dar, um die Schriftsuche intuitiver und einfacher zu gestalten. Es wird ein Werkzeug geboten, dass ähnliche Schriften aufgrund von ihrem Charakter wie Strichstärke, Laufweite oder Versalhöhe in der Nähe zueinander anordnet. Mit dieser Anwendung werden Muster und Beziehungen von Schriften verständlich dargestellt. Es ergibt sich eine zweidimensionale Vergleichbarkeit der Schriftsätze, wobei die Schriftarten innerhalb von zwei Achsen sortiert und geordnet werden. Der Algorithmus sortiert Schriften anhand ihrer visuellen Merkmale und zeigt dem/der DesignerIn alternative Schriften auf einer bekannten 2D Karten- sowie Listenansicht zur Auswahl an. Der Algorithmus ordnet Schriften, welche sich von anderen stark unterscheiden, auf der Map separiert, also mit einem grösseren Abstand zu anderen Schriften, an.
 
 ![Fontmap](./img/fontmap_IDEO2.png)
-*Abb. 4: Fontmap ordnet mittels ML mehr als 750 Schriftarten auf einer 2D Kartenansicht an_.[^:abb:four]_*
+*Fontmap ordnet mittels ML mehr als 750 Schriftarten auf einer 2D Kartenansicht an_.[^:abb:four]_*
 
 Mit Fontmap ist ein Werkzeug entstanden, dass GestalterInnen im Designprozess bei der Schriftwahl unterstützt, indem es eine Übersicht von ähnlichen Schriften anzeigt und dazu inspiriert, sich für weniger konventionelle Schriften zu entscheiden. Dies führt zu mehr Abwechslung im Gestaltungsprozess, da ein grosses Spektrum an Schriften geboten wird. Gleichzeitig ist die Anwendung auf andere Bereiche erweiterbar und kann zum Beispiel auch mit der Definierung von Farbwelten funktionieren, indem es ebenso zur Inspiration sowie als Wegweiser im Designprozess dienen kann. Dieses Tool zeigt also, wie effektiv mit ML Daten strukturiert, geordnet und visualisiert werden können und wie mit täglichen Hürden von DesignerInnen umgangen werden kann. Das Projekt ist auf 1000 Schriften erweiterbar und der Ersteller denkt darüber nach, seine Anwendung mit Schriftkombinationen zu erweitern. Vor allem aber wird Kreativschaffenden ein Werkzeug geboten, welches motiviert, die Wahl der Schrift zu variieren und somit Abwechslung in die eigene Arbeit zu bringen.
 
 ### 3.4 ML als eigenständiger Gestalter
-Wenn ML als eigenständiger Gestalter handelt, also selbständig Entscheidungen fällt, kommt unmittelbar die Frage auf, wie gut das Resultat dabei ist und ob der/die DesignerIn dadurch ersetzt werden kann. Nach Winkler _(2019, 32–33).[^:lit:one]_ soll das Computersystem autonom Gestaltungsentscheidungen treffen können, um als eigenständiger Gestalter wahrgenommen zu werden. Ein digitales Tool, welches diese Anforderung erfüllt, wurde noch nicht gefunden. Jedoch existiert ein Kunstprojekt, in dem IT-StudentInnen einem System 15 000 Portraits gefüttert haben und es auf dieser Basis selbst Portraits malen gelassen haben. Der erste Algorithmus trifft dabei die Entscheidung. Danach wird ein zweiter eingesetzt und validiert, ob es sich genug vom Datenset unterscheidet und somit als eigenständige Variation gelten kann. Es entsteht ein sich selbst regulierendes System, welches nur vom Algorithmus gestaltet wird. Im digitalen Gestaltungsprozess existiert zum aktuellen Zeitpunkt noch kein solches System und es ist fraglich, ob es je eines geben wird, da ein algorithmisches System bisher keine Entscheidungen basierend auf den Bedürfnissen des Menschen treffen kann.
+Wenn ML als eigenständiger Gestalter handelt, also selbständig Entscheidungen fällt, kommt unmittelbar die Frage auf, wie gut das Resultat dabei ist und ob der/die DesignerIn dadurch ersetzt werden kann. Nach Winkler _(2019, 32–33).[^:lit:one]_ soll das Computersystem selbstständig Gestaltungsentscheidungen treffen können, um als eigenständiger Gestalter wahrgenommen zu werden. Ein digitales Tool, welches diese Anforderung erfüllt, wurde noch nicht gefunden. Jedoch existiert ein Kunstprojekt, in dem IT-StudentInnen einem System 15&#x202F;000 Portraits gefüttert haben und es auf dieser Basis selbst Portraits malen gelassen haben. Der erste Algorithmus trifft dabei die Entscheidung. Danach wird ein zweiter eingesetzt und prüft, ob es sich genug vom Datenset unterscheidet und somit als eigenständige Variation gelten kann. Es entwickelt sich ein eigenständiges System, welches nur vom Algorithmus gestaltet wird. Im digitalen Gestaltungsprozess existiert zum aktuellen Zeitpunkt noch kein solches System und es ist unsicher, ob es je eines geben wird, da ein algorithmisches System bisher keine Entscheidungen basierend auf den Bedürfnissen des Menschen treffen kann.
 
 ### 3.5 Fazit der Rolle von ML im Gestaltungsprozess
-Heute existieren zwei Arten der Kooperation zwischen einem Menschen und einem Algorithmus. Zum einen wäre das ML als Nachmacher und andererseits ML in seiner unterstützenden Form. Dabei ist die Führung durch DesignerInnen im Gestaltungsprozess unerlässlich, da ein System mit ML eine Basis braucht, mit denen es lernen und sich stetig verbessern kann _(vgl. Osterrieter, 2017).[^:qu:four]_.
+Heute existieren zwei Arten der Kooperation zwischen einem Menschen und einem Algorithmus. Zum einen wäre das ML als Nachmacher und andererseits ML in seiner unterstützenden Form _(vgl. Osterrieter, 2017).[^:qu:four]_. Dabei ist die Führung durch DesignerInnen im Gestaltungsprozess unerlässlich, da ein System mit ML eine Basis braucht, mit denen es lernen und sich stetig verbessern kann.
 Bezugnehmend auf die bisherigen Erkenntnisse wird ersichtlich, dass ML in Kooperation mit dem/der GestalterIn erfolgreich eingesetzt werden kann, wenn es den Gestaltungsprozess unterstützt und dem/der DesignerIn als Inspirationsquelle, wie im Fallbeispiel Fontmap, dienen kann. Anwendungen mit ML benötigen klare Strukturen und Vorgehensweisen und solche Systeme können keine eigenen ästhetischen Entscheidungen für den Menschen treffen. Unter dieser Betrachtungsweise wird im nächsten Kapitel detaillierter auf die unterstützende Form von ML eingegangen und wo diese im digitalen Gestaltungsprozess eingesetzt werden kann.
 
 ### 3.6 Auslegung Designprozess mit ML
@@ -119,7 +119,7 @@ In diesem Kapitel wird ML in der assistierenden Funktion auf Basis des Designpro
 Nach Holbrook _(2017).[^:qu:five]_ starten viele Firmen direkt mit ML als Lösung um herauszufinden, welche Probleme sie als nächstes angehen müssen, anstatt zuerst die wichtigsten Probleme zu identifizieren und in einem nächsten Schritt zu verstehen. Der Einbezug von ML kann in der Entdeckungsphase für explorative Untersuchungen durchaus spannend sein, um die Möglichkeiten der Technologie auszuloten. Um aber Probleme zu identifizieren und anzugehen, die echte Nutzerbedürfnisse abdecken, kann mit ML kein zufriedenstellendes Resultat erwartet werden, da die Maschine Bedürfnisse nicht selbstständig ermitteln kann. Das Eruieren des Nutzen für den Kunden, kann demnach nicht mit ML unterstützt werden und Tätigkeiten wie das Durchführen von Umfragen oder das Erstellen von Personas werden durch  DesignerInnen bearbeitet. Eine Maschine könnte jedoch bei einer Themenrecherche in die Breite unterstützen, indem sie mit Details und weiteren Quellen angereichert wird. Es braucht jedoch eine strenge Kontrolle durch die DesignerInnen, die Inhalte kuratieren und einschränken.
 
 ![Entscheidungsfindungsprozess](./img/Problemloesung_ML_Holbrook.jpeg)
-*Abb. 5: Das Finden der Lösung, welche reale Nutzerbedürfnisse berücksichtigt, kann nicht von einem ML gestützten System automatisiert werden, da der Weg dorthin keinem linearen Entscheidungsfindungsprozess folgt_.[^:abb:five]_*
+*Das Finden der Lösung, welche reale Nutzerbedürfnisse berücksichtigt, kann nicht von einem ML gestützten System automatisiert werden, da der Weg dorthin keinem linearen Entscheidungsfindungsprozess folgt_.[^:abb:five]_*
 
 
 #### 3.6.2 Planungsphase
@@ -134,12 +134,12 @@ Im Prototyping kann ML beim Aufbereiten des Testings nicht unterstützen, da gen
 
 In der grafischen Konzeption kann ein ML gestütztes System GestalterInnen, wie anhand des Beispiels Fontmap beschrieben wurde, bei der Schriftwahl unterstützen. Zudem kann ein grösseres Variationsspektrum an Möglichkeiten angeboten werden. Dies zum Beispiel in der Bildrecherche, wo das System eine mögliche Sammlung an Bildern vorschlagen kann, indem es zum Beispiel nach Häusern sucht und dem/der DesignerIn die Auswahl präsentiert. Gerade im Bereich der Ästhetik gibt es, sich immer verändernde Trends, die der Kreativschaffende in das grafische Konzept einbaut. Eine Maschine kann alleine nicht abschätzen, was als ästhetisch gilt oder als modern angesehen wird und kann in der Suche nach aktuellen Stilen und Stilmitteln nicht eingesetzt werden _(vgl. Osterrieter, 2017).[^:qu:four]_.
 
-Sobald das grafische Konzept ausgearbeitet wurde, kann die Programmierung gestartet werden. Mit Hilfe von ML können fertige Designs auf verschiedene Ausgabegrössen und Sprachen angepasst werden, was die Produktionsphase verkürzt. Zudem kann ML verschiedene Designvarianten personalisiert an Zielgruppen ausgeben. Zum Beispiel kann ML voraussagen, wann und wie Elemente eines Designs für eine Zielgruppe, wie Personen mit einer Sehschwäche, angepasst werden sollen. Dies funktioniert mit Hilfe eines im Vorfeld definierten Datensets. Die ML-Anwendung lernt einerseits, dass ein Design mit einem höheren Kontrastverhältnis für Menschen mit einer Sehschwäche einfacher zu bedienen ist und andererseits, wann das System das angepasste Layout anzeigen muss.
+Sobald das grafische Konzept ausgearbeitet wurde, kann die Programmierung gestartet werden. Mit Hilfe von ML können fertige Designs auf verschiedene Ausgabegrössen und Sprachen angepasst werden, was die Produktionsphase verkürzt. Zudem kann ML verschiedene Designvarianten personalisiert an Zielgruppen ausgeben. Zum Beispiel kann ML voraussagen, wann und wie Elemente eines Designs für eine Zielgruppe, wie Personen mit einer Sehschwäche, angepasst werden sollen. Dies funktioniert mit Hilfe eines im Vorfeld definierten Datensets. Die ML-Anwendung lernt einerseits, dass ein Design mit einem höheren Kontrastverhältnis für Menschen mit einer Sehschwäche einfacher zu bedienen ist und andererseits, wann das System das angepasste Layout anzeigen muss _(vgl. Spradlin, 2016).[^:qu:six]_.
 
 <Grid>
 
 ![Personalisierung für Seheingeschränkte](./img/contrast_both.jpg)
-*Abb. 6: Ein ML gestütztes System kann dabei unterstützen, sehbehinderten Menschen automatisch das Layout mit grösserem Kontrastverhältnis zu zeigen (im Bild wären dies die beiden Screens rechts)_.[^:abb:six]_*
+*Ein ML gestütztes System kann dabei unterstützen, sehbehinderten Menschen automatisch das Layout mit grösserem Kontrastverhältnis zu zeigen (im Bild wären dies die beiden Screens rechts)_.[^:abb:six]_*
 
 </Grid>
 
@@ -168,7 +168,7 @@ Die Analyse der Rollen, die ML im Gestaltungsprozess einnehmen kann, hat gezeigt
 Die zu Beginn gestellte Frage wie sich Prozesse eines digitalen Gestalters in Einbezug von ML verändern, lässt sich somit zusammenfassend wie folgt beantworten: Das Aufkommen von Systemen, welche auf ML basieren, verändern den Gestaltungsprozess in Bezug auf die Arbeitsaufteilung massgebend. Wenn solche Systeme eingesetzt werden, indem sie GestalterInnen in ihrer Arbeit unterstützen, können sich digitale GestalterInnen auf konzeptionelle Bereiche fokussieren und übernehmen in produktiven Tätigkeiten die Entscheiderrolle. Dadurch kann ein breiteres und innovativeres Lösungsspektrum verfolgt werden. Hinsichtlich in welchen Arbeitsschritten ein ML gestütztes System eingesetzt werden kann, bin ich zum Schluss gekommen, dass ML-Anwendungen ausführende, quantitative Tätigkeiten übernehmen können, die in der Entdeckungsphase und im iterativen Prozess stattfinden. Der/die DesignerIn konzentriert sich dabei auf konzeptionelle Arbeiten und wird zum qualitativen Entscheidunger im Gestaltungsprozess. Die Ergebnisse von ML im Designprozess werden sich bei repetiertem Einsatz fortlaufend verbessern, da ein ML-System nicht statisch ist, sondern sich immerzu verändert, indem es aus seinen Daten lernt und beliebig erweiterbar ist. Jedoch stehen Entscheidungen  immer in einem Verhältnis zu anderen Entscheidungen, denn sie sind relativ. ML kann keine qualitativen Entscheidungen, die im Zusammenhang mit anderen Argumenten stehen, übernehmen.
 
 Abschliessen möchte ich die Arbeit mit der Betonung, dass DesignerInnen sich ihrer Wurzeln erinnern sollen, nämlich für den Menschen zu gestalten und dabei echte menschliche Bedürfnisse zu finden und zu adressieren.
-> The role of AI shouldn’t be to find the needle in the haystack for us, but to show us how much hay it can clear so we can better see the needle ourselves _(Lovejoy, 2018).[^:qu:six]_.
+> The role of AI shouldn’t be to find the needle in the haystack for us, but to show us how much hay it can clear so we can better see the needle ourselves _(Lovejoy, 2018).[^:qu:seven]_.
 
 <Grid>
 
@@ -212,7 +212,7 @@ Vorname Nachname, Buchtitel, Auflage, Verlag, Erscheinungsort Jahr, erste Seite�
 # gets repalced with footnotes
 group-include: abb
 
-inline-link-prefix: 'Abb. '
+inline-link-prefix: 'Abb.&#x202F;'
 
 reference-link-prefix: '↑ Abb. '
 reference-link-suffix: ''
@@ -227,7 +227,7 @@ reference-text-suffix: ' – '
 # gets repalced with footnotes
 group-include: lit
 
-inline-link-prefix: 'Lit. '
+inline-link-prefix: 'Lit.&#x202F;'
 
 reference-link-prefix: '↑ Lit. '
 reference-link-suffix: ''
@@ -235,12 +235,13 @@ reference-link-suffix: ''
 reference-text-suffix: ' – '
 ```
 
-[^:qu:one]: Rian Van der Merwe, [eleza.com](https://elezea.com/2013/09/responsive-design-agency-workflow/) (Abrufdatum: 13. 11. 2019)
-[^:qu:two]: Matthias Spielkamp, [zeit.de](https://www.zeit.de/digital/2019-08/matthias-spielkamp-algorithmen-diskriminierung-algorithmwatch-wird-das-was-digitalpodcast) (Abrufdatum: 24. 11. 2019)
-[^:qu:three]: Kevin Ho, [medium.com](https://medium.com/ideo-stories/organizing-the-world-of-fonts-with-ai-7d9e49ff2b25?) (Abrufdatum: 24. 11. 2019)
-[^:qu:four]: Johanna Osterrieter, [medium.com](https://medium.com/@johanna.osterrieter/k%C3%BCnstliche-intelligenz-im-design-23f7a3d7f3db) (Abrufdatum: 24. 11. 2017)
-[^:qu:five]: Jess Holbrook, [medium.com](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd) (Abrufdatum: 12. 11. 2017)
-[^:qu:six]: Josh Lovejoy, [Google Design](https://design.google/library/ux-ai/) (Abrufdatum: 24. 12. 2019)
+[^:qu:one]: Rian Van der Merwe, [eleza.com](https://elezea.com/2013/09/responsive-design-agency-workflow/) (Abrufdatum: 13.&#x202F;11.&#x202F;2019)
+[^:qu:two]: Matthias Spielkamp, [zeit.de](https://www.zeit.de/digital/2019-08/matthias-spielkamp-algorithmen-diskriminierung-algorithmwatch-wird-das-was-digitalpodcast) (Abrufdatum: 24.&#x202F;11.&#x202F;2019)
+[^:qu:three]: Kevin Ho, [medium.com](https://medium.com/ideo-stories/organizing-the-world-of-fonts-with-ai-7d9e49ff2b25?) (Abrufdatum: 24.&#x202F;11.&#x202F;2019)
+[^:qu:four]: Johanna Osterrieter, [medium.com](https://medium.com/@johanna.osterrieter/k%C3%BCnstliche-intelligenz-im-design-23f7a3d7f3db) (Abrufdatum: 24.&#x202F;11.&#x202F;2019)
+[^:qu:five]: Jess Holbrook, [medium.com](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd) (Abrufdatum: 12.&#x202F;11.&#x202F;2019)
+[^:qu:six]: Liam Spradlin, [medium.com](https://medium.com/project-phoebe/mutate-more-digging-deeper-into-ui-that-evolves-with-the-user-fc0e0d94b402) (Abrufdatum: 24.&#x202F;12.&#x202F;2019)
+[^:qu:seven]: Josh Lovejoy, [Google Design](https://design.google/library/ux-ai/) (Abrufdatum: 24.&#x202F;12.&#x202F;2019)
 
 
 ## Quellenverzeichnis
@@ -248,7 +249,7 @@ reference-text-suffix: ' – '
 # gets repalced with footnotes
 group-include: qu
 
-inline-link-prefix: 'Qu. '
+inline-link-prefix: 'Qu.&nbsp;'
 
 reference-link-prefix: '↑ Qu. '
 reference-link-suffix: ''
