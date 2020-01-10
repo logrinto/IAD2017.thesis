@@ -354,13 +354,13 @@ reference-link-suffix: ''
 reference-text-suffix: ' – '
 ```
 
-[^:fig:pic-source-one]: Abb. 1: Prahalad, C. K. / Ramaswamy V. (2004). The Future of Competition. Co-Creating Unique Value with Customers. USA: Harvard Business School Press. (97) Nachbau der Originalgrafik
+[^:fig:pic-source-one]: Abb. 1: Prahalad, C. K./Ramaswamy V. (2004). The Future of Competition. Co-Creating Unique Value with Customers. USA: Harvard Business School Press. (97) Nachbau der Originalgrafik
 
-[^:fig:pic-source-two]: Abb. 2: Prahalad, C. K. / Ramaswamy V. (2004). The Future of Competition. Co-Creating Unique Value with Customers. USA: Harvard Business School Press. (96) Nachbau der Originalgrafik
+[^:fig:pic-source-two]: Abb. 2: Prahalad, C. K./Ramaswamy V. (2004). The Future of Competition. Co-Creating Unique Value with Customers. USA: Harvard Business School Press. (96) Nachbau der Originalgrafik
 
-[^:fig:pic-source-three]: Abb. 3: Prahalad, C. K. / Ramaswamy V. (2004). The Future of Competition. Co-Creating Unique Value with Customers. USA: Harvard Business School Press. (120) Nachbau der Originalgrafik
+[^:fig:pic-source-three]: Abb. 3: Prahalad, C. K./Ramaswamy V. (2004). The Future of Competition. Co-Creating Unique Value with Customers. USA: Harvard Business School Press. (120) Nachbau der Originalgrafik
 
-[^:fig:pic-source-four]: Abb. 4: Prahalad, C. K. / Ramaswamy V. (2004). The Future of Competition. Co-Creating Unique Value with Customers. USA: Harvard Business School Press. (122) Nachbau der Originalgrafik
+[^:fig:pic-source-four]: Abb. 4: Prahalad, C. K./Ramaswamy V. (2004). The Future of Competition. Co-Creating Unique Value with Customers. USA: Harvard Business School Press. (122) Nachbau der Originalgrafik
 
 <Grid>
 
