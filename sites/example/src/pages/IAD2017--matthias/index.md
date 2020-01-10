@@ -100,7 +100,8 @@ Personalisierung der Inhalte und Angebote werden von einigen Konsumenten auch al
 
 
 ### 2.8 Zusammenfassung der Theorie
-Nahezu jede unserer Bewegung im internet hinterlässt eine Daten-Spur welche mit Hilfe von diversen Trackingmethoden aufgezeichnet. Aufgrund der Individualität der generieren Daten können diese durch die Auswertungen geräteübergreifende einer Person zugewiesen werden.
+Nahezu jede unserer Bewegungen im Internet hinterlässt eine Daten-Spur, welche mit Hilfe von diversen Trackingmethoden aufgezeichnet wird. Aufgrund der Individualität der generierten Daten können die gesammelten Daten ausgewertet und geräteübergreifende einer Person zugewiesen werden.
+
 Durch die Analyse der gesammelten Daten haben Unternehmen von klein bis gross die Möglichkeit, ihre Kunden und deren Bedürfnisse besser zu verstehen. Durch den Einfluss dieser Daten lassen sich den entsprechenden Zielkunden spannende und relevante Angebote präsentieren, was zu einer Stärkung der Kundenbindung führt. Zudem erhöhen die Unternehmen mit Hilfe von Marketing-Tools, eine geschickte Positionierung ihrer Sichtbarkeit auf dem Markt und können zudem Ihre Kampagnen dynamisch steuern, testen und entsprechend anpassen. 
 
 Durch das spezifische Ansprechen der Zielgruppen lassen sich auch gezielt Bedürfnisse kreieren. In dieser Hinsicht der personalisierten Werbung stellt sich die ethische Frage: Wo liegt die Grenze zwischen Manipulation und Marketing? 
