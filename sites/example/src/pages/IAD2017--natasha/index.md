@@ -9,7 +9,7 @@ path: "/posts/2020/natasha/"
 tags:
   - "TagOne"
   - "TagTwo"
-description: "Studie über das Vertrauen in Content Sharing Plattformen, die für Peer-to-Peer (P2P) gestaltet sind und über eine dynamische Struktur verfügen."
+description: "Studie über das Vertrauen in Content Sharing Plattformen, die für Peer-to-Peer (P2P) gestaltet sind und über eine dynamische Struktur verfügen"
 ---
 
 
@@ -32,14 +32,15 @@ Heutzutage ist es selbstverständlich, Inhalte über das Internet zu erstellen u
 
 Vor der Digitalisierung stammten die Informationen meistens von Autoren, Journalisten und anderen Fachleuten. Im Web 2.0 werden die Informationen auch durch Peer-to-Peer erstellt.
 Damit die schriftlichen Informationen genutzt wurden und werden, müssen die Leser&ast;innen und Nutzer&ast;innen Vertrauen zu den Informationen und in die Informationsquellen haben. Wie entstand und entsteht das Vertrauen in schriftliche Informationen? Das soll in der vorliegenden Arbeit untersucht werden. Dabei wird in der Thesis der Fokus auf zwei Hauptfragen gelegt:
-
+#
 
 1. **Wie entstand Vertrauen zu Informationsquellen vor der Digitalisierung (zu Buchverlagen, Büchern, Zeitungen, Institutionen etc.)?**
 
 2. **Wie hat das Web 2.0 und Methoden wie P2P Sharing das Vertrauen in Wissen/Information verändert?** <br/>
-
+#
 
 Zudem werden auch folgende Fragen untersucht: Wann und wie startete diese Revolution der Sharing Plattformen? Wie sieht das Vertrauen von Nutzer&ast;innen in Sharing Plattformen aus? Wie vertrauen die Nutzer&ast;innen den Informationsquellen? Hat sich das Vertrauen vor und nach der Digitalisierung verändert?
+#
 
 <Margin>
 
@@ -51,7 +52,7 @@ Im Text gibt es an mehreren Stellen solche Kästchen. Diese werden für kleine F
 
 **Die Arbeit ist wie folgt aufgebaut:** <br/>
 Nachdem die zentralen Begriffe definiert worden sind, wird ein Blick in die Vergangenheit geworfen: Welche schriftlichen Informationsquellen hat es vor der Digitalisierung gegeben? Wie funktionierte das damals vorherrschende B2C-Konzept? Und wie entsteht Vertrauen ins B2C-Konzept? Danach steht die Digitalisierung im Zentrum: Es werden die mit der Digitalisierung verbundenen Veränderungen aufgezeigt, das P2P-Konzept wird beschrieben und es wird der Frage nachgegangen, wie im P2P-Konzept Vertrauen entsteht. In einem weiteren Kapitel werden drei Fallbeispiele in Bezug auf P2P Vertrauen untersucht: Wikipedia, Twitter und Facebook. Diese drei Beispiele wurden gewählt, weil sie zu den wichtigsten P2P-Plattformen gehören. Um noch mehr über die Konzepte P2P und B2C und das Vertrauen in Wikipedia, Twitter und Facebook zu erfahren, wurde zudem eine Diskussion mit vier Personen aufgezeichnet. Die Ergebnisse dieses Gesprächs sind im Kapitel «Diskussion» dargestellt. Im letzten Kapitel, dem Schlusswort, werden die Ergebnisse dieser Untersuchung zusammengefasst, es wird ein Fazit gezogen und es werden weiterführende Fragestellungen formuliert.
-
+##
 
 <!--Für weitere Infos siehe [Github](https://github.com/signalwerk/gatsby-theme-signalwerk).-->
 
@@ -123,11 +124,12 @@ Die Prosumenten beeinflussen und erhöhen die dynamische Struktur in den Content
 _«Vertrauen bezeichnet die subjektive Überzeugung (oder auch das Gefühl für oder Glaube an die) von der Richtigkeit, Wahrheit von Handlungen, Einsichten und Aussagen bzw. der Redlichkeit von Personen.»_[^Vertrauen in Wikipedia – https://de.wikipedia.org/wiki/Vertrauen]
 
 Vertrauen wird nicht als selbstverständlich wahrgenommen, weil es stark von verschiedenen Situationen beeinflusst ist. _Gemäss Friesens kommt es darauf an, wie die Beziehung zwischen zwei oder mehreren Personen ist. Je stärker sie verbündet sind, desto mehr vertrauliche Informationen erhalten sie._[^Friesen, 2017, S. 19 «Bewertung von Vertrauensinstrumenten in der Sharing Economy» – https://opus.ostfalia.de/frontdoor/deliver/index/docId/839/file/Friesen_2017_Vertrauensinstrumente_SharingEconomy_Mitfahrgelegenheit.pdf] Bei persönlichen Treffen entscheiden in der Regel die Gefühle der Menschen darüber, wem sie vertrauen können und wem nicht. Auch sind Glaubwürdigkeit und Sympathie wichtig für das Vertrauen.
-
+#
 
 ---
 
 ### Vor der Digitalisierung
+#
 
 #### Schriftliche Informationsquellen
 _Wie Böhn und Seidler beschreiben, sind Wissensbestände im menschlichen Gedächtnis nicht dauerhaft speicherbar. Erst die schriftliche Archivierung ermöglichte die Speicherung von Wissen ausserhalb des Gedächtnisses._[^Böhn und Seidler 2014, S. 32, «Mediengeschichte: Eine Einführung»] Seitdem wurden unzählige Informationsquellen geschaffen. Vor der Digitalisierung waren die Informationsquellen ausschliesslich analoge, haptische Dinge, wie Bücher, Zeitung, Zeitschriften und weitere Printmedien. Diese wurden unter anderem in Archiven von Bibliotheken und Museen gelagert.
@@ -145,8 +147,10 @@ _Die elektronischen Informationen, die über Radio und Fernsehen ausgestrahlt we
 
 #### B2C-Konzept
 Vor der Digitalisierung wurden schriftliche Informationen mit dem Interaktionsmodell B2C und über die schriftlichen Medien, Bücher und Zeitungen verbreitet. B2C bedeutet, dass Fachpersonen Informationen für Nutzer&ast;innen verfassen. Zu den Fachpersonen gehörten Journalist&ast;innen, Autor&ast;innen, Lyriker&ast;innen, Psycholog&ast;innen, Wissenschaftler&ast;innen, Schriftsteller&ast;innen, Ärzt&ast;innen und andere Fachleute. Die Nutzer&ast;innen konnten dadurch Informationen aus glaubwürdigen Informationsquellen lesen. Jedoch bekamen die Nutzer&ast;innen nur beschränkt schriftliche Informationen, denn die Fachpersonen sowie Personen aus dem Bereich der Politik haben entschieden, welche Informationen veröffentlicht werden sollen und welche nicht. _Dadurch wurden die Journalist&ast;innen und alle Bürger&ast;innen in ihrem Recht auf Informationszugang beschränkt. Dadurch haben die Bürger&ast;innen angefangen, für ihr Recht auf Informationsfreiheit zu kämpfen._[^Informationsfreiheit in Wikipedia – https://de.wikipedia.org/wiki/Informationsfreiheit]
+#
 
 > «Im Gesetz ist die Rezipientenfreiheit beschrieben, die besagt, dass man sich von überall her Informationen beschaffen darf.»[^Rezipientenfreiheit in Wikipedia – https://de.wikipedia.org/wiki/Rezipientenfreiheit]
+#
 
 #### Entstehung von Vertrauen ins B2C-Konzept
 In Bezug auf Printmedien bauen die Menschen Vertrauen anders auf, als sie es bei persönlichen Begegnungen mit Menschen machen. Das Vertrauen in Bücher basiert unter anderem auf der Erwähnung der Autoren, auf Literaturlisten und weiteren Quellen. Zu den weiteren Quellen gehören beispielsweise Dokumente, Archive und Akten. In Zeitungen wurden Artikel von verschiedenen Journalist&ast;innen geschrieben. Zeitungen präsentieren ihre Informationen in verschiedenen Rubriken; dadurch können die Leser&ast;innen entsprechend ihrem Interesse zu Informationen kommen. Das Vertrauen der Leser&ast;innen gegenüber den Printmedien hängt von ihrem Wissen, ihrem Interesse und ihrer Lebenserfahrung ab. _Böhn und Seidler beschreiben es wie folgt: «Das Vertrauen in Informationsquellen wurde vermutlich von Interessen und Akzeptanz beeinflusst.»_[^Böhn und Seidler 2014, S. 60, «Mediengeschichte: Eine Einführung»] Die verschiedenen Zeitungen präsentierten unterschiedliche Ansichten, wodurch sich die Konsument&ast;innen entscheiden können, welche Zeitung für sie am glaubwürdigsten ist. Dadurch wird der Meinungsaustausch und die Diskussion gefördert. _«Jedoch sind durch die Meinungsverschiedenheit auch potentielle Konflikte entstanden», wie Böhn und Seider hervorheben._[^Böhn und Seidler 2014, S. 61, «Mediengeschichte: Eine Einführung»] Die Menschen wurden immer autonomer und die Wichtigkeit der Individualität der Menschen nahm immer mehr zu. Dadurch begann die Menschheit für ihre Rechte zu kämpfen.
@@ -162,6 +166,7 @@ Die mündlichen Informationsquellen von früher entwickelten sich aus Gemeinscha
 </Margin>
 
 ### Zeitalter der Digitalisierung
+#
 
 #### Entstehung der Digitalisierung und neue schriftliche Informationsquellen
 _Wie bei Böhn und Seidler zu lesen ist, wurde im Jahr 1969 das Internet erfunden und später wurden die ersten HTTP-Webseiten veröffentlicht. Seitdem wurde das Internet zunehmend wichtiger._[^Böhn und Seidler 2014, S. 146f., «Mediengeschichte: Eine Einführung»] Diese innovative Technologie funktioniert nur über den Computer, fördert die Vernetzung von verschiedenen Standorten und entwickelte sich dadurch in eine zentralistisch organisierte Informationsstruktur. Mehrere Rechner können über ein zentrales Netzwerk miteinander vernetzt sein. Seit Beginn der Digitalisierung werden grafisch zunehmend speziellere Benutzeroberflächen für Computer geschaffen, die Nutzungsmöglichkeiten werden immer vielfältiger und es sind neue schriftliche Informationsquellen entstanden: Digitale Medien, Links, E-Mails, Foren, Chats und Games.
@@ -196,7 +201,7 @@ Vor der Digitalität waren die Menschen analoge Gegenstände gewohnt und sie kom
 Das Vertrauen der Nutzer&ast;innen in die sozialen Massenmedien hängt von den Autor&ast;innen, den Unternehmen oder den Nutzer&ast;innen ab. Die Nutzer&ast;innen vertrauen ihrem Instinkt. Allein der Instinkt genügt nicht. Der Mensch macht mit dem Internet gute und schlechte Erfahrungen. Zu den schlechten Erfahrungen gehören unter anderem Filterblasen, Fake News, Datenmissbrauch und Überwachung. Aufgrund dieser Erfahrungen lernen die Nutzer&ast;innen, wann sie sich schützen müssen und wann sie sicher sind. Die Richtigkeit und Sicherheit sind heute primärer geworden. _Darum gibt es verschiedene Instrumente, um das Vertrauen prüfen zu können. Dazu gehören die Identitätsverifizierung, die Qualitätssicherung, die Usability, die Flexibilität, Quellenangaben, Kontaktinformationen und Bewertungen._[^Friesen, 2017, S. 23f., «Bewertung von Vertrauensinstrumenten in der Sharing Economy»]
 
 Bei P2P Sharing-Plattformen funktioniert das Vertrauen zum Teil auch über den zwischenmenschlichen Kontakt. Das ist dann der Fall, wenn sich Nutzer&ast;innen aus der realen Welt kennen.
-
+#
 
 
 
@@ -238,24 +243,34 @@ Die Artikel auf Wikipedia können mit verschiedenen Qualitätsmassstäben bewert
 
 
 ### Twitter
+
+![Twitter](./img/twitter.png)
+*Twitter[^:fig:Abbildung von Pinterest]*
+
 Twitter gehört zu einer Social-Media-Plattform. Diese dynamische Kommunikationsplattform ist mehr auf die Politik ausgerichtet. Heutzutage haben sogar Politiker&ast;innen wie Donald Trump einen eigenen Account auf Twitter und schreiben regelmässig kurze Messages. Ihre Aussagen werden oft in analogen oder digitalen Zeitungen zitiert. Auch Journalist&ast;innen und Redakteur&ast;innen posten produktiv News auf Twitter. Unbekannte bis bekannte Nutzer&ast;innen können die Beiträge kommentieren und mitdiskutieren. Im Vergleich zu Facebook ist Twitter ein kleines soziales Netzwerk, doch seine Offenheit und Schnelligkeit machen die Kommunikation einfach. Wegen der Geschwindigkeit, in der die Nachrichten zu aktuellen Geschehnissen verbreitet werden, ist Twitter bekannter und auch beliebt geworden. <br/>
 
 Das Merkmal von Twitter sind die Hashtags. Über den Hashtag «#» werden die Tweets miteinander verknüpft. Dadurch können sie schnell abgerufen werden. Die junge Generation nutzt Twitter häufig, um schnell etwas zu finden oder auffälliger sein zu können. Von den Vorteilen der Hashtags profitieren auch die Leute in den Bereichen Medien und Journalismus.
+#
 
 **Vertrauen in Twitter** <br/>
 Durch die persönlichen Tweets von echten Nutzer&ast;innen wird bei den den Follower&ast;innen Vertrauen geschaffen *Weitere Ausführungen zum Vertrauen in Twitter siehe Kapitel «Diskussion»*.
 
 
 ### Facebook-Gruppen
+
+![Twitter](./img/facebookgruppen.jpg)
+*Facebook-Gruppen[^:fig:Abbildung von clicks digital Website]*
+
 _In der grössten Social-Media-Plattform Facebook entstehen tagtäglich neue Gruppen und diese Gruppen liefern zahlreiche Informationen, Wissen und Ressourcen._[^Stadler, 2016, S. 215, «Kultur der Digitalität»] Die Informationen kann man online oder offline abrufen. Alle Nutzer&ast;innen können eine oder mehrere Gruppen erstellen und diese auch steuern. In einer Gruppe kommentieren, produzieren und diskutieren die anderen aktiven Nutzer&ast;innen gemeinsam. Dazu kommt noch, dass die Administrator&ast;innen von Gruppen anderen Personen Rollen zuweisen können, z.B. die Rollen der Administrator&ast;innen, der Moderator&ast;innen oder der Leser&ast;innen.
 
 Bei der Erstellung einer Gruppe wird definiert, ob eine Gruppe öffentlich, geschlossen oder geheim sein soll. Meistens besteht eine Gruppe aus Nutzer&ast;innen, welche gemeinsame Interessen haben. Trotz gemeinsamer Interessen der Nutzer&ast;innen einer Gruppe gibt es auch Meinungsverschiedenheiten. _Deshalb wurde von den Gründer&ast;innen die Regel festgelegt, dass innerhalb eines Commons alle Entscheidungen kollektiv gefällt werden._[^Stadler, 2016, S. 250, «Kultur der Digitalität»]
 
 Vor der Erstellung einer Gruppe müssen verschiedene Einstellungen wie Privatsphäre, Gruppenart und Kategorien gewählt werden, damit die Nutzer&ast;innen informiert sind, um was für eine Gruppe es sich handelt. Es können zum Beispiel folgende Kategorien gewählt werden: Lokale, Bildung, Essen, Sport, Tiere, Politik, Verkauf, Beruf, Kunst, Gemeinschaftliche Organisation, Musik, Religion, Person des öffentlichen Lebens, Gesundheit, Unternehmen und Sonstiges. Eine Übersicht aller Kategorien ist unter https://www.facebook.com/pages/category/ zu finden.
+#
 
 **Vertrauen in Facebook-Gruppen** <br/>
 _Facebook hat seit 2018 viele Nutzer&ast;innen verloren, weil viele Nutzer&ast;innen seit dem Datenschutz-Skandal Facebook nicht mehr vertrauen. Nach dem Skandal verkündete Mark Zuckerberg, dass sich die Plattform «Facebook» optisch und inhaltlich in Bezug auf «neue Regel und andere Werte» ändern müsse, um das Vertrauen der Nutzer&ast;innen wieder zu gewinnen_[^Artikel vom Datenwerk Blog, 22. MAI 2019 – https://weblog.datenwerk.at/2019/05/22/vertrauen-in-facebook/]
-
+#
 
 ---
 ## Diskussion
@@ -337,18 +352,21 @@ Die laufende Aktualisierung macht, dass die Nutzer&ast;innen unsicher sind, ob e
 
 <Box ratio="16-9">
 
-<iframe src="https://player.vimeo.com/video/169809377" frameborder="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KkYNvRgSaTQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </Box>
+#
 
 ---
 ## Schluss
 
 ### Fazit
 In der vorliegenden Arbeit wurde das Vertrauen in schriftliche Informationen vor der Digitalisierung und seit der Digitalisierung untersucht. Abschliessend wird versucht, die beiden Hauptfragen zu beantworten. <br/>
+#
 
 **Wie entstand Vertrauen zu Informationsquellen vor der Digitalisierung (zu Buchverlagen, Büchern, Zeitungen, Institutionen etc.)?** <br/>
 Vor der Digitalisierung lieferten Fachleuten über B2C Informationen an analoge Printmedien und liessen sie veröffentlichen. Die inneren Arbeitsprozesse von B2C sind bereits untereinander geprüft und lassen sich bestätigen. Der Status der Fachleute überzeugte die Nutzer&ast;innen und bewirkt, dass sie Vertrauen entwickelten. Im politischen Bereich gab es Konflikte, vor allem durch Meinungsverschiedenheiten und Zensur. Aufgrund des Vertrauensmissbrauchs der beschränkten Informationsquellen von Fachleuten, beschlossen die Menschen zu reagieren. Nach der politischen Revolution in Bezug auf Pressefreiheit, Menschenrechte und Meinungsfreiheit, entwickelten die Menschen ihre Beglaubigungsstrategien und forderten das Recht auf Informationsfreiheit ein. In dieser Zeit wird auch die Individualität der Menschen vielfältiger und ihr Vertrauen entscheidet sich aufgrund eigener Lebenserfahrung, Wissen, Instinkt, Interesse und Akzeptanz. Durch das Massenmedium Zeitung entstand die Möglichkeit, dass alle Informationen erhalten konnten. Kurz vor der Digitalisierung entstanden Radio oder Fernsehen. Durch diese wurde so oft wie möglich das aktuelle Geschehen in Echtzeit ausgestrahlt. Das B2C-Konzept war damals sehr vertrauenswürdig und wurde als selbstverständlich wahrgenommen. <br/>
+#
 
 **Wie hat das Web 2.0 und Methoden wie P2P Sharing das Vertrauen in Wissen/Information verändert?** <br/>
 Seit das Internet geschaffen wurde, sind unzählige Informationen an zentralisierte Netzwerke geliefert worden und werden immer noch geliefert. Gleichzeitig nahmen die Nutzer&ast;innen des Internets laufend zu. Unter den Nutzer&ast;innen befinden sich Vertreter&ast;innen der gesamten Gesellschaft: Junge bis alte Menschen mit ganz unterschiedlichem Bildungshintergrund. Das Internet verändert sich rasant in Bezug auf Technologie, Geräte, Vernetzung und Benutzeroberflächen.
@@ -363,8 +381,13 @@ Während der Bearbeitung meiner Thesis, entdeckte ich weitere interessante Theme
 * **«Beeinflusst das Usability | UI Design das Vertrauen der Nutzer*innen?»** <br/>
 
 Diese zwei Fragen inspirieren mich sehr. Für beide Studien muss man mehr Zeit investieren, mehrere Analyse bzw. «Human Centered Design» und persönliche Interviews durchführen. Zurzeit findet man kaum Unterlagen zu diesen Fragestellungen. Deshalb wären Studien zu diesen zwei Fragestellungen gerade für die Bereiche UX / UI Desing und IT sehr nützlich.
+#
+
+<Grid>
 
 ---
+
+</Grid>
 
 
 <!-- references text-->
