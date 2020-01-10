@@ -1,5 +1,5 @@
 ---
-title: Dynamische Strukturen in digitalen Produkten
+title: Einfluss von Künstlicher Intelligenz auf das Benutzererlebnis
 author: "Nicole Watrinet"
 date: "2020-01-11"
 layout: post
