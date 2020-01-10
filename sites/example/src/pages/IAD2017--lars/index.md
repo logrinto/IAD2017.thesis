@@ -1,5 +1,5 @@
 ---
-title: Inwiefern können Sprachassistenten dem Menschen helfen eine Krankheit zu erkennen?
+title: "Dr. Alexa & Co.: Medizinische Auskunft aus dem Internet"
 author: "Lars Mäder"
 date: "2020-01-11"
 layout: post
@@ -7,9 +7,15 @@ draft: false
 hideInMenu: false
 path: "/posts/2020/lars/"
 tags:
-  - "TagOne"
-  - "TagTwo"
-description: "Eine Analyse des Einsatzes von intelligenten Sprachassistenten in einem Krankheitsfall"
+  - "Sprachassistenten"
+  - "Alexa"
+  - "Siri"
+  - "Cortana"
+  - "Google Assistant"
+  - "Krankheit"
+  - "Krankheitsfall"
+  - "Dr. Google"
+description: "Eine Analyse über den Einsatz von intelligenten Sprachassistenten im Krankheitsfall"
 ---
 
 import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
@@ -308,8 +314,8 @@ Vor allem als Assistent im Alltag könnten die Sprachassistenten eine Oberhand g
 
 ```references
 group-include: lit
-inline-link-prefix: 'Lit. '
-reference-link-prefix: '↑ Lit. '
+inline-link-prefix: 'Lit.&#x202F;'
+reference-link-prefix: '↑ Lit.&#x202F;'
 reference-link-suffix: ''
 reference-text-suffix: ' – '
 ```
@@ -327,8 +333,8 @@ reference-text-suffix: ' – '
 
 ```references
 group-include: qu
-inline-link-prefix: 'Qu. '
-reference-link-prefix: '↑ Qu. '
+inline-link-prefix: 'Qu.&#x202F;'
+reference-link-prefix: '↑ Qu.&#x202F;'
 reference-link-suffix: ''
 reference-text-suffix: ' – '
 ```
@@ -343,8 +349,8 @@ reference-text-suffix: ' – '
 ```references
 # gets repalced with footnotes
 group-include: abb
-inline-link-prefix: 'Abb. '
-reference-link-prefix: '↑ Abb. '
+inline-link-prefix: 'Abb.&#x202F;'
+reference-link-prefix: '↑ Abb.&#x202F;'
 reference-link-suffix: ''
 reference-text-suffix: ' – '
 ```
