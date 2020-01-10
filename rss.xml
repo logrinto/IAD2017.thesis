@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Thesis IAD2017]]></title><description><![CDATA[A starter blog ...]]></description><link>https://thesis.logrinto.ch</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 10 Jan 2020 21:16:00 GMT</lastBuildDate><item><title><![CDATA[Thesis]]></title><description><![CDATA[Schule für Gestaltung Zürich · 2019 · CC-BY-SA 4.0 Dokumentation Beispiel · Stefan Huber Pascale Anderegg Stephanie Fuchs Marc Hatt Severin…]]></description><link>https://thesis.logrinto.chroot</link><guid isPermaLink="false">https://thesis.logrinto.chroot</guid><content:encoded>&lt;div class=&quot;column__text&quot;&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Thesis IAD2017]]></title><description><![CDATA[A starter blog ...]]></description><link>https://thesis.logrinto.ch</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 10 Jan 2020 21:35:27 GMT</lastBuildDate><item><title><![CDATA[Thesis]]></title><description><![CDATA[Schule für Gestaltung Zürich · 2019 · CC-BY-SA 4.0 Dokumentation Beispiel · Stefan Huber Pascale Anderegg Stephanie Fuchs Marc Hatt Severin…]]></description><link>https://thesis.logrinto.chroot</link><guid isPermaLink="false">https://thesis.logrinto.chroot</guid><content:encoded>&lt;div class=&quot;column__text&quot;&gt;
 &lt;p&gt;&lt;a href=&quot;https://sfgz.ch/&quot;&gt;Schule für Gestaltung Zürich&lt;/a&gt; · 2019 · &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;&lt;/p&gt;
 &lt;br /&gt;
 &lt;br /&gt;
@@ -154,399 +154,6 @@ import Box from &apos;gatsby-theme-signalwerk/src/components/Box&apos;;&lt;/p&gt
   - Inhaltsverzeichnis
   - Mentoring durch
   - Vorgelegt von
-from-heading: 2
-to-heading: 6&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;Inhaltsverzeichnis (Element)&lt;/h2&gt;
-&lt;p&gt;Das Inhaltsverzeichnis kann über ein &lt;code class=&quot;language-text&quot;&gt;toc&lt;/code&gt; (Table of Contents) Code-Block gesteuert werden.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;exclude&lt;/code&gt; – welcher Titel soll nicht im Inhaltsverzeichnis erscheinen&lt;/li&gt;
-&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;from-heading&lt;/code&gt; – erste Stufe, die ausgegeben werden soll. &lt;code class=&quot;language-text&quot;&gt;2&lt;/code&gt; = &lt;code class=&quot;language-text&quot;&gt;h2&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;to-heading&lt;/code&gt; – letzte Stufe, die ausgegeben werden soll. &lt;code class=&quot;language-text&quot;&gt;6&lt;/code&gt; = &lt;code class=&quot;language-text&quot;&gt;h6&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token code&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;```&lt;/span&gt;&lt;span class=&quot;token code-language&quot;&gt;toc&lt;/span&gt;
-&lt;span class=&quot;token code-block language-toc&quot;&gt;exclude: Inhaltsverzeichnis
-from-heading: 2
-to-heading: 6&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;```&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;p&gt;siehe oben&lt;/p&gt;
-&lt;!--
-```toc
-exclude: Inhaltsverzeichnis
-from-heading: 2
-to-heading: 6
-``` --&gt;
-&lt;h2&gt;Text&lt;/h2&gt;
-&lt;Margin&gt;
-&lt;h3&gt;Marginalie&lt;/h3&gt;
-&lt;p&gt;Text Marginalie · Randspalten mit &lt;code class=&quot;language-text&quot;&gt;&amp;lt;Margin&amp;gt;&amp;lt;/Margin&amp;gt;&lt;/code&gt;-Tags umschliessen.&lt;/p&gt;
-&lt;/Margin&gt;
-&lt;p&gt;Text · Normaler Text kann wie in Markdown üblich verfasst werden.&lt;/p&gt;
-&lt;h2&gt;Listen&lt;/h2&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Item A
-&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Item B
-&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Item C&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Item A&lt;/li&gt;
-&lt;li&gt;Item B&lt;/li&gt;
-&lt;li&gt;Item C&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Nummerierte Listen&lt;/h2&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; Item 1
-&lt;span class=&quot;token list punctuation&quot;&gt;2.&lt;/span&gt; Item 2
-&lt;span class=&quot;token list punctuation&quot;&gt;3.&lt;/span&gt; Item 3&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;Item 1&lt;/li&gt;
-&lt;li&gt;Item 2&lt;/li&gt;
-&lt;li&gt;Item 3&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;Code&lt;/h2&gt;
-&lt;p&gt;Code kann entweder als Block oder Inline eingegeben werden.&lt;/p&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;Inline &lt;span class=&quot;token code keyword&quot;&gt;`code`&lt;/span&gt;
-
-&lt;span class=&quot;token code&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;```&lt;/span&gt;&lt;span class=&quot;token code-language&quot;&gt;js&lt;/span&gt;
-&lt;span class=&quot;token code-block language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; kk &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;kk&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;```&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;p&gt;Inline &lt;code class=&quot;language-text&quot;&gt;code&lt;/code&gt;&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; kk &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;kk&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;Fussnoten&lt;/h2&gt;
-&lt;p&gt;Text mit Fussnoten kann wie in Markdown üblich entweder mit Referenzen gemacht werden:&lt;/p&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;«Zitat A»&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;/span&gt;[^quote-one]
-
-&lt;span class=&quot;token url-reference url&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;^quote-one&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; ...&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;oder inline&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;«Zitat B»&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;/span&gt;[^hier der Text]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;«Zitat A»&lt;/em&gt;&lt;sup id=&quot;fnref-quote-one&quot;&gt;&lt;a href=&quot;#fn-quote-one&quot; class=&quot;footnote-ref&quot;&gt;quote-one&lt;/a&gt;&lt;/sup&gt;
-&lt;em&gt;«Zitat B»&lt;/em&gt;&lt;sup id=&quot;fnref-1&quot;&gt;&lt;a href=&quot;#fn-1&quot; class=&quot;footnote-ref&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;h2&gt;Abbildungsverzeichnis&lt;/h2&gt;
-&lt;p&gt;Möchte man die Abbildungen (oder weitere Verzeichnisse) ausserhalb der Fussnoten pflegen, kann man die Fussnoten mit einem Gruppen-Prefix (&lt;code class=&quot;language-text&quot;&gt;:gruppe:&lt;/code&gt;) markieren:&lt;/p&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Bild A&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;/span&gt;[^:fig:one]
-
-&lt;span class=&quot;token url-reference url&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;^:fig:one&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; ...&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;oder inline&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Bild B&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;/span&gt;[^:fig:hier der Text]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;Bild A&lt;/em&gt;&lt;sup id=&quot;fnref-:fig:one&quot;&gt;&lt;a href=&quot;#fn-:fig:one&quot; class=&quot;footnote-ref&quot;&gt;:fig:one&lt;/a&gt;&lt;/sup&gt;
-&lt;em&gt;Bild B&lt;/em&gt;&lt;sup id=&quot;fnref-2&quot;&gt;&lt;a href=&quot;#fn-2&quot; class=&quot;footnote-ref&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;h2&gt;Zitate&lt;/h2&gt;
-&lt;p&gt;Absätze mit Zitaten können speziell markiert werden.&lt;/p&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token blockquote punctuation&quot;&gt;&gt;&lt;/span&gt; Absatz als Zitat.[^quote-one]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Absatz als Zitat.&lt;sup id=&quot;fnref-quote-one&quot;&gt;&lt;a href=&quot;#fn-quote-one&quot; class=&quot;footnote-ref&quot;&gt;quote-one&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;Bilder&lt;/h2&gt;
-&lt;p&gt;Wenn unter einem Bild direkt im Anschluss ein ausgezeichneter Text (&lt;code class=&quot;language-text&quot;&gt;*text*&lt;/code&gt;) steht, erhält dieser Text die Formatierung für Bildunterschriften.&lt;/p&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token url&quot;&gt;![&lt;span class=&quot;token content&quot;&gt;Cat&lt;/span&gt;](./img/header.jpg)&lt;/span&gt;
-&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Wow so miau. Much cute.[^:fig:pic-source]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Cat&quot;
-        title=&quot;Cat&quot;
-        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
-/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
-/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
-        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;
-&lt;em&gt;Wow so miau. Much cute.&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;Video&lt;/h2&gt;
-&lt;p&gt;Videos sollten in eine responsive &lt;code class=&quot;language-text&quot;&gt;Box&lt;/code&gt; gepackt werden. Als Ratio kann 16:9, 4:3 oder 3:2 gangegeben werden.&lt;/p&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Box&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;ratio&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;16:9&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;iframe&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;src&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;https://player.vimeo.com/video/169809377&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;frameborder&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;0&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;iframe&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Box&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;Box ratio=&quot;16-9&quot;&gt;
-&lt;iframe src=&quot;https://player.vimeo.com/video/169809377&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
-&lt;/Box&gt;
-&lt;h2&gt;Grid – volle Breite&lt;/h2&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-
-&lt;span class=&quot;token url&quot;&gt;![&lt;span class=&quot;token content&quot;&gt;Cat&lt;/span&gt;](./img/header.jpg)&lt;/span&gt;
-&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;Hello Cat[^:fig:pic-source]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;*&lt;/span&gt;&lt;/span&gt;
-
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;Grid&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Cat&quot;
-        title=&quot;Cat&quot;
-        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
-/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
-/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
-        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;
-&lt;em&gt;Hello Cat&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;/Grid&gt;
-&lt;h2&gt;Grid – volle Breite mit Hintergrund&lt;/h2&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;html&quot;&gt;&lt;pre class=&quot;language-html&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Grid&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;background&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-
-![Cat](./img/header.jpg)
-*Hello Cat[^:fig:pic-source]*
-
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;Grid background&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Cat&quot;
-        title=&quot;Cat&quot;
-        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
-/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
-/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
-        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;
-&lt;em&gt;Hello Cat&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;/Grid&gt;
-&lt;h2&gt;Grid – mit Spalten&lt;/h2&gt;
-&lt;h3&gt;Eingabe&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Column&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;start&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;1&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;end&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;7&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-
-&lt;span class=&quot;token title important&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;###&lt;/span&gt; Cat Column A&lt;/span&gt;
-...
-
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Column&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;Column&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;start&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;7&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;end&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;13&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-
-&lt;span class=&quot;token title important&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;###&lt;/span&gt; Cat Column B&lt;/span&gt;
-...
-
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Column&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
-&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;Grid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;Darstellung&lt;/h3&gt;
-&lt;Grid&gt;
-&lt;Column start=&quot;1&quot; end=&quot;7&quot;&gt;
-&lt;h3&gt;Cat Column A&lt;/h3&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Cat&quot;
-        title=&quot;Cat&quot;
-        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
-/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
-/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
-        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;
-&lt;em&gt;Hello Cat&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;/Column&gt;
-&lt;Column start=&quot;7&quot; end=&quot;13&quot;&gt;
-&lt;h3&gt;Cat Column B&lt;/h3&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1400px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwAEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEXbJL1ZZP/xAAbEAACAgMBAAAAAAAAAAAAAAACAwABERIxMv/aAAgBAQABBQIEaTNMoFDYu9wef//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABEQ/9oACAECAQE/AVn/xAAeEAACAgAHAAAAAAAAAAAAAAAAAQISEBEhIjFhgf/aAAgBAQAGPwK03l0VWzzkVo6iFh//xAAaEAACAwEBAAAAAAAAAAAAAAARIQABMRCh/9oACAEBAAE/IbgTsNiOKmEizgCwuSvKmM//2gAMAwEAAgADAAAAEETf/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/ELWv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAx/9oACAECAQE/EFai/8QAHBABAAIDAAMAAAAAAAAAAAAAAQAhETFxQVFh/9oACAEBAAE/EAx3Veq1MgdwMC9MvYf2pqL5cE1PsW5TQlODXZTnP//Z&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Cat&quot;
-        title=&quot;Cat&quot;
-        src=&quot;/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg&quot;
-        srcset=&quot;/static/588acb13a6132d0361a32a5ad8361678/90185/header.jpg 450w,
-/static/588acb13a6132d0361a32a5ad8361678/7288a/header.jpg 900w,
-/static/588acb13a6132d0361a32a5ad8361678/3a5dd/header.jpg 1400w&quot;
-        sizes=&quot;(max-width: 1400px) 100vw, 1400px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;
-&lt;em&gt;Hello Cat&lt;sup id=&quot;fnref-:fig:pic-source&quot;&gt;&lt;a href=&quot;#fn-:fig:pic-source&quot; class=&quot;footnote-ref&quot;&gt;:fig:pic-source&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;/Column&gt;
-&lt;/Grid&gt;
-&lt;!-- references text--&gt;
-&lt;!--
-Vorname Nachname, [Titel der Seite](https://www.google.com/) (Abrufdatum: dd. mm. yyyy).
-Vorname Nachname, Buchtitel, Auflage, Verlag, Erscheinungsort Jahr, erste Seite – letzte Seite.
---&gt;
-&lt;!-- references figures--&gt;
-&lt;h2&gt;Einzelnachweise&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;references&quot;&gt;&lt;pre class=&quot;language-references&quot;&gt;&lt;code class=&quot;language-references&quot;&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;Abbildungsverzeichnis&lt;/h2&gt;
-&lt;p&gt;(Kann auch bei Einzelnachweis gepflegt werden)&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;references&quot;&gt;&lt;pre class=&quot;language-references&quot;&gt;&lt;code class=&quot;language-references&quot;&gt;# gets repalced with footnotes
-group-include: fig
-
-inline-link-prefix: &amp;#39;Fig. &amp;#39;
-
-reference-link-prefix: &amp;#39;↑ Fig. &amp;#39;
-reference-link-suffix: &amp;#39;&amp;#39;
-
-reference-text-suffix: &amp;#39; – &amp;#39;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;Grid&gt;
-&lt;hr&gt;
-&lt;Column start=&quot;1&quot; end=&quot;5&quot;&gt;
-&lt;h4&gt;Mentoring durch&lt;/h4&gt;
-&lt;p&gt;Vorname Nachname &lt;br/&gt;
-HFIAD 2017 &lt;br/&gt;
-Schule für Gestaltung Zürich &lt;br/&gt;
-&lt;a href=&quot;mailto:name@xyz.ch&quot;&gt;name@xyz.ch&lt;/a&gt;&lt;/p&gt;
-&lt;/Column&gt;
-&lt;Column start=&quot;5&quot; end=&quot;13&quot;&gt;
-&lt;h4&gt;Vorgelegt von&lt;/h4&gt;
-&lt;p&gt;Vorname Nachname &lt;br/&gt;
-sonstiges &lt;br/&gt;
-&lt;a href=&quot;mailto:name@xyz.ch&quot;&gt;name@xyz.ch&lt;/a&gt;
-&lt;/Column&gt;&lt;/p&gt;
-&lt;/Grid&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&quot;fn-quote-one&quot;&gt;
-&lt;p&gt;Beispiel für Fussnote&lt;/p&gt;
-&lt;a href=&quot;#fnref-quote-one&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
-&lt;/li&gt;
-&lt;li id=&quot;fn-:fig:one&quot;&gt;
-&lt;p&gt;Beispiel für Abbildungsverzeichnis.&lt;/p&gt;
-&lt;a href=&quot;#fnref-:fig:one&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
-&lt;/li&gt;
-&lt;li id=&quot;fn-:fig:pic-source&quot;&gt;
-&lt;p&gt;Abbildung von &lt;a href=&quot;http://lorempixel.com/800/600/cats/1&quot;&gt;lorempixel.com&lt;/a&gt;&lt;/p&gt;
-&lt;a href=&quot;#fnref-:fig:pic-source&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
-&lt;/li&gt;
-&lt;li id=&quot;fn-1&quot;&gt;
-&lt;p&gt;hier der Text&lt;/p&gt;
-&lt;a href=&quot;#fnref-1&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
-&lt;/li&gt;
-&lt;li id=&quot;fn-2&quot;&gt;
-&lt;p&gt;:fig:hier der Text&lt;/p&gt;
-&lt;a href=&quot;#fnref-2&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Quantified Self]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
-import Grid from 'gatsby-theme-signalwerk/src/components/Grid';
-import…]]></description><link>https://thesis.logrinto.ch/posts/2020/tieukhe/</link><guid isPermaLink="false">https://thesis.logrinto.ch/posts/2020/tieukhe/</guid><pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;
-import Grid from &apos;gatsby-theme-signalwerk/src/components/Grid&apos;;
-import Column from &apos;gatsby-theme-signalwerk/src/components/Column&apos;;
-import Box from &apos;gatsby-theme-signalwerk/src/components/Box&apos;;&lt;/p&gt;
-&lt;h2&gt;1 Einleitung&lt;/h2&gt;
-&lt;h3&gt;1.1 Relevanz&lt;/h3&gt;
-&lt;p&gt;Schon seit Jahrhunderten beobachten und dokumentieren Menschen ihren Körper und ihr eigenes Verhalten. Der Wunsch, den eigenen Körper mittels technischer Hilfsmittel besser zu verstehen, ist also nicht neu. Durch die technologischen Fortschritte erhält dieses Bedürfnis jedoch ein neues Ausmass. Die Menschen interessieren sich heute verstärkt für ihr eigenes Wohlbefinden und ihre Persönlichkeitsentwicklung. Dabei informieren sich Menschen immer mehr im Internet und auf mobilen Geräten über ihre eigene Gesundheit. Zudem werden immer mehr Selbstvermessungstechnologien wie Fitness-Armbänder oder Fitness-Apps genutzt (QS, 2016). Im Jahre 2016 wurde die Anzahl Applikationen im Bereich Fitness- und Gesundheit auf 249’000 geschätzt (research2guidance, 2016 in: QS, 2016), womit dies der App-Bereich mit dem grössten Zuwachs ist. Der grösste Teil machte dabei mit 39% der Fitnessbereich aus. Häufig fällt in Verbindung mit Quantified Self das Stichwort «Wearable Computing Systems» oder kurz gesagt Wearables, mit Sensoren versehene Geräte, welche  Daten aufzeichnen und am Körper des Menschen getragen werden können. Jährlich werden neue Produkte wie Wearables auf den Markt gebracht – im Jahr 2018 waren es nahezu 172 Millionen Fitness-Tracker, die verkauft wurden. Die Selbstvermessung und somit auch die Selbstoptimierung liegt im Trend und hat sich im Zuge der Digitalisierung zu einem schnell wachsenden Gebiet entwickelt.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;md&quot;&gt;&lt;pre class=&quot;language-md&quot;&gt;&lt;code class=&quot;language-md&quot;&gt;&lt;span class=&quot;token italic&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;«BLABLA»&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;_&lt;/span&gt;&lt;/span&gt;[^https://www.onlinepc.ch/hardware/smart-wearables/2018-172-millionen-wearables-verkauft-1696771.html]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;&lt;em&gt;«Zitat B»&lt;/em&gt;&lt;sup id=&quot;fnref-https://www.onlinepc.ch/hardware/smart-wearables/2018-172-millionen-wearables-verkauft-1696771.html&quot;&gt;&lt;a href=&quot;#fn-https://www.onlinepc.ch/hardware/smart-wearables/2018-172-millionen-wearables-verkauft-1696771.html&quot; class=&quot;footnote-ref&quot;&gt;https://www.onlinepc.ch/hardware/smart-wearables/2018-172-millionen-wearables-verkauft-1696771.html&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;h3&gt;1.2 Mein Interesse und meine Motivation zum Thema&lt;/h3&gt;
-&lt;p&gt;Mein Interesse für das Thema Quantified Self stammt aus privaten Erfahrungen. Ich selbst besitze einen Fitness-Tracker von Fitbit und habe damit auch eine Zeit lang trainiert und meine Workouts damit aufgezeichnet. Damals bin ich aus purer Neugier auf diesen Fitness-Tracker gestossen und wollte sie zum Spass ausprobieren. Eine Zeit lang, war es auch wirklich spannend zu sehen wie viele Schritte ich gehe, wie meine Schlafphasen waren oder zusammenfassend auf einer App zu sehen wie oft ich welche Workouts absolviert habe. Doch nach ein paar Monaten legte sich diese Neugier. Über die getrackten Schlafphasen wurde ich nicht schlauer und konnte keine Rückschlüsse ziehen – es war dann halt einfach so wie es war. Auch die Anzahl empfohlenen Schritte konnte ich oft gar nicht erreichen, was auch ein wenig demotivierend auf mich wirkte.
-Heute trainiere ich nicht mehr damit, dafür habe ich aber eine Coaching-Fitness-App auf dem Smartphone, die mir zeigt, welche Übungen ich machen kann, wie ich diese auszuführen habe und mich so durch meine Trainings führt.&lt;/p&gt;
-&lt;h3&gt;1.3 Ziel der Arbeit&lt;/h3&gt;
-&lt;p&gt;Ausgehend von diesem aktuellen Trend möchte ich in der folgenden Arbeit darlegen, wie sich die Selbstvermessung durch die Digitalisierung verändert hat. Das Ziel der Arbeit ist es aufzuzeigen, welche möglichen Folgen die Nutzung von Fitness-Trackern und Fitness-Apps hat und wie AnwenderInnen in ihrem Alltag beeinflusst werden. Ein weiterer Aspekt der Arbeit ist es aufzuzeigen, welche Risiken mit dem Sammeln, Speichern und Teilen digitaler Daten einhergehen.
-Um diese Fragen zu beantworten werden Informationen aus verschiedenen Quellen zusammengetragen und drei Personen, welche regelmässig Fitness-Tracker und Fitness-Apps in ihrem Alltag benutzen interviewt.&lt;/p&gt;
-&lt;h3&gt;1.4 Schwerpunkt&lt;/h3&gt;
-&lt;p&gt;Da der Umfang dieses Themas sehr gross ist, gehe ich mit meiner Arbeit bewusst nur auf einen kleinen Bereich ein. Der Schwerpunkt der Arbeit liegt deshalb im Bereich Sport und Fitness. Andere Gebiete wo Selbstvermessung stattfindet werden in dieser Arbeit nicht thematisiert.&lt;/p&gt;
-&lt;h3&gt;1.5 Wie hängt das Thema mit Dynamik zusammen?&lt;/h3&gt;
-&lt;p&gt;Die Selbstvermessung hängt von den technologischen Fortschritten der Kommunikationstechnologien ab. Während man früher mittels einseitiger Kommunikation gemessen hat, geschieht dies heute in einer wechselseitigen Kommunikation. Die heutige digitale Selbstvermessung verbindet viel mit Dynamik, wobei die Vernetzung, die permanente Aufzeichnung und die Personalisierung wesentliche Aspekte der Dynamik ausmachen.
-Ein Fitness-Tracker ist unter konstanter Bereitschaft, das heisst er ist immer eingeschaltet, bereit und verfügbar. So findet ein permanenter Informationsaustausch zwischen Mensch und Computer statt. Man spricht von hochfrequenter Interaktion wenn es einen konstanten Fluss von Aktion und Reaktion zwischen dem Nutzer und dem Interface gibt. Wenn der Nutzer ständig die direkte Konsequenz seiner Handlungen sehen kann, erhält er auch ein ständiges Feedback.  Doch nicht nur zwischen Mensch und Computer findet ein permanenter Informationsaustausch statt – die Selbstvermessungsgeräte können auch selbstständig mit anderen Geräten über das Internet kommunizieren und Daten austauschen. Das zeigt sich am Beispiel der Personenwaage. Während früher eine Waage lediglich wiegen konnte, kann die Personenwaage heute das Gewiegte als Daten an ein anderes Gerät oder an eine Anwendung weiterleiten, welche dort vom Menschen eingesehen werden können.
-Ausserdem werden auf den Anwender zugeschnittene Vorschläge erstellt. Je nach Eingabe, Leistung, und Aktion ändern sich die Feedbacks aktiv auf den Nutzer bezogen. So passen sich der Fitnessplan oder die Ziele stetig an und bleiben so dynamisch.&lt;/p&gt;
-&lt;h2&gt;Intro&lt;/h2&gt;
-&lt;p&gt;Grundsätzlich verhält sich das Template wie normaler Markdown-Text. Es gibt aber einige erweiterte Funktionen. Für weitere Infos siehe &lt;a href=&quot;https://github.com/signalwerk/gatsby-theme-signalwerk&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;
-&lt;h2&gt;Inhaltsverzeichnis&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;toc&quot;&gt;&lt;pre class=&quot;language-toc&quot;&gt;&lt;code class=&quot;language-toc&quot;&gt;exclude: Inhaltsverzeichnis
 from-heading: 2
 to-heading: 6&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h2&gt;Inhaltsverzeichnis (Element)&lt;/h2&gt;
@@ -3928,6 +3535,350 @@ Würzwies 10&lt;br/&gt;
 &lt;li id=&quot;fn-:av:wechat-good-product-circle&quot;&gt;
 &lt;p&gt;walkthechat.com, (2019), &lt;a href=&quot;https://walkthechat.com/wechat-released-new-recommended-products-e-commerce-function/&quot;&gt;&lt;em&gt;WeChat released new “recommended products” e-commerce function&lt;/em&gt;&lt;/a&gt;, Abgerufen am 02. Januar 2020.&lt;/p&gt;
 &lt;a href=&quot;#fnref-:av:wechat-good-product-circle&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Quantified Self]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
+import Grid from 'gatsby-theme-signalwerk/src/components/Grid';
+import…]]></description><link>https://thesis.logrinto.ch/posts/2020/tieukhe/</link><guid isPermaLink="false">https://thesis.logrinto.ch/posts/2020/tieukhe/</guid><pubDate>Fri, 10 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;
+import Grid from &apos;gatsby-theme-signalwerk/src/components/Grid&apos;;
+import Column from &apos;gatsby-theme-signalwerk/src/components/Column&apos;;
+import Box from &apos;gatsby-theme-signalwerk/src/components/Box&apos;;&lt;/p&gt;
+&lt;h2&gt;Inhaltsverzeichnis&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;toc&quot;&gt;&lt;pre class=&quot;language-toc&quot;&gt;&lt;code class=&quot;language-toc&quot;&gt;exclude:
+  - Inhaltsverzeichnis
+  - Mentoring durch
+  - Vorgelegt von
+from-heading: 2
+to-heading: 6&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;1 Einleitung&lt;/h2&gt;
+&lt;h3&gt;1.1 Relevanz des Themas&lt;/h3&gt;
+&lt;p&gt;Schon seit Jahrhunderten beobachten und dokumentieren Menschen ihren Körper und ihr eigenes Verhalten. Der Wunsch, den eigenen Körper mittels technischer Hilfsmittel besser zu verstehen, ist also nicht neu. Durch die technologischen Fortschritte erhält dieses Bedürfnis jedoch ein neues Ausmass mit verschiedenen Facetten. Die Menschen interessieren sich heute verstärkt für ihr eigenes Wohlbefinden und ihre Persönlichkeitsentwicklung. Zu diesem Thema informieren sich Menschen immer mehr im Internet und auf mobilen Geräten. Zudem werden immer mehr Selbstvermessungstechnologien wie Fitness-Armbänder oder Fitness-Apps genutzt.&lt;sup id=&quot;fnref-quote-one&quot;&gt;&lt;a href=&quot;#fn-quote-one&quot; class=&quot;footnote-ref&quot;&gt;quote-one&lt;/a&gt;&lt;/sup&gt; Im Jahr 2016 wurde die Anzahl Applikationen im Bereich Fitness- und Gesundheit auf 249 000 geschätzt.&lt;sup id=&quot;fnref-quote-two&quot;&gt;&lt;a href=&quot;#fn-quote-two&quot; class=&quot;footnote-ref&quot;&gt;quote-two&lt;/a&gt;&lt;/sup&gt; Häufig fällt in Verbindung mit Quantified Self das Stichwort «Wearable Computing Systems» oder kurz gesagt Wearables: mit Sensoren versehene Geräte, welche  Daten aufzeichnen und am Körper des Menschen getragen werden können. Jährlich werden neue Produkte wie Wearables auf den Markt gebracht – im Jahr 2018 waren es nahezu 172 Millionen Fitness-Tracker, die verkauft wurden.&lt;sup id=&quot;fnref-quote-three&quot;&gt;&lt;a href=&quot;#fn-quote-three&quot; class=&quot;footnote-ref&quot;&gt;quote-three&lt;/a&gt;&lt;/sup&gt; Die Selbstvermessung und somit auch die Selbstoptimierung liegt im Trend und hat sich im Zuge der Digitalisierung zu einem schnell wachsenden Gebiet entwickelt.&lt;/p&gt;
+&lt;h3&gt;1.2 Mein Interesse und meine Motivation zum Thema&lt;/h3&gt;
+&lt;p&gt;Mein Interesse für das Thema Quantified Self stammt aus privaten Erfahrungen. Ich selbst besitze einen Fitness-Tracker von Fitbit und habe damit auch eine Zeit lang trainiert und meine Workouts damit aufgezeichnet. Damals bin ich aus purer Neugier auf diesen Fitness-Tracker gestossen und wollte es zum Spass ausprobieren. Eine Zeit lang, war es auch wirklich spannend zu sehen wie viele Schritte ich gehe, wie meine Schlafphasen sind oder die absolvierten Workouts zusammenfassend in einer App zu haben. Doch nach ein paar Monaten legte sich diese Neugier. Über die getrackten Schlafphasen wurde ich nicht schlauer und konnte keine Rückschlüsse ziehen – es war dann halt einfach so wie es war. Auch die Anzahl empfohlener Schritte konnte ich oft gar nicht erreichen, was demotivierend auf mich wirkte.
+Heute trainiere ich nicht mehr damit, dafür habe ich aber eine Coaching-Fitness-App auf dem Smartphone, die mir zeigt, welche Übungen ich machen kann, wie ich diese auszuführen habe und mich so durch meine Trainings führt.&lt;/p&gt;
+&lt;h3&gt;1.3 Ziel der Arbeit&lt;/h3&gt;
+&lt;p&gt;Ausgehend von diesem aktuellen Trend möchte ich in der folgenden Arbeit darlegen, wie sich die Selbstvermessung durch die Digitalisierung verändert hat. Zudem sollen mögliche Folgen einer Nutzung von Fitness-Trackern und Fitness-Apps präsentiert werden und die Beeinflussung von AnwenderInnen in ihrem Alltag beschrieben werden. Ein weiterer Aspekt der Arbeit ist es aufzuzeigen, welche Risiken mit dem Sammeln, Speichern und Teilen digitaler Daten einhergehen.
+Um diese Fragen zu beantworten werden Informationen aus verschiedenen Quellen zusammengetragen und drei Personen, welche regelmässig Fitness-Tracker und Fitness-Apps in ihrem Alltag benutzen interviewt.&lt;/p&gt;
+&lt;h3&gt;1.4 Schwerpunkt&lt;/h3&gt;
+&lt;p&gt;Da der Umfang dieses Themas sehr gross ist, gehe ich mit meiner Arbeit bewusst nur auf einen kleinen Bereich ein. Der Schwerpunkt der Arbeit liegt deshalb im Bereich Sport und Fitness. Andere Gebiete wo Selbstvermessung stattfindet werden in dieser Arbeit nicht thematisiert.&lt;/p&gt;
+&lt;h3&gt;1.5 Wie hängt das Thema mit Dynamik zusammen?&lt;/h3&gt;
+&lt;p&gt;Die Selbstvermessung ist eng mit dem technologischen Fortschritt in der Kommunikationstechnologie verbunden. Die heutige digitale Selbstvermessung verbindet viel mit Dynamik, wobei die Vernetzung, die permanente Aufzeichnung und die Personalisierung wesentliche Aspekte der Dynamik ausmachen.
+Ein Beispiel dazu ist der Fitness-Tracker, welcher unter konstanter Bereitschaft ist, das heisst er ist immer eingeschaltet und verfügbar. So findet ein permanenter Informationsaustausch zwischen Mensch und Computer statt. Wenn der Nutzer ständig die direkte Konsequenz seiner Handlungen sehen kann, erhält er ein ständiges Feedback. Doch nicht nur zwischen Mensch und Computer findet ein permanenter Informationsaustausch statt – die Selbstvermessungsgeräte können auch selbstständig mit anderen Geräten über das Internet kommunizieren und Daten austauschen. Das zeigt sich am Beispiel der Personenwaage. Während früher eine Waage lediglich wiegen konnte, kann die Personenwaage heute das Gewiegte als Daten an ein anderes Gerät oder an eine Anwendung weiterleiten, welche dort vom Menschen eingesehen werden können. Ausserdem werden auf den Anwender zugeschnittene Vorschläge erstellt. Je nach Eingabe, Leistung, und Aktion ändern sich die Feedbacks aktiv auf den Nutzer bezogen. So passen sich der Fitnessplan oder die Ziele stetig an und bleiben so dynamisch.&lt;/p&gt;
+&lt;h2&gt;2 Quantified Self&lt;/h2&gt;
+&lt;h3&gt;2.1 Definition&lt;/h3&gt;
+&lt;p&gt;Mit «The Quantified Self» ist eine Gruppe oder ein Individuum gemeint, die ihre Aktivitäten mit Geräten und Applikationen messen. Anhand der Analyseresultate generieren diese Menschen Wissen über ihr eigenes Verhalten und ihre Aktivitäten.&lt;sup id=&quot;fnref-quote-four&quot;&gt;&lt;a href=&quot;#fn-quote-four&quot; class=&quot;footnote-ref&quot;&gt;quote-four&lt;/a&gt;&lt;/sup&gt; Es handelt sich also um eine Tätigkeit, die zur besseren Selbstwahrnehmung beitragen soll. Gary Wolf – einer der Gründer der Quantified-Self-Bewegung – argumentierte an der TED-Konferenz im Jahre 2010&lt;sup id=&quot;fnref-quote-five&quot;&gt;&lt;a href=&quot;#fn-quote-five&quot; class=&quot;footnote-ref&quot;&gt;quote-five&lt;/a&gt;&lt;/sup&gt;, dass wir durch die Vermessung unseres Körpers einen Spiegel vorgehalten bekommen und sich dadurch unser Bewusstsein über den eigenen Körper verändert. «Wir sollten Quantified Self systematisch zur Selbstverbesserung, Selbsterkenntnis und Selbstfindung nutzen. Nur so können wir im Leben effektiver agieren und mehr erreichen.», so Gary Wolf. Der Aspekt des Erkenntnisgewinns und der Verhaltensänderung ist bei Quantified Self von zentraler Bedeutung.&lt;/p&gt;
+&lt;p&gt;Heute ist die Quantified-Self-Bewegung ein Netzwerk, das sich über 35 Länder ausgebreitet hat. Die Community umfasst Selbstvermesser, Entwickler und Anbieter von Self-Tracking-Lösungen mit deren sie umwelt- und personenbezogene Daten aufzeichnen, analysieren und auswerten. Der Blog quantified-self.com ist die Haupthomepage aus Amerika, wobei es in den anderen Ländern jeweils auch eigene Blogs gibt. Die Mitglieder tauschen sich dort über Selbstvermessung aus und treffen sich dabei auch regelmässig auf Veranstaltungen, um sich über persönliche Erlebnisse und Erfahrungen, sowie über die neuesten Produkte auszutauschen.&lt;sup id=&quot;fnref-quote-six&quot;&gt;&lt;a href=&quot;#fn-quote-six&quot; class=&quot;footnote-ref&quot;&gt;quote-six&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Ziel der Quantified-Self-Bewegung ist es mittels Datenaufzeichnung Wissen zu generieren und gleichzeitig verschiedene Lebensbereiche zu optimieren, wobei dies nicht nur den Bereich Sport betrifft, sondern auch die Gesundheit, das Verhalten oder die Umwelt. Ihr Motto lautet «self-knowledge through numbers», was so viel bedeutet wie: «Ich lerne mich besser kennen, indem ich mich selbst vermesse».&lt;sup id=&quot;fnref-quote-seven&quot;&gt;&lt;a href=&quot;#fn-quote-seven&quot; class=&quot;footnote-ref&quot;&gt;quote-seven&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h3&gt;2.2 Begriffsklärung&lt;/h3&gt;
+&lt;p&gt;Im Zusammenhang mit dem Quantified Self tauchen verschiedene Begriffe auf, die im Folgenden kurz erläutert werden.&lt;/p&gt;
+&lt;h4&gt;2.2.1 Self-Tracking&lt;/h4&gt;
+&lt;p&gt;Mit Self-Tracking (dt. Selbstvermessung) ist die kontinuierliche und freiwillige Datenerhebung gemeint, also die Vermessung von eigenem Verhalten, Körperzustände und Körperleistungen über eine bestimmte Zeit hinweg.&lt;sup id=&quot;fnref-quote-eight&quot;&gt;&lt;a href=&quot;#fn-quote-eight&quot; class=&quot;footnote-ref&quot;&gt;quote-eight&lt;/a&gt;&lt;/sup&gt; Das können beispielsweise gesundheitsrelevante Daten wie Blutdruck sein oder sportliche Leistungen wie die Anzahl gegangener Schritte. Durch das Tracken des eigenen Körpers entstehen Daten, die in Zahlen, Diagrammen und Kurven transformiert werden. Das sogenannte Tracken (vom englischen Verb «to track», was auf Deutsch verfolgen bedeutet), geschieht dabei meist durch Wearables – mit Sensoren versehene Kleingeräte. Diese werden im nächsten Abschnitt näher erläutert.&lt;/p&gt;
+&lt;h4&gt;2.2.2 Wearables&lt;/h4&gt;
+&lt;p&gt;Für den Selbstvermessungstrend werden überwiegend Wearables eingesetzt. Wearables gehören in die Sparte IoT (Internet of Things, dt. Internet der Dinge) womit sie selbstständig über das Internet mit anderen Geräten oder Anwendungen kommunizieren können. Das Angebot der Wearables zur Selbstvermessung ist heute grösser denn je, besonders wachsend im Sport- und Fitnessbereich. Dank der Miniaturisierung werden Sensoren immer kleiner und lassen sich so problemlos in Alltagsgegenstände wie Schuhe, Armbänder oder Kleider einpassen. Wearables sind also elektronische Kleingeräte, die der Nutzer am Körper trägt. Bekannte Beispiele für Wearables für die private Nutzung sind Google Glass, SmartWatches und Activity Tracker. Die Sensoren dienen zur Messung körperlicher Aktivitäten und Vorgänge und lassen sich mit einer Applikation verbinden, welche die aufgezeichneten Daten sammelt, speichert und auswertet. Die besonderen Eigenschaften von Wearables sind, dass Sie eher im Hintergrund laufen, also dass sie nicht permanent wahrgenommen werden, und dass sie überall zu jederzeit Einsatzbereit sind.&lt;/p&gt;
+&lt;h4&gt;2.2.3 Fitness-Applikationen&lt;/h4&gt;
+&lt;p&gt;«Fitness-Apps sind Medientechnologien in denen sich Hardware (Messgeräte wie Fitness-Tracker) und Software (Mobile Apps, Interfaces) mit dem Ziel der Motivation und Vermessung körperlicher Leistungen verbinden.», so Stefanie Duttweiler.&lt;sup id=&quot;fnref-quote-nine&quot;&gt;&lt;a href=&quot;#fn-quote-nine&quot; class=&quot;footnote-ref&quot;&gt;quote-nine&lt;/a&gt;&lt;/sup&gt; Apps können nebst der Vermessung und Übersetzung von Körperaktivitäten in digitale Daten und deren Speicherung und Auswertung verschiedene Funktionen ausführen, wie z. B. das Setzen von Fitness-Zielen, das Verfolgen der Kalorienzufuhr, das Sammeln von Trainingsideen und das Teilen von Fortschritten in sozialen Medien. Sie können als Plattform zur Förderung einer gesunden Verhaltensänderung mit personalisierten Trainingseinheiten, Fitnessberatung und Ernährungsplänen genutzt werden. «Von den anderen Medien unterscheiden sich die Fitness-Apps vor allem durch die Verobjektivierung der körperlichen Leistungen.», erklärt Stefanie Duttweiler.&lt;sup id=&quot;fnref-quote-ten&quot;&gt;&lt;a href=&quot;#fn-quote-ten&quot; class=&quot;footnote-ref&quot;&gt;quote-ten&lt;/a&gt;&lt;/sup&gt; Typisch für solche Applikationen ist das Fitness-Portal, das sogenannte Dashboard indem die körperlichen Leistungen in Zahlen und Bildern übersichtlich dargestellt werden.&lt;sup id=&quot;fnref-quote-eleven&quot;&gt;&lt;a href=&quot;#fn-quote-eleven&quot; class=&quot;footnote-ref&quot;&gt;quote-eleven&lt;/a&gt;&lt;/sup&gt; Auch typisch für Fitness-Apps ist der Einsatz von Gamification wie beispielsweise Pokale, Medaillen oder Fitness-Levels, welche die erbrachten Leistungen versinnbildlichen und den Nutzer dadurch auch motivieren.&lt;sup id=&quot;fnref-quote-twelve&quot;&gt;&lt;a href=&quot;#fn-quote-twelve&quot; class=&quot;footnote-ref&quot;&gt;quote-twelve&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h4&gt;2.2.4 Big Data&lt;/h4&gt;
+&lt;p&gt;Unter Big Data werden grosse Mengen an Daten verstanden, die mit speziellen technologischen Lösungen (wie bspw. dem Fitness-Tracker) gespeichert, verarbeitet und ausgewertet werden. Dank technologischen Fortschritten und vor allem aus wirtschaftlichen Interessen wird Big Data schnell vorangetrieben und nimmt heute einen hohen Stellenwert ein.&lt;sup id=&quot;fnref-quote-thirteen&quot;&gt;&lt;a href=&quot;#fn-quote-thirteen&quot; class=&quot;footnote-ref&quot;&gt;quote-thirteen&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Im Bereich Selbstvermessung werden mittels Applikationen oder Fitness-Tracker unsere Bewegungen, Zustände und Körperleistungen im Alltag gemessen, wobei persönliche Daten erhoben werden. «All diese durch Wearables gewonnenen personenbezogenen Daten sind höchst sensibel, da sie Aufschluss über Krankheiten, Lebensgewohnheiten wie Essen, körperliche Aktivität, Schlaf etc. geben können».&lt;sup id=&quot;fnref-quote-fourteen&quot;&gt;&lt;a href=&quot;#fn-quote-fourteen&quot; class=&quot;footnote-ref&quot;&gt;quote-fourteen&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Datenschutz ist bei den Selbstvermessungstechnologien ein immer noch weit verbreitetes Risiko. Die Anbieter solcher Technologien kümmern sich nicht gross um den Datenschutz der Anwender und geben kaum Auskunft, was mit den personenbezogenen Daten geschieht. Je mehr Daten wir verbreiten und zugänglich machen, desto grösser ist das Risiko, dass Personen und Organisationen mit nicht autorisiertem Zugang diese Daten missbrauchen.&lt;/p&gt;
+&lt;p&gt;Unsere Daten werden vor allem dann interessant, wenn zusätzliche Angaben zur Person hinzugezogen werden können, die wir beispielsweise beim Onlinesurfen oder auf sozialen Netzwerken hinterlassen. Interesse an solchen Daten haben Marketingabteilungen, Arbeitgeber, Versicherungen oder Pharmaunternehmen. Bereits heute wollen Versicherungen ihre Kunden, durch die zur Verfügung gestellten Wearables, für «gute» Daten belohnen. Auch in Unternehmen werden oft Wearables verteilt, mit dem Gedanken die Gesundheit der Mitarbeiter durch das Messen der Schritte zu fördern. Dabei werden jedoch diejenigen diskriminiert, welche die «gesundheitlichen Normen» nicht erfüllen können oder sich bewusst gegen ein Wearable entscheiden.&lt;sup id=&quot;fnref-quote-sixteen&quot;&gt;&lt;a href=&quot;#fn-quote-sixteen&quot; class=&quot;footnote-ref&quot;&gt;quote-sixteen&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h3&gt;2.3 Historische Entwicklung&lt;/h3&gt;
+&lt;p&gt;Die Selbstvermessung und somit der Wunsch, den eigenen Körper mittels technischer Hilfsmittel besser zu verstehen, ist nichts neues. Zwar erhält dieses Bedürfnis mit den neuen digitalen Möglichkeiten eine ganz neue Dimension. Doch Techniken um sich selbst zu beobachten und kontrollieren werden von den Menschen schon seit Jahrhunderten genutzt. Für chronisch Erkrankte oder Spitzensportler gehört das regelmäßige Messen und Dokumentieren von Vitalitätswerten und Aktivitäten schon lange zum Alltag. Durch die Technologischen Fortschritte ist es nun auch für Hobbysportler möglich, sich zu vermessen.&lt;/p&gt;
+&lt;p&gt;Als eines der ersten Instrumente der Selbstvermessung kann man den Spiegel verstehen, der bereits in der Kupfersteinzeit – indem man zu dieser Zeit verfügbare Metalle zu diesem Zweck polierte – Einsatz fand.&lt;sup id=&quot;fnref-quote-seventeen&quot;&gt;&lt;a href=&quot;#fn-quote-seventeen&quot; class=&quot;footnote-ref&quot;&gt;quote-seventeen&lt;/a&gt;&lt;/sup&gt; Durch den Blick in den Spiegel erhielt man einen Eindruck der äusseren Merkmale.&lt;br/&gt;
+Im Mittelalter fand das Tagebuchschreiben – so wie wir es heute kennen – erstmals Verwendung.&lt;sup id=&quot;fnref-quote-eightteen&quot;&gt;&lt;a href=&quot;#fn-quote-eightteen&quot; class=&quot;footnote-ref&quot;&gt;quote-eightteen&lt;/a&gt;&lt;/sup&gt; Dabei wurden erlebte Ereignisse und Erfahrungen niedergeschrieben. Später in der Renaissance bekam das Tagebuch eine andere Rolle. Es wurde nicht nur für das Festhalten von besonderen Ereignissen genutzt, sondern es diente immer mehr auch als Protokollierung des eigenen Ichs, wie man sich ernährt oder richtig verhält.&lt;br/&gt;
+Am Beispiel der Waage  lässt sich nachvollziehen wie eine frühe Technologie zur Selbstvermessung Einzug in den privaten Sektor erhielt. Der Ursprung des Wiegens liegt mehrere Jahrhunderte zurück. Das Bedürfnis zum Wiegen entstand mit dem Beginn des Handels zur Wertmessung von Gütern. Seit dem 18. Jahrhundert entwickelten sich die Waagen schnell. Am Anfang des 19. Jahrhundert tauchte die Säulenwaage erstmals in der USA auf. Sie wurde zuerst weitgehend für das Wiegen von Gütern verwendet, später wurde sie auch als Personenwaage benutzt. Gegen Ende des 19. Jahrhundert erkannte man den medizinischen Nutzen vom Wiegen.&lt;sup id=&quot;fnref-quote-nineteen&quot;&gt;&lt;a href=&quot;#fn-quote-nineteen&quot; class=&quot;footnote-ref&quot;&gt;quote-nineteen&lt;/a&gt;&lt;/sup&gt; Einzug in den Hausgebrauch fand die Personenwaage ungefähr im ersten Viertel des 20. Jahrhunderts.&lt;sup id=&quot;fnref-quote-twenty&quot;&gt;&lt;a href=&quot;#fn-quote-twenty&quot; class=&quot;footnote-ref&quot;&gt;quote-twenty&lt;/a&gt;&lt;/sup&gt;&lt;br/&gt;
+Tendenzen zur Optimierung lassen sich früh erkennen. Anfang des 20. Jahrhunderts erschienen die ersten Ratgeber über das Thema Selbstvermessung. 1927 erschien das Buch vom Psychologe und Ökonom Gustav Großmann «Sich selbst rationalisieren. Lebenserfolg ist erlernbar». Dort findet man Tipps, wie man sich durch sorgfältige Tagebuch-Aufzeichnung selbst optimieren kann.&lt;br/&gt;
+Die ersten tragbaren Tracking-Geräte setzten sich erstmals 1977 im Sportbereich durch. Die Firma Polar war der erste kommerzielle Anbieter, der das drahtlose Aufzeichnen von Puls am Handgelenk mit dem «Sport Tester PE 2000» ermöglichte.&lt;br/&gt;
+Die aufkommenden Technologien zur Selbstvermessung weckten Aufmerksamkeit bei den beiden Journalisten des Technologie-Magazins «Wired» Gary Wolf und Kevin Kelley. Sie teilen ein gemeinsames Interesse für komplexer werdende Technologien. Ihnen wird nachgesagt, dass sie den Begriff «Quantified Self» geprägt haben, als sie gemeinsam ein Projekt begannen, um all die neuen Tracking-Technologien zu verfolgen. Somit entstand 2007 die Quantified-Self-Bewegung, welche sich zum Ziel gemacht hat, den Nutzern und Herstellern von Tracking-Tools zu dienen.&lt;sup id=&quot;fnref-quote-twenty-one&quot;&gt;&lt;a href=&quot;#fn-quote-twenty-one&quot; class=&quot;footnote-ref&quot;&gt;quote-twenty-one&lt;/a&gt;&lt;/sup&gt;&lt;br/&gt;
+Der «Fitbit Tracker Classic» war schliesslich der Erfinder des heutigen modernen Self-Trackings im Jahre 2008. Das Modell war sehr klein, es konnte an die Hosentasche geklemmt werden, wobei es Schritte, zurückgelegte Distanz, verbrannte Kalorien und Schlaf misst.&lt;sup id=&quot;fnref-quote-twenty-two&quot;&gt;&lt;a href=&quot;#fn-quote-twenty-two&quot; class=&quot;footnote-ref&quot;&gt;quote-twenty-two&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Die rasant entwickelnde Technologie scheint nicht zu bremsen. Es ist zu erwarten dass in den kommenden Jahren die Sensoren und somit die Geräte im Bereich Selbstvermessung immer besser und genauer, sowie auch kleiner und mobiler werden. Das wird zur Folge haben, dass sich die Geräte in Zukunft immer mehr in unsere Alltagsgegenstände verschmelzen und uns so unbemerkt im Hintergrund unterstützen, sei es in der Kleidung oder sogar unter unserer Haut als Implantate.&lt;/p&gt;
+&lt;h2&gt;3 Interviews – Erfahrungen von AnwenderInnen&lt;/h2&gt;
+&lt;h3&gt;3.1 Interviews&lt;/h3&gt;
+&lt;p&gt;Es wurden drei Interviews geführt, um die Folgen der Nutzung von Fitness-Tracker zu erforschen. Spezielles Augenmerk wurde dabei auf die drei Aspekte eigenes Verhalten, sportliche Aktivität und Motivation gelegt. Für die Auswahl der InterviewpartnerInnen waren folgende Faktoren ausschlaggebend:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;die Person nutzt regelmässig ein Wearable mit einer dazugehörigen App&lt;/li&gt;
+&lt;li&gt;die Person treibt wenig bis viel Sport oder Fitness (ob Professionell oder Hobbymässig)&lt;/li&gt;
+&lt;li&gt;die drei Personen unterscheiden sich anhand des Alters, des Geschlechts, der Lebenssituation und der Sportaffinität&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Für die Befragung wurden Leitfragen zusammengestellt. Die Fragen wurden je nach Sprechsituation angepasst, ergänzt, gekürzt oder erweitert. Alle Interviews wurden vorbereitend transkribiert. Die Textdokumente wurden anschliessend durch eine qualitative Inhaltsanalyse vorallem anhand Kategorienbildung ausgewertet. Nachfolgend sind zusammenfassend die gestellten Fragen mit den jeweiligen Antworten der Interviewten aufgeführt. Für weitere detaillierte Angaben liegen die vollständigen Transkripte im Anhang bei. Dabei weise ich auf die Problematik hin, dass die Befragten vermutlich eine positive Grundeinstellung gegenüber den Fitness-Trackern haben und dies die Beantwortung der Fragen beeinflusst hat.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wann und wie oft brauchst du deine Sportuhr?&lt;/strong&gt;
+Alle Befragten antworteten, dass sie die Uhr praktisch immer – also auch im Alltag – tragen. Bis auf Ausnahmen wie beim Aufladen oder das Ablegen der Uhr bei sportlichen Aktivitäten wo sie Schaden nehmen könnte. Bewusst eingesetzt wird sie bei den sportlichen Aktivitäten, wie beispielsweise beim Laufen oder Wandern.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Für was brauchst du deine Sportuhr?&lt;/strong&gt;
+Alle gaben an, die Uhr vor allem für das Tracken von sportlichen Aktivitäten einzusetzen. Aber auch der Schlaf wird von allen aufgezeichnet und ausgewertet, sowie die Anzahl gegangener Schritte.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Was hat dich dazu gebracht eine solche Sportuhr zu kaufen und zu benutzen?
+Was für Gründe hattest du?&lt;/strong&gt;
+Eine Person gab an, dass sie die Uhr kaufte, um sich über diese bewusst zu werden, wie wenig sie sich im Alltag bewegt. Sie dient ihr als Motivation und Erinnerung. Die anderen beiden Sportler kauften die Uhr vor allem aus dem Grund, die Leistungsentwicklung beim  Sport zu tracken und während den Aktivitäten direktes Feedback zu erhalten.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Du sagtest die Sportuhr trägst du praktisch immer. Lenkt dich das manchmal ab, oder ist sie eher eine Unterstützung im Alltag?&lt;/strong&gt;
+Zwei Befragte gaben an, die Vibration ausgeschaltet zu haben, sodass wenn sie über den Tracker eine Erinnerung erhalten nur das Display kurz aufleuchtet, und beachten es deshalb auch selten bis gar nicht. Für die Befragten ist die Uhr stets eine Unterstützung.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Beeinflusst dich die Sportuhr im Alltag? Inwiefern?&lt;/strong&gt;
+Hierzu hat jeder eine unterschiedliche Antwort abgegeben. Der professionelle Sportler meint, seine Uhr trägt er zwar im Alltag, aber auf diese hat sie keinerlei Einfluss, denn die bewusste Verwendung findet nur beim Sport statt. Die anderen beiden Befragten haben beide erwähnt, dass sie durch die Uhr mehr Schritte gehen als nötig wäre, ob unbewusst oder bewusst. Und eine Befragte meinte, dass die Uhr sie motiviert, aber sie nicht beeinflusst, d.h. wenn sie keine Lust hat kann sie sie auch sehr gut ignorieren.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Was hat sich durch die Sportuhr geändert, gegenüber zu früher als du noch keine Sportuhr hattest?&lt;/strong&gt;
+Der Sportler meinte, es sei konstant gleich geblieben. Geändert hat sich höchstens das Nachverfolgen der eigenen Ziele und Leistungen, was mit Hilfe der Uhr besser klappt. Der Hobbysportler sagte, dass er mehr Spass an den Aktivitäten hat und spricht auch vom Geniessen der Funktionen während der Ausführung der Aktivitäten. Eine Befragte meinte, sie bewege sich durch die Sportuhr im Sommer durchaus mehr, da geht sie öfter einmal als dass sie das Auto nimmt.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ist es immer schlüssig für dich was die Zahlen, die dir angezeigt werden, genau bedeuten?&lt;/strong&gt;
+Eine Befragte meinte, sie könne mittlerweile besser einschätzen wie sie sich schlussendlich zu bewegen hat, um die Ziele zu erreichen. Das könnte schon an den Zahlen liegen. Die anderen Befragten interessieren sich nicht für alle Zahlen die der Tracker aufzeichnen kann. Nur diese, die sie direkt während oder nach dem Training analysieren und für sie auch von Bedeutung sind.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mit deiner Sportuhr erhebst du viele personenbezogene Daten, ist dir bewusst was mit diesen Daten passiert?&lt;/strong&gt;
+Zwei der Befragten sagten aus, dass das ein relevantes und heikles Thema sei, und dass sie sich durchaus auch schon Gedanken darüber machten. Sie schauen auch darauf, dass sie nicht ständig GPS-Daten tracken sondern nur bewusst während den Aktivitäten. Aber auch sie bewegt es aktuell nicht so stark, so dass sie aufhören würden sich zu verdaten. Eine Befragte scheint es überhaupt nicht zu kümmern und achtet gar nicht darauf.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Teilst du deine Daten, deine Leistungen mit anderen über eine Community? Ist das motivierend?&lt;/strong&gt;
+Für den Hobbysportler ist es spannend und gleichzeitig herausfordernd, wenn er seine geleisteten Daten mit anderen, z. B. seinen Freunden, vergleichen kann. Für zwei der Befragten scheint die Community nicht in Frage zu kommen, und somit das Teilen der eigenen Daten mit den anderen auch nicht. Die eine Person dieser beiden meinte, man müsse dafür viel verfressener am Sport sein wie sie, um die Daten mit anderen teilen zu wollen. Der professionelle Sportler braucht das schlichtweg nicht.&lt;/p&gt;
+&lt;h3&gt;3.2 Ergebnisse der Interviews&lt;/h3&gt;
+&lt;p&gt;Anhand der Antworten meiner GesprächspartnerInnen und in Hinblick auf die Fragestellung ergaben sich thematische Schwerpunkte, welche in der nachfolgenden Analyse in den Vordergrund treten.&lt;/p&gt;
+&lt;h4&gt;3.2.1 Änderung von Verhalten und Empfinden&lt;/h4&gt;
+&lt;p&gt;Die Fitness-Tracker haben die Eigenschaft, bisher nicht sichtbares sichtbar zu machen.&lt;sup id=&quot;fnref-quote-twenty-three&quot;&gt;&lt;a href=&quot;#fn-quote-twenty-three&quot; class=&quot;footnote-ref&quot;&gt;quote-twenty-three&lt;/a&gt;&lt;/sup&gt; Durch die erhobenen und ausgewerteten Daten lernen sich die AnwenderInnen besser kennen, indem das Gerät seine – zum Teil auch unbewusste – Verhaltensmuster erkennt und diese in Zahlen, Kurven und Diagramme transformiert. So wird dem Anwender durch die Bewusstmachung von Verhalten eine Verhaltensänderung begünstigt.&lt;sup id=&quot;fnref-quote-twenty-four&quot;&gt;&lt;a href=&quot;#fn-quote-twenty-four&quot; class=&quot;footnote-ref&quot;&gt;quote-twenty-four&lt;/a&gt;&lt;/sup&gt; Diese Bewusstmachungen haben einen grossen Einfluss auf die interviewten Personen. Sie gaben an, diese Beeinflussung und dadurch die Veränderung an sich zu spüren, indem sie Dinge vermehrt – zum Teil auch unbewusst – aufgrund dessen machen. Eine Befragte gab das Bewusstmachen ihrer inaktiven Zeit als Grund an, warum sie den Fitness-Tracker kaufte:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;«[...] damit ich mit der Uhr merke, wie viel ich mich eigentlich gar nicht bewege, habe ich das gekauft um mich zu motivieren mich mehr zu bewegen.»&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Das Messen der Schritte scheint bei allen interviewten ein Thema zu sein, sodass sie durch die Sportuhr automatisch mehr gehen als sie eigentlich müssten. Sie legen sich unbewusst Gewohnheiten an. Diese werden verinnerlicht und als sozial geprägtes Handeln und Verhalten vom Anwender als natürlich wahrgenommen.&lt;sup id=&quot;fnref-quote-twenty-five&quot;&gt;&lt;a href=&quot;#fn-quote-twenty-five&quot; class=&quot;footnote-ref&quot;&gt;quote-twenty-five&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;«[...] im Sommer laufe ich mehr als ich das Auto nehmen würde.»&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;«Ich habe mir auch unbewusst Sachen angewöhnt, beispielsweise habe ich keinen langen Arbeitsweg, und laufe nun aber teilweise einen Umweg, um ein wenig weiter zu laufen.»&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Dieses Sichtbarmachen durch Zahlen begünstigt somit auch die Beobachtung, Analyse und nicht zuletzt die Überwachung und Kontrolle. Die Anwendenden beobachten sich selbst über eine längere Zeit und können durch die ausgewerteten Daten Zusammenhänge erkennen, Rückschlüsse ziehen und sich dementsprechend anders verhalten. «Dieses Mehr an Wissen und die gesteigerte Sichtbarkeit der Körperinformationen impliziert auch eine erhöhte Aufforderung, verantwortlich zu handeln.», erklärt Duttweiler.&lt;sup id=&quot;fnref-quote-twenty-six&quot;&gt;&lt;a href=&quot;#fn-quote-twenty-six&quot; class=&quot;footnote-ref&quot;&gt;quote-twenty-six&lt;/a&gt;&lt;/sup&gt; Ein Interviewte Person schilderte seine Erfahrung so:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;«Es ist einfach spannend für mich zu sehen wie sich über längere Zeit durchschnittliche Auswertung ergeben und ich dadurch erkenne, dass ich vielleicht mal wieder früher ins Bett sollte – hier beeinflusst mich die Sportuhr sicher ein wenig.»&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Die Schlafanalysen geben Einblick in die Schlafphasen der vergangenen Nacht. Bei einer Befragung wurde nachgefragt, ob das eigene Gefühl mit den Daten übereinstimmt, worauf die befragte Person antwortete:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;«Meistens. Ich bin oft am nächsten Tag kaputt, und dann schaue ich, an was es gelegen hat. Beispielsweise wenn der Tiefschlaf mehr als eine Stunde gewesen ist, bin ich am nächsten Tag recht fit. Wenn es aber unter einer Stunde ist, dann merke ich es.»&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Ich interpretiere diese Aussage so, dass ihre Selbsteinschätzung durch das positive oder negative Feedback über ihren Schlaf beeinflusst wird. Die Daten wirken zurück auf ihr Befinden. Dabei spielt es keine Rolle, wie viel oder wie gut sie tatsächlich geschlafen hat. Neitzert und Harvey (2005) haben festgestellt, dass die Selbsteinschätzung durch den Vergleich mit objektivierten Daten verändert werden, da das Wahrnehmen und Erleben des Körpers davon geprägt ist, was an Wissen über ihn vorhanden ist.&lt;sup id=&quot;fnref-quote-twenty-seven&quot;&gt;&lt;a href=&quot;#fn-quote-twenty-seven&quot; class=&quot;footnote-ref&quot;&gt;quote-twenty-seven&lt;/a&gt;&lt;/sup&gt; «Das subjektive Empfinden in Bezug auf die Schlafdauer [...] wird von der Information beeinflusst, die man einer Person gibt. Vergleicht eine Person ihre persönlichen Aufzeichnungen zum Schlaf mehrmals mit objektiven Messungen, verringern sich die Differenzen zwischen Selbsteinschätzung und den Messdaten.»&lt;sup id=&quot;fnref-quote-twenty-eight&quot;&gt;&lt;a href=&quot;#fn-quote-twenty-eight&quot; class=&quot;footnote-ref&quot;&gt;quote-twenty-eight&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h4&gt;3.2.2 erweitertes Trainingserlebnis&lt;/h4&gt;
+&lt;p&gt;Die Sportuhren haben sich heute auf verschiedene sportliche Aktivitäten (beispielsweise für Golfen, Laufen, Schwimmen, etc.) spezialisiert und etabliert. Für Sportler und Freizeitsportler ist die Sportuhr dadurch eine wichtige Unterstützung, nicht nur für die Analysierung der getrackten und ausgewerteten Daten nach der Aktivität, sondern auch während der Ausführung der Aktivität. Diese technischen Hilfsmittel und somit das erweiterte Trainingserlebnis macht den Anwendern Spass. Ein Interviewte schilderte dies als die grösste Veränderung seit er die Sportuhr einsetzt und spricht sogar von Genuss:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;«Eigentlich hat sich nicht so viel verändert. Ausser vielleicht dass ich mehr Spass während dem Sport habe, dank der Funktionen der Sportuhr. [...] Das ist eigentlich die grösste Veränderung in meinem Alltag, dass ich die Funktionalitäten meiner Sportuhr während den Sportaktivitäten geniessen kann.»&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Nebst der Auswirkung mehr Spass am Sport zu haben, ist es den Anwendenden möglich seine Leistungen und Werte besser einzuschätzen. Durch die permanenten Feedbacks in Echtzeit erhält der Anwender wertvolle Informationen an die er sich orientieren, seine Aktivität während der Ausführung einschätzen und unmittelbar auch ändern oder anpassen kann. Mit diesem Hilfsmittel ist man in Echtzeit informiert und man kann sofort darauf reagieren.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;«[...] hilft es beim Wettkampf sich Leistungsmässig besser einzuschätzen [...]. Die Uhr hilft vor allem durch GPS/Pulsmonitor um z.B. das Tempo einzuhalten oder innerhalb eines festgelegten Puls-Bereiches zu bleiben.»&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;«[...] während der Ausführung meiner Aktivitäten, wie beim Wandern oder beim Joggen helfen mir Navigationen, sodass ich beispielsweise die Distanzen besser einschätzen kann.»&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4&gt;3.2.3 Motivation und Demotivation&lt;/h4&gt;
+&lt;p&gt;Eine weitere Folge ist die Motivation und der Ansporn, der sich bei den Interviewten herauskristallisierte. Sie vergleichen die Daten mit anderen oder tauschen sich aus unter Freunden, was sie wiederum für die Tätigkeit anspornt. Auch durch die regelmässigen Erinnerungen der Uhr, sowie auch das Verfolgen der eigenen Leistung und Ziele wirken motivierend. Dieses Feedback durch andere Personen oder durch die Daten allein scheint ein Motivationsfaktor zu sein.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;«[...] bei grösseren Wettkämpfen wie Volksläufe, dort tausche ich meine Daten unter den engsten Kollegen aus. Da interessieren mich auch die Daten meiner Kollegen und wiederum spornt mich das an für den Lauf.»&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;«[...] damit ich mit der Uhr merke, wie viel ich mich eigentlich gar nicht bewege, habe ich das gekauft um mich zu motivieren mich mehr zu bewegen.[...] die Uhr motiviert mich schon [...].»&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Wenn aber die gesteckten Ziele nicht erreicht werden können, wirkt das ernüchternd und eher demotivierend auf die AnwenderInnen. Solche Rückschläge wurden von zwei Interviewten mit folgenden Aussagen angedeutet:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;«Garmin passt immer die Anzahl Schritte an, also wenn du sehr lange viel machst, dann passt es automatisch dein Tagesziel auf viel an, und wenn du dich eher wenig bewegst geht das Ziel wieder runter, damit du es auch eher erreichen kannst. Nach einer sehr sportlichen Woche aber ist es fast unmöglich im Arbeitsalltag wieder dieses Ziel zu erreichen, damit du wieder den Streak hast...»&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;«Manchmal denke ich «oh nein, ich hätte sollen…». Dann habe ich ein schlechtes Gewissen. Bei mir ist es aber nicht so stur, sodass ich denke «oh, morgen muss ich das nachholen», sondern es ist für mich einfach abgehakt. «Ok, dann habe ich es halt nicht erreicht.» Wenn es nicht möglich war dann war es halt nicht möglich.»&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;4 Diskussion&lt;/h2&gt;
+&lt;p&gt;Bei den Interviewten konnte eine positive Grundeinstellung gegenüber den Fitness-Trackern festgestellt werden, dadurch wurde die methodische Problematik wie erwartet bestätigt. Im Nachfolgenden werden positive und negative Aspekte beleuchtet, die Selbstvermessung mit Fitness-Trackern und Fitness-Apps mit sich bringen kann.&lt;/p&gt;
+&lt;p&gt;Die Ergebnisse der Interviews haben gezeigt, dass das Auseinandersetzen mit dem eigenen Körper und die Verdatung von eigenem Verhalten und Aktivitäten durchaus eine positive und gesunde Entwicklung von verschiedenen Lebensbereichen begünstigen kann, wie beispielsweise mehr Bewegung oder sich gesünder ernähren. Die NutzerInnen machen es sich zur Gewohnheit mehr Schritte zu gehen als sie eigentlich müssten, bewegen sich dadurch im Schnitt mehr, was sich positiv auf ihre Gesundheit auswirken kann. Ein weiterer Pluspunkt der Selbstvermessung ist die Zielkontrolle, das Verfolgen der Leistung und die Motivation die dadurch entsteht. Der Vergleich mit anderen Personen kann anspornend wirken und dadurch der Grund für Leistungssteigerung und Verhaltensänderung sein.&lt;sup id=&quot;fnref-quote-twenty-nine&quot;&gt;&lt;a href=&quot;#fn-quote-twenty-nine&quot; class=&quot;footnote-ref&quot;&gt;quote-twenty-nine&lt;/a&gt;&lt;/sup&gt;
+Doch wenn man zu krampfhaft versucht sich zu verbessern und sich ausserdem zu fest auf die Daten verlässt, zeigen sich schnell mal die Schattenseiten dieses Selbstvermessungstrends. Man läuft Gefahr sich von dem Tracker überwachen und kontrollieren zu lassen und man verliert dabei schnell mal das eigene Körpergefühl. Der Körper wird nur noch als Ergebnis einer persönlichen Leistung gesehen. Das heisst die eigene Leistung wird vom eigentlichen Körper abgelöst, und erhält dadurch eine eigene versachlichte Gestalt. Unsere Leistung ist dadurch zwar viel einfacher Vergleichbar mit anderen, da wir ihnen durch die numerischen Daten gleichgesetzt sind.&lt;sup id=&quot;fnref-quote-thirty&quot;&gt;&lt;a href=&quot;#fn-quote-thirty&quot; class=&quot;footnote-ref&quot;&gt;quote-thirty&lt;/a&gt;&lt;/sup&gt; Doch der Körper selbst wird immer mehr als Objekt wahrgenommen, das man kontrollieren und formen muss, wobei die Leiberfahrung in den Hintergrund rückt und gar verloren geht.&lt;sup id=&quot;fnref-quote-thirty-one&quot;&gt;&lt;a href=&quot;#fn-quote-thirty-one&quot; class=&quot;footnote-ref&quot;&gt;quote-thirty-one&lt;/a&gt;&lt;/sup&gt; Statt der vermeintlichen Kontrolle erleben wir dann einen Kontrollverlust über unseren Körper.&lt;/p&gt;
+&lt;p&gt;Eine Befragte Expertin im Buch Quantified Self (2018) schildert dies so: «Wenn das Tracken dazu führen würde, dass die Selbstwahrnehmung des Körpers verbessert wird, dann wäre das positiv. Es kann aber auch kontraproduktiv sein, dass man sich mehr auf das verlässt, was die Daten angeben, als den eigenen Körper zu spüren. Dann fängt man an nicht ganzheitlich, sondern den Körper parzelliert zu betrachten. Das ist eigentlich nicht das Ziel.»&lt;sup id=&quot;fnref-quote-thirty-two&quot;&gt;&lt;a href=&quot;#fn-quote-thirty-two&quot; class=&quot;footnote-ref&quot;&gt;quote-thirty-two&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Das Ergebnis der drei Befragten sagt aber etwas anderes aus. Die Befragten sind sich durchaus bewusst wie ungenau die Messungen sein können und sind den erhobenen Daten gegenüber kritisch eingestellt. Alle erwähnten, dass sie sich nicht auf die Zahlen verlassen und nach wie vor auf das eigene Gefühl hören.&lt;/p&gt;
+&lt;p&gt;Ein weiterer kritischer Punkt ist die durch die Gesellschaft geprägten Normen und Werte, welche Einfluss auf unsere Persönlichkeitsentwicklung haben können. Die Menschen versuchen seit jeher den gesellschaftlichen Idealen durch die Optimierung an sich selbst zu entsprechen.&lt;sup id=&quot;fnref-quote-thirty-three&quot;&gt;&lt;a href=&quot;#fn-quote-thirty-three&quot; class=&quot;footnote-ref&quot;&gt;quote-thirty-three&lt;/a&gt;&lt;/sup&gt; «Es wird deutlich, dass Körperarbeit keine Individuelle, private und subjektive Angelegenheit mehr ist, sondern normativ und gesellschaftlich geprägt wird.»&lt;sup id=&quot;fnref-quote-thirty-four&quot;&gt;&lt;a href=&quot;#fn-quote-thirty-four&quot; class=&quot;footnote-ref&quot;&gt;quote-thirty-four&lt;/a&gt;&lt;/sup&gt; Dies trägt auch Gefahren mit sich, wie Normierung, Gleichmachung oder sogar Ausgrenzung, welches der Quantified Self Community auch vorgeworfen wird. «Dieses Mehr an Wissen und die gesteigerte Sichtbarkeit der Körperinformationen impliziert auch eine erhöhte Aufforderung, verantwortlich zu handeln.»&lt;sup id=&quot;fnref-quote-thirty-five&quot;&gt;&lt;a href=&quot;#fn-quote-thirty-five&quot; class=&quot;footnote-ref&quot;&gt;quote-thirty-five&lt;/a&gt;&lt;/sup&gt; Dieses «verantwortliche Handeln» übt Druck aus auf diejenigen, die nicht den Normen entsprechen und anders sind.&lt;/p&gt;
+&lt;h2&gt;5 Fazit&lt;/h2&gt;
+&lt;p&gt;Die vorliegende Arbeit beschäftigt sich mit moderner Selbstvermessung, durch die Nutzung von Fitness-Tracker oder Fitness-Apps. Insbesondere wurden die möglichen Folgen für Individuen untersucht.&lt;/p&gt;
+&lt;p&gt;Zusammengefasst gewinnt die Selbstvermessung über Fitness-Tracker und Fitness-Apps immer mehr an Akzeptanz. Diese Akzeptanz ergründet sich vor allem durch die neuen technischen Möglichkeiten sich zu vermessen und das verstärkte Interesse der Menschen für ihr eigenes Wohlbefinden und das Streben nach einer besseren Version ihres Selbst.&lt;/p&gt;
+&lt;p&gt;Die zu Beginn gestellte Frage, welche Folgen die Nutzung von Fitness-Trackern und Fitness-Apps auf den Anwender haben, lässt sich somit zusammenfassend wie folgt beantworten: Die Vermessung des eigenen Körpers ermöglicht eine bessere Körperwahrnehmung. Die Bewusstmachung des eigenen Verhaltens begünstigt durchaus eine positive Verhaltensänderung bezüglich Gesundheit und Bewegung. Fitness-Tracker und Fitness-Apps sind gute Motivationen für diejenigen, die gesünder oder fitter leben wollen. Der Austausch mit Gleichgesinnten und die Verfolgung der eigenen Leistung und Ziele wirken motivierend auf den Anwender. Als problematisch erweist sich jedoch das eigene Empfinden, welches oftmals in den Hintergrund treten kann, wenn die Zahlen zu Ernst genommen werden. Ausserdem hat Quantified Self das Potenzial durch Druckausübung soziale Ungleichheit und Diskriminierung zu begünstigen.&lt;/p&gt;
+&lt;p&gt;Die noch grösste Herausforderung der Selbstvermessung ist die Sicherheit der personenbezogenen Daten. Das Ergebnis der Interviews bestätigt die in den Medien erwähnten Kritikpunkte der Wearables. Die Fitness-Tracker werden von Ihnen eingesetzt ohne dass sie darüber Bescheid wissen, was mit ihren Daten passiert – auch kümmert es sie noch wenig. Die Fragen, wo die Daten gelagert werden und wer Zugriff auf diese Daten hat sind noch weitgehend ungeklärt. In Zukunft muss das zwingend geklärt und offen kommuniziert werden. Heute muss sich der Nutzer im Klaren sein, welche Risiken er mit dem Erheben der Daten eingeht.&lt;/p&gt;
+&lt;h2&gt;6 Anhang&lt;/h2&gt;
+&lt;p&gt;Interviews&lt;/p&gt;
+&lt;h3&gt;Endnoten&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;references&quot;&gt;&lt;pre class=&quot;language-references&quot;&gt;&lt;code class=&quot;language-references&quot;&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Literaturverzeichnis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Prof. Dr. Becker H., Meidert U., Scheermesser M., Quantified Self - Schnittstelle zwischen Lifestyle und Medizin (2018) Hochschulverlag AG an der ETH Zürich, S. 39 – 78&lt;/li&gt;
+&lt;li&gt;Duttweiler S., Gugutzer R., Passoth J., Strübing J., Leben nach Zahlen – Self-Tracking als Optimierungsprojekt (2016) transcript Verlag&lt;/li&gt;
+&lt;li&gt;Frommeld D., Die Personenwaage: Ein Beitrag zur Geschichte und Soziologie der Selbstvermessung (2019) transcript Verlag Bielefeld&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Quellenverzeichnis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[Wikipedia, Quantified Self] (&lt;a href=&quot;https://de.wikipedia.org/wiki/Quantified_Self&quot;&gt;https://de.wikipedia.org/wiki/Quantified_Self&lt;/a&gt;)
+(zuletzt besucht am 6. Januar 2020)&lt;/li&gt;
+&lt;li&gt;[Wikipedia, Tagebuch] (&lt;a href=&quot;https://de.wikipedia.org/wiki/Tagebuch&quot;&gt;https://de.wikipedia.org/wiki/Tagebuch&lt;/a&gt;)
+(zuletzt besucht am 2. Januar 2020)&lt;/li&gt;
+&lt;li&gt;[Wikipedia, Spiegel] (&lt;a href=&quot;https://de.m.wikipedia.org/wiki/Spiegel&quot;&gt;https://de.m.wikipedia.org/wiki/Spiegel&lt;/a&gt;)
+(zuletzt besucht am 2. Januar 2020)&lt;/li&gt;
+&lt;li&gt;[Almaki M., Gray K., Martin-Sanchez F., The use of self-quantification systems for personal health information: Big data management activities and prospects (2015)] (&lt;a href=&quot;https://www.researchgate.net/publication/277409696_The_use_of_self-quantification_systems_for_personal_health_information_Big_data_management_activities_and_prospects&quot;&gt;https://www.researchgate.net/publication/277409696_The_use_of_self-quantification_systems_for_personal_health_information_Big_data_management_activities_and_prospects&lt;/a&gt;) (zuletzt besucht am 28. Dezember 2019)&lt;/li&gt;
+&lt;li&gt;[Wolf G., Unser vermessener Körper [Video] (2010)] (&lt;a href=&quot;https://www.ted.com/talks/gary_wolf_the_quantified_self?language=de#t-253181&quot;&gt;https://www.ted.com/talks/gary_wolf_the_quantified_self?language=de#t-253181&lt;/a&gt;) (zuletzt besucht am 19. Dezember 2019)&lt;/li&gt;
+&lt;li&gt;[Liewehr D., Die Selbstvermessung der Welt (n. D.)] (&lt;a href=&quot;https://wp.uni-passau.de/werte/die-selbstvermessung-der-welt/&quot;&gt;https://wp.uni-passau.de/werte/die-selbstvermessung-der-welt/&lt;/a&gt;) (zuletzt besucht am 22. Dezember 2019)&lt;/li&gt;
+&lt;li&gt;[Kenton W., Quantified Self (2018)] (&lt;a href=&quot;https://www.investopedia.com/terms/q/quantified-self.asp&quot;&gt;https://www.investopedia.com/terms/q/quantified-self.asp&lt;/a&gt;) (zuletzt besucht am 2. Januar 2020)&lt;/li&gt;
+&lt;li&gt;[o. V.: Eine kurze Geschichte des Wiegens (n. D.)] (&lt;a href=&quot;https://de.secashop.com/stories/story/eine-kurze-geschichte-des-wiegens&quot;&gt;https://de.secashop.com/stories/story/eine-kurze-geschichte-des-wiegens&lt;/a&gt;) (zuletzt besucht am 5. Januar 2020)&lt;/li&gt;
+&lt;li&gt;[Prof. Dr.  Bendel O., Definition Big Data (n. D.)] (&lt;a href=&quot;https://wirtschaftslexikon.gabler.de/definition/big-data-54101&quot;&gt;https://wirtschaftslexikon.gabler.de/definition/big-data-54101&lt;/a&gt;) (zuletzt besucht am 28. Dezember 2019)&lt;/li&gt;
+&lt;li&gt;[Grimm P., Internet der Dinge (2016)] (&lt;a href=&quot;http://www.bpb.de/gesellschaft/medien-und-sport/medienpolitik/236524/internet-der-dinge?p=all&quot;&gt;http://www.bpb.de/gesellschaft/medien-und-sport/medienpolitik/236524/internet-der-dinge?p=all&lt;/a&gt;) (zuletzt besucht am 28. Dezember 2019)&lt;/li&gt;
+&lt;li&gt;[Strauss K., Wearables und Fitness-Apps – Spione im Kleinformat (2019)] (&lt;a href=&quot;https://www.datenschutzexperte.de/blog/datenschutz-im-alltag/wearables-und-fitness-apps-datenschutzrisiko/&quot;&gt;https://www.datenschutzexperte.de/blog/datenschutz-im-alltag/wearables-und-fitness-apps-datenschutzrisiko/&lt;/a&gt;) (zuletzt besucht am 30. Dezember 2019)&lt;/li&gt;
+&lt;li&gt;[Walter J., Die digitale Entblössung – von den Risiken der Selbstvermessung des eigenen Körpers (2016)] (&lt;a href=&quot;https://dievolkswirtschaft.ch/de/2016/03/walter-04-2016/&quot;&gt;https://dievolkswirtschaft.ch/de/2016/03/walter-04-2016/&lt;/a&gt;) (zuletzt besucht am 8. Januar 2020)&lt;/li&gt;
+&lt;li&gt;[o. V.: Verkauf von Fitness-Tracker (2018)] (&lt;a href=&quot;https://www.onlinepc.ch/hardware/smart-wearables/2018-172-millionen-wearables-verkauft-1696771.html&quot;&gt;https://www.onlinepc.ch/hardware/smart-wearables/2018-172-millionen-wearables-verkauft-1696771.html&lt;/a&gt;) (zuletzt besucht am 5. Januar 2020)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;references&quot;&gt;&lt;pre class=&quot;language-references&quot;&gt;&lt;code class=&quot;language-references&quot;&gt;# gets repalced with footnotes
+group-include: fig
+
+inline-link-prefix: &amp;#39;Fig. &amp;#39;
+
+reference-link-prefix: &amp;#39;↑ Fig. &amp;#39;
+reference-link-suffix: &amp;#39;&amp;#39;
+
+reference-text-suffix: &amp;#39; – &amp;#39;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;Grid&gt;
+&lt;hr&gt;
+&lt;Column start=&quot;1&quot; end=&quot;5&quot;&gt;
+&lt;h4&gt;Mentoring durch&lt;/h4&gt;
+&lt;p&gt;Franka Grosse &lt;br/&gt;
+HFIAD 2017 &lt;br/&gt;
+Schule für Gestaltung Zürich &lt;br/&gt;
+&lt;a href=&quot;mailto:name@xyz.ch&quot;&gt;franka.grosse@sfgz.ch&lt;/a&gt;&lt;/p&gt;
+&lt;/Column&gt;
+&lt;Column start=&quot;5&quot; end=&quot;13&quot;&gt;
+&lt;h4&gt;Vorgelegt von&lt;/h4&gt;
+&lt;p&gt;Tieu Khe Mayer &lt;br/&gt;
+Weststrasse 75 &lt;br/&gt;
+8003 Zürich &lt;br/&gt;
+&lt;a href=&quot;mailto:name@xyz.ch&quot;&gt;tieukhe.mayer@gmail.ch&lt;/a&gt;
+&lt;/Column&gt;&lt;/p&gt;
+&lt;/Grid&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&quot;fn-quote-one&quot;&gt;
+&lt;p&gt;Becker, Meidert, Scheermesser (2018), S. 42&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-one&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-two&quot;&gt;
+&lt;p&gt;research2guidance, 2016; in: Becker,  Meidert, Scheermesser, (2018), S. 42&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-two&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-three&quot;&gt;
+&lt;p&gt;Verkauf von Fitness-Tracker, 2018  &lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-three&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-four&quot;&gt;
+&lt;p&gt;Wikipedia, Quantified Self (2020)&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-four&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-five&quot;&gt;
+&lt;p&gt;Wolf G., Unser vermessener Körper (2010)&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-five&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-six&quot;&gt;
+&lt;p&gt;Wikipedia, Quantified Self (2020)&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-six&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-seven&quot;&gt;
+&lt;p&gt;Wikipedia, Quantified Self (2020)&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-seven&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-eight&quot;&gt;
+&lt;p&gt;Almaki M., Gray K., Martin-Sanchez F., The use of self-quantification systems for personal health information: Big data management activities and prospects (2015)&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-eight&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-nine&quot;&gt;
+&lt;p&gt;Duttweiler, Gugutzer, Passoth, Strübing (2016), S. 227&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-nine&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-ten&quot;&gt;
+&lt;p&gt;Duttweiler, Gugutzer, Passoth, Strübing (2016), S. 229&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-ten&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-eleven&quot;&gt;
+&lt;p&gt;Reichert, 2010; in: Duttweiler, Gugutzer, Passoth, Strübing (2016), S. 228&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-eleven&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-twelve&quot;&gt;
+&lt;p&gt;Duttweiler, Gugutzer, Passoth, Strübing (2016), S. 231&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-twelve&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-thirteen&quot;&gt;
+&lt;p&gt;Prof. Dr.  Bendel O., Definition Big Data (n. D.)&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-thirteen&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-fourteen&quot;&gt;
+&lt;p&gt;Grimm P., Internet der Dinge (2016)&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-fourteen&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-fiveteen&quot;&gt;
+&lt;p&gt;Strauss K., Wearables und Fitness-Apps – Spione im Kleinformat (2019)&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-fiveteen&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-sixteen&quot;&gt;
+&lt;p&gt;Walter J., Die digitale Entblössung – von den Risiken der Selbstvermessung des eigenen Körpers (2016)&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-sixteen&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-seventeen&quot;&gt;
+&lt;p&gt;Wikipedia, Spiegel (2020)&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-seventeen&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-eightteen&quot;&gt;
+&lt;p&gt;Wikipedia, Tagebuch (2020)&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-eightteen&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-nineteen&quot;&gt;
+&lt;p&gt;o. V.: Eine kurze Geschichte des Wiegens (n. D.)&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-nineteen&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-twenty&quot;&gt;
+&lt;p&gt;Frommeld (2019), S. 21&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-twenty&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-twenty-one&quot;&gt;
+&lt;p&gt;Kenton, Quantified Self (2018)&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-twenty-one&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-twenty-two&quot;&gt;
+&lt;p&gt;Liewehr, Die Selbstvermessung der Welt (n. D.)&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-twenty-two&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-twenty-three&quot;&gt;
+&lt;p&gt;Duttweiler, Gugutzer, Passoth, Strübing (2016), S. 12&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-twenty-three&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-twenty-four&quot;&gt;
+&lt;p&gt;Wikipedia, Quantified Self (2020)&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-twenty-four&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-twenty-five&quot;&gt;
+&lt;p&gt;Becker, 2009; in: Becker, Meidert, Scheermesser (2018), S. 73&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-twenty-five&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-twenty-six&quot;&gt;
+&lt;p&gt;Duttweiler, Gugutzer, Passoth, Strübing (2016), S. 13&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-twenty-six&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-twenty-seven&quot;&gt;
+&lt;p&gt;Neitzert und Harvey (2005); in: Becker, Meidert, Scheermesser (2018), S. 72&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-twenty-seven&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-twenty-eight&quot;&gt;
+&lt;p&gt;Tang &amp;#x26; Harvey (2004); in: Becker, Meidert, Scheermesser (2018), S. 73&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-twenty-eight&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-twenty-nine&quot;&gt;
+&lt;p&gt;Duttweiler, Gugutzer, Passoth, Strübing (2016), S. 10&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-twenty-nine&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-thirty&quot;&gt;
+&lt;p&gt;Duttweiler, Gugutzer, Passoth, Strübing (2016), S. 230&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-thirty&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-thirty-one&quot;&gt;
+&lt;p&gt;Becker, Meidert, Scheermesser (2018), S. 72&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-thirty-one&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-thirty-two&quot;&gt;
+&lt;p&gt;Abel; in: Becker, Meidert, Scheermesser (2018), S. 76&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-thirty-two&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-thirty-three&quot;&gt;
+&lt;p&gt;vgl. Küenzlen 2016; Stark 2016:302; in: Becker, Meidert, Scheermesser (2018), S. 71&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-thirty-three&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-thirty-four&quot;&gt;
+&lt;p&gt;Villa, 2015; in: Becker, Meidert, Scheermesser (2018), S. 70&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-thirty-four&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-quote-thirty-five&quot;&gt;
+&lt;p&gt;Duttweiler, Gugutzer, Passoth, Strübing (2016), S. 13&lt;/p&gt;
+&lt;a href=&quot;#fnref-quote-thirty-five&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Personalisierte Werbung]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
