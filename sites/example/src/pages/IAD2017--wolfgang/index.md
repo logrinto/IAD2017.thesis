@@ -9,7 +9,7 @@ path: "/posts/2020/wolfgang/"
 tags:
   - "TagOne"
   - "TagTwo"
-description: "Lead · Einleitung zur Arbeit"
+description: "Durch das Internet ergeben sich neue Möglichkeiten, für Unternehmen und KundInnen eng miteinander zu kooperieren. Eine Co-Creation bietet dabei verschiedenste Ansätze für eine gemeinsame Zusammenarbeit. Dadurch verändert sich aber einerseits die Rollenverteilung zwischen Firmen und Ihren KundInnen sowie der Umgang mit Produkten ganz allgemein."
 ---
 
 import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
@@ -19,7 +19,10 @@ import Box from 'gatsby-theme-signalwerk/src/components/Box';
 
 ## Inhaltsverzeichnis
 ```toc
-exclude: Inhaltsverzeichnis
+exclude:
+  - Inhaltsverzeichnis
+  - Mentoring durch
+  - Vorgelegt von
 from-heading: 2
 to-heading: 6
 ```
