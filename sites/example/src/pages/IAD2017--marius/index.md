@@ -1,6 +1,6 @@
 ---
 title: Titel der Arbeit
-author: "Stefan Huber"
+author: "Marius Becker"
 date: "2022-11-11"
 layout: post
 draft: false
