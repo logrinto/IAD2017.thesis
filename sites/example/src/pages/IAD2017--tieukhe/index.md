@@ -9,7 +9,7 @@ path: "/posts/2020/tieukhe/"
 tags:
   - "TagOne"
   - "TagTwo"
-description: "Lead · Einleitung zur Arbeit"
+description: "Digitale Selbstvermessung"
 ---
 
 import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
@@ -17,12 +17,27 @@ import Grid from 'gatsby-theme-signalwerk/src/components/Grid';
 import Column from 'gatsby-theme-signalwerk/src/components/Column';
 import Box from 'gatsby-theme-signalwerk/src/components/Box';
 
+## Inhaltsverzeichnis
+```toc
+exclude: Inhaltsverzeichnis
+from-heading: 2
+to-heading: 6
+```
+
+## Inhaltsverzeichnis (Element)
+Das Inhaltsverzeichnis kann über ein `toc` (Table of Contents) Code-Block gesteuert werden.
+* `exclude` – welcher Titel soll nicht im Inhaltsverzeichnis erscheinen
+* `from-heading` – erste Stufe, die ausgegeben werden soll. `2` = `h2`
+* `to-heading` – letzte Stufe, die ausgegeben werden soll. `6` = `h6`
+
 ## 1 Einleitung
 ### 1.1 Relevanz
 Schon seit Jahrhunderten beobachten und dokumentieren Menschen ihren Körper und ihr eigenes Verhalten. Der Wunsch, den eigenen Körper mittels technischer Hilfsmittel besser zu verstehen, ist also nicht neu. Durch die technologischen Fortschritte erhält dieses Bedürfnis jedoch ein neues Ausmass. Die Menschen interessieren sich heute verstärkt für ihr eigenes Wohlbefinden und ihre Persönlichkeitsentwicklung. Dabei informieren sich Menschen immer mehr im Internet und auf mobilen Geräten über ihre eigene Gesundheit. Zudem werden immer mehr Selbstvermessungstechnologien wie Fitness-Armbänder oder Fitness-Apps genutzt (QS, 2016). Im Jahre 2016 wurde die Anzahl Applikationen im Bereich Fitness- und Gesundheit auf 249’000 geschätzt (research2guidance, 2016 in: QS, 2016), womit dies der App-Bereich mit dem grössten Zuwachs ist. Der grösste Teil machte dabei mit 39% der Fitnessbereich aus. Häufig fällt in Verbindung mit Quantified Self das Stichwort «Wearable Computing Systems» oder kurz gesagt Wearables, mit Sensoren versehene Geräte, welche  Daten aufzeichnen und am Körper des Menschen getragen werden können. Jährlich werden neue Produkte wie Wearables auf den Markt gebracht – im Jahr 2018 waren es nahezu 172 Millionen Fitness-Tracker, die verkauft wurden. Die Selbstvermessung und somit auch die Selbstoptimierung liegt im Trend und hat sich im Zuge der Digitalisierung zu einem schnell wachsenden Gebiet entwickelt.
+
 ```md
 _«BLABLA»_[^https://www.onlinepc.ch/hardware/smart-wearables/2018-172-millionen-wearables-verkauft-1696771.html]
 ```
+[^quote-one]: ... Jährlich werden neue Produkte wie Wearables auf den Markt gebracht – im Jahr 2018 waren es nahezu 172 Millionen Fitness-Tracker, die verkauft wurden.
 
 _«Zitat B»_[^https://www.onlinepc.ch/hardware/smart-wearables/2018-172-millionen-wearables-verkauft-1696771.html]
 
@@ -61,19 +76,6 @@ Ausserdem werden auf den Anwender zugeschnittene Vorschläge erstellt. Je nach E
 
 ## Intro
 Grundsätzlich verhält sich das Template wie normaler Markdown-Text. Es gibt aber einige erweiterte Funktionen. Für weitere Infos siehe [Github](https://github.com/signalwerk/gatsby-theme-signalwerk).
-
-## Inhaltsverzeichnis
-```toc
-exclude: Inhaltsverzeichnis
-from-heading: 2
-to-heading: 6
-```
-
-## Inhaltsverzeichnis (Element)
-Das Inhaltsverzeichnis kann über ein `toc` (Table of Contents) Code-Block gesteuert werden.
-* `exclude` – welcher Titel soll nicht im Inhaltsverzeichnis erscheinen
-* `from-heading` – erste Stufe, die ausgegeben werden soll. `2` = `h2`
-* `to-heading` – letzte Stufe, die ausgegeben werden soll. `6` = `h6`
 
 ### Eingabe
 
