@@ -415,9 +415,9 @@ Schule für Gestaltung Zürich <br/>
 
 #### Vorgelegt von
 Nicole Watrinet <br/>
-Hambergersteig 2 <br/>
-8008 Zürich <br/>
-[nicolewatrinet@outlook.com](mailto:nicolewatrinet@outlook.com)
+HFIAD 2017<br/>
+Schule für Gestaltung Zürich <br/>
+[nicole.watrinet@sfgz.ch](mailto:nicole.watrinet@sfgz.ch)
 </Column>
 
 </Grid>
