@@ -39,6 +39,7 @@ to-heading: 6
 ```
 
 ## **Glossar**
+Aufgrund der vielen «Pop-Kultur»-Referenzen und Begriffen in dieser Thesis steht hier ein Glossar für die am häufigsten gebrauchten Begriffe zur Verfügung.
 
 **Digital-Content** = Videos, Kunst, Illustration, Audio welches im Internet publiziert wird.
 
@@ -280,15 +281,15 @@ Vorname Nachname, Buchtitel, Auflage, Verlag, Erscheinungsort Jahr, erste Seite�
 -->
 [^:qu:one]: [forbes.com](https://www.forbes.com/sites/devinthorpe/2018/06/25/what-is-crowdfunding/#4eee68165c5d) Devin Thorpe, What Is Crowdfunding? (Abrufdatum: 20. 11. 2019)
 [^:qu:two]: [alexa.com](https://www.alexa.com/siteinfo/patreon.com) Analysedaten: Zunahme der Seitenpopularität im Laufe der Zeit (Abrufdatum: 02. 12. 2019)
-[^:qu:three]: [web.archive.org](https://web.archive.org/web/20140717100534/http://ww2.kqed.org/arts/2014/07/12/local-companys-app-creating-patrons-of-the-arts-through-crowdfunding/) KQED Arts, Grace Rubenstein: Crowdfunding Site Brings New Patrons to the Arts (Abrufdatum: 01. 12. 2019)
+[^:qu:three]: [web.archive.org](https://web.archive.org/web/20140717100534/http://ww2.kqed.org/arts/2014/07/12/local-companys-app-creating-patrons-of-the-arts-through-crowdfunding/) KQED Arts, Grace Rubenstein, Crowdfunding Site Brings New Patrons to the Arts (Abrufdatum: 01. 12. 2019)
 [^:qu:four]: [polygon.com](https://www.polygon.com/2017/5/10/15609660/youtube-youtuber-ad-money-google) Michael Sawyer, Why YouTubers are losing so much ad money (and how they can survive the crunch) (Abrufdatum: 22. 11. 2019)
 [^:qu:five]: [polygon.com](https://www.polygon.com/2017/5/10/15609660/youtube-youtuber-ad-money-google) Michael Sawyer, Why YouTubers are losing so much ad money (and how they can survive the crunch) (Abrufdatum: 22. 11. 2019)
 [^:qu:six]: [wikipedia.com](https://de.wikipedia.org/wiki/Alt-Right) Artikel über die armerikanische Gruppierung «Alt-Right» (Abrufdatum: 19. 12. 2019)
 [^:qu:-seven]: [thestreet.com](https://www.thestreet.com/lifestyle/what-is-patreon-14865916) Anne Sraders, What Is Patreon? History, Controversies and How It Works (Abrufdatum: 22. 11. 2019)
 [^:qu:eight]: [medium.com](https://medium.com/@harrisonmalone_/getting-paid-for-content-5fb52195552b) Harrison Malone, Getting Paid For Content (Abrufdatum: 21. 11. 2019)
 [^:qu:nine]: [techcrunch.com](https://techcrunch.com/2019/02/23/patreons-future-and-potential-exits/) Erick Peckham, Patreon’s future and potential exits (Abrufdatum: 22. 11. 2019)
-[^:qu:ten]: [web.archive.org](https://web.archive.org/web/20140717100534/http://ww2.kqed.org/arts/2014/07/12/local-companys-app-creating-patrons-of-the-arts-through-crowdfunding/) KQED Arts, Grace Rubenstein: Crowdfunding Site Brings New Patrons to the Arts (Abrufdatum: 01. 12. 2019)
-[^:qu:eleven]: [wikipedia.org](https://en.wikipedia.org/wiki/Patronage) Wikipedia-Artikel über «Patronage» wo das Wort Patreon stammt (Abrufdatum: 22. 11. 2019)
+[^:qu:ten]: [web.archive.org](https://web.archive.org/web/20140717100534/http://ww2.kqed.org/arts/2014/07/12/local-companys-app-creating-patrons-of-the-arts-through-crowdfunding/) KQED Arts, Grace Rubenstein, Crowdfunding Site Brings New Patrons to the Arts (Abrufdatum: 01. 12. 2019)
+[^:qu:eleven]: [wikipedia.org](https://en.wikipedia.org/wiki/Patronage) Wikipedia-Artikel über «Patronage» woher das Wort Patreon stammt (Abrufdatum: 22. 11. 2019)
 [^:qu:twelve]: [thestreet.com](https://www.thestreet.com/lifestyle/what-is-patreon-14865916) Anne Sraders, What Is Patreon? History, Controversies and How It Works (Abrufdatum: 22. 11. 2019)
 [^:qu:thirteen]: [techcrunch.com](https://techcrunch.com/2019/02/23/patreons-future-and-potential-exits/) Erick Peckham, Patreon’s future and potential exits (Abrufdatum: 22. 11. 2019)
 [^:qu:fourteen]: [youtube.com](https://www.youtube.com/about/policies/#community-guidelines) Youtube Community-Guidelines (Abrufdatum: 21. 11. 2019)
