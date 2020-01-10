@@ -18,15 +18,15 @@ import Column from 'gatsby-theme-signalwerk/src/components/Column';
 import Box from 'gatsby-theme-signalwerk/src/components/Box';
 
 ## 1. Fragestellung, Zielsetzung & Abgrenzung
-Diese Arbeit beschäftigt sich mit dem dem Einfluss der Digitalisierung auf die Online-Werbung. Es wird beschrieben, mit welcher Mechanik Online-Werbung personalisiert wird und weshalb die Personalisierung der Werbung so effektiv ist. In diesem  Zusammenhang soll der Leserin und dem  Leseer einen Einblick geben, wie Benutzer- und Nutzungsdaten gesammelt werden und wie die daraus resultierende Daten-Auswertung einen Einfluss auf die Werbung nimmt. Weiter wird bearbeitet, wie Marketingfachleute ihre Zielgruppen ansprechen können, um diesen die relevanteste Werbung zu zeigen. Dabei geht in dieser Arbeit nicht um die Tiefe der psychologischen Auswertungen der Daten.
+Diese Arbeit beschäftigt sich mit dem dem Einfluss der Digitalisierung auf die Online-Werbung. Es wird beschrieben, mit welcher Mechanik Online-Werbung personalisiert wird und weshalb die Personalisierung der Werbung so effektiv ist. In diesem  Zusammenhang soll der Leserin und dem  Leser einen Einblick geben, wie Benutzer- und Nutzungsdaten gesammelt werden und wie die daraus resultierende Daten-Auswertung einen Einfluss auf die Werbung nimmt. Weiter wird bearbeitet, wie Marketingfachleute ihre Zielgruppen ansprechen können, um diesen die relevanteste Werbung zu zeigen. Dabei geht in dieser Arbeit nicht um die Tiefe der psychologischen Auswertungen der Daten.
 In der Arbeit wird ebenfalls ein Einblick gewährt, welchen Einfluss die personalisierte Werbung auf das Konsumverhalten haben kann. In diesem Zusammenhang wird anhand eines aktuellen Beispiels aus der Politik erklärt, wie eine konkrete Anwendung der Online-Werbung funktioniert und wie die Gesellschaft darauf reagierte. Zudem soll das Potential der Personalisierung der Online-Werbung anhand des Beispiels aufgezeigt werden.
 Zum Schluss der Arbeit sollen auch die Chancen, Risiken und Gefahren der personalisierten Online-Werbung diskutiert und aufgezeigt werden.
 
 ## Inhaltsverzeichnis
 ```toc
 exclude: Inhaltsverzeichnis
-exclude: Mentoring durch
-exclude: Vorgelegt von
+  - Mentoring durch
+  - Vorgelegt von
 from-heading: 2
 to-heading: 3
 ```
@@ -42,7 +42,7 @@ Anders als bei der klassischen Werbung, welche sich auf den Durchschnitt einer Z
 Jede unserer Bewegung im Internet hinterlässt eine Daten-Spur. Diese Daten beinhalten grundlegende Informationen wie zum Beispiel, Verweildauer auf der Webseite, Gerät bis hin zu persönlichen Angaben wie unser Alter und Geschlecht. Diese Informationen existieren, weil sie von uns selbst erfasst oder generiert wurden – meistens nicht nur auf einem Gerät. Bei dem Erstellen von Accounts und Profilen für Services geben wir unsere persönlichen Daten preis. Meistens erlauben wir den Anbietern, diese Daten durch das Akzeptieren der Allgemeinen Geschäftsbedingungen (AGB) zu verwenden. Durch das einfache Akzeptieren von sogenannten «Cookies» auf Webseite, erlauben wir den Webseitenbetreibern diese Daten zu sammeln und auszuwerten. Die Webseite merkt sich, wie viel Zeit wir auf welcher Seite verbracht haben, welche Links wir angeklickt und welche Interaktionen wir ausgelöst haben. Diese Informationen werden mit Hilfe von diversen Trackingmethoden ausgelesen, gesammelt und ausgewertet. Die Summe sämtlicher damit gesammelten Daten werden «Big Data» genannt.
 Die bereits erwähnten Cookies gehören zu den am häufigsten verwendeten Trackingmethoden. First-Party-Cookies dienen zum Beispiel dazu, Einstellungen von Usern für Webseiten zu speichern oder um zu speichern, was von dem User in den Warenkorb gelegt wurde. Ein First-Party Cookie ist an eine Domain gebunden und kann nur von dieser ausgelesen werden. Ein Beispiel dazu: Beim Besuch einer Website stellt der User die Sprachpräferenz «Deutsch» ein,. Diese Einstellung wird auf dem Browser des Users in einem First-Party-Cookie gespeichert. Nach mehreren Wochen besucht der User die Webseite erneut, aufgrund der gespeicherten informationen in dem Cookie weiss die Webseite, dass der User beim letzten Mal die Sprache auf Deutsch eingestellt hat, so wird die Webseite also direkt wieder auf Deutsch angezeigt. In vielen Fällen sind First-Party-Cookies essentiell für eine einwandfreie Funktionsweise der Webseite.
 Anhand von Drittanbieter-Cookies oder auch «Third-Party-Cookies» genannt, können Browseraktivitäten Webseiten übergreifend verfolgt werden. Diese Verfolgung ist möglich, weil auf einigen Webseiten bis zu mehreren Hundert Cookies vorkommen. Eigentlich kann ein Cookie ja nur von einer Seite aufgerufen werden, es sei denn, diese Seite beinhaltet eingebettete Technologien einer anderen Seite und somit auch deren Cookies. Als Beispiel: Wenn ein Nachrichtenportal unterhalb eines Beitrags einen «Gefällt mir»-Button von Facebook einsetzt, so hat Facebook die Möglichkeit zu sehen, auf welcher Webseite sich 
-der User gerade befindet. Für Facebook ist das auf jeder Webseite möglich, welche eine dieser bestimmten Technologien von Facebook verwendet. Diese Methode wird bereits schon einige Jahre so eingesetzt und Facebook dient hier nur als Beispiel. Die Drittanbieter-Cookies sind datenschutztechnisch umstritten. Ein Selbstversuch von Geoffrey A. Fowler, Reporter bei der Washington Post, ergab, dass er innerhalb einer Woche ungefilterten Surfens im Internet mit dem Google Chrome Browser insgesamt 11’189 Cookies ausgesetzt war[^quote-one]. 
+der User gerade befindet. Für Facebook ist das auf jeder Webseite möglich, welche eine dieser bestimmten Technologien von Facebook verwendet. Diese Methode wird bereits schon einige Jahre so eingesetzt und Facebook dient hier nur als Beispiel. Die Drittanbieter-Cookies sind datenschutztechnisch umstritten. Ein Selbstversuch von Geoffrey A. Fowler, Reporter bei der Washington Post, ergab, dass er innerhalb einer Woche ungefilterten Surfens im Internet mit dem Google Chrome Browser insgesamt 11 189 Cookies ausgesetzt war[^quote-one]. 
 
 
 ### 2.3 Platzierung der Werbung
@@ -107,8 +107,17 @@ Im Wahljahr 2019 setzte die Christlichdemokratische Volkspartei der Schweiz (CVP
 Dafür setzte die CVP eine Technologie der personalisierten Werbung ein, die «Search Engine Advertising» genannt wird, nachfolgend auch als «SEA» bezeichnet. Bei der SEA wird die beworbene Seite gegen Bezahlung in den Suchergebnissen weiter oben, genauer gesagt, noch vor den eigentlichen Suchergebnissen angezeigt. Das Angebot Google Ads ermöglicht einem für eine zu bewerbende Seite ein Targeting vorzunehmen. Das geschieht mittels sogenannter Keywords. Wird nun nach einem dieser Keywords gesucht, werden die vorhandenen Informationen des Suchenden mit den laufenden Google Ads Keyword Kampagnen abgeglichen. Mittels einer Art Auktionsverfahren wird von Google beschlossen, welche Werbungen angezeigt werden sollen. Diese werden dann auf der Seite der Suchresultate weiter oben angezeigt und als Anzeige markiert. Google gibt dabei nicht bekannt, wie genau entschieden wird, welche Werbung für den Suchenden am Relevantesten sein könnte. Bezahlt wird dabei die Anzahl der Klicks, also wie oft jemand von den Anzeigen auf die beworbene Seite kommt. Zum Schutz des Werbenden kann dieser in Google Ads ein Tages- / Monatsbudget einrichten, welches dann nicht überschritten wird.
 
 Die CVP nutzte diese Technologie wie folgt: Wer nach einem Kandidaten oder einer Kandidatin, als Beispiel Damian Müller, bei Google suchte, sah in der Liste der Ergebnisse als obersten Eintrag, die mit «Anzeige» markierte Webseite der CVP mit dem Titel «Wahlen 2019 | Damian Müller | (FDP / Luzern)» . Auf der Webseite selber wurden dann die Positionen der FDP, also die Partei von Damian Müller, mit den Positionen der CVP verglichen. Die CVP legte «Damian Müller» als ein Keyword fest, weshalb diese Webseite von der CVP in den Google Suchresultaten noch über seiner eigenen Webseite erschien.
+
+<Grid>
+<Column start="1" end="5"></Column>
+<Column start="5" end="9">
+
 ![Anzeige Beispiel](./img/Fallbeispiel_CVP.jpeg)
 *Abb. 2 via Matthias Erni auf [Twitter](https://twitter.com/matthias_erni/status/1173838188558848001)[^:fig:two]*
+
+</Column>
+<Column start="9" end="13"></Column>
+</Grid>  
 
 ### 3.2 Reaktionen und Auswirkungen
 Die Reaktionen auf diese Kampagne waren überwiegend negativ. In kurzer Zeit war der Hashtag «#CVPfail» auf Twitter, der in der Schweiz am häufigsten verwendete Hashtag. Parteipräsident Gerhard Pfister verteidigte die Kampagne damit, dass es sich um eine Partei-Vergleichskampagne handle und kein Kandidat oder keine Kandidatin persönlich angegriffen werde. In den Medien wurde das Vorgehen der CVP als Negativkampagne beschrieben und als unschweizerisch bezeichnet. Zudem bestanden bei diversen Kandidierenden, welche auf einer dieser Webseiten namentlich erwähnt werden, Listenverbindungen. Die sonst eher CVP-kritische Neue Zürcher Zeitung NZZ beschrieb die Kampagne als harmlos[^quote-five] und später sogar als geheime 
@@ -137,6 +146,8 @@ Wie es für die Firmen, auch in den kommenden Jahren, ein Ziel sein wird möglic
 ### 5.2 Fazit
 Das Ziel der Werbung war es schon immer, einen Einfluss auf die Betrachtenden zu nehmen und sie dadurch in einer gewissen Art zu beeinflussen. Das Prinzip ist also nichts Neues und existiert schon lange in der Werbung. Durch den Einfluss der Digitalisierung auf die Werbung hat sich also vor allem das Medium verändert. Durch Möglichkeiten des Targetings in der Werbung ist es den Werbetreibenden möglich geworden, die Konsumierenden direkter und persönlicher anzusprechen und zu bewerben. Dadurch können die Werbetreibenden bei den Konsumenten mehr emotionale Reaktionen erzeugen und damit Bedürfnisse kreieren und Einfluss auf dessen Kaufverhalten zu nehmen. Oftmals ist es für die Konsumierenden nicht nachvollziehbar, wie es zu der entsprechenden Werbung kam und wird daher oftmals auch nicht weiter hinterfragt. In diesem Fall können Konsumierende von der Werbung ohne deren Wissen manipuliert werden. Meine Meinung zur personalisierten Werbung ist, dass es sich dabei um etwas gefährliches handelt solange die Mehrheit der Menschen sich der Funktionsweise nicht bewusst ist und sich uneingeschränkt der personalisierter Werbung aussetzten. Weiter bin ich der Meinung dass personalisierte Inhalte und Werbung in einer begrenzten Menge konsumiert werden sollte, aus diesem Grund empfehle ich die Verwendung von AdBlockern. Leider können damit noch lange nicht alle Werbeformen unterdrückt werden und nicht alle Werbungen, Inhalte und Beiträge sind klar ersichtlich als Werbung gekennzeichnet, daher betrachte ich es als besonders wichtig dass die Konsumierenden Inhalte und Beiträge auf Social Media kritisch konsumieren. Denn anhand der Targeting Möglichkeiten ist es nicht nur möglich uns eine für uns relevante Werbung zu zeigen, sondern Werbungen die wir überall und immer wieder antreffen sprechen unser Unterbewusstsein an und können Bedürfnisse in uns erwecken. Weiter möchte ich nicht dass jede meiner Bewegungen im Internet aufgezeichnet wird und sich auf mich persönlich zurück verfolgen lässt. Als Massnahme dessen werde ich meinen Standard Browser auf Firefox wechseln und Meldungen wie «Diese Seite verwendet Cookies» nicht länger Akzeptieren soferne das möglich ist. Solange es im Datenschutzgesetz keine massgebende Änderungen gibt, ist es meiner Meinung nach wichtig, dass man sich das Konzept der personalisierten Werbung im Internet bewusst ist und sich aktiv damit befasst, um ein Bewusstsein zu erlangen und dementsprechend eigenverantwortlich zu handeln. Die Werbung soll mit einem gesunden Misstrauen konsumiert werden. Schlussendlich liegt die Entscheidung über einen Kauf oder einer politischen Wahl bei jedem Einzelnen.<!-- references text-->
 
+---
+
 <!--
 Vorname Nachname, [Titel der Seite](https://www.google.com/) (Abrufdatum: dd. mm. yyyy).
 Vorname Nachname, Buchtitel, Auflage, Verlag, Erscheinungsort Jahr, erste Seite – letzte Seite.
@@ -154,7 +165,6 @@ Vorname Nachname, Buchtitel, Auflage, Verlag, Erscheinungsort Jahr, erste Seite�
 <!-- references figures-->
 [^:fig:one]: Abb. 1 Online Werbung Distributionsnetzwerk, Eigene Abbildung basierend auf: [Guide to Digital Display Advertising](https://www.youtube.com/watch?v=efHVOWcNJZo)
 [^:fig:two]: Abb. 2 via Matthias Erni auf [Twitter](https://twitter.com/matthias_erni/status/1173838188558848001)
-
 
 
 ## Einzelnachweise
@@ -185,6 +195,7 @@ reference-text-suffix: ' – '
 
 #### Mentoring durch
 Christoph Caviezel <br/>
+
 [christoph.caviezel@wirz.ch](mailto:christoph.caviezel@wirz.ch)
 
 </Column>
@@ -193,6 +204,8 @@ Christoph Caviezel <br/>
 
 #### Vorgelegt von
 Matthias Koch <br/>
+HFIAD 2017 <br/>
+Schule für Gestaltung Zürich<br/>
 [hello@matthiasko.ch.ch](mailto:hello@matthiasko.ch)
 </Column>
 
