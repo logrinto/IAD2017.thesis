@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Thesis IAD2017]]></title><description><![CDATA[A starter blog ...]]></description><link>https://thesis.logrinto.ch</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 10 Jan 2020 10:10:06 GMT</lastBuildDate><item><title><![CDATA[Thesis]]></title><description><![CDATA[Schule für Gestaltung Zürich · 2019 · CC-BY-SA 4.0 Dokumentation Beispiel · Stefan Huber Pascale Anderegg Stephanie Fuchs Marc Hatt Severin…]]></description><link>https://thesis.logrinto.chroot</link><guid isPermaLink="false">https://thesis.logrinto.chroot</guid><content:encoded>&lt;div class=&quot;column__text&quot;&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Thesis IAD2017]]></title><description><![CDATA[A starter blog ...]]></description><link>https://thesis.logrinto.ch</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 10 Jan 2020 10:13:18 GMT</lastBuildDate><item><title><![CDATA[Thesis]]></title><description><![CDATA[Schule für Gestaltung Zürich · 2019 · CC-BY-SA 4.0 Dokumentation Beispiel · Stefan Huber Pascale Anderegg Stephanie Fuchs Marc Hatt Severin…]]></description><link>https://thesis.logrinto.chroot</link><guid isPermaLink="false">https://thesis.logrinto.chroot</guid><content:encoded>&lt;div class=&quot;column__text&quot;&gt;
 &lt;p&gt;&lt;a href=&quot;https://sfgz.ch/&quot;&gt;Schule für Gestaltung Zürich&lt;/a&gt; · 2019 · &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;&lt;/p&gt;
 &lt;br /&gt;
 &lt;br /&gt;
@@ -2218,7 +2218,7 @@ Pestalozzistrasse 24 &lt;br/&gt;
 &lt;a href=&quot;#fnref-:fig:two&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Dynamische Strukturen in digitalen Produkten]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Einfluss von Künstlicher Intelligenz auf das Benutzererlebnis]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
 import Grid from 'gatsby-theme-signalwerk/src/components/Grid';
 import…]]></description><link>https://thesis.logrinto.ch/posts/2020/nicole/</link><guid isPermaLink="false">https://thesis.logrinto.ch/posts/2020/nicole/</guid><pubDate>Sat, 11 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;import Margin from &apos;gatsby-theme-signalwerk/src/components/Margin&apos;;
 import Grid from &apos;gatsby-theme-signalwerk/src/components/Grid&apos;;
