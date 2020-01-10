@@ -9,7 +9,7 @@ path: "/posts/2020/wolfgang/"
 tags:
   - "TagOne"
   - "TagTwo"
-description: "Durch das Internet ergeben sich neue Möglichkeiten, für Unternehmen und KundInnen eng miteinander zu kooperieren. Eine Co-Creation bietet dabei verschiedenste Ansätze für eine gemeinsame Zusammenarbeit. Dadurch verändert sich aber einerseits die Rollenverteilung zwischen Firmen und Ihren KundInnen sowie der Umgang mit Produkten ganz allgemein."
+description: "Durch das Internet ergeben sich neue Möglichkeiten, für Unternehmen und KundInnen eng miteinander zu kooperieren. Eine Co-Creation bietet dabei verschiedenste Ansätze für eine gemeinsame Zusammenarbeit. Dadurch verändert sich aber die Rollenverteilung zwischen Firmen und Ihren KundInnen sowie der Umgang mit Produkten ganz allgemein."
 ---
 
 import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
