@@ -69,7 +69,7 @@ Diese Fragen werden anhand einer Recherche in der relevanten Fachliteratur sowie
 
 ### Methode und Aufbau
 
-Als Basis für diese Arbeit dient Literatur bezüglich kontaktlosem/mobilen/digitalen Bezahlen, welche innerhalb der Nebis Bibliotheken recherchiert wurde. Im Weiteren fand ein Interview mit Matthias Lienhop, CEO von EventClearing, statt. Eine Umfrage zu kontaktlosem Bezahlen und EventClearing wurde erstellt und von aktiven Turnierreiterinnen und Turnierreitern beantwortet. Im Kapitel *Umfrage* wird genauer auf diese eingegangen.
+Als Basis für diese Arbeit dient Literatur bezüglich kontaktlosem/mobilen/digitalen Bezahlen, welche innerhalb der Nebis Bibliotheken recherchiert wurde. Im Weiteren fand ein Interview mit Matthias Lienhop, Gründer von EventClearing, statt. Eine Umfrage zu kontaktlosem Bezahlen und EventClearing wurde erstellt und von aktiven Turnierreiterinnen und Turnierreitern beantwortet. Im Kapitel *Umfrage* wird genauer auf diese eingegangen.
 
 ## Kontaktloses Bezahlen
 
@@ -113,7 +113,7 @@ Der Vorteil dieser Technologie ist die Herstellerunabhängigkeit und folge desse
 ### Nutzung von kontaktlosem Bezahlen in der Schweiz
 
 Laut dem Bericht Swiss Payment Monitor 2019 ist das kontaktlose Bezahlen aktuell mit einem Bekanntheitsgrad von 90&#x202F;% in der Bevölkerung auf dem Vormarsch.[^quote-7] Bezüglich der Sicherheit bestehen seitens der Nutzenden allerdings noch immer Bedenken, welche wesentlich grösser sind als bei Barzahlungen und Kartenzahlungen mit physischem Kontakt. Trotzdem gewinnt das kontaktlose Bezahlen an Sympathie und Akzeptanz. Das System beginnt sich langsam aber sicher durchzusetzen, vor allem dank den Debitkarten mit NFC-Chip, welche hauptsächlich bei jüngeren Benutzenden hoch im Kurs stehen. So können sich drei von fünf im Rahmen des Swiss Payment Monitor 2019 befragten Personen vorstellen, in den nächsten Jahren vermehrt kontaktlos zu bezahlen.[^quote-8] In Abbildung&#x00A0;3 findet sich ein Vergleich der Bekanntheit von neueren Zahlungsmitteln zwischen 2018 und 2019:
-[^quote-7]: Vgl. Bettina Gehring, Sandro Graf, Dr. Tobias Trütsch, ZHAW, Universität St. Gallen (2019).  [Swiss Payment Monitor 2019.](https://medien.swisspaymentmonitor.ch/SPM19_Booklet_de.pdf) S.&#x202F;4. Zugegriffen: 27.&#x202F;Dezember&#x00A0;2019 
+[^quote-7]: Vgl. Bettina Gehring, Sandro Graf, Dr.&#x202F;Tobias Trütsch, ZHAW, Universität St. Gallen (2019).  [Swiss Payment Monitor 2019.](https://medien.swisspaymentmonitor.ch/SPM19_Booklet_de.pdf) S.&#x202F;4. Zugegriffen: 27.&#x202F;Dezember&#x00A0;2019 
 [^quote-8]: edb. S.&#x202F;5.
 
 
@@ -128,7 +128,7 @@ Laut dem Bericht Swiss Payment Monitor 2019 ist das kontaktlose Bezahlen aktuell
 </Grid>
 
 Generell kann festgestellt werden, dass alle Technologien an Bekanntheit gewonnen haben. Mit 99&#x202F;% am häufigsten verwendet und somit mit einer niedrigen Hemmschwelle verbunden sind Online-Zahlungen mittels Kreditkarte. Im direkten Vergleich sind das jedoch nur drei Prozent mehr als das kontaktlose Bezahlen mittels Kreditkarte, welches mit 96&#x202F;% an zweiter Stelle folgt. An dritter Stelle liegt mit 94&#x202F;% das kontaktlose Bezahlen mit Debitkarte.[^quote-9] Verglichen mit physischen Zahlungsmethoden punktet kontaktloses Bezahlen bei den Befragten des Swiss Payment Monitor 2019 hauptsächlich mit der Debit- und Kreditkarte erstens in Bezug auf die einfache Nutzung, zweitens den geringen Zeitaufwand und drittens die zukunftsorientierte Technologie, wie Abbildung&#x00A0;4 darstellt:
-[^quote-9]: Bettina Gehring, Sandro Graf, Dr. Tobias Trütsch, ZHAW, Universität St. Gallen (2019).  [Swiss Payment Monitor 2019.](https://medien.swisspaymentmonitor.ch/SPM19_Booklet_de.pdf) S.&#x202F;10. Zugegriffen: 27.&#x202F;Dezember&#x00A0;2019 
+[^quote-9]: Bettina Gehring, Sandro Graf, Dr.&#x202F;Tobias Trütsch, ZHAW, Universität St. Gallen (2019).  [Swiss Payment Monitor 2019.](https://medien.swisspaymentmonitor.ch/SPM19_Booklet_de.pdf) S.&#x202F;10. Zugegriffen: 27.&#x202F;Dezember&#x00A0;2019 
 
 
 <Grid background>
@@ -165,7 +165,7 @@ Die Möglichkeiten von kontaktlosem Bezahlen in der Schweiz sind vielfältig und
 
 Am meisten verbreitet ist die Verwendung von kontaktlosem Bezahlen mittels Debit- oder Kreditkarte. Die grössten Kartenanbietenden und auch die Schweizer Banken haben zwischen 2014 und 2016 auf Debit-/Kreditkarten mit der Funktion zum kontaktlosen Bezahlen (NFC-Chip) umgerüstet.[^quote-12] Die Karten von Kundinnen und Kunden der jeweiligen Unternehmen sind fortlaufend durch Neue ersetzt worden. Gefragt wurden sie nicht. Das System wurde sozusagen autoritär eingeführt. 71&#x202F;% der Debitkarten und 95&#x202F;% der Kreditkarten verfügen per Ende 2018 über den NFC-Chip, Tendenz steigend.[^quote-13]
 [^quote-12]:  SRF Kassensturz. [Kontaktlos zahlen: Das müssen Kunden wissen.](https://www.srf.ch/sendungen/kassensturz-espresso/themen/geld/kontaktlos-zahlen-das-muessen-kunden-wissen) Zugegriffen: 23.&#x202F;Dezember&#x00A0;2019
-[^quote-13]: Bettina Gehring, Sandro Graf, Dr. Tobias Trütsch, ZHAW, Universität St. Gallen (2019).  [Swiss Payment Monitor 2019.](https://medien.swisspaymentmonitor.ch/SPM19_Booklet_de.pdf) S.&#x202F;5. Zugegriffen: 27.&#x202F;Dezember&#x00A0;2019
+[^quote-13]: Bettina Gehring, Sandro Graf, Dr.&#x202F;Tobias Trütsch, ZHAW, Universität St. Gallen (2019).  [Swiss Payment Monitor 2019.](https://medien.swisspaymentmonitor.ch/SPM19_Booklet_de.pdf) S.&#x202F;5. Zugegriffen: 27.&#x202F;Dezember&#x00A0;2019
 
 #### Twint&#x00A0;– mit Interface
 
@@ -286,9 +286,13 @@ Die Umfrage *Kontaktloses Bezahlen im Pferdesport – Status Quo, Möglichkeiten
 
 #### Ergebnisse
 
-Als erstes wurde nach dem Kenntnisstand bezüglich  kontaktlosem Bezahlen gefragt. 100&#x202F;% der Befragten gaben an, zu wissen, was mit kontaktlosem Bezahlen gemeint ist und wie dies funktioniert. Auf die Frage, ob sie diese Funktion nutzen, haben 50&#x202F;% angegeben, schon einmal mit einer Debit- oder Kreditkarte kontaktlos bezahlt zu haben. 40&#x202F;% der Befragten gaben an, ausserdem bereits kontaktlos mit einer Applikation auf ihrem Smartphone bezahlt zu haben, während 5&#x202F;% bis anhin nur mittels Bezahlapplikation auf dem Smartphone kontaktlos bezahlt haben (Abbildung&#x00A0;8). 
+Als erstes wurde nach dem Kenntnisstand bezüglich  kontaktlosem Bezahlen gefragt. 100&#x202F;% der Befragten gaben an, zu wissen, was mit kontaktlosem Bezahlen gemeint ist und wie dies funktioniert. Auf die Frage, ob sie diese Funktion nutzen, haben 50&#x202F;% angegeben, schon einmal mit einer Debit- oder Kreditkarte kontaktlos bezahlt zu haben. 40&#x202F;% der Befragten gaben an, ausserdem bereits kontaktlos mit einer Applikation auf ihrem Smartphone bezahlt zu haben, während 5&#x202F;% bis anhin nur mittels Bezahlapplikation auf dem Smartphone kontaktlos bezahlt haben (Abbildung&#x00A0;8).[^quote-31]
 
-Genauere Hinweise auf die möglicherweise vorhandene Hemmschwelle zur Nutzung dieser Technologie liefert die Frage, ob es die Befragten Überwindung gekostet hat, kontaktlos zu bezahlen. 80&#x202F;% der Befragten gaben an, dass sie das kontaktlose Bezahlen keine Überwindung kostete und sie dieses ohne Bedenken ausführten. Der Entscheid, die Technologie zu nutzten, war an die Vermutung geknüpft, dass diese schon funktionieren würde (Abbildung&#x00A0;9). Dieses Vertrauen in die Technologie spiegelt sich auch in den Details der Antworten wieder. 65&#x202F;% der Befragten gaben an, bei der Anwendung in keiner Art und Weise sicherheitstechnische Bedenken gehabt zu haben. 15&#x202F;% hatten Zweifel und machten sich Sorgen um die Sicherheit des Geldes oder der Daten. Nur 5&#x202F;% der Befragten hatten jedoch gravierende Zweifel, womit für sie die Hemmschwelle zur Nutzung des kontaktlosen Bezahlens zu gross war. 
+[^quote-31]: Stephanie Fuchs (2019). Umfrage Kontaktloses Bezahlen im Pferdesport – Status Quo, Moglichkeiten und Perspektiven. 
+
+Genauere Hinweise auf die möglicherweise vorhandene Hemmschwelle zur Nutzung dieser Technologie liefert die Frage, ob es die Befragten Überwindung gekostet hat, kontaktlos zu bezahlen. 80&#x202F;% der Befragten gaben an, dass sie das kontaktlose Bezahlen keine Überwindung kostete und sie dieses ohne Bedenken ausführten. Der Entscheid, die Technologie zu nutzten, war an die Vermutung geknüpft, dass diese schon funktionieren würde (Abbildung&#x00A0;9). Dieses Vertrauen in die Technologie spiegelt sich auch in den Details der Antworten wieder. 65&#x202F;% der Befragten gaben an, bei der Anwendung in keiner Art und Weise sicherheitstechnische Bedenken gehabt zu haben. 15&#x202F;% hatten Zweifel und machten sich Sorgen um die Sicherheit des Geldes oder der Daten. Nur 5&#x202F;% der Befragten hatten jedoch gravierende Zweifel, womit für sie die Hemmschwelle zur Nutzung des kontaktlosen Bezahlens zu gross war.[^quote-32]
+
+[^quote-32]: ebd. 
 
 <Grid background> 
 <Column start="2" end="7">
@@ -310,7 +314,9 @@ Genauere Hinweise auf die möglicherweise vorhandene Hemmschwelle zur Nutzung di
 
 In Bezug auf den Einfluss von Benutzerführung und Interface auf die Entscheidung für oder gegen kontaktloses Bezahlen gaben 45&#x202F;% der befragten Reiterinnen und Reiter an, eine Applikation nicht zu verwenden, wenn sie aus ihrer Sicht zu kompliziert ist. Lediglich 15&#x202F;% meinten, sie würden sich unabhängig von der Komplexität der App ihr annehmen und sie erlernen. 40&#x202F;% gaben an, eine komplexe Applikation nur dann zu benutzen, wenn sie dazu gezwungen werden beziehungsweise wenn die App ein Bestandteil des ganzen Systems ist und somit nicht umgangen werden kann (Abbildung&#x00A0;10).
 
-55&#x202F;% aller befragten ReiterInnen kennen EventClearing und schätzen es. Weitere 30&#x202F;% haben noch nichts davon gehört, finden die Idee aber sehr gut. Lediglich 15&#x202F;% konnten sich bis anhin nicht damit anfreunden (Abbildung&#x00A0;11). 
+55&#x202F;% aller befragten ReiterInnen kennen EventClearing und schätzen es. Weitere 30&#x202F;% haben noch nichts davon gehört, finden die Idee aber sehr gut. Lediglich 15&#x202F;% konnten sich bis anhin nicht damit anfreunden (Abbildung&#x00A0;11).[^quote-33]
+
+[^quote-33]: ebd. 
 
 <Grid background> 
 <Column start="2" end="7">
@@ -331,7 +337,9 @@ In Bezug auf den Einfluss von Benutzerführung und Interface auf die Entscheidun
 
 90&#x202F;% der Befragten vertrauen der Technologie voll und ganz. Niemand hatte bei der Verwendung von EventClearing Bedenken oder würde auf Grund dessen eine solche Veranstaltung in Zukunft meiden. Lediglich 10&#x202F;% möchten sich vor einer Verwendung zuerst besser informieren. 
 
-Abschliessend gaben die Befragten an, dass sie auch das Wearable Armband von EventClearing benutzen würden um vor Ort kontaktlos zu bezahlen. 55&#x202F;% der ReiterInnen wollen es benutzen, obwohl diese Technologie aktuell nicht sehr weit verbreitet ist. Weitere 25&#x202F;% sind sich noch nicht sicher und 20&#x202F;% möchten auf die Verwendung dieses Wearable verzichten.
+Abschliessend gaben die Befragten an, dass sie auch das Wearable Armband von EventClearing benutzen würden um vor Ort kontaktlos zu bezahlen. 55&#x202F;% der ReiterInnen wollen es benutzen, obwohl diese Technologie aktuell nicht sehr weit verbreitet ist. Weitere 25&#x202F;% sind sich noch nicht sicher und 20&#x202F;% möchten auf die Verwendung dieses Wearable verzichten.[^quote-34]
+
+[^quote-34]: ebd.
 
 ## Fazit
 
