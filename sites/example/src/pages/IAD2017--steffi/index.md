@@ -43,14 +43,17 @@ Handel ist seit jeher ein wichtiger Bestandteil unserer Zivilisation. Der urspr�
 ## Inhaltsverzeichnis
 
 ```toc
-exclude: Inhaltsverzeichnis
+exclude: 
+  - Inhaltsverzeichnis
+  - Einzelnachweise
+  - Abbildungsverzeichnis
 from-heading: 2
-to-heading: 6
+to-heading: 3
 ```
 
 ### Problemstellung
 
-Im Pferdesport wurden bis 2017 Start- und Logiekosten sowie Gewinngelder in Bargeld oder per Banküberweisung bezahlt. Im Jahr 2019 haben erstmals mehrere Schweizer Pferdesportanlässe den Dienst EventClearing eingeführt, welcher ein einfaches, kontaktloses Abwickeln aller Geldtransaktionen im Rahmen von Pferdesport-Events ermöglicht.
+Mit der Digitalisierung eröffneten sich im Beriech von Zahlungstransaktionen viele neue Möglichkeiten. Im Pferdesport wurden bis 2017 Start- und Logiekosten sowie Gewinngelder in Bargeld oder per Banküberweisung bezahlt. Im Jahr 2019 haben erstmals mehrere Schweizer Pferdesportanlässe den Dienst EventClearing eingeführt, welcher ein einfaches, kontaktloses Abwickeln aller Geldtransaktionen im Rahmen von Pferdesport-Events ermöglicht.
 
 In der vorliegenden Thesis soll daher untersucht werden, wo es im Bezug auf die Nutzung von kontaktlosem Bezahlen im Pferdesport noch Vorbehalte gibt und wieso, beziehungsweise ob und wie diese vom Design abhängig sind. Dabei soll ermittelt werden, worauf die Akzeptanz von kontaktlosen Bezahlsystemen basiert und wohin die Tendenz in der Zukunft gehen soll.
 
@@ -273,15 +276,15 @@ Laut Philipp Züger, OK-Präsident der Pferdesporttage Galgenen, welche eine Pil
 
 [^quote-30]: Zitat Ausschreibung EventClearing. [Bargeldloses Zahlungssystem im Schweizer Pferdesport. Heute gewonnen, morgen auf dem Konto.](https://www.eventclearing.lu/wp-content/uploads/2019/05/Layout-1_Seite-28.pdf) Zugegriffen: 27.&#x202F;Dezember&#x00A0;2019
 
-## Umfrage
+### Umfrage
 
 Um umfassende Informationen zum Thema kontaktloses Bezahlen in Bezug auf Pferdesportveranstaltungen zu erhalten, wurde im Rahmen dieser Arbeit eine Umfrage unter Reiterinnen und Reitern durchgeführt. Dabei wurden 20 Personen verschiedener Altersklassen befragt, die aktuell an Pferdesportturnieren teilnehmen.
 
-### Methodische Vorgehensweise
+#### Methodische Vorgehensweise
 
 Die Umfrage «Kontaktloses Bezahlen im Pferdesport – Status Quo, Möglichkeiten und Perspektiven» wurde im November 2019 erstellt und war über den Onlinedienst [survio.com](https://www.survio.com/de/) verfügbar. Der Link zu der Umfrage wurde über WhatsApp an aktive Turnierreiterinnen und Turnierreiter aller Altersgruppen verschickt und war während einer Woche erreichbar. Durch diese Umfrage sollte ersichtlich werden, inwiefern Reiterinnen und Reiter mit kontaktlosem Bezahlen vertraut sind und worauf allfällige Bedenken zurückzuführen sind. In einem nächsten Schritt wurde eruiert, ob sie EventClearing bereits kennen und wie sie dazu stehen. Die Antworten wurden anonym gesammelt und direkt über [survio.com](https://www.survio.com/de/) ausgewertet.
 
-### Ergebnisse
+#### Ergebnisse
 
 Als erstes wurde nach dem Kenntnisstand bezüglich  kontaktlosem Bezahlen gefragt. 100&#x202F;% der Befragten gaben an, zu wissen, was mit kontaktlosem Bezahlen gemeint ist und wie dies funktioniert. Auf die Frage, ob sie diese Funktion nutzen, haben 50&#x202F;% angegeben, schon einmal mit einer Debit- oder Kreditkarte kontaktlos bezahlt zu haben. 40&#x202F;% der Befragten gaben an, ausserdem bereits kontaktlos mit einer Applikation auf ihrem Smartphone bezahlt zu haben, während 5&#x202F;% bis anhin nur mittels Bezahlapplikation auf dem Smartphone kontaktlos bezahlt haben (Abbildung&#x00A0;8). 
 
