@@ -38,6 +38,20 @@ import Box from 'gatsby-theme-signalwerk/src/components/Box';
 
 ## Einleitung
 
+<Margin>
+
+**Danksagung**
+
+An dieser Stelle möchte ich mich ganz herzlich bei allen Personen die mich bei meiner Thesis unterstützt haben bedanken.
+
+Ein spezielles Danke gilt meinem Mentor Prof.&#x202F;Alex Hanimann für seine Zeit, Unterstützung und wertvollen Inputs.
+
+Im Weiteren möchte ich mich bei meinem Lektor Johannes Bühler und allen Teilnehmern der in diesem Rahmen durchgeführten Umfrage bedanken.
+
+Herzlichen Dank!
+
+</Margin>
+
 Handel ist seit jeher ein wichtiger Bestandteil unserer Zivilisation. Der ursprüngliche Tauschhandel mit realen Objekten wurde im Laufe der Jahrhunderte mehr und mehr durch symbolische Werte abgelöst. Über erste Münzen, denen ein symbolischer Wert zugewiesen wurde, zu Papiergeld, welches in verschiedenen Währungen und Werten erhältlich ist, bis hin zu Kreditkarten und Smartphone-Applikationen, welche Zahlungen ohne physischen Kontakt ermöglichen, hat sich der Handel mit Waren und Dienstleistungen stetig weiterentwickelt und scheint sich auch weiter dynamisch zu verändern. Die Zahlungskarten-Anbieterin Visa ermöglichte 2007 als erstes Unternehmen das kontaktlose Bezahlen, indem sie einen NFC-Chip in ihre Kreditkarten integrierte. Nachdem diese Bezahlvariante während den darauffolgenden zehn Jahren eher wenig Beachtung fand, kommt sie seit einigen Jahren immer mehr zum Einsatz, auch wenn viele Schweizerinnen und Schweizer eine eher hohe Hemmschwelle haben, diesen Dienst zu nutzen. Nachdem digitale Transaktions-Technologien wie Bluetooth Low Energy (BLE), Near Field Communication (NFC) und Quick Response (QR) Code zunehmend perfektioniert wurden, verbreiten sich diese nun auch in Bereichen, in denen diesbezüglich über längere Zeit eine Stagnierung festzustellen war. So ist beispielsweise im Pferdesport in den letzten Jahren das Bedürfnis aufgekommen, mit der Zeit zu gehen und kontaktloses Bezahlen mit einer Applikation und einem Wearable an Veranstaltungen zu ermöglichen. 
 
 ## Inhaltsverzeichnis
