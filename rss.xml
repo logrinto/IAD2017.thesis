@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Thesis IAD2017]]></title><description><![CDATA[A starter blog ...]]></description><link>https://thesis.logrinto.ch</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 10 Jan 2020 20:34:05 GMT</lastBuildDate><item><title><![CDATA[Thesis]]></title><description><![CDATA[Schule für Gestaltung Zürich · 2019 · CC-BY-SA 4.0 Dokumentation Beispiel · Stefan Huber Pascale Anderegg Stephanie Fuchs Marc Hatt Severin…]]></description><link>https://thesis.logrinto.chroot</link><guid isPermaLink="false">https://thesis.logrinto.chroot</guid><content:encoded>&lt;div class=&quot;column__text&quot;&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Thesis IAD2017]]></title><description><![CDATA[A starter blog ...]]></description><link>https://thesis.logrinto.ch</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 10 Jan 2020 20:52:30 GMT</lastBuildDate><item><title><![CDATA[Thesis]]></title><description><![CDATA[Schule für Gestaltung Zürich · 2019 · CC-BY-SA 4.0 Dokumentation Beispiel · Stefan Huber Pascale Anderegg Stephanie Fuchs Marc Hatt Severin…]]></description><link>https://thesis.logrinto.chroot</link><guid isPermaLink="false">https://thesis.logrinto.chroot</guid><content:encoded>&lt;div class=&quot;column__text&quot;&gt;
 &lt;p&gt;&lt;a href=&quot;https://sfgz.ch/&quot;&gt;Schule für Gestaltung Zürich&lt;/a&gt; · 2019 · &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;&lt;/p&gt;
 &lt;br /&gt;
 &lt;br /&gt;
@@ -4194,17 +4194,23 @@ import Box from &apos;gatsby-theme-signalwerk/src/components/Box&apos;;&lt;/p&gt
 &lt;p&gt;Heutzutage ist es selbstverständlich, Inhalte über das Internet zu erstellen und zu verbreiten. Dafür wird unter anderem das Peer-to-Peer-System (P2P) verwendet und es werden Sharing Plattformen genutzt. Viele junge Nutzer*innen benutzen die offenen Sharing Plattformen über Smartphone, Tablet oder Laptop, stellen Inhalte her und lesen gleichzeitig Inhalte von anderen Nutzer*innen. Zudem entwickelten in kurzer Zeit zahlreiche Geschäfte, Unternehmen und Startups Produkte mit Sharing Plattformen. Trotz Fake News, Filterblasen, Datenmissbrauch und Mikrotargeting nutzen viele Social Media täglich. Diese Bewegung hat die ökonomische Digitalisierung stark beeinflusst.&lt;/p&gt;
 &lt;p&gt;Vor der Digitalisierung stammten die Informationen meistens von Autoren, Journalisten und anderen Fachleuten. Im Web 2.0 werden die Informationen auch durch Peer-to-Peer erstellt.
 Damit die schriftlichen Informationen genutzt wurden und werden, müssen die Leser*innen und Nutzer*innen Vertrauen zu den Informationen und in die Informationsquellen haben. Wie entstand und entsteht das Vertrauen in schriftliche Informationen? Das soll in der vorliegenden Arbeit untersucht werden. Dabei wird in der Thesis der Fokus auf zwei Hauptfragen gelegt:&lt;/p&gt;
+&lt;h1&gt;&lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Wie entstand Vertrauen zu Informationsquellen vor der Digitalisierung (zu Buchverlagen, Büchern, Zeitungen, Institutionen etc.)?&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Wie hat das Web 2.0 und Methoden wie P2P Sharing das Vertrauen in Wissen/Information verändert?&lt;/strong&gt; &lt;br/&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Wie hat das Web 2.0 und Methoden wie P2P Sharing das Vertrauen in Wissen/Information verändert?&lt;/strong&gt; &lt;br/&gt;&lt;/p&gt;
+&lt;h1&gt;&lt;/h1&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Zudem werden auch folgende Fragen untersucht: Wann und wie startete diese Revolution der Sharing Plattformen? Wie sieht das Vertrauen von Nutzer*innen in Sharing Plattformen aus? Wie vertrauen die Nutzer*innen den Informationsquellen? Hat sich das Vertrauen vor und nach der Digitalisierung verändert?&lt;/p&gt;
+&lt;h1&gt;&lt;/h1&gt;
 &lt;Margin&gt;
 &lt;p&gt;&lt;strong&gt;Noch ein Hinweis:&lt;/strong&gt; &lt;br/&gt;&lt;/p&gt;
 &lt;p&gt;Im Text gibt es an mehreren Stellen solche Kästchen. Diese werden für kleine Fallbeispiele und für Themen verwendet, denen ich in der Bearbeitung der Thematik begegnet bin, die ich im Rahmen dieser Arbeit aber nicht vertieft behandelt werden konnten. Vereinzelt finden sich in diesen Kästchen auch Begriffsdefinitionen.&lt;/p&gt;
 &lt;/Margin&gt;
 &lt;p&gt;&lt;strong&gt;Die Arbeit ist wie folgt aufgebaut:&lt;/strong&gt; &lt;br/&gt;
 Nachdem die zentralen Begriffe definiert worden sind, wird ein Blick in die Vergangenheit geworfen: Welche schriftlichen Informationsquellen hat es vor der Digitalisierung gegeben? Wie funktionierte das damals vorherrschende B2C-Konzept? Und wie entsteht Vertrauen ins B2C-Konzept? Danach steht die Digitalisierung im Zentrum: Es werden die mit der Digitalisierung verbundenen Veränderungen aufgezeigt, das P2P-Konzept wird beschrieben und es wird der Frage nachgegangen, wie im P2P-Konzept Vertrauen entsteht. In einem weiteren Kapitel werden drei Fallbeispiele in Bezug auf P2P Vertrauen untersucht: Wikipedia, Twitter und Facebook. Diese drei Beispiele wurden gewählt, weil sie zu den wichtigsten P2P-Plattformen gehören. Um noch mehr über die Konzepte P2P und B2C und das Vertrauen in Wikipedia, Twitter und Facebook zu erfahren, wurde zudem eine Diskussion mit vier Personen aufgezeichnet. Die Ergebnisse dieses Gesprächs sind im Kapitel «Diskussion» dargestellt. Im letzten Kapitel, dem Schlusswort, werden die Ergebnisse dieser Untersuchung zusammengefasst, es wird ein Fazit gezogen und es werden weiterführende Fragestellungen formuliert.&lt;/p&gt;
+&lt;h2&gt;&lt;/h2&gt;
 &lt;!--Für weitere Infos siehe [Github](https://github.com/signalwerk/gatsby-theme-signalwerk).--&gt;
 &lt;hr&gt;
 &lt;h2&gt;Inhaltsverzeichnis&lt;/h2&gt;
@@ -4284,8 +4290,10 @@ Fachleute teilen ihr Wissen mit anderen Leuten. Die Interessenten darunter teile
 &lt;h4&gt;Vertrauen&lt;/h4&gt;
 &lt;p&gt;&lt;em&gt;«Vertrauen bezeichnet die subjektive Überzeugung (oder auch das Gefühl für oder Glaube an die) von der Richtigkeit, Wahrheit von Handlungen, Einsichten und Aussagen bzw. der Redlichkeit von Personen.»&lt;/em&gt;&lt;sup id=&quot;fnref-7&quot;&gt;&lt;a href=&quot;#fn-7&quot; class=&quot;footnote-ref&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;p&gt;Vertrauen wird nicht als selbstverständlich wahrgenommen, weil es stark von verschiedenen Situationen beeinflusst ist. &lt;em&gt;Gemäss Friesens kommt es darauf an, wie die Beziehung zwischen zwei oder mehreren Personen ist. Je stärker sie verbündet sind, desto mehr vertrauliche Informationen erhalten sie.&lt;/em&gt;&lt;sup id=&quot;fnref-8&quot;&gt;&lt;a href=&quot;#fn-8&quot; class=&quot;footnote-ref&quot;&gt;8&lt;/a&gt;&lt;/sup&gt; Bei persönlichen Treffen entscheiden in der Regel die Gefühle der Menschen darüber, wem sie vertrauen können und wem nicht. Auch sind Glaubwürdigkeit und Sympathie wichtig für das Vertrauen.&lt;/p&gt;
+&lt;h1&gt;&lt;/h1&gt;
 &lt;hr&gt;
 &lt;h3&gt;Vor der Digitalisierung&lt;/h3&gt;
+&lt;h1&gt;&lt;/h1&gt;
 &lt;h4&gt;Schriftliche Informationsquellen&lt;/h4&gt;
 &lt;p&gt;&lt;em&gt;Wie Böhn und Seidler beschreiben, sind Wissensbestände im menschlichen Gedächtnis nicht dauerhaft speicherbar. Erst die schriftliche Archivierung ermöglichte die Speicherung von Wissen ausserhalb des Gedächtnisses.&lt;/em&gt;&lt;sup id=&quot;fnref-9&quot;&gt;&lt;a href=&quot;#fn-9&quot; class=&quot;footnote-ref&quot;&gt;9&lt;/a&gt;&lt;/sup&gt; Seitdem wurden unzählige Informationsquellen geschaffen. Vor der Digitalisierung waren die Informationsquellen ausschliesslich analoge, haptische Dinge, wie Bücher, Zeitung, Zeitschriften und weitere Printmedien. Diese wurden unter anderem in Archiven von Bibliotheken und Museen gelagert.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Im 17. Jahrhundert entstand die Zeitung als erstes öffentliches Massenmedium und entwickelte sich zu einem wichtigen Kommunikationsmittel für das breite Publikum.&lt;/em&gt;&lt;sup id=&quot;fnref-10&quot;&gt;&lt;a href=&quot;#fn-10&quot; class=&quot;footnote-ref&quot;&gt;10&lt;/a&gt;&lt;/sup&gt; Später kamen weitere Massenmedien dazu, wie das Radio, das Fernsehen und weitere Printmedien (neben Zeitungen auch Zeitschriften, Plakate und Flugblätter). &lt;em&gt;Diese Massenmedien lieferten die aktuellen Informationen schnellstmöglich und für ein grosses Publikum. So konnten sich die neugierigen Bürger*innen über Politik, Gesellschaft, Kultur, Wirtschaft, Sport und das Geschehen in der Gesellschaft informieren.&lt;/em&gt;&lt;sup id=&quot;fnref-11&quot;&gt;&lt;a href=&quot;#fn-11&quot; class=&quot;footnote-ref&quot;&gt;11&lt;/a&gt;&lt;/sup&gt; &lt;em&gt;Wie Böhn und Seidler feststellen, hat die Entstehung der Zeitung die politischen und sozialen Bereiche bewegt und oft wurden Informationen zensiert. Seitdem wurde die Zensur in Phasen der politischen Revolution heftig kritisiert und im 18. Jahrhundert verlangten die Bürger*innen Pressefreiheit.&lt;/em&gt;&lt;sup id=&quot;fnref-12&quot;&gt;&lt;a href=&quot;#fn-12&quot; class=&quot;footnote-ref&quot;&gt;12&lt;/a&gt;&lt;/sup&gt; &lt;em&gt;Diese wurde später in die Menschenrechte aufgenommen, in denenzudem das Recht auf freie Meinungsäusserung festgehalten ist.&lt;/em&gt;&lt;sup id=&quot;fnref-13&quot;&gt;&lt;a href=&quot;#fn-13&quot; class=&quot;footnote-ref&quot;&gt;13&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
@@ -4296,9 +4304,11 @@ Fachleute teilen ihr Wissen mit anderen Leuten. Die Interessenten darunter teile
 &lt;/Margin&gt;
 &lt;h4&gt;B2C-Konzept&lt;/h4&gt;
 &lt;p&gt;Vor der Digitalisierung wurden schriftliche Informationen mit dem Interaktionsmodell B2C und über die schriftlichen Medien, Bücher und Zeitungen verbreitet. B2C bedeutet, dass Fachpersonen Informationen für Nutzer*innen verfassen. Zu den Fachpersonen gehörten Journalist*innen, Autor*innen, Lyriker*innen, Psycholog*innen, Wissenschaftler*innen, Schriftsteller*innen, Ärzt*innen und andere Fachleute. Die Nutzer*innen konnten dadurch Informationen aus glaubwürdigen Informationsquellen lesen. Jedoch bekamen die Nutzer*innen nur beschränkt schriftliche Informationen, denn die Fachpersonen sowie Personen aus dem Bereich der Politik haben entschieden, welche Informationen veröffentlicht werden sollen und welche nicht. &lt;em&gt;Dadurch wurden die Journalist*innen und alle Bürger*innen in ihrem Recht auf Informationszugang beschränkt. Dadurch haben die Bürger*innen angefangen, für ihr Recht auf Informationsfreiheit zu kämpfen.&lt;/em&gt;&lt;sup id=&quot;fnref-16&quot;&gt;&lt;a href=&quot;#fn-16&quot; class=&quot;footnote-ref&quot;&gt;16&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h1&gt;&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;«Im Gesetz ist die Rezipientenfreiheit beschrieben, die besagt, dass man sich von überall her Informationen beschaffen darf.»&lt;sup id=&quot;fnref-17&quot;&gt;&lt;a href=&quot;#fn-17&quot; class=&quot;footnote-ref&quot;&gt;17&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;h1&gt;&lt;/h1&gt;
 &lt;h4&gt;Entstehung von Vertrauen ins B2C-Konzept&lt;/h4&gt;
 &lt;p&gt;In Bezug auf Printmedien bauen die Menschen Vertrauen anders auf, als sie es bei persönlichen Begegnungen mit Menschen machen. Das Vertrauen in Bücher basiert unter anderem auf der Erwähnung der Autoren, auf Literaturlisten und weiteren Quellen. Zu den weiteren Quellen gehören beispielsweise Dokumente, Archive und Akten. In Zeitungen wurden Artikel von verschiedenen Journalist*innen geschrieben. Zeitungen präsentieren ihre Informationen in verschiedenen Rubriken; dadurch können die Leser*innen entsprechend ihrem Interesse zu Informationen kommen. Das Vertrauen der Leser*innen gegenüber den Printmedien hängt von ihrem Wissen, ihrem Interesse und ihrer Lebenserfahrung ab. &lt;em&gt;Böhn und Seidler beschreiben es wie folgt: «Das Vertrauen in Informationsquellen wurde vermutlich von Interessen und Akzeptanz beeinflusst.»&lt;/em&gt;&lt;sup id=&quot;fnref-18&quot;&gt;&lt;a href=&quot;#fn-18&quot; class=&quot;footnote-ref&quot;&gt;18&lt;/a&gt;&lt;/sup&gt; Die verschiedenen Zeitungen präsentierten unterschiedliche Ansichten, wodurch sich die Konsument*innen entscheiden können, welche Zeitung für sie am glaubwürdigsten ist. Dadurch wird der Meinungsaustausch und die Diskussion gefördert. &lt;em&gt;«Jedoch sind durch die Meinungsverschiedenheit auch potentielle Konflikte entstanden», wie Böhn und Seider hervorheben.&lt;/em&gt;&lt;sup id=&quot;fnref-19&quot;&gt;&lt;a href=&quot;#fn-19&quot; class=&quot;footnote-ref&quot;&gt;19&lt;/a&gt;&lt;/sup&gt; Die Menschen wurden immer autonomer und die Wichtigkeit der Individualität der Menschen nahm immer mehr zu. Dadurch begann die Menschheit für ihre Rechte zu kämpfen.&lt;/p&gt;
 &lt;Margin&gt;
@@ -4308,6 +4318,7 @@ Das glaubwürdige Vertrauen zwischen Menschen in der Business-to-Consumer-Intera
 Die mündlichen Informationsquellen von früher entwickelten sich aus Gemeinschaften (Freunde, Verwandte und Bekannten). Es handelte sich um private Gemeinschaften und Fach-Communities, die ihr Wissen z.B. auf Kongressen oder anderen mündlichen Gesprächsforen wie Vorträgen, öffentlichen Diskussionen, Interviews, politische Reden oder religiösen Predigten, teilten.&lt;/p&gt;
 &lt;/Margin&gt;
 &lt;h3&gt;Zeitalter der Digitalisierung&lt;/h3&gt;
+&lt;h1&gt;&lt;/h1&gt;
 &lt;h4&gt;Entstehung der Digitalisierung und neue schriftliche Informationsquellen&lt;/h4&gt;
 &lt;p&gt;&lt;em&gt;Wie bei Böhn und Seidler zu lesen ist, wurde im Jahr 1969 das Internet erfunden und später wurden die ersten HTTP-Webseiten veröffentlicht. Seitdem wurde das Internet zunehmend wichtiger.&lt;/em&gt;&lt;sup id=&quot;fnref-20&quot;&gt;&lt;a href=&quot;#fn-20&quot; class=&quot;footnote-ref&quot;&gt;20&lt;/a&gt;&lt;/sup&gt; Diese innovative Technologie funktioniert nur über den Computer, fördert die Vernetzung von verschiedenen Standorten und entwickelte sich dadurch in eine zentralistisch organisierte Informationsstruktur. Mehrere Rechner können über ein zentrales Netzwerk miteinander vernetzt sein. Seit Beginn der Digitalisierung werden grafisch zunehmend speziellere Benutzeroberflächen für Computer geschaffen, die Nutzungsmöglichkeiten werden immer vielfältiger und es sind neue schriftliche Informationsquellen entstanden: Digitale Medien, Links, E-Mails, Foren, Chats und Games.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Nach 2000 kam die neueste Entwicklung des Internets, das Web 2.0, dazu. Stadler beschreibt, dass heutzutage die neuen sozialen Massenmedien wie Facebook, Twitter, LinkedIn, Instagram, WhatsApp und andere Plattformen, die nach 2000 entwickelt worden sind, die Netzwerkmacht haben.&lt;/em&gt;&lt;sup id=&quot;fnref-21&quot;&gt;&lt;a href=&quot;#fn-21&quot; class=&quot;footnote-ref&quot;&gt;21&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
@@ -4325,6 +4336,7 @@ Unter Web 2.0 versteht man eine produktiv nutzbare Plattform im Internet, die of
 &lt;p&gt;Vor der Digitalität waren die Menschen analoge Gegenstände gewohnt und sie kommunizierten vor allem Face-to-Face. Im Internet wird über Rechner kommuniziert. Diese virtuelle Veränderung ist für Menschen aus früheren Generationen schwierig zu verstehen. In der Digitalität wird das Vertrauen langsam und durch verschiedene Methoden aufgebaut. Die Menschen lernen, wie sie mit fremden Leuten im Internet kommunizieren können. &lt;em&gt;Wie Stalder bemerkt, handeln die Menschen mit Hilfe komplexer Technologien auf verschiedenen Feldern zunehmend aktiv. Dadurch wurde die Digitalität zunehmend nach Referentialität, Gemeinschaftlichkeit und Algorithmizität cha­rak­te­ri­sie­rt.&lt;/em&gt;&lt;sup id=&quot;fnref-28&quot;&gt;&lt;a href=&quot;#fn-28&quot; class=&quot;footnote-ref&quot;&gt;28&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;p&gt;Das Vertrauen der Nutzer*innen in die sozialen Massenmedien hängt von den Autor*innen, den Unternehmen oder den Nutzer*innen ab. Die Nutzer*innen vertrauen ihrem Instinkt. Allein der Instinkt genügt nicht. Der Mensch macht mit dem Internet gute und schlechte Erfahrungen. Zu den schlechten Erfahrungen gehören unter anderem Filterblasen, Fake News, Datenmissbrauch und Überwachung. Aufgrund dieser Erfahrungen lernen die Nutzer*innen, wann sie sich schützen müssen und wann sie sicher sind. Die Richtigkeit und Sicherheit sind heute primärer geworden. &lt;em&gt;Darum gibt es verschiedene Instrumente, um das Vertrauen prüfen zu können. Dazu gehören die Identitätsverifizierung, die Qualitätssicherung, die Usability, die Flexibilität, Quellenangaben, Kontaktinformationen und Bewertungen.&lt;/em&gt;&lt;sup id=&quot;fnref-29&quot;&gt;&lt;a href=&quot;#fn-29&quot; class=&quot;footnote-ref&quot;&gt;29&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;p&gt;Bei P2P Sharing-Plattformen funktioniert das Vertrauen zum Teil auch über den zwischenmenschlichen Kontakt. Das ist dann der Fall, wenn sich Nutzer*innen aus der realen Welt kennen.&lt;/p&gt;
+&lt;h1&gt;&lt;/h1&gt;
 &lt;hr&gt;
 &lt;h2&gt;Fallbeispiele&lt;/h2&gt;
 &lt;h3&gt;Wikipedia&lt;/h3&gt;
@@ -4410,16 +4422,81 @@ Unter Web 2.0 versteht man eine produktiv nutzbare Plattform im Internet, die of
 &lt;/ul&gt;
 &lt;p&gt;Die Artikel auf Wikipedia können mit verschiedenen Qualitätsmassstäben bewertet werden. Dazu gehören Glaubwürdigkeit, Vollständigkeit, Objektivität, Lesbarkeit, Relevanz, Stil und Aktualität. &lt;em&gt;Weitere Ausführungen zum Vertrauen in Wikipedia finden sich im Kapitel «Diskussion»&lt;/em&gt;.&lt;/p&gt;
 &lt;h3&gt;Twitter&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1800px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a69c3aa6994b1dd89a61cd29f1e9822f/21159/twitter.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 55.87213342599027%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAACTElEQVQoz5WS227TQBCG88I8AKoEVBRRoELiBXgALhES3NCmB3FRCrSlbQpNHMdnO469PttJmo9Z9wlYabQ7o51//vlnBuVyg1Xc878naTd41QZfLKgf7kWzYWCoFV/MFjZrVittK5bLJU3T0rRiTdP7nY6J32qTWFovCcsVrmrwVI2TVMRlx8B1bO5G19yMbsVGGIZBsogpi4I8U3LnhGFImizEz1BpSllJchyTJ3OqXNFWJV1To+TPYP9gn63tHZ7vvWP75RuOjk/IVMLECRiHOXHRoJTCMf/iRTF+nFLVDYkA2/YM2wtIsoKirEglJoBDtp48Y/f1Hts7LxgeHvYtWo6LG0QUVU2e59R1TZyVRLEwFfaZSonSgmmU9cW9cN4XHhiTMcODA4ZHx+wPh4ykda3T/WbTmz6FtB05DirPaKVYP5QkoZEiTduxXMtQ5a8SSQZ6Wk5SUpUFq/WaSvSI0hwl8apbCcCaeaKwpibhLGByO2Y2HfeaJsJcd1ALqC6eacBR3HETNVLzYXV0cDwxMUwHc+YwNiwc0UmzPv/0lvevHrH79DH9MG0Ty/OEeUXbdQ+Ad8mS60jYdbpNer0MwxTBXRzHY2pa8vbwfZuri4+cffvA6dfP4gtQ5BP4PtFC9Wumcwc3ccsvTyGIPUMd/P7jgpnlisgZp2eX/L665eflOVejO5m2ycksxwwSalmfNMvJ9NCah20YpEoEn4sei0UvtN4523YIgpD5fI7renie3++faU6wZgZ/JlOCMCIVgIXk6Dy9l/r/PwYaMjvNN4l3AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Twitter&quot;
+        title=&quot;Twitter&quot;
+        src=&quot;/static/a69c3aa6994b1dd89a61cd29f1e9822f/57025/twitter.png&quot;
+        srcset=&quot;/static/a69c3aa6994b1dd89a61cd29f1e9822f/dfe4e/twitter.png 450w,
+/static/a69c3aa6994b1dd89a61cd29f1e9822f/6ed10/twitter.png 900w,
+/static/a69c3aa6994b1dd89a61cd29f1e9822f/57025/twitter.png 1800w,
+/static/a69c3aa6994b1dd89a61cd29f1e9822f/f6036/twitter.png 2700w,
+/static/a69c3aa6994b1dd89a61cd29f1e9822f/21159/twitter.png 2878w&quot;
+        sizes=&quot;(max-width: 1800px) 100vw, 1800px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Twitter&lt;sup id=&quot;fnref-37&quot;&gt;&lt;a href=&quot;#fn-37&quot; class=&quot;footnote-ref&quot;&gt;37&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Twitter gehört zu einer Social-Media-Plattform. Diese dynamische Kommunikationsplattform ist mehr auf die Politik ausgerichtet. Heutzutage haben sogar Politiker*innen wie Donald Trump einen eigenen Account auf Twitter und schreiben regelmässig kurze Messages. Ihre Aussagen werden oft in analogen oder digitalen Zeitungen zitiert. Auch Journalist*innen und Redakteur*innen posten produktiv News auf Twitter. Unbekannte bis bekannte Nutzer*innen können die Beiträge kommentieren und mitdiskutieren. Im Vergleich zu Facebook ist Twitter ein kleines soziales Netzwerk, doch seine Offenheit und Schnelligkeit machen die Kommunikation einfach. Wegen der Geschwindigkeit, in der die Nachrichten zu aktuellen Geschehnissen verbreitet werden, ist Twitter bekannter und auch beliebt geworden. &lt;br/&gt;&lt;/p&gt;
 &lt;p&gt;Das Merkmal von Twitter sind die Hashtags. Über den Hashtag «#» werden die Tweets miteinander verknüpft. Dadurch können sie schnell abgerufen werden. Die junge Generation nutzt Twitter häufig, um schnell etwas zu finden oder auffälliger sein zu können. Von den Vorteilen der Hashtags profitieren auch die Leute in den Bereichen Medien und Journalismus.&lt;/p&gt;
+&lt;h1&gt;&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Vertrauen in Twitter&lt;/strong&gt; &lt;br/&gt;
 Durch die persönlichen Tweets von echten Nutzer*innen wird bei den den Follower*innen Vertrauen geschaffen &lt;em&gt;Weitere Ausführungen zum Vertrauen in Twitter siehe Kapitel «Diskussion»&lt;/em&gt;.&lt;/p&gt;
 &lt;h3&gt;Facebook-Gruppen&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;In der grössten Social-Media-Plattform Facebook entstehen tagtäglich neue Gruppen und diese Gruppen liefern zahlreiche Informationen, Wissen und Ressourcen.&lt;/em&gt;&lt;sup id=&quot;fnref-37&quot;&gt;&lt;a href=&quot;#fn-37&quot; class=&quot;footnote-ref&quot;&gt;37&lt;/a&gt;&lt;/sup&gt; Die Informationen kann man online oder offline abrufen. Alle Nutzer*innen können eine oder mehrere Gruppen erstellen und diese auch steuern. In einer Gruppe kommentieren, produzieren und diskutieren die anderen aktiven Nutzer*innen gemeinsam. Dazu kommt noch, dass die Administrator*innen von Gruppen anderen Personen Rollen zuweisen können, z.B. die Rollen der Administrator*innen, der Moderator*innen oder der Leser*innen.&lt;/p&gt;
-&lt;p&gt;Bei der Erstellung einer Gruppe wird definiert, ob eine Gruppe öffentlich, geschlossen oder geheim sein soll. Meistens besteht eine Gruppe aus Nutzer*innen, welche gemeinsame Interessen haben. Trotz gemeinsamer Interessen der Nutzer*innen einer Gruppe gibt es auch Meinungsverschiedenheiten. &lt;em&gt;Deshalb wurde von den Gründer*innen die Regel festgelegt, dass innerhalb eines Commons alle Entscheidungen kollektiv gefällt werden.&lt;/em&gt;&lt;sup id=&quot;fnref-38&quot;&gt;&lt;a href=&quot;#fn-38&quot; class=&quot;footnote-ref&quot;&gt;38&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1200px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/26d2f48bd3d9e3103dafaf41b722221f/6e525/facebookgruppen.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 52.33333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBBAX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHbTaUQND//xAAZEAEBAAMBAAAAAAAAAAAAAAABEQACEBP/2gAIAQEAAQUCbKbPmcAuf//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/Aar/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAXEAADAQAAAAAAAAAAAAAAAAAAEDFR/9oACAEBAAY/AsI4v//EABsQAQADAAMBAAAAAAAAAAAAAAEAETEQYXGR/9oACAEBAAE/IXc1T7NF3mkU6jkGEF+cf//aAAwDAQACAAMAAAAQXz//xAAXEQEBAQEAAAAAAAAAAAAAAAARACFR/9oACAEDAQE/EE5Lt//EABYRAQEBAAAAAAAAAAAAAAAAAAEQIf/aAAgBAgEBPxAMn//EABsQAQACAwEBAAAAAAAAAAAAAAEAESExcVFh/9oACAEBAAE/EMIgFbyTkowFhNldpi1g/EAoQRNMMD9Ait7n/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Twitter&quot;
+        title=&quot;Twitter&quot;
+        src=&quot;/static/26d2f48bd3d9e3103dafaf41b722221f/6e525/facebookgruppen.jpg&quot;
+        srcset=&quot;/static/26d2f48bd3d9e3103dafaf41b722221f/90185/facebookgruppen.jpg 450w,
+/static/26d2f48bd3d9e3103dafaf41b722221f/7288a/facebookgruppen.jpg 900w,
+/static/26d2f48bd3d9e3103dafaf41b722221f/6e525/facebookgruppen.jpg 1200w&quot;
+        sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Facebook-Gruppen&lt;sup id=&quot;fnref-38&quot;&gt;&lt;a href=&quot;#fn-38&quot; class=&quot;footnote-ref&quot;&gt;38&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;In der grössten Social-Media-Plattform Facebook entstehen tagtäglich neue Gruppen und diese Gruppen liefern zahlreiche Informationen, Wissen und Ressourcen.&lt;/em&gt;&lt;sup id=&quot;fnref-39&quot;&gt;&lt;a href=&quot;#fn-39&quot; class=&quot;footnote-ref&quot;&gt;39&lt;/a&gt;&lt;/sup&gt; Die Informationen kann man online oder offline abrufen. Alle Nutzer*innen können eine oder mehrere Gruppen erstellen und diese auch steuern. In einer Gruppe kommentieren, produzieren und diskutieren die anderen aktiven Nutzer*innen gemeinsam. Dazu kommt noch, dass die Administrator*innen von Gruppen anderen Personen Rollen zuweisen können, z.B. die Rollen der Administrator*innen, der Moderator*innen oder der Leser*innen.&lt;/p&gt;
+&lt;p&gt;Bei der Erstellung einer Gruppe wird definiert, ob eine Gruppe öffentlich, geschlossen oder geheim sein soll. Meistens besteht eine Gruppe aus Nutzer*innen, welche gemeinsame Interessen haben. Trotz gemeinsamer Interessen der Nutzer*innen einer Gruppe gibt es auch Meinungsverschiedenheiten. &lt;em&gt;Deshalb wurde von den Gründer*innen die Regel festgelegt, dass innerhalb eines Commons alle Entscheidungen kollektiv gefällt werden.&lt;/em&gt;&lt;sup id=&quot;fnref-40&quot;&gt;&lt;a href=&quot;#fn-40&quot; class=&quot;footnote-ref&quot;&gt;40&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;p&gt;Vor der Erstellung einer Gruppe müssen verschiedene Einstellungen wie Privatsphäre, Gruppenart und Kategorien gewählt werden, damit die Nutzer*innen informiert sind, um was für eine Gruppe es sich handelt. Es können zum Beispiel folgende Kategorien gewählt werden: Lokale, Bildung, Essen, Sport, Tiere, Politik, Verkauf, Beruf, Kunst, Gemeinschaftliche Organisation, Musik, Religion, Person des öffentlichen Lebens, Gesundheit, Unternehmen und Sonstiges. Eine Übersicht aller Kategorien ist unter &lt;a href=&quot;https://www.facebook.com/pages/category/&quot;&gt;https://www.facebook.com/pages/category/&lt;/a&gt; zu finden.&lt;/p&gt;
+&lt;h1&gt;&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Vertrauen in Facebook-Gruppen&lt;/strong&gt; &lt;br/&gt;
-&lt;em&gt;Facebook hat seit 2018 viele Nutzer*innen verloren, weil viele Nutzer*innen seit dem Datenschutz-Skandal Facebook nicht mehr vertrauen. Nach dem Skandal verkündete Mark Zuckerberg, dass sich die Plattform «Facebook» optisch und inhaltlich in Bezug auf «neue Regel und andere Werte» ändern müsse, um das Vertrauen der Nutzer*innen wieder zu gewinnen&lt;/em&gt;&lt;sup id=&quot;fnref-39&quot;&gt;&lt;a href=&quot;#fn-39&quot; class=&quot;footnote-ref&quot;&gt;39&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;em&gt;Facebook hat seit 2018 viele Nutzer*innen verloren, weil viele Nutzer*innen seit dem Datenschutz-Skandal Facebook nicht mehr vertrauen. Nach dem Skandal verkündete Mark Zuckerberg, dass sich die Plattform «Facebook» optisch und inhaltlich in Bezug auf «neue Regel und andere Werte» ändern müsse, um das Vertrauen der Nutzer*innen wieder zu gewinnen&lt;/em&gt;&lt;sup id=&quot;fnref-41&quot;&gt;&lt;a href=&quot;#fn-41&quot; class=&quot;footnote-ref&quot;&gt;41&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h1&gt;&lt;/h1&gt;
 &lt;hr&gt;
 &lt;h2&gt;Diskussion&lt;/h2&gt;
 &lt;p&gt;Bei der Gruppendiskussion waren vier Personen (27 bis 46 Jahre alt) anwesend. Sie bekamen drei Fragen. Die drei Fragen waren «Wem vertraut ihr mehr - B2C oder P2P?», «Ist Wikipedia vertrauenswürdig?» und «Ist Twitter vertrauenswürdig?». Das Gespräch wurde auf Video aufgezeichnet und anschliessend geschnitten. Die Aussagen wurden danach in Stichworten notiert. Basierend darauf wurde eine schriftliche Zusammenfassung gemacht, welche im Folgenden präsentiert wird. &lt;br/&gt;&lt;/p&gt;
@@ -4467,14 +4544,17 @@ Durch die persönlichen Tweets von echten Nutzer*innen wird bei den den Follower
 &lt;/Column&gt;
 &lt;/Grid&gt;
 &lt;Box ratio=&quot;16-9&quot;&gt;
-&lt;iframe src=&quot;https://player.vimeo.com/video/169809377&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; &quot; &gt; &lt;iframe src=&quot;https://www.youtube-nocookie.com/embed/KkYNvRgSaTQ&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
 &lt;/Box&gt;
+#
 &lt;hr&gt;
 &lt;h2&gt;Schluss&lt;/h2&gt;
 &lt;h3&gt;Fazit&lt;/h3&gt;
 &lt;p&gt;In der vorliegenden Arbeit wurde das Vertrauen in schriftliche Informationen vor der Digitalisierung und seit der Digitalisierung untersucht. Abschliessend wird versucht, die beiden Hauptfragen zu beantworten. &lt;br/&gt;&lt;/p&gt;
+&lt;h1&gt;&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Wie entstand Vertrauen zu Informationsquellen vor der Digitalisierung (zu Buchverlagen, Büchern, Zeitungen, Institutionen etc.)?&lt;/strong&gt; &lt;br/&gt;
 Vor der Digitalisierung lieferten Fachleuten über B2C Informationen an analoge Printmedien und liessen sie veröffentlichen. Die inneren Arbeitsprozesse von B2C sind bereits untereinander geprüft und lassen sich bestätigen. Der Status der Fachleute überzeugte die Nutzer*innen und bewirkt, dass sie Vertrauen entwickelten. Im politischen Bereich gab es Konflikte, vor allem durch Meinungsverschiedenheiten und Zensur. Aufgrund des Vertrauensmissbrauchs der beschränkten Informationsquellen von Fachleuten, beschlossen die Menschen zu reagieren. Nach der politischen Revolution in Bezug auf Pressefreiheit, Menschenrechte und Meinungsfreiheit, entwickelten die Menschen ihre Beglaubigungsstrategien und forderten das Recht auf Informationsfreiheit ein. In dieser Zeit wird auch die Individualität der Menschen vielfältiger und ihr Vertrauen entscheidet sich aufgrund eigener Lebenserfahrung, Wissen, Instinkt, Interesse und Akzeptanz. Durch das Massenmedium Zeitung entstand die Möglichkeit, dass alle Informationen erhalten konnten. Kurz vor der Digitalisierung entstanden Radio oder Fernsehen. Durch diese wurde so oft wie möglich das aktuelle Geschehen in Echtzeit ausgestrahlt. Das B2C-Konzept war damals sehr vertrauenswürdig und wurde als selbstverständlich wahrgenommen. &lt;br/&gt;&lt;/p&gt;
+&lt;h1&gt;&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Wie hat das Web 2.0 und Methoden wie P2P Sharing das Vertrauen in Wissen/Information verändert?&lt;/strong&gt; &lt;br/&gt;
 Seit das Internet geschaffen wurde, sind unzählige Informationen an zentralisierte Netzwerke geliefert worden und werden immer noch geliefert. Gleichzeitig nahmen die Nutzer*innen des Internets laufend zu. Unter den Nutzer*innen befinden sich Vertreter*innen der gesamten Gesellschaft: Junge bis alte Menschen mit ganz unterschiedlichem Bildungshintergrund. Das Internet verändert sich rasant in Bezug auf Technologie, Geräte, Vernetzung und Benutzeroberflächen.&lt;/p&gt;
 &lt;p&gt;Als das neue Web 2.0 veröffentlicht wurde, gründeten die Unternehmen immer mehr offene, kollaborative Plattformen wie Wikipedia, YouTube usw. Dadurch wurden die dynamischen und interaktiven Strukturen im Internet ausgebaut. Diese Strukturen eignen sich mehr für das P2P-Konzept: Alle Nutzer*innen können aktiv mitproduzieren. Im Internet wachsen dadurch die digitalen schriftlichen Informationen tagtäglich weiter Dadurch nehmen auch Fake News, Unwahrheiten und Manipulationen zu. Aufgrund dieser Schattenseite des Internets verlangten die Menschen Schutz vor Vertrauensmissbrauch, Betrug, Lügen und Manipulation. Es wurden mehrere Methoden zur Erhöhung dieses Schutzes entwickelt. Dazu gehören Qualitätssicherungsprozesse, Verifizierung, Prüfung der Echtheit des Profils, Quellenangaben und Bewertungen. Durch diese Methoden und Beglaubigungsstrategien entwickeln Nutzer*innen Vertrauen in Content Sharing Plattformen, insbesondere in solche, deren schriftliche Informationen über das P2P-Konzept erstellt und genutzt werden.&lt;/p&gt;
@@ -4485,7 +4565,10 @@ Seit das Internet geschaffen wurde, sind unzählige Informationen an zentralisie
 &lt;li&gt;&lt;strong&gt;«Beeinflusst das Usability | UI Design das Vertrauen der Nutzer*innen?»&lt;/strong&gt; &lt;br/&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Diese zwei Fragen inspirieren mich sehr. Für beide Studien muss man mehr Zeit investieren, mehrere Analyse bzw. «Human Centered Design» und persönliche Interviews durchführen. Zurzeit findet man kaum Unterlagen zu diesen Fragestellungen. Deshalb wären Studien zu diesen zwei Fragestellungen gerade für die Bereiche UX / UI Desing und IT sehr nützlich.&lt;/p&gt;
+&lt;h1&gt;&lt;/h1&gt;
+&lt;Grid&gt;
 &lt;hr&gt;
+&lt;/Grid&gt;
 &lt;!-- references text--&gt;
 &lt;!--
 Vorname Nachname, [Titel der Seite](https://www.google.com/) (Abrufdatum: dd. mm. yyyy).
@@ -4690,16 +4773,24 @@ teilen statt besitzen»&lt;/p&gt;
 &lt;a href=&quot;#fnref-36&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;li id=&quot;fn-37&quot;&gt;
-&lt;p&gt;Stadler, 2016, S. 215, «Kultur der Digitalität»&lt;/p&gt;
+&lt;p&gt;:fig:Abbildung von Pinterest&lt;/p&gt;
 &lt;a href=&quot;#fnref-37&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;li id=&quot;fn-38&quot;&gt;
-&lt;p&gt;Stadler, 2016, S. 250, «Kultur der Digitalität»&lt;/p&gt;
+&lt;p&gt;:fig:Abbildung von clicks digital Website&lt;/p&gt;
 &lt;a href=&quot;#fnref-38&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;li id=&quot;fn-39&quot;&gt;
-&lt;p&gt;Artikel vom Datenwerk Blog, 22. MAI 2019 – &lt;a href=&quot;https://weblog.datenwerk.at/2019/05/22/vertrauen-in-facebook/&quot;&gt;https://weblog.datenwerk.at/2019/05/22/vertrauen-in-facebook/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Stadler, 2016, S. 215, «Kultur der Digitalität»&lt;/p&gt;
 &lt;a href=&quot;#fnref-39&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-40&quot;&gt;
+&lt;p&gt;Stadler, 2016, S. 250, «Kultur der Digitalität»&lt;/p&gt;
+&lt;a href=&quot;#fnref-40&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-41&quot;&gt;
+&lt;p&gt;Artikel vom Datenwerk Blog, 22. MAI 2019 – &lt;a href=&quot;https://weblog.datenwerk.at/2019/05/22/vertrauen-in-facebook/&quot;&gt;https://weblog.datenwerk.at/2019/05/22/vertrauen-in-facebook/&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;#fnref-41&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Inwiefern sich die Customer Journey durch den neuen Touch-Point «Sprachassistent» verändert hat]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
