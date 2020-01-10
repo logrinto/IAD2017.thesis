@@ -112,7 +112,7 @@ Die Web-Personalisierung existiert hauptsächlich in drei verschiedenen Kategori
 
 Diese Arbeit fokussiert personalisierten Inhalt, der das Ziel hat, das Benutzererlebnis der eigentlichen Dienstleistungsseite zu verbessern.
 Personalisierter Inhalt beschreibt die Anpassung von Seiten an die Präferenzen der NutzerInnen. Der Grad der Anpassung variiert von einer einfachen Änderung wie Farbe und Layout bis hin zu einer anspruchsvolleren Anpassung, die es ermöglicht, benutzerspezifische Elemente in einem gewünschten Stil anzuzeigen. Das einfachste Beispiel ist die Verwendung von mehrsprachigen Funktionen, die es der Webseite ermöglichen, ein breiteres Publikum in verständlicher Weise zu erreichen.
-(Nayak, Ichalkaranje, Jain (Eds.), 2008, S. 25–26)[^:lit:nine]
+(Nayak, Ichalkaranje, Jain (Eds.), 2008, S.&#x202F;25&#x202F;–&#x202F;26)[^:lit:nine]
 
 ### 3.1 Netflix
 #### Ein personalisiertes Empfeh­lungssystem
@@ -329,9 +329,9 @@ reference-text-suffix: ' – '
 
 [^:lit:eight]: R. T. Rust & C. Miu (2006). ‘What Academic Research Tells Us About Service’. Communications of the ACM 49(7):49&#x202F;–&#x202F;54.
 
-[^:lit:nine]: Richi Nayak, Nikhil Ichalkaranje, Lakhmi C. Jain (Eds.) (2008). Evolution of the Web in Artificial lntelligence Environments. Studies in Computational lntelligence. Volume 130. Seiten 17&#x202F;–&#x202F;40,
+[^:lit:nine]: Richi Nayak, Nikhil Ichalkaranje, Lakhmi C. Jain (Eds.) (2008). Evolution of the Web in Artificial lntelligence Environments. Studies in Computational lntelligence. Volume 130. S.&#x202F;17&#x202F;–&#x202F;40,
 
-[^:lit:ten]: Waldemar Karwowski, Tareq Ahram Editors, Intelligent Human Systems Integrat&#x202F;ion, Proceedings of the 1st International Conference on Intelligent Human Systems Integration (IHSI 2018): Integrating People and Intelligent Systems, January 7&#x202F;–&#x202F;9, 2018, Dubai, United Arab Emirates, Seiten 62&#x202F;–&#x202F;68.
+[^:lit:ten]: Waldemar Karwowski, Tareq Ahram Editors, Intelligent Human Systems Integrat&#x202F;ion, Proceedings of the 1st International Conference on Intelligent Human Systems Integration (IHSI 2018): Integrating People and Intelligent Systems, January 7&#x202F;–&#x202F;9, 2018, Dubai, United Arab Emirates, S.&#x202F;62&#x202F;–&#x202F;68.
 
 [^source-leder]: [Sebastian Leder (2017)](https://www.cio.de/a/was-man-von-spotify-und-netflix-lernen-kann,3557262) (Abrufdatum: 03.01.2020)
 
