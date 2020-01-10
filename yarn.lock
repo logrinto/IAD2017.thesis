@@ -5753,10 +5753,25 @@ gatsby-core-utils@^1.0.26:
     ci-info "2.0.0"
     node-object-hash "^2.0.0"
 
+<<<<<<< HEAD
+gatsby-core-utils@^1.0.26:
+  version "1.0.26"
+  resolved "https://registry.yarnpkg.com/gatsby-core-utils/-/gatsby-core-utils-1.0.26.tgz#e1cbdfad498d58d677d9d74f21a1ede661b49d6f"
+  integrity sha512-NPflmXmyTcg3x2mp6cqp/51QeAHRKepfbf0X4erDsnVlewFJuGTe+25ZJvWkkwU2g1cPAxuwzlPe0jOL92iU4A==
+  dependencies:
+    ci-info "2.0.0"
+    node-object-hash "^2.0.0"
+
+gatsby-graphiql-explorer@^0.2.31:
+  version "0.2.31"
+  resolved "https://registry.yarnpkg.com/gatsby-graphiql-explorer/-/gatsby-graphiql-explorer-0.2.31.tgz#cb7a7ed2749085a28612f11ef37a35de54809710"
+  integrity sha512-pAK/HG/Ryw2ZDWb/5rnSBmPf8KsnFGlO/zS9m2IdLjnQS0kA0b9UbfZ5bjkg7pwPPLhWilEX+uON0l51N4gnmg==
+=======
 gatsby-graphiql-explorer@^0.2.32:
   version "0.2.32"
   resolved "https://registry.yarnpkg.com/gatsby-graphiql-explorer/-/gatsby-graphiql-explorer-0.2.32.tgz#0664d32e6ae81d42689967141acfa2783c1a3478"
   integrity sha512-0Fzx5JOevUBtD8s94q3Pfjp0LPSVHWNijGXBfRRdcpzKPJZuvYAzVkRz5aQgx1FPavSJE8q9uC+Uo4VzyyPpJg==
+>>>>>>> aa6b6f7fe70ddc43592168d6b5c76dcbbd08c1c7
   dependencies:
     "@babel/runtime" "^7.7.6"
 
@@ -5811,7 +5826,11 @@ gatsby-plugin-manifest@^2.0.5:
     semver "^5.7.1"
     sharp "^0.23.4"
 
+<<<<<<< HEAD
+gatsby-plugin-mdx@^1.0.44:
+=======
 gatsby-plugin-mdx@^1.0.56:
+>>>>>>> aa6b6f7fe70ddc43592168d6b5c76dcbbd08c1c7
   version "1.0.67"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-mdx/-/gatsby-plugin-mdx-1.0.67.tgz#1c2d80606a4c6b112164f46fad0a81b146603884"
   integrity sha512-PG1j8voD1hCBrj1blw1CqiJlXMv+QATVllvqClKl47GfCOZAuVj+VMN6O9WbImc5sVUw/SuvfCTOpk9H7gHlPw==
@@ -5968,10 +5987,10 @@ gatsby-remark-prismjs@^3.0.0:
     parse-numeric-range "^0.0.2"
     unist-util-visit "^1.4.1"
 
-gatsby-remark-reference-footnotes@^0.0.4:
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/gatsby-remark-reference-footnotes/-/gatsby-remark-reference-footnotes-0.0.4.tgz#f02fc81b78efc7ff7721ae92fb041b6b0687268f"
-  integrity sha512-+GfvPuU9ea9voPqQwAhTLX8Z3y+ElClVZzO75DMZUJ9SXp+cqyYMj9RHdCRPZ3HYTvVOA9f1yK3EKnRrZ2+RKg==
+gatsby-remark-reference-footnotes@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/gatsby-remark-reference-footnotes/-/gatsby-remark-reference-footnotes-0.0.2.tgz#171ebcd7effef6ca1abe5043f89887d353ec79de"
+  integrity sha512-q4u4piRUUgIE68WLlfYx+sVsv3QhjnoOLBSZ8BSC/FyWzVXV7klAp+e2hv8Tdz+4nLUgZaAudSukU+1iuAU5IA==
   dependencies:
     hast-util-to-html "^6.0.2"
     js-yaml "^3.13.1"
