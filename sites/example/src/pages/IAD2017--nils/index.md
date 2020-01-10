@@ -1,5 +1,5 @@
 ---
-title: Inwiefern hat sich die Customer Journey durch den neuen Touch-Point «Sprachassistent» verändert?
+title: Inwiefern hat sich die Customer Journey durch den neuen Touch-Point «Sprachassistent» verändert
 author: "Nils Mäder"
 date: "2020-01-10"
 layout: post
