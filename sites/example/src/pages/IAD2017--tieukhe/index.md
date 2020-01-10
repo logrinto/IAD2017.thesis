@@ -17,6 +17,48 @@ import Grid from 'gatsby-theme-signalwerk/src/components/Grid';
 import Column from 'gatsby-theme-signalwerk/src/components/Column';
 import Box from 'gatsby-theme-signalwerk/src/components/Box';
 
+## 1 Einleitung
+### 1.1 Relevanz
+Schon seit Jahrhunderten beobachten und dokumentieren Menschen ihren Körper und ihr eigenes Verhalten. Der Wunsch, den eigenen Körper mittels technischer Hilfsmittel besser zu verstehen, ist also nicht neu. Durch die technologischen Fortschritte erhält dieses Bedürfnis jedoch ein neues Ausmass. Die Menschen interessieren sich heute verstärkt für ihr eigenes Wohlbefinden und ihre Persönlichkeitsentwicklung. Dabei informieren sich Menschen immer mehr im Internet und auf mobilen Geräten über ihre eigene Gesundheit. Zudem werden immer mehr Selbstvermessungstechnologien wie Fitness-Armbänder oder Fitness-Apps genutzt (QS, 2016). Im Jahre 2016 wurde die Anzahl Applikationen im Bereich Fitness- und Gesundheit auf 249’000 geschätzt (research2guidance, 2016 in: QS, 2016), womit dies der App-Bereich mit dem grössten Zuwachs ist. Der grösste Teil machte dabei mit 39% der Fitnessbereich aus. Häufig fällt in Verbindung mit Quantified Self das Stichwort «Wearable Computing Systems» oder kurz gesagt Wearables, mit Sensoren versehene Geräte, welche  Daten aufzeichnen und am Körper des Menschen getragen werden können. Jährlich werden neue Produkte wie Wearables auf den Markt gebracht – im Jahr 2018 waren es nahezu 172 Millionen Fitness-Tracker, die verkauft wurden. Die Selbstvermessung und somit auch die Selbstoptimierung liegt im Trend und hat sich im Zuge der Digitalisierung zu einem schnell wachsenden Gebiet entwickelt.
+```md
+_«BLABLA»_[^https://www.onlinepc.ch/hardware/smart-wearables/2018-172-millionen-wearables-verkauft-1696771.html]
+```
+
+_«Zitat B»_[^https://www.onlinepc.ch/hardware/smart-wearables/2018-172-millionen-wearables-verkauft-1696771.html]
+
+
+### 1.2 Mein Interesse und meine Motivation zum Thema
+Mein Interesse für das Thema Quantified Self stammt aus privaten Erfahrungen. Ich selbst besitze einen Fitness-Tracker von Fitbit und habe damit auch eine Zeit lang trainiert und meine Workouts damit aufgezeichnet. Damals bin ich aus purer Neugier auf diesen Fitness-Tracker gestossen und wollte sie zum Spass ausprobieren. Eine Zeit lang, war es auch wirklich spannend zu sehen wie viele Schritte ich gehe, wie meine Schlafphasen waren oder zusammenfassend auf einer App zu sehen wie oft ich welche Workouts absolviert habe. Doch nach ein paar Monaten legte sich diese Neugier. Über die getrackten Schlafphasen wurde ich nicht schlauer und konnte keine Rückschlüsse ziehen – es war dann halt einfach so wie es war. Auch die Anzahl empfohlenen Schritte konnte ich oft gar nicht erreichen, was auch ein wenig demotivierend auf mich wirkte.
+Heute trainiere ich nicht mehr damit, dafür habe ich aber eine Coaching-Fitness-App auf dem Smartphone, die mir zeigt, welche Übungen ich machen kann, wie ich diese auszuführen habe und mich so durch meine Trainings führt.
+
+### 1.3 Ziel der Arbeit
+Ausgehend von diesem aktuellen Trend möchte ich in der folgenden Arbeit darlegen, wie sich die Selbstvermessung durch die Digitalisierung verändert hat. Das Ziel der Arbeit ist es aufzuzeigen, welche möglichen Folgen die Nutzung von Fitness-Trackern und Fitness-Apps hat und wie AnwenderInnen in ihrem Alltag beeinflusst werden. Ein weiterer Aspekt der Arbeit ist es aufzuzeigen, welche Risiken mit dem Sammeln, Speichern und Teilen digitaler Daten einhergehen.
+Um diese Fragen zu beantworten werden Informationen aus verschiedenen Quellen zusammengetragen und drei Personen, welche regelmässig Fitness-Tracker und Fitness-Apps in ihrem Alltag benutzen interviewt.
+
+### 1.4 Schwerpunkt
+Da der Umfang dieses Themas sehr gross ist, gehe ich mit meiner Arbeit bewusst nur auf einen kleinen Bereich ein. Der Schwerpunkt der Arbeit liegt deshalb im Bereich Sport und Fitness. Andere Gebiete wo Selbstvermessung stattfindet werden in dieser Arbeit nicht thematisiert.
+
+### 1.5 Wie hängt das Thema mit Dynamik zusammen?
+Die Selbstvermessung hängt von den technologischen Fortschritten der Kommunikationstechnologien ab. Während man früher mittels einseitiger Kommunikation gemessen hat, geschieht dies heute in einer wechselseitigen Kommunikation. Die heutige digitale Selbstvermessung verbindet viel mit Dynamik, wobei die Vernetzung, die permanente Aufzeichnung und die Personalisierung wesentliche Aspekte der Dynamik ausmachen.
+Ein Fitness-Tracker ist unter konstanter Bereitschaft, das heisst er ist immer eingeschaltet, bereit und verfügbar. So findet ein permanenter Informationsaustausch zwischen Mensch und Computer statt. Man spricht von hochfrequenter Interaktion wenn es einen konstanten Fluss von Aktion und Reaktion zwischen dem Nutzer und dem Interface gibt. Wenn der Nutzer ständig die direkte Konsequenz seiner Handlungen sehen kann, erhält er auch ein ständiges Feedback.  Doch nicht nur zwischen Mensch und Computer findet ein permanenter Informationsaustausch statt – die Selbstvermessungsgeräte können auch selbstständig mit anderen Geräten über das Internet kommunizieren und Daten austauschen. Das zeigt sich am Beispiel der Personenwaage. Während früher eine Waage lediglich wiegen konnte, kann die Personenwaage heute das Gewiegte als Daten an ein anderes Gerät oder an eine Anwendung weiterleiten, welche dort vom Menschen eingesehen werden können.
+Ausserdem werden auf den Anwender zugeschnittene Vorschläge erstellt. Je nach Eingabe, Leistung, und Aktion ändern sich die Feedbacks aktiv auf den Nutzer bezogen. So passen sich der Fitnessplan oder die Ziele stetig an und bleiben so dynamisch.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Intro
 Grundsätzlich verhält sich das Template wie normaler Markdown-Text. Es gibt aber einige erweiterte Funktionen. Für weitere Infos siehe [Github](https://github.com/signalwerk/gatsby-theme-signalwerk).
 
