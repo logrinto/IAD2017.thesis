@@ -316,9 +316,6 @@ Vorname Nachname, Buchtitel, Auflage, Verlag, Erscheinungsort Jahr, erste Seite�
 [^:fig:five]: [youtube.com](https://www.youtube.com/user/JimSterling) Die Youtube-Seite von Content-Creator und Gaming-Journalist Jim Sterling. Screenshot wurde am 10. 01. 2020 gemacht.
 [^:fig:six]: [www.patreon.com](https://www.patreon.com/noclip) Die Patreon-Seite von noClip. Screenshot wurde am 10. 01. 2020 gemacht.
 
-![noClip Patreon](./img/noclip.png)
-*Die Präsentation von noClip auf Patreon [^:fig:six]*
-
 ## Quellenverzeichnis
 Aufgrund der enormen Aktualität des Themas wurde auf ein herkömmliches Literaturverzeichnis verzichtet.
 ```references
