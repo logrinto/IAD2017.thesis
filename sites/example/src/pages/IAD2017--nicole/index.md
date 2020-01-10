@@ -1,5 +1,5 @@
 ---
-title: Einfluss von Künstlicher Intelligenz auf das Benutzererlebnis
+title: Einwirkung Künstlicher Intelligenz auf das Benutzererlebnis
 author: "Nicole Watrinet"
 date: "2020-01-11"
 layout: post
