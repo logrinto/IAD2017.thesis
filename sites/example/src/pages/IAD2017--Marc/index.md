@@ -68,6 +68,9 @@ Schlussendlich werden all diese Erkenntnisse in einem aufschlussreichen Fazit ge
 
 Dieser Abschnitt befasst sich mit den Hintergründen der Crowdfunding-Plattform Patreon, wie sie funktioniert, wie man sie verwendet und aus welchem Grund sie entstanden ist. Am Ende dieses Kapitels soll nachvollzogen werden können welche Systeme Patreon zu verbessern versucht und wieso.
 
+![Patreon](./img/patreon.png)
+*Die Startseite von Patreon [^:fig:two]*
+
 
 ### Aus welchem Grund ist Patreon entstanden?
 
@@ -93,6 +96,8 @@ Wie man an dieser Ausführung schon sehen kann, ist es möglich auf Patreon «Pa
 
 Wie verdient Patreon nun Geld? Gemäss eigenen Aussagen von Patreon, erhalten Sie 5&#x202F;% der Einnahmen des Creators, sowie eine 5&#x202F;% «Payment-fee». Heisst also 90&#x202F;% des erwirtschafteten Revenues geht an den Content-Creator.&#x202F;[^:qu:thirteen] Nehmen wir als Beispiel einen Content-Creator der im Monat 1000&#x202F;$ durch Patreon erhält. 900&#x202F;$ erhält der Content-Creator jeden Monat, nach den Abzügen von Patreon. 100&#x202F;$ erhält Patreon als Anbieter der Plattform. Ein gewisser Prozentsatz dieser 100&#x202F;$ geht dann natürlich an Kreditkartenunternehmen oder andere Firmen, die die Zahlungsplattform zur Verfügung stellen. Der genaue Prozentsatz kann hier jedoch nicht festgestellt werden.
 
+![Tier-Struktur](./img/noclip_tiers.png)
+*Die Tier-Struktur eines Content-Creators [^:fig:three]*
 
 ### Zusammenfassung
 
@@ -101,7 +106,7 @@ Patreon entstand aus dem Bedarf, Content-Creators verschiedenster Couleur eine P
 Auf Patreon kann ich als Content-Creator verschiedene Tiers kreieren, um meine Unterstützer dazu zu bewegen, mir ihr Geld zu geben. Ein Konzept, dass in unserer heutigen, dynamischen Welt zahlreiche Unterstützer findet.
 
 ![Influencer](./img/video_influencer.png)
-*Digitaler-Contet ist so vielfältig wie noch nie. Auch dank Patreon? [^:fig:two]*
+*Digitaler-Contet ist so vielfältig wie noch nie. Auch dank Patreon? [^:fig:four]*
 
 ## **«Wirtschaftlichkeit» im Entertainment- und News-Bereich. Das System dahinter.**
 
@@ -182,6 +187,9 @@ Um seine heutige Popularität zu verstehen muss man kurz in die Vergangenheit bl
 
 Die «Jimquisition» ist ein Format in der Jim Sterling vordergründig Probleme in der Gaming-Industrie anspricht. Oft geht das Hand in Hand mit dem Aufdecken von unsauberem Firmen-Verhalten. Man kann davon ausgehen, dass die Art seines Contents, mit oft pointierten, nicht gerade kinderfreundlichen, Aussagen nicht ideal ist, um auf Youtube Geld zu verdienen. Ebenso ist er auch nicht für «Sponsored Content» attraktiv&#x202F;– ganz davon abgesehen, dass es seiner Einstellung «Corporate-Bullshit» gegenüber auch widersprechen würde (wie in mehreren Videos angedeutet). Er wird also einen grossen Anteil seines Einkommens direkt durch Patreon beziehen.
 
+![Jim Sterling Youtube](./img/jim_sterling.png)
+*Die Youtube-Seite von Jim Sterling [^:fig:five]*
+
 
 ### Bellular
 
@@ -200,6 +208,8 @@ Während man die beiden anderen Fallbeispiele eher als Einzelfirmen bezeichnen k
 
 Seiner Meinung nach hat das traditionelle Revenue-Modell, in dem über Werbeeinnahmen Geld generiert wird, die Qualität des Gaming-Journalismus stark beeinträchtigt.&#x202F;[^:qu:twentyfour] Reisserische Titel, um Clicks zu generieren, und die Art der Berichterstattung werden als Gründe dafür aufgeführt. Aus diesem Grund hat er sich schon bei der Gründung von NoClip dazu entschieden, auf das traditionelle Modell zu verzichten und stattdessen Geld über Crowdfunding, in diesem Fall Patreon, zu generieren. Stand Dezember 2019 verzeichnet die Patreon-Seite 4122 Patrons und generiert damit einen Umsatz von 21&#x202F;642&#x202F;$.&#x202F;[^:qu:twentyfive] Und der [Youtube-Kanal](https://www.youtube.com/channel/UC0fDG3byEcMtbOqPMymDNbw) kann sich mit 445.000 Abonnenten ebenfalls sehen lassen. Der Content von NoClip dreht sich über Dokumentationen die in Kooperation mit Gaming-Studios und Publishern gedreht werden. In Ihnen wird der Entstehungsprozess eines Projekts dokumentiert, oder vergangene Titel genauer beleuchtet.
 
+![noClip Patreon](./img/noclip.png)
+*Die Präsentation von noClip auf Patreon [^:fig:six]*
 
 ### Gemeinsamkeiten
 
@@ -299,9 +309,14 @@ Vorname Nachname, Buchtitel, Auflage, Verlag, Erscheinungsort Jahr, erste Seite�
 [^:qu:twentynine]: [patreon.com](https://www.patreon.com/noclip) Patreon-Seite von noClip (Abrufdatum: 21. 11. 2019)
 [^:qu:thirty]: [patreon.com](https://www.patreon.com/noclip) Patreon-Seite von noClip (Abrufdatum: 21. 11. 2019)
 [^:fig:one]: [undraw.com](https://www.undraw.com) Illustration mit Hilfe von undraw.com. Gratis Illustrations Datenbank ohne Copyright-Pflicht.
-[^:fig:two]: [undraw.com](https://www.undraw.com) Illustration mit Hilfe von undraw.com. Gratis Illustrations Datenbank ohne Copyright-Pflicht.
+[^:fig:two]: [patreon.com](https://www.patreon.com) Screenshot von der Startseite von Patreon. Screenshot wurde am 10. 01. 2020 gemacht.
+[^:fig:three]: [www.patreon.com](https://www.patreon.com/noclip) Die Patreon-Seite von noClip. Screenshot wurde am 10. 01. 2020 gemacht.
+[^:fig:four]: [undraw.com](https://www.undraw.com) Illustration mit Hilfe von undraw.com. Gratis Illustrations Datenbank ohne Copyright-Pflicht.
+[^:fig:five]: [youtube.com](https://www.youtube.com/user/JimSterling) Die Youtube-Seite von Content-Creator und Gaming-Journalist Jim Sterling. Screenshot wurde am 10. 01. 2020 gemacht.
+[^:fig:six]: [www.patreon.com](https://www.patreon.com/noclip) Die Patreon-Seite von noClip. Screenshot wurde am 10. 01. 2020 gemacht.
 
-
+![noClip Patreon](./img/noclip.png)
+*Die Präsentation von noClip auf Patreon [^:fig:six]*
 
 ## Quellenverzeichnis
 Aufgrund der enormen Aktualität des Themas wurde auf ein herkömmliches Literaturverzeichnis verzichtet.
