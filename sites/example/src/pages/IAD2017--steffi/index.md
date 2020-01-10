@@ -343,7 +343,7 @@ Abschliessend gaben die Befragten an, dass sie auch das Wearable Armband von Eve
 
 ## Fazit
 
-Rückblickend auf diese Arbeit folgen hier die wichtigsten Erkenntnisse in einer Diskussion sowie der Beantwortung der einleitenden Fragen und einem Ausblick. Zusammengefasst stehen Schweizerinnen und Schweizer kontaktlosem Bezahlen aber immer positiver gegenüber und ihre Hemmschwelle es zu nutzen sinkt. Die bekanntere Variante ohne Interface könnte ihre höhere Beliebtheit neben der hohen Convenience zusätzlich auch dank der Effizienz erlangt haben. Eine Karte aus der Geldbörse zu ziehen und an ein EC-Terminal zu halten ist sehr effektiv im Gegensatz zu Applikationen die geöffnet und bedient werden müssen. 
+Rückblickend auf diese Arbeit folgen hier die wichtigsten Erkenntnisse in einer Diskussion sowie der Beantwortung der einleitenden Fragen und einem Ausblick. Zusammengefasst stehen Schweizerinnen und Schweizer kontaktlosem Bezahlen aber immer positiver gegenüber und ihre Hemmschwelle es zu nutzen sinkt. Die bekanntere Variante ohne Interface könnte ihre höhere Beliebtheit neben der hohen Convenience zusätzlich auch dank der Effizienz erlangt haben. Eine Karte aus der Geldbörse zu ziehen und an ein EC-Terminal zu halten ist sehr effektiv im Gegensatz zu Applikationen die geöffnet und bedient werden müssen. Dessen ungeachtet steht auch Apps eine Zukunft voller Prspektiven bevor.
 
 ### Diskussion der Ergebnisse
 
