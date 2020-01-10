@@ -35,14 +35,14 @@ to-heading: 6
 ### 2.1 Was ist Social Commerce
 Unternehmen verbreiten ihre Botschaften heutzutage nicht mehr als Monolog zum Kunden, sondern vielmehr als Dialog, um direkt mit ihrem Zielpublikum zu interagieren. Soziale Plattformen bieten die Möglichkeit Inhalte wie Bilder, Videos und Artikel zu teilen. So können die NutzerInnen diese weltweit sehen und darauf mit Kommentaren und Fragen reagieren. Seit kurzer Zeit bieten vereinzelte Plattformen Instrumente, um spezifische Produkte auf Beiträgen, sogenannten Posts, zu platzieren. NutzerInnen solcher Plattformen verbinden sich mit unterschiedlichen Firmen und verfolgen die Paletten an neuen Produkten sowie Dienstleistungen dieser. Die Produkte können mit dem Freundeskreis geteilt und direkt aus den sozialen Plattformen gekauft werden. An diesem Punkt wird nun von Social Commerce gesprochen.
 
-> «Durch Social Commerce ergeben sich neue Möglichkeiten der Interaktion und Kollaboration zwischen Unternehmen und Einzelpersonen. Das Vertrauen in Soziale Netzwerke fördert die Kaufentscheidung für individuell vorgeschlagene Produkte.» – Kilchhofer S.
+> «Durch Social Commerce ergeben sich neue Möglichkeiten der Interaktion und Kollaboration zwischen Unternehmen und Einzelpersonen. Das Vertrauen in Soziale Netzwerke fördert die Kaufentscheidung für individuell vorgeschlagene Produkte.»&nbsp;– Kilchhofer S.
 
 Meine Definition von Social Commerce setzt sich aus dem Zitat von Marsden (2009[^:qv:marsden_2009]) und Baghdadi (Bürklin, 2019, S. 6[^:lv:buerklin_2019]) zusammen.
 
 Nachfolgend die beiden Zitate.
-> «social shopping is the new motor driving the social commerce trend. Promotes purchase decisions primarily through the ‘liking’ social intelligence heuristic allowing people to shop with people they know, like, and trust. Adds emotion into the e-commerce mix, and enables real time recommendations.» – Marsden P.
+> «social shopping is the new motor driving the social commerce trend. Promotes purchase decisions primarily through the ‘liking’ social intelligence heuristic allowing people to shop with people they know, like, and trust. Adds emotion into the e-commerce mix, and enables real time recommendations.»&nbsp;– Marsden P.
 
-> «Social commerce is doing commerce in a collaborative and participative way, by using social media, through an enterprise interactive interface that enables social interactions.» – Baghdadi Y.
+> «Social commerce is doing commerce in a collaborative and participative way, by using social media, through an enterprise interactive interface that enables social interactions.»&nbsp;– Baghdadi Y.
 
 
 ### 2.2 Wann hat alles angefangen?
@@ -263,7 +263,7 @@ Social Commerce ist vielfältig und doch sehr konkret. Zu dieser Erkenntnis bin 
 ```references
 group-include: lv
 
-inline-link-prefix: 'Lit. '
+inline-link-prefix: 'Lit.&#x202F;'
 
 reference-link-prefix: '↑ Lit. '
 reference-link-suffix: ''
@@ -284,7 +284,7 @@ reference-text-suffix: ' – '
 ```references
 group-include: qv
 
-inline-link-prefix: 'Qu. '
+inline-link-prefix: 'Qu.&#x202F;'
 
 reference-link-prefix: '↑ Qu. '
 reference-link-suffix: ''
@@ -313,7 +313,7 @@ reference-text-suffix: ' – '
 ```references
 group-include: av
 
-inline-link-prefix: 'Abb. '
+inline-link-prefix: 'Abb.&#x202F;'
 
 reference-link-prefix: '↑ Abb. '
 reference-link-suffix: ''
