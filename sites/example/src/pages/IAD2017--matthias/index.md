@@ -49,7 +49,7 @@ der User gerade befindet. Für Facebook ist das auf jeder Webseite möglich, wel
 Die Ad-Exchange-Anbieter stehen zwischen dem Veröffentlicher der Werbung, den sogenannten «Publishern» und den werbetreibenden Firmen, respektive deren vertretenden Agenturen. Für den Werbetreibenden gibt es Demand-Side-Plattformen (DSP), welche zur Unterstützung zum Finden der passenden Werbeplätze dienen. Die Werbeplätze werden von den Publishern zur Verfügung gestellt und von sogenannten Sell-Side-Plattformen (SSP) verkauft. Anbieter von Demand-Side-Plattformen und Sell-Side-Plattformen betreiben sogenannte Data-Management-Plattformen (DMP), Deren Hauptaufgaben besteht darin, Cookie IDs sowie verschiedene Datensätze miteinander zu verknüpfen und in Zielgruppen aufzuteilen, um damit eine Basis für das Targeting zur Verfügung zu stellen. Die Unterteilung zwischen den jeweiligen Anbietern wird immer unklarer. DMP können zudem zur Messung und Auswertung von Kampagnen genutzt werden[^quote-two]. Aufgrund dieser Auswertungen der DMP können laufende Kampagnen dynamisch angepasst werden. Datengetriebenes und intelligentes Retargeting sind Stichpunkte aus dem sogenannten Programmatic Marketing, welches für dynamisches, automatisiertes und datengetriebenes Marketing mithilfe von Algorithmen steht.
 Zusätzlich zur Auswertung der Daten werden die Daten anhand von Modellen aus der Psychologie interpretiert, wie zum Beispiel das Big-Five-Modell, auch bekannt als das OCEAN Modell. Mit diesem Modell werden verschiedene Persönlichkeitsprofile erstellt. Das Ergebnis einer Auswertung der Daten ist in der Regel eine Filterung, womit Werbetreibende die Zielgruppe für die entsprechende Werbung auswählen können. So wird beispielsweise bei Facebook eine Filterung von bis zu 100 Parametern ausgegeben.
 ![Online Advertising Distribution](./img/Online_Advertising_Distributions_Netzwerk-05.jpg)
-*Abb. 1: Online Webung Distributionsnetzwerk, Eigene Abbildung basierend auf: [Guide to Digital Display Advertising](https://www.youtube.com/watch?v=efHVOWcNJZo)[^:fig:one]*
+*Abb. 1: Online Webung Distributionsnetzwerk, eigene Abbildung basierend auf: [Guide to Digital Display Advertising](https://www.youtube.com/watch?v=efHVOWcNJZo)[^:fig:one]*
 
 ### 2.4 Targeting der Werbung
 Werbetreibende können diverse Werbungen in verschiedenen Varianten aufbereiten, um die Zielgruppe jeweils spezifischer anzusprechen. Mithilfe des Targetings kann die richtige Werbung der entsprechenden Zielgruppe ausgeliefert werden und wird zudem dynamisch bei diversen Publishern veröffentlicht. Werbetreibende können bestimmen, wo, wie oft und wie lange die Zielgruppe die Werbung sehen soll, so dass möglichst kein Streuverlust entsteht. Die Werbetreibenden können anhand diverser «Targeting-Methoden» ihre Zielgruppen eingrenzen. 
@@ -163,7 +163,7 @@ Vorname Nachname, Buchtitel, Auflage, Verlag, Erscheinungsort Jahr, erste Seite�
 [^quote-eight]: Experience Index 2019 Digital Trends, 2019, s.18 [ Experience Index, 2019 Digital Trends](https://www.adobe.com/content/dam/acom/uk/modal-offers/2019/DT-Report-2019/Econsultancy-2019-Digital-Trends_UK.pdf)
 
 <!-- references figures-->
-[^:fig:one]: Abb. 1: Online Werbung Distributionsnetzwerk, Eigene Abbildung basierend auf: [Guide to Digital Display Advertising](https://www.youtube.com/watch?v=efHVOWcNJZo)
+[^:fig:one]: Abb. 1: Online Werbung Distributionsnetzwerk, eigene Abbildung basierend auf: [Guide to Digital Display Advertising](https://www.youtube.com/watch?v=efHVOWcNJZo)
 [^:fig:two]: Abb. 2: Matthias Erni auf [Twitter](https://twitter.com/matthias_erni/status/1173838188558848001)
 
 
@@ -205,7 +205,7 @@ Christoph Caviezel <br/>
 Matthias Koch <br/>
 HFIAD 2017 <br/>
 Schule für Gestaltung Zürich<br/>
-[hello@matthiasko.ch.ch](mailto:hello@matthiasko.ch)
+[hello@matthiasko.ch](mailto:hello@matthiasko.ch)
 </Column>
 
 </Grid>
