@@ -87,6 +87,9 @@ Das Posten von Bildern und Kommentaren geschieht ohne Anmeldung, ist kostenlos u
 Das bekannteste und meistgenutzte Board auf 4chan ist das /b/ Board, auch bezeichnet als das Random-Board. Dieses ist für jedmöglichen Inhalt gedacht solange dieser das US-Amerikanische Recht befolgt und der/die VerfasserIn über 18 Jahre alt ist.
 Alle anderen Boards verfügen über weitere Regeln, welche Pornografie (ausgenommen den Boards der Kategorie «Adult») und Rassismus (ausgenommen dem /pol/ «Politically Incorrect» Board) untersagen. Bei Nichtbefolgen dieser Regeln können die Administratoren von 4chan die Beiträge löschen und die IP-Adresse des/der BenutzerIn vorübergehend sperren.[^:qv:4chan-rules] [^:qv:Christopher-Poole] [^:qv:kym-4chan]
 
+![4chan - a place to lose faith in humanity](./img/4chan-meme.jpg)
+*D4chan - a place to lose faith in humanity[^:abb:4chan-meme]*
+
 #### Trolling
 Ein Internet-Troll ist eine Person, welche andere BenutzerInnen mittels einer falschen Information oder eines Links, welcher nicht auf die angepriesene Seite führt, versucht zu verwirren oder zu verärgern. Der Name «Troll» kommt nicht von einem Fabelwesen, sondern von einer Art zu Angeln, bei der der Köder hinter einem Boot hergezogen wird, bis etwas anbeisst.[^:qv:Trolling-DavidPorter]  
 
@@ -108,12 +111,25 @@ Die Internet-Community versucht immer wieder, mit verschiedensten Aktion ein exi
 ### Duckrolling
 Um ca. 2005 (das genaue Datum kann nicht ermittelt werden) installierte der 4chan-Gründer Christopher Poole alias «m00t» ein Skript auf 4chan, welches das geschriebene Wort «egg» in «duck» umwandelte. Somit wurde auch aus dem Wort «eggroll» das Wort «duckroll». Die darüber amüsierte 4chan Community griff diesen Begriff auf und begann, beliebige Links auf ein Bild zu führen, welches eine Ente mit Rädern zeigt. Die User des /b/ Boards auf 4chan eröffneten Threads mit dem Bild der rollenden Ente und posteten in andere Boards, zum Beispiel dem /v/ Board (Video Games), Links welche zu Game-relevanten Threads führen sollten. Diese endeten aber auf dem Duckroll-Thread.[^:qv:Duckroll-kym] [^:qv:Duckroll-lurkmore]
 
+![Duckroll](./img/4chan-duckroll.jpg)
+*Duckroll[^:abb:4chan-duckroll]*
+
 #### Rickrolling
 Rickrolling ist ein Lockvogelstreich, bei dem ein Hyperlink gepostet wird, der angeblich für das Thema einer Online-Diskussion relevant sein soll, den Betrachter aber auf das Musikvideo von «Never Gonna Give You Up», einer Dance-Pop-Single des englischen Singer-Songwriters Rick Astley von 1987, weiterleitet.[^:qv:Rickroll-kym]
 
 Den Höhepunkt erreichte der Rickroll-Hype am MTV Europe Music Awards im Jahr 2008. Da durch das rege Rickrolling seit 2007 das Youtube Video des Songs über 20 Millionen Klicks erreicht hatte, gewann der Song eine neue Generation von Fans, welche Rick Ashleys Hit von 1987 mit über 100 Millionen Stimmen zum «Best Act Ever» kürten. «We've been well and truly Rickrolled» sagte dazu der Senior Vizepräsident und Executive Producer der Awards, Richard Godfrey. «I am honoured that my fans worked so hard to help me win Best Act Ever at the 2008 MTV Europe Music Awards (...) This is the first time I have been nominated for the EMAs and I would like to thank everyone who voted for me.» bedankte sich Rick Ashley, welcher selber der Preisverleihung aber fern blieb.[^:qv:Rickroll-telegraph]  
 
 Die grosse und begeisterungsfähige Masse der 4chan-Community ermöglichte damit einen Hype, der weit über die Grenzen von 4chan reichte und einen Grossteil des Internets infiltrierte.
+
+
+<Box ratio="16:9">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</Box>  
+
+*Das oft verlinkte Video von Rick Ashley[^:abb:RickAshley]*
 
 ### 4chan/tumblr Raid
 Dass eben diese leicht zu begeisternde Masse an UserInnen auch genutzt werden kann, um Schaden anzurichten, zeigt folgendes Beispiel:  
@@ -212,7 +228,13 @@ reference-text-suffix: ' – '
 
 ## Abbildungsverzeichnis
 
-[^:abb:first]: Text [_Bildname_](link)
+[^:abb:RickAshley]: YouTube: [_Rick Ashley: Never Gonna Give You Up_](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+[^:abb:4chan-meme]: Know your meme: [_4chan_](https://knowyourmeme.com/memes/sites/4chan)
+
+[^:abb:4chan-duckroll]: Know your meme: [_Duckroll_](https://knowyourmeme.com/memes/duckroll)
+
+
 
 ```references
 group-include: abb
