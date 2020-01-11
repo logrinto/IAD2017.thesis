@@ -1,7 +1,7 @@
 ---
 title: Inwiefern sich die Customer Journey durch den neuen Touch-Point «Sprachassistent» verändert hat
 author: "Nils Mäder"
-date: "2020-01-10"
+date: "2020-01-11"
 layout: post
 draft: false
 hideInMenu: false
