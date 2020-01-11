@@ -253,7 +253,7 @@ Die noch grösste Herausforderung der Selbstvermessung ist die Sicherheit der pe
 
 
 ## 6 Anhang
-Interviews
+[Interviews] (https://docs.google.com/document/d/1WQcsmXxIq2ApZrD_ayiFqXb_aud-nX8jMD3Fks30n8Y/edit?usp=sharing)
 
 ### Endnoten
 ```references
@@ -263,7 +263,7 @@ Interviews
 ### Literaturverzeichnis
 * Prof.&#x202F;Dr.&#x202F;Becker H., Meidert U., Scheermesser M., Quantified Self - Schnittstelle zwischen Lifestyle und Medizin (2018) Hochschulverlag AG an der ETH Zürich, S. 39 – 78
 
-* Duttweiler S., Gugutzer R., Passoth J., Strübing J., Leben nach Zahlen – Self-Tracking als Optimierungsprojekt (2016) transcript Verlag
+* Duttweiler S., Gugutzer R., Passoth J., Strübing J., Leben nach Zahlen – Self-Tracking als Optimierungsprojekt (2016) transcript Verlag, S. 9&#x202F;–&#x202F;25 / 221&#x202F;–&#x202F;238
 
 * Frommeld D., Die Personenwaage: Ein Beitrag zur Geschichte und Soziologie der Selbstvermessung (2019) transcript Verlag Bielefeld
 
