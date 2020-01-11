@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Thesis IAD2017]]></title><description><![CDATA[A starter blog ...]]></description><link>https://thesis.logrinto.ch</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 11 Jan 2020 07:11:06 GMT</lastBuildDate><item><title><![CDATA[Thesis]]></title><description><![CDATA[Schule für Gestaltung Zürich · 2019 · CC-BY-SA 4.0 Dokumentation Beispiel · Stefan Huber Pascale Anderegg Stephanie Fuchs Marc Hatt Severin…]]></description><link>https://thesis.logrinto.chroot</link><guid isPermaLink="false">https://thesis.logrinto.chroot</guid><content:encoded>&lt;div class=&quot;column__text&quot;&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Thesis IAD2017]]></title><description><![CDATA[A starter blog ...]]></description><link>https://thesis.logrinto.ch</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 11 Jan 2020 07:17:13 GMT</lastBuildDate><item><title><![CDATA[Thesis]]></title><description><![CDATA[Schule für Gestaltung Zürich · 2019 · CC-BY-SA 4.0 Dokumentation Beispiel · Stefan Huber Pascale Anderegg Stephanie Fuchs Marc Hatt Severin…]]></description><link>https://thesis.logrinto.chroot</link><guid isPermaLink="false">https://thesis.logrinto.chroot</guid><content:encoded>&lt;div class=&quot;column__text&quot;&gt;
 &lt;p&gt;&lt;a href=&quot;https://sfgz.ch/&quot;&gt;Schule für Gestaltung Zürich&lt;/a&gt; · 2019 · &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;&lt;/p&gt;
 &lt;br /&gt;
 &lt;br /&gt;
@@ -450,6 +450,35 @@ Doch erst in dieser Form ermöglicht eine Gruppe Individualität: über den Weg 
 Das Posten von Bildern und Kommentaren geschieht ohne Anmeldung, ist kostenlos und Anonym. Nur die Administratoren haben Einblick auf die IP-Adresse des/der VerfasserIn. Alle Posts werden unter dem Pseudonym «Anonymous» veröffentlicht und bekommen eine vom System generierte Nummer, welche als Link auf den jeweiligen Beitrag verwendet werden kann.&lt;/p&gt;
 &lt;p&gt;Das bekannteste und meistgenutzte Board auf 4chan ist das /b/ Board, auch bezeichnet als das Random-Board. Dieses ist für jedmöglichen Inhalt gedacht solange dieser das US-Amerikanische Recht befolgt und der/die VerfasserIn über 18 Jahre alt ist.
 Alle anderen Boards verfügen über weitere Regeln, welche Pornografie (ausgenommen den Boards der Kategorie «Adult») und Rassismus (ausgenommen dem /pol/ «Politically Incorrect» Board) untersagen. Bei Nichtbefolgen dieser Regeln können die Administratoren von 4chan die Beiträge löschen und die IP-Adresse des/der BenutzerIn vorübergehend sperren.&lt;sup id=&quot;fnref-:qv:4chan-rules&quot;&gt;&lt;a href=&quot;#fn-:qv:4chan-rules&quot; class=&quot;footnote-ref&quot;&gt;:qv:4chan-rules&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref-:qv:christopher-poole&quot;&gt;&lt;a href=&quot;#fn-:qv:christopher-poole&quot; class=&quot;footnote-ref&quot;&gt;:qv:christopher-poole&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref-:qv:kym-4chan&quot;&gt;&lt;a href=&quot;#fn-:qv:kym-4chan&quot; class=&quot;footnote-ref&quot;&gt;:qv:kym-4chan&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 500px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5ceaa890d230bf3546e5f99b7f5c23bf/c635c/4chan-meme.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 80%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAcCk2EAP/8QAGBABAAMBAAAAAAAAAAAAAAAAAQACEBH/2gAIAQEAAQUClwN4Z//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABgQAAIDAAAAAAAAAAAAAAAAAAAQASEx/9oACAEBAAY/Aiper//EABkQAQEBAAMAAAAAAAAAAAAAAAERABAhQf/aAAgBAQABPyH0NFa3OIvbMgXj/9oADAMBAAIAAwAAABDjz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABoQAQADAQEBAAAAAAAAAAAAAAEAESExcUH/2gAIAQEAAT8QNsBdbAgiRDLM258eQiPRUUgLXAi3yf/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;4chan - a place to lose faith in humanity&quot;
+        title=&quot;4chan - a place to lose faith in humanity&quot;
+        src=&quot;/static/5ceaa890d230bf3546e5f99b7f5c23bf/c635c/4chan-meme.jpg&quot;
+        srcset=&quot;/static/5ceaa890d230bf3546e5f99b7f5c23bf/90185/4chan-meme.jpg 450w,
+/static/5ceaa890d230bf3546e5f99b7f5c23bf/c635c/4chan-meme.jpg 500w&quot;
+        sizes=&quot;(max-width: 500px) 100vw, 500px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;D4chan - a place to lose faith in humanity&lt;sup id=&quot;fnref-:abb:4chan-meme&quot;&gt;&lt;a href=&quot;#fn-:abb:4chan-meme&quot; class=&quot;footnote-ref&quot;&gt;:abb:4chan-meme&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h4&gt;Trolling&lt;/h4&gt;
 &lt;p&gt;Ein Internet-Troll ist eine Person, welche andere BenutzerInnen mittels einer falschen Information oder eines Links, welcher nicht auf die angepriesene Seite führt, versucht zu verwirren oder zu verärgern. Der Name «Troll» kommt nicht von einem Fabelwesen, sondern von einer Art zu Angeln, bei der der Köder hinter einem Boot hergezogen wird, bis etwas anbeisst.&lt;sup id=&quot;fnref-:qv:trolling-davidporter&quot;&gt;&lt;a href=&quot;#fn-:qv:trolling-davidporter&quot; class=&quot;footnote-ref&quot;&gt;:qv:trolling-davidporter&lt;/a&gt;&lt;/sup&gt;  &lt;/p&gt;
 &lt;p&gt;Das Ziel des Trolls ist es, die Aufmerksamkeit gezielt vom eigentlichen Thema abzulenken und gruppeninterne Konflikte zu erzeugen. Die Ideale einer Community, einen konstruktiven Dialog zu führen, muss oft gegen das Bedürfnis nach Sicherheit und Schutz abgewägt werden, und sind somit besonders anfällige Ziele von Troll-Angriffen.&lt;sup id=&quot;fnref-:qv:trolling-susanherring&quot;&gt;&lt;a href=&quot;#fn-:qv:trolling-susanherring&quot; class=&quot;footnote-ref&quot;&gt;:qv:trolling-susanherring&lt;/a&gt;&lt;/sup&gt;  &lt;/p&gt;
@@ -462,10 +491,43 @@ Wenn eine Fensterscheibe eingeschlagen wurde, sollte diese schnellstmöglich rep
 &lt;p&gt;Die Internet-Community versucht immer wieder, mit verschiedensten Aktion ein existierendes System zu manipulieren, ins lächerliche zu ziehen und somit deren Ernsthaftigkeit und glaubwürdigkeit in Frage zu stellen.&lt;/p&gt;
 &lt;h3&gt;Duckrolling&lt;/h3&gt;
 &lt;p&gt;Um ca. 2005 (das genaue Datum kann nicht ermittelt werden) installierte der 4chan-Gründer Christopher Poole alias «m00t» ein Skript auf 4chan, welches das geschriebene Wort «egg» in «duck» umwandelte. Somit wurde auch aus dem Wort «eggroll» das Wort «duckroll». Die darüber amüsierte 4chan Community griff diesen Begriff auf und begann, beliebige Links auf ein Bild zu führen, welches eine Ente mit Rädern zeigt. Die User des /b/ Boards auf 4chan eröffneten Threads mit dem Bild der rollenden Ente und posteten in andere Boards, zum Beispiel dem /v/ Board (Video Games), Links welche zu Game-relevanten Threads führen sollten. Diese endeten aber auf dem Duckroll-Thread.&lt;sup id=&quot;fnref-:qv:duckroll-kym&quot;&gt;&lt;a href=&quot;#fn-:qv:duckroll-kym&quot; class=&quot;footnote-ref&quot;&gt;:qv:duckroll-kym&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref-:qv:duckroll-lurkmore&quot;&gt;&lt;a href=&quot;#fn-:qv:duckroll-lurkmore&quot; class=&quot;footnote-ref&quot;&gt;:qv:duckroll-lurkmore&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 598px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/04ec704b7e2c05e0dbe4a4f204af2fe5/7dbc8/4chan-duckroll.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 79.7658862876254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAv/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAFl2dgK4qM//8QAGxAAAgIDAQAAAAAAAAAAAAAAAQMCBAASExH/2gAIAQEAAQUCcedsbHNZ5cPjmBkIV+k1/wD/xAAXEQADAQAAAAAAAAAAAAAAAAAAARES/9oACAEDAQE/AWqZP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EAB4QAAEDBQEBAAAAAAAAAAAAAAABESECAxJBUTJh/9oACAEBAAY/Ara5q9WvhFxD2I1MsxkmUdkdat8P/8QAHRAAAgEEAwAAAAAAAAAAAAAAAREAIUFh8DFxgf/aAAgBAQABPyGseRG0RcjoTQI7tOt7bMTsRyGxht0MlhP/2gAMAwEAAgADAAAAEEjf/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAERYZH/2gAIAQMBAT8QSI3rP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EAB4QAQACAQQDAAAAAAAAAAAAAAEAESExUWFxQYGR/9oACAEBAAE/EFb8Q/SXXe+3EaJXt0CkvVfibiKtnaOjby5l4DmOQWrHR6ZjvQG2GMK2nc//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Duckroll&quot;
+        title=&quot;Duckroll&quot;
+        src=&quot;/static/04ec704b7e2c05e0dbe4a4f204af2fe5/7dbc8/4chan-duckroll.jpg&quot;
+        srcset=&quot;/static/04ec704b7e2c05e0dbe4a4f204af2fe5/90185/4chan-duckroll.jpg 450w,
+/static/04ec704b7e2c05e0dbe4a4f204af2fe5/7dbc8/4chan-duckroll.jpg 598w&quot;
+        sizes=&quot;(max-width: 598px) 100vw, 598px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;Duckroll&lt;sup id=&quot;fnref-:abb:4chan-duckroll&quot;&gt;&lt;a href=&quot;#fn-:abb:4chan-duckroll&quot; class=&quot;footnote-ref&quot;&gt;:abb:4chan-duckroll&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h4&gt;Rickrolling&lt;/h4&gt;
 &lt;p&gt;Rickrolling ist ein Lockvogelstreich, bei dem ein Hyperlink gepostet wird, der angeblich für das Thema einer Online-Diskussion relevant sein soll, den Betrachter aber auf das Musikvideo von «Never Gonna Give You Up», einer Dance-Pop-Single des englischen Singer-Songwriters Rick Astley von 1987, weiterleitet.&lt;sup id=&quot;fnref-:qv:rickroll-kym&quot;&gt;&lt;a href=&quot;#fn-:qv:rickroll-kym&quot; class=&quot;footnote-ref&quot;&gt;:qv:rickroll-kym&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;p&gt;Den Höhepunkt erreichte der Rickroll-Hype am MTV Europe Music Awards im Jahr 2008. Da durch das rege Rickrolling seit 2007 das Youtube Video des Songs über 20 Millionen Klicks erreicht hatte, gewann der Song eine neue Generation von Fans, welche Rick Ashleys Hit von 1987 mit über 100 Millionen Stimmen zum «Best Act Ever» kürten. «We&apos;ve been well and truly Rickrolled» sagte dazu der Senior Vizepräsident und Executive Producer der Awards, Richard Godfrey. «I am honoured that my fans worked so hard to help me win Best Act Ever at the 2008 MTV Europe Music Awards (...) This is the first time I have been nominated for the EMAs and I would like to thank everyone who voted for me.» bedankte sich Rick Ashley, welcher selber der Preisverleihung aber fern blieb.&lt;sup id=&quot;fnref-:qv:rickroll-telegraph&quot;&gt;&lt;a href=&quot;#fn-:qv:rickroll-telegraph&quot; class=&quot;footnote-ref&quot;&gt;:qv:rickroll-telegraph&lt;/a&gt;&lt;/sup&gt;  &lt;/p&gt;
 &lt;p&gt;Die grosse und begeisterungsfähige Masse der 4chan-Community ermöglichte damit einen Hype, der weit über die Grenzen von 4chan reichte und einen Grossteil des Internets infiltrierte.&lt;/p&gt;
+&lt;Box ratio=&quot;16:9&quot;&gt;
+&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden; &quot; &gt; &lt;iframe src=&quot;https://www.youtube.com/embed/dQw4w9WgXcQ&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;/Box&gt;  
+&lt;p&gt;&lt;em&gt;Das oft verlinkte Video von Rick Ashley&lt;sup id=&quot;fnref-:abb:rickashley&quot;&gt;&lt;a href=&quot;#fn-:abb:rickashley&quot; class=&quot;footnote-ref&quot;&gt;:abb:rickashley&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h3&gt;4chan/tumblr Raid&lt;/h3&gt;
 &lt;p&gt;Dass eben diese leicht zu begeisternde Masse an UserInnen auch genutzt werden kann, um Schaden anzurichten, zeigt folgendes Beispiel:&lt;br&gt;
 Am 9. Juni 2014 wurde auf dem tumblr Blog “shutdown4chan” ein Aufruf mit dem Plan veröffentlicht, das /b/ Board von 4chan.org mit Rügen über deren Lügen zu überhäufen, so dass diese merken, wie die Welt wirklich über sie denke.&lt;/p&gt;
@@ -624,9 +686,17 @@ Wohllebgasse 11 &lt;br/&gt;
 &lt;p&gt;PC WELT: &lt;a href=&quot;https://www.pcwelt.de/downloads/Anonymisierungs-Programm-Tor-562093.html&quot;&gt;&lt;em&gt;Anonymisierungs-Programm: Tor-Browser&lt;/em&gt;&lt;/a&gt;, Abgerufen am 03. Januar 2020.&lt;/p&gt;
 &lt;a href=&quot;#fnref-:qv:anonym-tor&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
-&lt;li id=&quot;fn-:abb:first&quot;&gt;
-&lt;p&gt;Text &lt;a href=&quot;link&quot;&gt;&lt;em&gt;Bildname&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;a href=&quot;#fnref-:abb:first&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;li id=&quot;fn-:abb:rickashley&quot;&gt;
+&lt;p&gt;YouTube: &lt;a href=&quot;https://www.youtube.com/watch?v=dQw4w9WgXcQ&quot;&gt;&lt;em&gt;Rick Ashley: Never Gonna Give You Up&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;#fnref-:abb:rickashley&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-:abb:4chan-meme&quot;&gt;
+&lt;p&gt;Know your meme: &lt;a href=&quot;https://knowyourmeme.com/memes/sites/4chan&quot;&gt;&lt;em&gt;4chan&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;#fnref-:abb:4chan-meme&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-:abb:4chan-duckroll&quot;&gt;
+&lt;p&gt;Know your meme: &lt;a href=&quot;https://knowyourmeme.com/memes/duckroll&quot;&gt;&lt;em&gt;Duckroll&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;#fnref-:abb:4chan-duckroll&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Wie Co-Creation Unternehmen und KundInnen näher zusammenbringt]]></title><description><![CDATA[import Margin from 'gatsby-theme-signalwerk/src/components/Margin';
