@@ -27,7 +27,7 @@ to-heading: 3
 ```
 
 ## 1.0 Einleitung
-Seit dem Aufkommen von Computern denken wir über intelligente Systeme nach, die unserem eigenen Handeln näher kommen. Nach den Ausführungen von Winkler _(2019, 1).[^:lit:one]_ machten sich Menschen bereits im Jahre 1960 Gedanken über die Verbindung des Menschen mit der Maschine. Heutige Computer sind noch weit entfernt von Beispielen, wie Samantha, dem intelligenten Sprachassistenten aus dem Science Fiction Film [«Her»](https://de.wikipedia.org/wiki/Her_(2013)). Dennoch wird Machine Learning bereits in diversen Bereichen, wie zum Beispiel in der Medizin zur Analyse von Bilddaten bei Krankheitsdiagnosen, eingesetzt und stellt ebenso DesignerInnen neue Werkzeuge im Gestaltungsprozess zur Verfügung _(vgl. Hebron, 2016, 1).[^:lit:two]_
+Seit dem Aufkommen von Computern denken wir über intelligente Systeme nach, die unserem eigenen Handeln näher kommen. Nach den Ausführungen von Winkler _(2019, 1).[^:lit:one]_ machten sich Menschen bereits im Jahre 1960 Gedanken über die Verbindung des Menschen mit der Maschine. Heutige Computer sind noch weit entfernt von Beispielen, wie Samantha, dem intelligenten Sprachassistenten aus dem Science Fiction Film [«Her»](https://web.archive.org/web/20200221094744/https://de.wikipedia.org/wiki/Her_(2013)). Dennoch wird Machine Learning bereits in diversen Bereichen, wie zum Beispiel in der Medizin zur Analyse von Bilddaten bei Krankheitsdiagnosen, eingesetzt und stellt ebenso DesignerInnen neue Werkzeuge im Gestaltungsprozess zur Verfügung _(vgl. Hebron, 2016, 1).[^:lit:two]_
 
 Die vorliegende Arbeit setzt sich mit der Frage auseinander, auf welche Weise sich Prozesse digitaler GestalterInnen mit Machine Learning verändern. Um dieser Fragestellung nachzugehen, werde ich einen digitalen Gestaltungsprozess analysieren sowie den Begriff Machine Learning erläutern. Ich vermute, dass mit Einbezug von Machine Learning im Gestaltungsprozess ein innovativeres Lösungsspektrum erreicht und der Prozess als variantenreicher wahrgenommen werden kann. Das Ziel der Arbeit ist, mögliche Einsatzbereiche von ML im digitalen Designprozess verständlich aufzuzeigen und dabei die Veränderungen zu beleuchten. Neben einem konkreten Fallbeispiel wird die Rolle von Machine Learning im Gestaltungsprozess untersucht. Auf Basis dieser Grundlagen wird ein möglicher Gestaltungsprozess mit Machine Learning ausgelegt, um in einer anschliessenden Diskussion die Frage bewerten zu können, wie sich ein Gestaltungsprozess mit ML in Hinsicht auf eine zunehmende Dynamik wandeln könnte.
 
@@ -96,9 +96,9 @@ In der ersten Kategorie der Interaktion zwischen dem/der DesignerIn und dem ML-S
 In der unterstützenden Form kann ML bei repetitiven, quantitativen Tätigkeiten, wie Formatanpassungen oder Recherchearbeiten, assistieren sowie Kreativschaffende inspirieren und den Prozess in produktiven Tätigkeiten partizipativ vorwärtstreiben. Der/die DesignerIn legt ein Set von Daten an, auf welches das ML-System trainiert wird. ML kann aus diesen Daten Erkenntnisse ziehen, welche DesignerInnen nutzen können. Dadurch findet ein Wissensaustausch von beiden Seiten statt. Im folgenden Fallbeispiel Fontmap, wird das ML-System zur Inspirationsquelle und erleichtert GestalterInnen die Entscheidung, welche Schrift verwendet werden soll.
 
 #### 3.3.1 Fontmap
-Wie Ho _(2017).[^:qu:three]_, der Ersteller von [Fontmap](http://fontmap.ideo.com/), feststellte, ist die Wahl der Schrift eine der häufigsten Entscheidungen, die DesignerInnen in Gestaltungsprozessen treffen müssen. Nicht selten wird auf Favoriten oder Standardschriften zurückgegriffen, welche in bisherigen Anwendungen gut funktioniert hatten. Eine andere Variante wäre die Recherche nach einem geeigneten Font per Google Suche oder in bestehenden Werken abzufragen, wobei nach Charakter wie serif, serifenlos oder grotesk gesucht werden kann. Auch wenn dies ein guter Startpunkt ist, gibt es in diesen Kategorien viele Details, worin sich die Schriften unterscheiden und es ist oft der Fall, dass die erste Schrift nicht passt und viel Zeit für die Recherche benötigt wird.
+Wie Ho _(2017).[^:qu:three]_, der Ersteller von [Fontmap](https://web.archive.org/web/20200221094617/http://fontmap.ideo.com/), feststellte, ist die Wahl der Schrift eine der häufigsten Entscheidungen, die DesignerInnen in Gestaltungsprozessen treffen müssen. Nicht selten wird auf Favoriten oder Standardschriften zurückgegriffen, welche in bisherigen Anwendungen gut funktioniert hatten. Eine andere Variante wäre die Recherche nach einem geeigneten Font per Google Suche oder in bestehenden Werken abzufragen, wobei nach Charakter wie serif, serifenlos oder grotesk gesucht werden kann. Auch wenn dies ein guter Startpunkt ist, gibt es in diesen Kategorien viele Details, worin sich die Schriften unterscheiden und es ist oft der Fall, dass die erste Schrift nicht passt und viel Zeit für die Recherche benötigt wird.
 
-Das Projekt Fontmap, welches von [IDEO](https://www.ideo.com/eu), einer internationalen Design- und Innovationsberatung entwickelt wurde, basiert auf ML und möchte dem/der GestalterIn ein Werkzeug bieten, dass bei der Wahl der Schrift unterstützt. Das Tool stellt mehr als 750 Google Fonts auf einer Map dar, um die Schriftsuche intuitiver und einfacher zu gestalten. Es wird ein Werkzeug geboten, dass ähnliche Schriften aufgrund von ihrem Charakter wie Strichstärke, Laufweite oder Versalhöhe in der Nähe zueinander anordnet. Mit dieser Anwendung werden Muster und Beziehungen von Schriften verständlich dargestellt. Es ergibt sich eine zweidimensionale Vergleichbarkeit der Schriftsätze, wobei die Schriftarten innerhalb von zwei Achsen sortiert und geordnet werden. Der Algorithmus sortiert Schriften anhand ihrer visuellen Merkmale und zeigt dem/der DesignerIn alternative Schriften auf einer bekannten 2D Karten- sowie Listenansicht zur Auswahl an. Der Algorithmus ordnet Schriften, welche sich von anderen stark unterscheiden, auf der Map separiert, also mit einem grösseren Abstand zu anderen Schriften, an.
+Das Projekt Fontmap, welches von [IDEO](https://web.archive.org/web/20200221094531/http://www.ideo.com/eu), einer internationalen Design- und Innovationsberatung entwickelt wurde, basiert auf ML und möchte dem/der GestalterIn ein Werkzeug bieten, dass bei der Wahl der Schrift unterstützt. Das Tool stellt mehr als 750 Google Fonts auf einer Map dar, um die Schriftsuche intuitiver und einfacher zu gestalten. Es wird ein Werkzeug geboten, dass ähnliche Schriften aufgrund von ihrem Charakter wie Strichstärke, Laufweite oder Versalhöhe in der Nähe zueinander anordnet. Mit dieser Anwendung werden Muster und Beziehungen von Schriften verständlich dargestellt. Es ergibt sich eine zweidimensionale Vergleichbarkeit der Schriftsätze, wobei die Schriftarten innerhalb von zwei Achsen sortiert und geordnet werden. Der Algorithmus sortiert Schriften anhand ihrer visuellen Merkmale und zeigt dem/der DesignerIn alternative Schriften auf einer bekannten 2D Karten- sowie Listenansicht zur Auswahl an. Der Algorithmus ordnet Schriften, welche sich von anderen stark unterscheiden, auf der Map separiert, also mit einem grösseren Abstand zu anderen Schriften, an.
 
 ![Fontmap](./img/fontmap_IDEO2.png)
 *Fontmap ordnet mittels ML mehr als 750 Schriftarten auf einer 2D Kartenansicht an_.[^:abb:four]_*
@@ -186,17 +186,17 @@ Vorname Nachname, Buchtitel, Auflage, Verlag, Erscheinungsort Jahr, erste Seite�
 
 
 <!-- references figures-->
-[^:abb:one]: Abbildung erstellt von Pascale Anderegg, Grundlage der Grafik von [Rian Van der Merwe, elezea Blog](https://elezea.com/2013/09/responsive-design-agency-workflow/).
+[^:abb:one]: Abbildung erstellt von Pascale Anderegg, Grundlage der Grafik von [Rian Van der Merwe, elezea Blog](https://web.archive.org/web/20200221094332/https://elezea.com/2013/09/responsive-design-agency-workflow/).
 
-[^:abb:two]: Abbildung von Annie Spratt [Unsplash](https://unsplash.com/photos/0XM10BkiuXU).
+[^:abb:two]: Abbildung von Annie Spratt [Unsplash](https://web.archive.org/web/20200221094311/https://unsplash.com/photos/0XM10BkiuXU).
 
-[^:abb:three]: Abbildung von Michael Zhang [Petapixel](https://petapixel.com/2016/07/12/prisma-gives-photos-look-famous-paintings/).
+[^:abb:three]: Abbildung von Michael Zhang [Petapixel](https://web.archive.org/web/20200221094240/https://petapixel.com/2016/07/12/prisma-gives-photos-look-famous-paintings/).
 
-[^:abb:four]: Abbildung von Kevin Ho [medium.com](https://medium.com/ideo-stories/organizing-the-world-of-fonts-with-ai-7d9e49ff2b25?).
+[^:abb:four]: Abbildung von Kevin Ho [medium.com](https://web.archive.org/web/20200221094215/https://medium.com/ideo-stories/organizing-the-world-of-fonts-with-ai-7d9e49ff2b25?).
 
-[^:abb:five]: Abbildung von Jess Holbrook [medium.com](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd).
+[^:abb:five]: Abbildung von Jess Holbrook [medium.com](https://web.archive.org/web/20200221094125/https://medium.com/google-design/human-centered-machine-learning-a770d10562cd).
 
-[^:abb:six]: Abbildung von Liam Spradlin [medium.com](https://medium.com/project-phoebe/mutate-more-digging-deeper-into-ui-that-evolves-with-the-user-fc0e0d94b402).
+[^:abb:six]: Abbildung von Liam Spradlin [medium.com](https://web.archive.org/web/20200221093958/https://medium.com/project-phoebe/mutate-more-digging-deeper-into-ui-that-evolves-with-the-user-fc0e0d94b402).
 
 
 
@@ -235,13 +235,13 @@ reference-link-suffix: ''
 reference-text-suffix: ' – '
 ```
 
-[^:qu:one]: Rian Van der Merwe, [eleza.com](https://elezea.com/2013/09/responsive-design-agency-workflow/) (Abrufdatum: 13.&#x202F;11.&#x202F;2019)
-[^:qu:two]: Matthias Spielkamp, [zeit.de](https://www.zeit.de/digital/2019-08/matthias-spielkamp-algorithmen-diskriminierung-algorithmwatch-wird-das-was-digitalpodcast) (Abrufdatum: 24.&#x202F;11.&#x202F;2019)
-[^:qu:three]: Kevin Ho, [medium.com](https://medium.com/ideo-stories/organizing-the-world-of-fonts-with-ai-7d9e49ff2b25?) (Abrufdatum: 24.&#x202F;11.&#x202F;2019)
-[^:qu:four]: Johanna Osterrieter, [medium.com](https://medium.com/@johanna.osterrieter/k%C3%BCnstliche-intelligenz-im-design-23f7a3d7f3db) (Abrufdatum: 24.&#x202F;11.&#x202F;2019)
-[^:qu:five]: Jess Holbrook, [medium.com](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd) (Abrufdatum: 12.&#x202F;11.&#x202F;2019)
-[^:qu:six]: Liam Spradlin, [medium.com](https://medium.com/project-phoebe/mutate-more-digging-deeper-into-ui-that-evolves-with-the-user-fc0e0d94b402) (Abrufdatum: 24.&#x202F;12.&#x202F;2019)
-[^:qu:seven]: Josh Lovejoy, [Google Design](https://design.google/library/ux-ai/) (Abrufdatum: 24.&#x202F;12.&#x202F;2019)
+[^:qu:one]: Rian Van der Merwe, [eleza.com](https://web.archive.org/web/20200221093122/https://elezea.com/2013/09/responsive-design-agency-workflow/) (Abrufdatum: 13.&#x202F;11.&#x202F;2019)
+[^:qu:two]: Matthias Spielkamp, [zeit.de](https://web.archive.org/web/20200221093322/https://www.zeit.de/digital/2019-08/matthias-spielkamp-algorithmen-diskriminierung-algorithmwatch-wird-das-was-digitalpodcast) (Abrufdatum: 24.&#x202F;11.&#x202F;2019)
+[^:qu:three]: Kevin Ho, [medium.com](https://web.archive.org/web/20200221093459/https://medium.com/ideo-stories/organizing-the-world-of-fonts-with-ai-7d9e49ff2b25?) (Abrufdatum: 24.&#x202F;11.&#x202F;2019)
+[^:qu:four]: Johanna Osterrieter, [medium.com](https://web.archive.org/web/20200221093527/https://medium.com/@johanna.osterrieter/k%C3%BCnstliche-intelligenz-im-design-23f7a3d7f3db) (Abrufdatum: 24.&#x202F;11.&#x202F;2019)
+[^:qu:five]: Jess Holbrook, [medium.com](https://web.archive.org/web/20200221093732/https://medium.com/google-design/human-centered-machine-learning-a770d10562cd) (Abrufdatum: 12.&#x202F;11.&#x202F;2019)
+[^:qu:six]: Liam Spradlin, [medium.com](https://web.archive.org/web/20200221093811/https://medium.com/project-phoebe/mutate-more-digging-deeper-into-ui-that-evolves-with-the-user-fc0e0d94b402) (Abrufdatum: 24.&#x202F;12.&#x202F;2019)
+[^:qu:seven]: Josh Lovejoy, [Google Design](https://web.archive.org/web/20200221093856/https://design.google/library/ux-ai/) (Abrufdatum: 24.&#x202F;12.&#x202F;2019)
 
 
 ## Quellenverzeichnis
