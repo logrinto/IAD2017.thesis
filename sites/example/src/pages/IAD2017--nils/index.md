@@ -207,10 +207,10 @@ Vorname Nachname, [Titel der Seite](https://www.google.com/) (Abrufdatum: dd. 
 Vorname Nachname, Buchtitel, Auflage, Verlag, Erscheinungsort Jahr, erste Seite – letzte Seite.
 -->
 
-[^:lit:one]: Bret Kinsella, Ava Mutchler, Voicebot Consumer Adaption Report 2019, Voicebot.ai, USA 2019, [voicebot.ai](https://voicebot.ai/smart-speaker-consumer-adoption-report-2019/)
+[^:lit:one]: Bret Kinsella, Ava Mutchler, Voicebot Consumer Adaption Report 2019, Voicebot.ai, USA 2019, [voicebot.ai](https://web.archive.org/save/https://voicebot.ai/smart-speaker-consumer-adoption-report-2019/)
 [^:lit:two]: Philip Kotler, Gary Armstrong, Lloyd C. Harris, Grundlagen des Marketing, 7. Auflage, Pearson Studium, Vereinigtes Königreich 2019.
 [^:lit:three]: Thomas Hörner, Marketing mit Sprachassistenten, Springer Gabler, Deutschland 2019.
-[^:lit:four]: Marie Stafford, J. Walter Thompson, Speak Easy, JWT, London 2017. [jwtintelligence](https://www.jwtintelligence.com/trend-reports/speak-easy/)
+[^:lit:four]: Marie Stafford, J. Walter Thompson, Speak Easy, JWT, London 2017. [jwtintelligence](https://web.archive.org/save/https://www.jwtintelligence.com/trend-reports/speak-easy/)
 
 
 ## Literaturverzeichnis
@@ -226,15 +226,15 @@ reference-link-suffix: ''
 reference-text-suffix: ' – '
 ```
 
-[^:qu:one]: Samuel Held, [locationinsider](https://locationinsider.de/voice-commerce-wie-aus-alexa-google-assistant-siri-und-cortana-die-touchpoints-der-zukunft-werden/) (Abrufdatum: 09. 12. 2019)
+[^:qu:one]: Samuel Held, [locationinsider](https://web.archive.org/save/https://locationinsider.de/voice-commerce-wie-aus-alexa-google-assistant-siri-und-cortana-die-touchpoints-der-zukunft-werden/) (Abrufdatum: 09. 12. 2019)
 
-[^:qu:two]: Sherry Ruan, Jacob O. Wobbrock, Kenny Liou, Andrew Ng, James Landay, [stanford](https://hci.stanford.edu/research/speech/index.html) (Abrufdatum: 10. 12. 2019)
+[^:qu:two]: Sherry Ruan, Jacob O. Wobbrock, Kenny Liou, Andrew Ng, James Landay, [stanford](https://web.archive.org/save/https://hci.stanford.edu/research/speech/index.html) (Abrufdatum: 10. 12. 2019)
 
-[^:qu:three]: Zachary Duncan, [medium](https://medium.com/voice-tech-podcast/how-starbucks-can-utilize-voice-tech-why-your-business-should-too-b237f9840533) (Abrufdatum: 13. 12. 2019)
+[^:qu:three]: Zachary Duncan, [medium](https://web.archive.org/web/20200221092857/https://medium.com/voice-tech-podcast/how-starbucks-can-utilize-voice-tech-why-your-business-should-too-b237f9840533) (Abrufdatum: 13. 12. 2019)
 
-[^:qu:four]: MetaDesign, [MetaProfiler](https://metaprofiler.com/) (Abrufdatum: 12. 12. 2019)
+[^:qu:four]: MetaDesign, [MetaProfiler](https://web.archive.org/web/20200221092940/https://metaprofiler.com/) (Abrufdatum: 12. 12. 2019)
 
-[^:qu:five]: CNET News, [Youtube CNET-News](https://www.youtube.com/watch?v=3C6qVqwy5TA) (Abrufdatum: 08. 12. 2019)
+[^:qu:five]: CNET News, [Youtube CNET-News](https://web.archive.org/web/20200221093019/https://www.youtube.com/watch?v=3C6qVqwy5TA) (Abrufdatum: 08. 12. 2019)
 
 
 ## Quellenverzeichnis
@@ -250,15 +250,15 @@ reference-link-suffix: ''
 reference-text-suffix: ' – '
 ```
 
-[^:abb:one]: Abbildung erstellt von Nils Mäder, design library free for commercial or personal use by [Pablo Stanley](https://twitter.com/pablostanley), [humaaans](https://www.humaaans.com/)
+[^:abb:one]: Abbildung erstellt von Nils Mäder, design library free for commercial or personal use by [Pablo Stanley](https://twitter.com/pablostanley), [humaaans](https://web.archive.org/save/https://www.humaaans.com/)
 
 [^:abb:two]: Abbildung von Marie Stafford, J. Walter Thompson, Speak Easy, JWT, London 2017, 20–21.
 
-[^:abb:three]: Abbildung von Sherry Ruan, Jacob O. Wobbrock, Kenny Liou, Andrew Ng, James Landay, [stanford](https://hci.stanford.edu/research/speech/index.html) 
+[^:abb:three]: Abbildung von Sherry Ruan, Jacob O. Wobbrock, Kenny Liou, Andrew Ng, James Landay, [stanford](https://web.archive.org/web/20200221093157/https://hci.stanford.edu/research/speech/index.html) 
 
-[^:abb:five]: Abbildung erstellt von Nils Mäder, Grundlage der Grafik von [Thomas Groissberger](http://www.groissberger.at/phasen-des-kaufprozesses-nach-kotler/).
+[^:abb:five]: Abbildung erstellt von Nils Mäder, Grundlage der Grafik von [Thomas Groissberger](https://web.archive.org/web/20200221093235/http://www.groissberger.at/phasen-des-kaufprozesses-nach-kotler/).
 
-[^:abb:six]: Abbildung erstellt von Nils Mäder, design library free for commercial or personal use by [Pablo Stanley](https://twitter.com/pablostanley), [humaaans](https://www.humaaans.com/)
+[^:abb:six]: Abbildung erstellt von Nils Mäder, design library free for commercial or personal use by [Pablo Stanley](https://twitter.com/pablostanley), [humaaans](https://web.archive.org/save/https://www.humaaans.com/)
 
 ## Abbildungsverzeichnis
 ```references
