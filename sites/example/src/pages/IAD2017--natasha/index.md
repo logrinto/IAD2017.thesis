@@ -158,7 +158,7 @@ In Bezug auf Printmedien bauen die Menschen Vertrauen anders auf, als sie es bei
 <Margin>
 
 **Fallbeispiel B2C - mündliche Informationsquellen** <br/>
-Das glaubwürdige Vertrauen zwischen Menschen in der Business-to-Consumer-Interaktion (B2C) hängt vom Wissens- und Bildungsstand ab. So bildet zum Beispiel ein erfahrener Arzt/eine erfahrene Ärztin Assistent&ast;innen aus. Die Assistenzärzt&ast;innen vertrauen den Ärzt&ast;innen und lassen sich von ihnen fördern, weil sie in die Ärzt&ast;innen, die jahrelange fachliche und praktische Erfahrungen vorweisen, Vertrauen haben. Fachleute teilen ihr Wissen mit anderen Leuten. Die Interessenten darunter teilen das gelernte Wissen mit weiteren Personen. <br/> <br/>
+Das glaubwürdige Vertrauen zwischen Menschen in der Business-to-Consumer-Interaktion (B2C) hängt vom Wissens- und Bildungsstand ab. So bildet zum Beispiel ein erfahrener Arzt/eine erfahrene Ärztin Assistent&ast;innen aus. Die Assistenzärzt&ast;innen vertrauen den Ärzt&ast;innen und lassen sich von ihnen fördern, weil sie in die Ärzt&ast;innen, die jahrelange fachliche und praktische Erfahrungen vorweisen, Vertrauen haben. <br/> <br/>
 
 **Fallbeispiel P2P - mündliche Informationsquellen** <br/>
 Die mündlichen Informationsquellen von früher entwickelten sich aus Gemeinschaften (Freunde, Verwandte und Bekannten). Es handelte sich um private Gemeinschaften und Fach-Communities, die ihr Wissen z.B. auf Kongressen oder anderen mündlichen Gesprächsforen wie Vorträgen, öffentlichen Diskussionen, Interviews, politische Reden oder religiösen Predigten, teilten.
@@ -431,7 +431,7 @@ reference-text-suffix: ' – '
 <Column start="1" end="5">
 
 #### Mentoring durch
-Franka Grosse <br/&ast;
+Franka Grosse <br/>
 HFIAD 2017 <br/>
 Schule für Gestaltung Zürich <br/>
 [franka.grosse@sfgz.ch](mailto:franka.grosse@sfgz.ch)

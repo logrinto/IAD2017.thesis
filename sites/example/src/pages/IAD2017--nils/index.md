@@ -1,7 +1,7 @@
 ---
 title: Inwiefern sich die Customer Journey durch den neuen Touch-Point «Sprachassistent» verändert hat
 author: "Nils Mäder"
-date: "2020-01-10"
+date: "2020-01-11"
 layout: post
 draft: false
 hideInMenu: false
@@ -75,9 +75,9 @@ Nützlich für den täglichen Gebrauch wird ein Sprachdialogsystem erst, wenn es
 Als Beispiel für die Verarbeitung von gesprochenen Befehlen wird folgende Anfrage an den Sprachassistenten untersucht: «Wie komme ich am schnellsten mit dem Zug ins Hotel?» Hierbei muss die Bedeutung (Was ist mit dem Begriff «Zug» gemeint?) mit Informationen (Wo ist das Hotel? Wie lautet der aktuelle Standort der Nutzerin oder des Nutzers?) verbunden werden. Ein Sprachassistent kann sich diese Informationen (aktueller Standort sowie der des Hotels wurde nicht genannt) aus GPS Daten sowie früherem Handeln (Buchung des Hotels) der NutzerInnen mit Zugriff auf deren privaten Daten beschaffen. Ebenfalls weiss der Sprachassistent, dass die direkteste Zugverbindung herausgesucht werden soll. Falls ein Zug ausfällt oder Verspätung hat, weist der Sprachassistent auch darauf hin und schlägt eine alternative Verbindung vor. Je nach Gesprächsverlauf und Antwort, kann der Sprachassistent reagieren und gezielt darauf eingehen. Ein Sprachassistent nimmt also, wie es der Name bereits verrät, tatsächlich die Rolle eines Assistenten ein _(Hörner, 2019, 7–8).[^:lit:three]_
 
 ### 3.2 Wie funktionieren Sprachassistenten
-Verwendet werden Sprachassistenten häufig als App auf dem Smartphone (Siri, Google Assistant) oder als Lautsprecher in der Wohnung (Alexa Echo, Google Home, Apple HomePod). Neu sind diese auch bereits als fester Bestandteil der Haushaltsgeräte und Fahrzeuge zu finden. An dieser Stelle ist es wichtig anzumerken, dass der eigentliche Sprachassistent nicht der Lautsprecher, sondern die Software dahinter ist. Die Geräte (Smartphone, Lautsprecher) dienen lediglich als Schnittstelle zwischen Mensch und Rechenzentrum, welches die Software des Sprachassistenten beheimatet _(Hörner, 2019, 9–10).[^:lit:three]_
+Verwendet werden Sprachassistenten häufig als App auf dem Smartphone (Siri, Google Assistant) oder als Lautsprecher in der Wohnung (Alexa Echo, Google Home, Apple HomePod). Neu sind diese auch bereits als fester Bestandteil der Haushaltsgeräte und Fahrzeuge zu finden. An dieser Stelle ist es wichtig anzumerken, dass der eigentliche Sprachassistent nicht der Lautsprecher, sondern die Software dahinter ist. Die Geräte (Gehäuse wie Smartphone oder Lautsprecherbox) dienen lediglich als Schnittstelle zwischen Mensch und Rechenzentrum, welches die Software des Sprachassistenten beheimatet _(Hörner, 2019, 9–10).[^:lit:three]_
 
-Um zu Verstehen, wie Unternehmen Sprachassistenten in der Customer Journey nutzen können, werden in folgendem Kapitel zuerst die Bestandteile von Sprachassistenten und deren Funktionsweise beschrieben. Sprachassistenten bestehen grundsätzlich aus einem Gehäuse (Box oder Smartphone), der Software im Rechenzentrum, und aus einem Mikrofon und Lautsprecher um mit der Umgebung interagieren zu können. _(Hörner, 2019, 9–10).[^:lit:three]_
+Um zu verstehen, wie Unternehmen Sprachassistenten in der Customer Journey nutzen können, werden in folgendem Kapitel zuerst die Bestandteile von Sprachassistenten und deren Funktionsweise beschrieben. Die smarten Helfer bestehen grundsätzlich aus einem Gehäuse (Smartphone oder Lautsprecherbox), der Software im Rechenzentrum und Lautsprecher mit Mikrofon um mit der Umgebung interagiert zu können _(Hörner, 2019, 9–10).[^:lit:three]_
 
 #### 3.2.1 Das Mikrofon des Sprachassistenten
 Damit Sprachassistenten Befehle entgegennehmen können, benötigen sie Mikrofone. Die Geräte müssen jederzeit einsatzbereit sein und nehmen daher ihre Umgebung ständig auf, um Informationen zu verarbeiten. Wird ein festgelegtes Aktivierungswort bemerkt (z.B.: «Ok, Google»), wird die Hardware (Gehäuse), mit der Software im Rechenzentrum verbunden. Das permanente Zuhören mag zuerst ethisch fragwürdig erscheinen, allerdings deuten Anbieter und Anbieterinnen von Sprachassistenten darauf hin, keine Aufnahmen zu machen, solange kein Aktivierungswort registriert wurde [(Siehe auch: 6.2 Nachteile der Sprachassistenten in der Customer Journey aus Sicht der Kundinnen und Kunden)](#64-vorteile-der-sprachassistenten-in-der-customer-journey-aus-sicht-der-der-kundinnen-und-kunden) _(Hörner, 2019, 10).[^:lit:three]_
@@ -207,10 +207,10 @@ Vorname Nachname, [Titel der Seite](https://www.google.com/) (Abrufdatum: dd. 
 Vorname Nachname, Buchtitel, Auflage, Verlag, Erscheinungsort Jahr, erste Seite – letzte Seite.
 -->
 
-[^:lit:one]: Bret Kinsella, Ava Mutchler, Voicebot Consumer Adaption Report 2019, Voicebot.ai, USA 2019, [voicebot.ai](https://voicebot.ai/smart-speaker-consumer-adoption-report-2019/)
+[^:lit:one]: Bret Kinsella, Ava Mutchler, Voicebot Consumer Adaption Report 2019, Voicebot.ai, USA 2019, [voicebot.ai](https://web.archive.org/save/https://voicebot.ai/smart-speaker-consumer-adoption-report-2019/)
 [^:lit:two]: Philip Kotler, Gary Armstrong, Lloyd C. Harris, Grundlagen des Marketing, 7. Auflage, Pearson Studium, Vereinigtes Königreich 2019.
 [^:lit:three]: Thomas Hörner, Marketing mit Sprachassistenten, Springer Gabler, Deutschland 2019.
-[^:lit:four]: Marie Stafford, J. Walter Thompson, Speak Easy, JWT, London 2017. [jwtintelligence](https://www.jwtintelligence.com/trend-reports/speak-easy/)
+[^:lit:four]: Marie Stafford, J. Walter Thompson, Speak Easy, JWT, London 2017. [jwtintelligence](https://web.archive.org/save/https://www.jwtintelligence.com/trend-reports/speak-easy/)
 
 
 ## Literaturverzeichnis
@@ -226,15 +226,15 @@ reference-link-suffix: ''
 reference-text-suffix: ' – '
 ```
 
-[^:qu:one]: Samuel Held, [locationinsider](https://locationinsider.de/voice-commerce-wie-aus-alexa-google-assistant-siri-und-cortana-die-touchpoints-der-zukunft-werden/) (Abrufdatum: 09. 12. 2019)
+[^:qu:one]: Samuel Held, [locationinsider](https://web.archive.org/save/https://locationinsider.de/voice-commerce-wie-aus-alexa-google-assistant-siri-und-cortana-die-touchpoints-der-zukunft-werden/) (Abrufdatum: 09. 12. 2019)
 
-[^:qu:two]: Sherry Ruan, Jacob O. Wobbrock, Kenny Liou, Andrew Ng, James Landay, [stanford](https://hci.stanford.edu/research/speech/index.html) (Abrufdatum: 10. 12. 2019)
+[^:qu:two]: Sherry Ruan, Jacob O. Wobbrock, Kenny Liou, Andrew Ng, James Landay, [stanford](https://web.archive.org/save/https://hci.stanford.edu/research/speech/index.html) (Abrufdatum: 10. 12. 2019)
 
-[^:qu:three]: Zachary Duncan, [medium](https://medium.com/voice-tech-podcast/how-starbucks-can-utilize-voice-tech-why-your-business-should-too-b237f9840533) (Abrufdatum: 13. 12. 2019)
+[^:qu:three]: Zachary Duncan, [medium](https://web.archive.org/web/20200221092857/https://medium.com/voice-tech-podcast/how-starbucks-can-utilize-voice-tech-why-your-business-should-too-b237f9840533) (Abrufdatum: 13. 12. 2019)
 
-[^:qu:four]: MetaDesign, [MetaProfiler](https://metaprofiler.com/) (Abrufdatum: 12. 12. 2019)
+[^:qu:four]: MetaDesign, [MetaProfiler](https://web.archive.org/web/20200221092940/https://metaprofiler.com/) (Abrufdatum: 12. 12. 2019)
 
-[^:qu:five]: CNET News, [Youtube CNET-News](https://www.youtube.com/watch?v=3C6qVqwy5TA) (Abrufdatum: 08. 12. 2019)
+[^:qu:five]: CNET News, [Youtube CNET-News](https://web.archive.org/web/20200221093019/https://www.youtube.com/watch?v=3C6qVqwy5TA) (Abrufdatum: 08. 12. 2019)
 
 
 ## Quellenverzeichnis
@@ -250,15 +250,15 @@ reference-link-suffix: ''
 reference-text-suffix: ' – '
 ```
 
-[^:abb:one]: Abbildung erstellt von Nils Mäder, design library free for commercial or personal use by [Pablo Stanley](https://twitter.com/pablostanley), [humaaans](https://www.humaaans.com/)
+[^:abb:one]: Abbildung erstellt von Nils Mäder, design library free for commercial or personal use by [Pablo Stanley](https://twitter.com/pablostanley), [humaaans](https://web.archive.org/save/https://www.humaaans.com/)
 
 [^:abb:two]: Abbildung von Marie Stafford, J. Walter Thompson, Speak Easy, JWT, London 2017, 20–21.
 
-[^:abb:three]: Abbildung von Sherry Ruan, Jacob O. Wobbrock, Kenny Liou, Andrew Ng, James Landay, [stanford](https://hci.stanford.edu/research/speech/index.html) 
+[^:abb:three]: Abbildung von Sherry Ruan, Jacob O. Wobbrock, Kenny Liou, Andrew Ng, James Landay, [stanford](https://web.archive.org/web/20200221093157/https://hci.stanford.edu/research/speech/index.html) 
 
-[^:abb:five]: Abbildung erstellt von Nils Mäder, Grundlage der Grafik von [Thomas Groissberger](http://www.groissberger.at/phasen-des-kaufprozesses-nach-kotler/).
+[^:abb:five]: Abbildung erstellt von Nils Mäder, Grundlage der Grafik von [Thomas Groissberger](https://web.archive.org/web/20200221093235/http://www.groissberger.at/phasen-des-kaufprozesses-nach-kotler/).
 
-[^:abb:six]: Abbildung erstellt von Nils Mäder, design library free for commercial or personal use by [Pablo Stanley](https://twitter.com/pablostanley), [humaaans](https://www.humaaans.com/)
+[^:abb:six]: Abbildung erstellt von Nils Mäder, design library free for commercial or personal use by [Pablo Stanley](https://twitter.com/pablostanley), [humaaans](https://web.archive.org/save/https://www.humaaans.com/)
 
 ## Abbildungsverzeichnis
 ```references

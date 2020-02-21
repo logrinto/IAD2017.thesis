@@ -100,7 +100,8 @@ Personalisierung der Inhalte und Angebote werden von einigen Konsumenten auch al
 
 
 ### 2.8 Zusammenfassung der Theorie
-Nahezu jede unserer Bewegung im internet hinterlässt eine Daten-Spur welche mit Hilfe von diversen Trackingmethoden aufgezeichnet. Aufgrund der Individualität der generieren Daten können diese durch die Auswertungen geräteübergreifende einer Person zugewiesen werden.
+Nahezu jede unserer Bewegungen im Internet hinterlässt eine Daten-Spur, welche mit Hilfe von diversen Trackingmethoden aufgezeichnet wird. Aufgrund der Individualität der generierten Daten können die gesammelten Daten ausgewertet und geräteübergreifende einer Person zugewiesen werden.
+
 Durch die Analyse der gesammelten Daten haben Unternehmen von klein bis gross die Möglichkeit, ihre Kunden und deren Bedürfnisse besser zu verstehen. Durch den Einfluss dieser Daten lassen sich den entsprechenden Zielkunden spannende und relevante Angebote präsentieren, was zu einer Stärkung der Kundenbindung führt. Zudem erhöhen die Unternehmen mit Hilfe von Marketing-Tools, eine geschickte Positionierung ihrer Sichtbarkeit auf dem Markt und können zudem Ihre Kampagnen dynamisch steuern, testen und entsprechend anpassen. 
 
 Durch das spezifische Ansprechen der Zielgruppen lassen sich auch gezielt Bedürfnisse kreieren. In dieser Hinsicht der personalisierten Werbung stellt sich die ethische Frage: Wo liegt die Grenze zwischen Manipulation und Marketing? 
@@ -162,28 +163,28 @@ Das Ziel der Werbung war es schon immer, einen Einfluss auf die Betrachtenden zu
 Vorname Nachname, [Titel der Seite](https://www.google.com/) (Abrufdatum: dd. mm. yyyy).
 Vorname Nachname, Buchtitel, Auflage, Verlag, Erscheinungsort Jahr, erste Seite – letzte Seite.
 -->
-[^quote-one]: persoenlich.com, [persoenlich.ch](https://www.persoenlich.com/kategorie-werbung/online-ist-das-grosste-kuchenstuck) (24.12.2019)
+[^quote-one]: persoenlich.com, [persoenlich.ch](https://web.archive.org/web/20200221091736/https://www.persoenlich.com/kategorie-werbung/online-ist-das-grosste-kuchenstuck) (24.12.2019)
 [^quote-two]: Dominic Peisker & Matthias Fehr, 2016, s. 26 - 27, [Online Advertisement](https://eprints.hsr.ch/539/1/Online%20Advertising.pdf)
 [^quote-three]: Kahlenborn, Walter; Keppner, Benno; Uhle, Christian; Richter, Stephan; Jetzke, Tobias, Konsum 4.0: Wie Digitalisierung den Konsum verändert, 2019, s.36 - s.42 [Konsum 4.0: Wie Digitalisierung den Konsum verändert](https://www.umweltbundesamt.de/sites/default/files/medien/1410/publikationen/fachbroschuere_konsum_4.0_barrierefrei_190322.pdf)
 [^quote-four]: Simply Explained - Savjee, [How cookies can track you (Simply Explained)](https://www.youtube.com/watch?v=QWw7Wd2gUJk) (21.12.2019) 
-[^quote-five]: Margaret Rouse, [ComputerWeekly.de](https://www.computerweekly.com/de/definition/Super-Cookie) (10.1.2020)
+[^quote-five]: Margaret Rouse, [ComputerWeekly.de](hhttps://web.archive.org/web/20200221092510/https://www.computerweekly.com/de/definition/Super-Cookie) (10.1.2020)
 [^quote-six]: Emily Green, [NordVPN](https://nordvpn.com/de/blog/super-cookies-going-global/) (10.1.2020)
-[^quote-seven]: Geoffrey A. Fowler, [The Washington Post](https://www.washingtonpost.com/technology/2019/06/21/google-chrome-has-become-surveillance-software-its-time-switch/)(21.12.2019)
-[^quote-eight]: Siegfried Stepke, [e-dialog.ch / dmp](https://www.e-dialog.ch/blog/webanalyse/was-ist-eine-dmp-data-management-platform/?gclsrc=aw.ds&gclid=Cj0KCQiAxrbwBRCoARIsABEc9shhX7LsaXEGEVAN8lwWhR-fDldkIAiT-93rXkkmw2BV-EGHm_DrtQUaAi-dEALw_wcB)(02.01.2020)
-[^quote-nine]: Siegfried Stepke, [e-dialog.ch /targeting](https://www.e-dialog.ch/blog/display/das-online-targeting-kompendium-fuer-rtb/) (02.01.2020)
-[^quote-ten]: Google Support, [Behavioral targeting](https://support.google.com/displayvideo/answer/2879688?hl=en&ref_topic=6103769) (04.01.2020)
-[^quote-eleven]: Michael Surber, [Neue Zürcher Zeitung](https://www.nzz.ch/schweiz/eidgenoessische-wahlen-2019/cvp-kampagne-jetzt-provozieren-auch-mal-die-christlichdemokraten-ld.1509464)(22.12.2019)
-[^quote-twelve]: Fabian Schäfer, NZZ, 21.10.2019 [Neue Zürcher Zeitung](https://www.nzz.ch/schweiz/eidgenoessische-wahlen-2019/wahlen-2019-die-cvp-ist-die-heimliche-gewinnerin-der-wahl-ld.1516704)(22.12.2019)
-[^quote-thirteen]: Experience Index 2019 Digital Trends, 2019, s.17 [Experience Index, 2019 Digital Trends](https://www.adobe.com/content/dam/acom/uk/modal-offers/2019/DT-Report-2019/Econsultancy-2019-Digital-Trends_UK.pdf)
-[^quote-fourteen]: Experience Index 2019 Digital Trends, 2019, s.18 [Experience Index, 2019 Digital Trends](https://www.adobe.com/content/dam/acom/uk/modal-offers/2019/DT-Report-2019/Econsultancy-2019-Digital-Trends_UK.pdf)
+[^quote-seven]: Geoffrey A. Fowler, [The Washington Post](https://web.archive.org/save/https://www.washingtonpost.com/technology/2019/06/21/google-chrome-has-become-surveillance-software-its-time-switch/)(21.12.2019)
+[^quote-eight]: Siegfried Stepke, [e-dialog.ch / dmp](https://web.archive.org/web/20200221092801/https://www.e-dialog.ch/blog/webanalyse/was-ist-eine-dmp-data-management-platform/?gclsrc=aw.ds&gclid=Cj0KCQiAxrbwBRCoARIsABEc9shhX7LsaXEGEVAN8lwWhR-fDldkIAiT-93rXkkmw2BV-EGHm_DrtQUaAi-dEALw_wcB)(02.01.2020)
+[^quote-nine]: Siegfried Stepke, [e-dialog.ch /targeting](https://web.archive.org/web/20200221093140/https://www.e-dialog.ch/blog/display/das-online-targeting-kompendium-fuer-rtb/) (02.01.2020)
+[^quote-ten]: Google Support, [Behavioral targeting](https://web.archive.org/web/20200221093327/https://support.google.com/displayvideo/answer/2879688?hl=en&ref_topic=6103769) (04.01.2020)
+[^quote-eleven]: Michael Surber, [Neue Zürcher Zeitung](https://web.archive.org/web/20200221093649/https://www.nzz.ch/schweiz/eidgenoessische-wahlen-2019/cvp-kampagne-jetzt-provozieren-auch-mal-die-christlichdemokraten-ld.1509464)(22.12.2019)
+[^quote-twelve]: Fabian Schäfer, NZZ, 21.10.2019 [Neue Zürcher Zeitung](https://web.archive.org/web/20200221093830/https://www.nzz.ch/schweiz/eidgenoessische-wahlen-2019/wahlen-2019-die-cvp-ist-die-heimliche-gewinnerin-der-wahl-ld.1516704)(22.12.2019)
+[^quote-thirteen]: Experience Index 2019 Digital Trends, 2019, s.17 [Experience Index, 2019 Digital Trends](https://web.archive.org/web/20200221094029/https://www.adobe.com/content/dam/acom/uk/modal-offers/2019/DT-Report-2019/Econsultancy-2019-Digital-Trends_UK.pdf)
+[^quote-fourteen]: Experience Index 2019 Digital Trends, 2019, s.18 [Experience Index, 2019 Digital Trends](https://web.archive.org/web/20200221094029/https://www.adobe.com/content/dam/acom/uk/modal-offers/2019/DT-Report-2019/Econsultancy-2019-Digital-Trends_UK.pdf)
 [^quote-fifteen]: iabuk, [Google Display Network Targeting Methods - GDN Targeting Strategy and Options Explained](https://www.youtube.com/watch?v=efHVOWcNJZo) (03.01.2020)
 [^quote-sixteen]: Surfside PPC, [Guide to Digital Display Advertising](https://www.youtube.com/watch?v=_jiYeW6ceRo) (02.01.2020)
-[^quote-seventeen]: Siegfried Stepke, [e-dialog.ch, Was ist eigentlich programmatic marketing](https://www.e-dialog.ch/blog/display/was-ist-eigentlich-programmatic-marketing-und-programmatic-buying/) (02.01.2020)
-[^quote-eighteen]: Michael Surber, [Neue Zürcher Zeitung](https://www.nzz.ch/schweiz/cvp-online-kampagne-provoziert-heftige-reaktionen-ld.1509268) (23.12.2019)
-[^quote-nineteen]: Stephan Weber, [Schweizer Radio und Fernsehen](https://www.srf.ch/news/schweiz/wahlen-2019/cvp-wahlkampf-in-der-kritik-eine-solche-kampagne-ist-unschweizerisch) (23.12.2019)
+[^quote-seventeen]: Siegfried Stepke, [e-dialog.ch, Was ist eigentlich programmatic marketing](https://web.archive.org/web/20200221092927/https://www.e-dialog.ch/blog/display/was-ist-eigentlich-programmatic-marketing-und-programmatic-buying/) (02.01.2020)
+[^quote-eighteen]: Michael Surber, [Neue Zürcher Zeitung](https://web.archive.org/web/20200221093431/https://www.nzz.ch/schweiz/cvp-online-kampagne-provoziert-heftige-reaktionen-ld.1509268) (23.12.2019)
+[^quote-nineteen]: Stephan Weber, [Schweizer Radio und Fernsehen](https://web.archive.org/web/20200221093602/https://www.srf.ch/news/schweiz/wahlen-2019/cvp-wahlkampf-in-der-kritik-eine-solche-kampagne-ist-unschweizerisch) (23.12.2019)
 
 <!-- references figures-->
-[^:fig:one]: Abb. 1: Online Werbung in der Schweiz im Vergleich mit Klassischer Werbung von [persoenlich.com](https://www.persoenlich.com/kategorie-werbung/online-ist-das-grosste-kuchenstuck)
+[^:fig:one]: Abb. 1: Online Werbung in der Schweiz im Vergleich mit Klassischer Werbung von [persoenlich.com](https://web.archive.org/web/20200221091736/https://www.persoenlich.com/kategorie-werbung/online-ist-das-grosste-kuchenstuck)
 [^:fig:two]: Abb. 1: Online Werbung Distributionsnetzwerk, eigene Abbildung basierend auf: [Guide to Digital Display Advertising](https://www.youtube.com/watch?v=efHVOWcNJZo)
 [^:fig:three]: Abb. 2: Matthias Erni auf [Twitter](https://twitter.com/matthias_erni/status/1173838188558848001)
 
@@ -227,6 +228,7 @@ Matthias Koch <br/>
 HFIAD 2017 <br/>
 Schule für Gestaltung Zürich<br/>
 [hello@matthiasko.ch](mailto:hello@matthiasko.ch)
+
 </Column>
 
 </Grid>

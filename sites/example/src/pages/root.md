@@ -18,11 +18,8 @@ path: "root"
 
 ## Dokumentation
 
-* [Beispiel · Stefan Huber](/posts/2020/example/)
-
-
 * [Pascale Anderegg](/posts/2020/pascale/)
-<!-- * [Marius Becker](/posts/2020/marius/) -->
+* [Marius Becker](/posts/2020/marius/)
 * [Stephanie Fuchs](/posts/2020/steffi/)
 * [Marc Hatt](/posts/2020/marc/)
 * [Severin Kilchhofer](/posts/2020/severin/)

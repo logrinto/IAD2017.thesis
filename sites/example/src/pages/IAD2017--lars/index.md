@@ -40,7 +40,7 @@ to-heading: 3
 
 ## Einleitung
 
-2019 meldete das [Bundesamt für Gesundheit (BAG)](https://www.bag.admin.ch/bag/de/home.html) mithilfe des schweizweiten [Sentinella-Meldesystem](https://www.bag.admin.ch/bag/de/home/krankheiten/infektionskrankheiten-bekaempfen/meldesysteme-infektionskrankheiten/sentinella-meldesystem.html), dass die Grippe jedes Jahr zu 112&#x202F;000 bis 275&#x202F;000&nbsp;Arztkonsultationen in der Schweiz führte. Dies entspricht ungefähr drei Prozent der Gesamtbevölkerung der Schweiz.[^:qu:bag] 
+2019 meldete das [Bundesamt für Gesundheit (BAG)](https://web.archive.org/web/20200221093432/https://www.bag.admin.ch/bag/de/home.html) mithilfe des schweizweiten [Sentinella-Meldesystem](https://web.archive.org/web/20200221093355/https://www.bag.admin.ch/bag/de/home/krankheiten/infektionskrankheiten-bekaempfen/meldesysteme-infektionskrankheiten/sentinella-meldesystem.html), dass die Grippe jedes Jahr zu 112&#x202F;000 bis 275&#x202F;000&nbsp;Arztkonsultationen in der Schweiz führte. Dies entspricht ungefähr drei Prozent der Gesamtbevölkerung der Schweiz.[^:qu:bag] 
 
 Wahrscheinlich sind Symptome wie Husten, Gliederschmerzen sowie erhöhte Temperatur den meisten bekannt und für gewöhnlich weisen diese auf eine einfache Erkältung hin. Dabei ist die Wahrscheinlichkeit gross eine Erkältung mit einer Grippe zu verwechseln&nbsp;– oder umgekehrt. Besonders für nicht medizinisch ausgebildete Personen ist die richtige Zuordnung von Symptomen zu einer vorhandenen Krankheit kaum ohne Hilfe zu bewerkstelligen. Es ist daher keineswegs verwerflich, dass erkrankte Menschen auf Nummer sicher gehen wollen und einen Arzt oder eine Ärztin aufsuchen möchten. Bereits bekannte Alternativen wie das Hausarzt- oder das Telmed-Modell versuchen hier Entlastung zu schaffen, indem bereits vor Konsultation in einer Praxis versucht wird einfache Krankheiten oder Bagatellfälle abzufangen. Eine in diesem Gebiet noch eher unbekannte Anwendung öffnet möglicherweise mit fortgeschrittener Technik neue Türen&nbsp;– der Einsatz von Sprachassistenten und mithilfe von Künstlicher Intelligenz könnte neue Chancen mit sich bringen.
 
@@ -203,7 +203,7 @@ Sobald der «Health Navigator»-Skill gestartet wird, werden mehrere Fragen zu A
 
 ### Anwendungsbeispiel (User Journey)
 
-Aus dem [Demonstrationsvideo](https://www.healthnavigator.com/demo-videos/Health+Navigator+Alexa+Skill+Video.mp4) von Health Navigator ist folgender Dialog ersichtlich, welcher zwischen Mike und Alexa entstand. Sobald Mike per Sprachbefehl Alexa auffordert den «Health Navigator»-Skill zu starten, beginnt die Diagnose (Health Navigator, 2018):[^:qu:hn]
+Aus dem [Demonstrationsvideo](https://web.archive.org/web/20200221093523/https://www.healthnavigator.com/demo-videos/Health+Navigator+Alexa+Skill+Video.mp4) von Health Navigator ist folgender Dialog ersichtlich, welcher zwischen Mike und Alexa entstand. Sobald Mike per Sprachbefehl Alexa auffordert den «Health Navigator»-Skill zu starten, beginnt die Diagnose (Health Navigator, 2018):[^:qu:hn]
 
 
 #### Dauer des gesamten Gesprächs:
@@ -277,7 +277,7 @@ Verglichen mit dem Modell von Bird und Cohen-Cole liegt der Fokus vor allem auf 
 
 ## Diskussion
 
-Durchaus lässt das Gesundheitssystem in der Schweiz bereits zu, dass in Krankheitsfällen eine entsprechende Fachperson 24 Stunden am Tag, 7 Tage die Woche konsultiert werden kann&nbsp;– jedoch sind solche Anlaufstellen für Notfallsituationen geschaffen. Für einfache Krankheiten oder Bagatellfällen ist der eigene Hausarzt oder die eigene Hausärztin die beste Anlaufstelle. Meist ist die Praxis an fixe Öffnungszeiten gebunden und z.&#x202F;B.&nbsp;an Feiertagen nicht geöffnet. Hier können PatientInnen von den durchgehenden «Öffnungszeiten» eines Sprachassistenten profitieren und ihre Symptome auch in solchen Situationen überprüfen lassen, ob ein Notfall besteht oder um welche Krankheit es sich handelt. 
+Durchaus lässt das Gesundheitssystem in der Schweiz bereits zu, dass in Krankheitsfällen eine entsprechende Fachperson 24 Stunden am Tag, 7 Tage die Woche konsultiert werden kann&nbsp;– jedoch sind solche Anlaufstellen für Notfallsituationen geschaffen. Für einfache Krankheiten oder Bagatellfällen ist der eigene Hausarzt oder die eigene Hausärztin die beste Anlaufstelle. Meist ist die Praxis an fixe Öffnungszeiten gebunden und z.&#x202F;B.&nbsp;an Feiertagen nicht geöffnet. Hier können PatientInnen von den durchgehenden «Öffnungszeiten» eines Sprachassistenten profitieren und ihre Symptome auch in solchen Situationen überprüfen lassen.
 
 Auch im Internet gibt es unzählige Möglichkeiten und Webseiten um nach Symptomen zu suchen. Dies bringt auch eine gewisse Gefahr mit sich, da die Quellen nicht immer *vertrauenswürdig* sind oder gewisse Abhängigkeiten von Symptomen auf den ersten Blick nicht erkenntlich sind und so schnell Fehlinformationen durch unseriöse Webseiten übermittelt werden können. Die Wahrscheinlichkeit ist gross, dass durch Google einen Tumor diagnostiziert wird, obwohl es sich nur um starke Kopfschmerzen handelt (Lobe, 2016).[^:qu:lobe]
 
@@ -297,7 +297,7 @@ Ellen Foley K. und Zhou Y. beschrieben dazu folgendes Szenario, welches diese Pr
 
 ## Fazit
 
-Rückblickend auf die Arbeit, sind hier die wichtigsten Erkenntnisse und Punkte nochmals zusammengefasst. Mit dem Aspekt auf die technische Funktionsweise der Sprachassistenten kann nun gesagt werden, dass es zwei verschiedene Arten gibt, wie wir Sprachassistenten ansprechen können: die «direkte Suche» und die «indirekte Suche» mittels Voice-App. Zum einen kann über ihre bereits eingebaute Suchfunktion Informationen abgerufen werden, diese Suche beschränkt sich möglicherweise auf Informationen von Google, Wikipedia oder auf jede mögliche Internetseite oder Datenbank die Alexa als sinnvoll betrachtet. Zum anderen lassen sich Sprachassistenten durch sogenannte Voice-Apps erweitern, um so eine Suche in Datenbanken von DrittanbieterInnen zu starten. Dank dieser Erweiterung durch Voice-Apps, öffnen sich neue Türen und Einsatzgebiete für Sprachassistenten.
+Rückblickend auf die Arbeit, sind hier die wichtigsten Erkenntnisse und Punkte nochmals zusammengefasst. Mit dem Aspekt auf die technische Funktionsweise der Sprachassistenten kann nun gesagt werden, dass es zwei verschiedene Arten gibt, wie wir Sprachassistenten ansprechen können: die «direkte Suche» und die «indirekte Suche mittels Voice-App». Zum einen kann über ihre bereits eingebaute Suchfunktion Informationen abgerufen werden, diese Suche beschränkt sich möglicherweise auf Informationen von Google, Wikipedia oder auf jede mögliche Internetseite oder Datenbank die Alexa als sinnvoll betrachtet. Zum anderen lassen sich Sprachassistenten durch sogenannte Voice-Apps erweitern, um so eine Suche in Datenbanken von DrittanbieterInnen zu starten. Dank dieser Erweiterung durch Voice-Apps, öffnen sich neue Türen und Einsatzgebiete für Sprachassistenten.
 
 ### GYANT
 
@@ -333,16 +333,16 @@ reference-text-suffix: ' – '
 
 ## Quellenverzeichnis
 
-[^:qu:dhsc]: Department of Health and Social Care. (10. Juli 2019). *NHS health information available through Amazon's Alexa*. Abgerufen am 17. Dezember 2019, von [gov.uk](https://www.gov.uk/government/news/nhs-health-information-available-through-amazon-s-alexa)
-[^:qu:tabor]: Tabor B. (8. August 2018). *Health Navigator and Macadamian Bring Easy-access Health Triage to Consumers With New Alexa Skill*. Abgerufen am 23. Dezember 2019, von [prweb.com](https://www.prweb.com/releases/health_navigator_and_macadamian_bring_easy_access_health_triage_to_consumers_with_new_alexa_skill/prweb15677711.htm)
-[^:qu:hn]: Health Navigator (2018). *Macadamian – Alexa Skill*. Abgerufen am 23. Dezember 2019, von [healthnavigator.com](https://www.healthnavigator.com/index.html@p=7565.html)
-[^:qu:bag]: BAG 30. Oktober 2019). *Saisonale Grippe (Influenza)*. Abgerufen am 25. Dezember 2019, von [bag.admin.ch](https://www.bag.admin.ch/bag/de/home/krankheiten/krankheiten-im-ueberblick/grippe.html)
-[^:qu:qz]: Ellen Foley K. und Zhou Y. (12. Juli 2018). *Alexa is a terrible doctor*. Abgerufen am 26. Dezember 2019, von [qz.com](https://qz.com/1323940/alexa-is-a-terrible-doctor/)
-[^:qu:qz-tian]: Ellen Foley K. und Zhou Y. (12. Juli 2018). *Alexa is a terrible doctor*. Abgerufen am 26. Dezember 2019, von [qz.com](https://qz.com/1323940/alexa-is-a-terrible-doctor/) [Übersetzung des Verfassers]
-[^:qu:qz-ellen]: Ellen Foley K. und Zhou Y. (12. Juli 2018). *Alexa is a terrible doctor*. Abgerufen am 26. Dezember 2019, von [qz.com](https://qz.com/1323940/alexa-is-a-terrible-doctor/) [Übersetzung des Verfassers]
-[^:qu:agyant]: Amazon GYANT (2019). *Alexa Skill GYANT*. Abgerufen am 02. Januar 2020, von [amazon.com](https://www.amazon.com/GYANT/dp/B071GRTWV9)
+[^:qu:dhsc]: Department of Health and Social Care. (10. Juli 2019). *NHS health information available through Amazon's Alexa*. Abgerufen am 17. Dezember 2019, von [gov.uk](https://web.archive.org/web/20200221092626/https://www.gov.uk/government/news/nhs-health-information-available-through-amazon-s-alexa)
+[^:qu:tabor]: Tabor B. (8. August 2018). *Health Navigator and Macadamian Bring Easy-access Health Triage to Consumers With New Alexa Skill*. Abgerufen am 23. Dezember 2019, von [prweb.com](https://web.archive.org/web/20200221092717/https://www.prweb.com/releases/health_navigator_and_macadamian_bring_easy_access_health_triage_to_consumers_with_new_alexa_skill/prweb15677711.htm)
+[^:qu:hn]: Health Navigator (2018). *Macadamian – Alexa Skill*. Abgerufen am 23. Dezember 2019, von [healthnavigator.com](https://web.archive.org/web/20200221092812/https://www.healthnavigator.com/index.html@p=7565.html)
+[^:qu:bag]: BAG 30. Oktober 2019). *Saisonale Grippe (Influenza)*. Abgerufen am 25. Dezember 2019, von [bag.admin.ch](https://web.archive.org/web/20200221092502/https://www.bag.admin.ch/bag/de/home/krankheiten/krankheiten-im-ueberblick/grippe.html)
+[^:qu:qz]: Ellen Foley K. und Zhou Y. (12. Juli 2018). *Alexa is a terrible doctor*. Abgerufen am 26. Dezember 2019, von [qz.com](https://web.archive.org/web/20200221092914/https://qz.com/1323940/alexa-is-a-terrible-doctor/)
+[^:qu:qz-tian]: Ellen Foley K. und Zhou Y. (12. Juli 2018). *Alexa is a terrible doctor*. Abgerufen am 26. Dezember 2019, von [qz.com](https://web.archive.org/web/20200221092914/https://qz.com/1323940/alexa-is-a-terrible-doctor/) [Übersetzung des Verfassers]
+[^:qu:qz-ellen]: Ellen Foley K. und Zhou Y. (12. Juli 2018). *Alexa is a terrible doctor*. Abgerufen am 26. Dezember 2019, von [qz.com](https://web.archive.org/web/20200221092914/https://qz.com/1323940/alexa-is-a-terrible-doctor/) [Übersetzung des Verfassers]
+[^:qu:agyant]: Amazon GYANT (2019). *Alexa Skill GYANT*. Abgerufen am 02. Januar 2020, von [amazon.com](https://web.archive.org/web/20200221093102/https://www.amazon.com/GYANT/dp/B071GRTWV9)
 [^:qu:medcity]: MEDCITY NEWS (3. Juni 2019). *MedCitizen Founders’ story: GYANT*. Abgerufen am 02. Januar 2020, von [medcitynews.com](https://medcitynews.com/2019/06/medcitizen-founders-story-gyant/?rf=1)
-[^:qu:lobe]: Lobe A. (30. November 2016). *Google ist ein schlechter Arzt: Suche nach Symptomen kann Krankheit fördern*. Abgerufen am 02. Januar 2020, von [aargauerzeitung.ch](https://www.aargauerzeitung.ch/leben/gesundheit/google-ist-ein-schlechter-arzt-suche-nach-symptomen-kann-krankheit-foerdern-130755301)
+[^:qu:lobe]: Lobe A. (30. November 2016). *Google ist ein schlechter Arzt: Suche nach Symptomen kann Krankheit fördern*. Abgerufen am 02. Januar 2020, von [aargauerzeitung.ch](https://web.archive.org/web/20200221093203/https://www.aargauerzeitung.ch/leben/gesundheit/google-ist-ein-schlechter-arzt-suche-nach-symptomen-kann-krankheit-foerdern-130755301)
 
 ```references
 group-include: qu
@@ -355,8 +355,8 @@ reference-text-suffix: ' – '
 ## Abbildungsverzeichnis
 
 [^:abb:img-1]: Grafik: Ava Mutchler, Voicebot.ai aus: Kinsella B. (2019). *Voice assistant consumer adoption in healthcare*. Vereinigte Staaten von Amerika: Voicebot.ai und Orbita; S.&#x202F;12.
-[^:abb:img-2]: Inhalt der Grafik aus: Ellen Foley K. und Zhou Y. (12. Juli 2018). *Alexa is a terrible doctor*. Abgerufen am 26. Dezember 2019, von [qz.com](https://qz.com/1323940/alexa-is-a-terrible-doctor/); Visualisierung durch: Lars Mäder
-[^:abb:img-3]: Inhalt der Grafik aus: Health Navigator (2018). *Macadamian – Alexa Skill*. Abgerufen am 23. Dezember 2019, von [healthnavigator.com](https://www.healthnavigator.com/index.html@p=7565.html); Visualisierung durch: Lars Mäder
+[^:abb:img-2]: Inhalt der Grafik aus: Ellen Foley K. und Zhou Y. (12. Juli 2018). *Alexa is a terrible doctor*. Abgerufen am 26. Dezember 2019, von [qz.com](https://web.archive.org/web/20200221092914/https://qz.com/1323940/alexa-is-a-terrible-doctor/); Visualisierung durch: Lars Mäder
+[^:abb:img-3]: Inhalt der Grafik aus: Health Navigator (2018). *Macadamian – Alexa Skill*. Abgerufen am 23. Dezember 2019, von [healthnavigator.com](https://web.archive.org/web/20200221093258/https://www.healthnavigator.com/index.html@p=7565.html); Visualisierung durch: Lars Mäder
 
 
 ```references

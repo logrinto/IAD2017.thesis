@@ -46,7 +46,7 @@ An dieser Stelle möchte ich mich ganz herzlich bei allen Personen die mich bei 
 
 Ein spezielles Danke gilt meinem Mentor Prof.&#x202F;Alex Hanimann für seine Zeit, Unterstützung und wertvollen Inputs.
 
-Im Weiteren möchte ich mich bei meinem Lektor Johannes Bühler und allen Teilnehmern der in diesem Rahmen durchgeführten Umfrage bedanken.
+Im Weiteren möchte ich mich bei meinem Lektor Johannes Bühler, Matthias Lienhop von EventClearing, sowie allen Teilnehmerinnen und Teilnehmern der in diesem Rahmen durchgeführten Umfrage bedanken.
 
 Herzlichen Dank!
 
