@@ -253,7 +253,7 @@ Die noch grösste Herausforderung der Selbstvermessung ist die Sicherheit der pe
 
 
 ## 6 Anhang
-[Interviews] (https://docs.google.com/document/d/1WQcsmXxIq2ApZrD_ayiFqXb_aud-nX8jMD3Fks30n8Y/edit?usp=sharing)
+[Interviews] (https://web.archive.org/web/20200221092257/https://docs.google.com/document/d/1WQcsmXxIq2ApZrD_ayiFqXb_aud-nX8jMD3Fks30n8Y/edit)
 
 ### Endnoten
 ```references
@@ -270,25 +270,25 @@ Die noch grösste Herausforderung der Selbstvermessung ist die Sicherheit der pe
 
 ### Quellenverzeichnis
 
-* [Wikipedia, Quantified Self] (https://de.wikipedia.org/wiki/Quantified_Self)
+* [Wikipedia, Quantified Self] (https://web.archive.org/web/20200221092351/https://de.wikipedia.org/wiki/Quantified_Self)
 (zuletzt besucht am 6.&#x202F;Januar 2020)
 
-* [Wikipedia, Tagebuch] (https://de.wikipedia.org/wiki/Tagebuch)
+* [Wikipedia, Tagebuch] (https://web.archive.org/web/20200221092429/https://de.wikipedia.org/wiki/Tagebuch)
 (zuletzt besucht am 2.&#x202F;Januar 2020)
 
-* [Wikipedia, Spiegel] (https://de.m.wikipedia.org/wiki/Spiegel)
+* [Wikipedia, Spiegel] (https://web.archive.org/web/20200221092451/https://de.m.wikipedia.org/wiki/Spiegel)
 (zuletzt besucht am 2.&#x202F;Januar 2020)
 
-* [Almaki M., Gray K., Martin-Sanchez F., The use of self-quantification systems for personal health information: Big data management activities and prospects (2015)] (https://www.researchgate.net/publication/277409696_The_use_of_self-quantification_systems_for_personal_health_information_Big_data_management_activities_and_prospects) (zuletzt besucht am 28.&#x202F;Dezember 2019)
-* [Wolf G., Unser vermessener Körper [Video] (2010)] (https://www.ted.com/talks/gary_wolf_the_quantified_self?language=de#t-253181) (zuletzt besucht am 19.&#x202F;Dezember 2019)
-* [Liewehr D., Die Selbstvermessung der Welt (n.&#x202F;D.)] (https://wp.uni-passau.de/werte/die-selbstvermessung-der-welt/) (zuletzt besucht am 22.&#x202F;Dezember 2019)
-* [Kenton W., Quantified Self (2018)] (https://www.investopedia.com/terms/q/quantified-self.asp) (zuletzt besucht am 2.&#x202F;Januar 2020)
-* [o.&#x202F;V.: Eine kurze Geschichte des Wiegens (n.&#x202F;D.)] (https://de.secashop.com/stories/story/eine-kurze-geschichte-des-wiegens) (zuletzt besucht am 5.&#x202F;Januar 2020)
-* [Prof.&#x202F;Dr.&#x202F; Bendel O., Definition Big Data (n.&#x202F;D.)] (https://wirtschaftslexikon.gabler.de/definition/big-data-54101) (zuletzt besucht am 28.&#x202F;Dezember 2019)
-* [Grimm P., Internet der Dinge (2016)] (http://www.bpb.de/gesellschaft/medien-und-sport/medienpolitik/236524/internet-der-dinge?p=all) (zuletzt besucht am 28.&#x202F;Dezember 2019)
-* [Strauss K., Wearables und Fitness-Apps – Spione im Kleinformat (2019)] (https://www.datenschutzexperte.de/blog/datenschutz-im-alltag/wearables-und-fitness-apps-datenschutzrisiko/) (zuletzt besucht am 30.&#x202F;Dezember 2019)
-* [Walter J., Die digitale Entblössung – von den Risiken der Selbstvermessung des eigenen Körpers (2016)] (https://dievolkswirtschaft.ch/de/2016/03/walter-04-2016/) (zuletzt besucht am 8.&#x202F;Januar 2020)
-* [o.&#x202F;V.: Verkauf von Fitness-Tracker (2018)] (https://www.onlinepc.ch/hardware/smart-wearables/2018-172-millionen-wearables-verkauft-1696771.html) (zuletzt besucht am 5.&#x202F;Januar 2020)
+* [Almaki M., Gray K., Martin-Sanchez F., The use of self-quantification systems for personal health information: Big data management activities and prospects (2015)] (https://web.archive.org/web/20200221092524/https://www.researchgate.net/publication/277409696_The_use_of_self-quantification_systems_for_personal_health_information_Big_data_management_activities_and_prospects) (zuletzt besucht am 28.&#x202F;Dezember 2019)
+* [Wolf G., Unser vermessener Körper [Video] (2010)] (https://web.archive.org/web/20200221092557/https://www.ted.com/talks/gary_wolf_the_quantified_self?language=de) (zuletzt besucht am 19.&#x202F;Dezember 2019)
+* [Liewehr D., Die Selbstvermessung der Welt (n.&#x202F;D.)] (https://web.archive.org/web/20200221092627/https://wp.uni-passau.de/werte/die-selbstvermessung-der-welt/) (zuletzt besucht am 22.&#x202F;Dezember 2019)
+* [Kenton W., Quantified Self (2018)] (https://web.archive.org/web/20200221092719/https://www.investopedia.com/terms/q/quantified-self.asp) (zuletzt besucht am 2.&#x202F;Januar 2020)
+* [o.&#x202F;V.: Eine kurze Geschichte des Wiegens (n.&#x202F;D.)] (https://web.archive.org/web/20200221092841/https://de.secashop.com/stories/story/eine-kurze-geschichte-des-wiegens) (zuletzt besucht am 5.&#x202F;Januar 2020)
+* [Prof.&#x202F;Dr.&#x202F; Bendel O., Definition Big Data (n.&#x202F;D.)] (https://web.archive.org/web/20200221092912/https://wirtschaftslexikon.gabler.de/definition/big-data-54101) (zuletzt besucht am 28.&#x202F;Dezember 2019)
+* [Grimm P., Internet der Dinge (2016)] (https://web.archive.org/web/20200221092938/https://www.bpb.de/gesellschaft/medien-und-sport/medienpolitik/236524/internet-der-dinge?p=all) (zuletzt besucht am 28.&#x202F;Dezember 2019)
+* [Strauss K., Wearables und Fitness-Apps – Spione im Kleinformat (2019)] (https://web.archive.org/web/20200221093019/https://www.datenschutzexperte.de/blog/datenschutz-im-alltag/wearables-und-fitness-apps-datenschutzrisiko/) (zuletzt besucht am 30.&#x202F;Dezember 2019)
+* [Walter J., Die digitale Entblössung – von den Risiken der Selbstvermessung des eigenen Körpers (2016)] (https://web.archive.org/web/20200221093108/https://dievolkswirtschaft.ch/de/2016/03/walter-04-2016/) (zuletzt besucht am 8.&#x202F;Januar 2020)
+* [o.&#x202F;V.: Verkauf von Fitness-Tracker (2018)] (https://web.archive.org/web/20200221093142/https://www.onlinepc.ch/hardware/smart-wearables/2018-172-millionen-wearables-verkauft-1696771.html) (zuletzt besucht am 5.&#x202F;Januar 2020)
 
 
 
