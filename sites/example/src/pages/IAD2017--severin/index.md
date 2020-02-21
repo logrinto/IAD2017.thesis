@@ -273,13 +273,13 @@ reference-text-suffix: ' – '
 
 
 ## Quellenverzeichnis
-[^:qv:marsden_2009]: Marsden, P. (2009). [_The 6 Dimensions of Social Commerce: Rated and Reviewed_](https://digitalwellbeing.org/the-6-dimensions-of-social-commerce-rated-and-reviewed), Abgerufen am 03. Januar 2020.
-[^:qv:crunchbase_2009]: Crunchbase (2009). [_1-800-FLOWERS.COM Sets Up Shop Inside Facebook_](https://techcrunch.com/2009/07/29/1-800-flowerscom-sets-up-shop-inside-facebook/), Abgerufen am 23. November 2019.
-[^:qv:hofer_2019]: Hofer, K. (2019). [_Kaufprozess_](hhttps://www.advidera.com/glossar/kaufprozess/), Abgerufen am 15. Dezember 2019.
-[^:qv:dover_2019]: Dover, L (2019). [_Instagram Shopping_](https://de-de.facebook.com/business/instagram/shopping), Abgerufen am 03. Januar 2020.
-[^:qv:instagram_2019]: Instagram. (2019). [_Instagram Checkout_](https://instagram-press.com/blog/2019/03/19/instagram-checkout/), Abgerufen am 15. November 2019.
-[^:qv:wechat-nyt]: New York Times, (2016). [_How China Is Changing Your Internet_](https://www.nytimes.com/video/technology/100000004574648/china-internet-wechat.html), Abgerufen am 05. Dezember 2019.
-[^:qv:topdigitalagency_2019]: Topdigitalagency, (2019). [_WeChat Mini Programs: The Complete Guide for Business_](https://topdigital.agency/wechat-mini-programs-the-complete-guide-for-business/), Abgerufen am 02. Januar 2020.
+[^:qv:marsden_2009]: Marsden, P. (2009). [_The 6 Dimensions of Social Commerce: Rated and Reviewed_](https://web.archive.org/web/20200221091712/https://digitalwellbeing.org/the-6-dimensions-of-social-commerce-rated-and-reviewed/), Abgerufen am 03. Januar 2020.
+[^:qv:crunchbase_2009]: Crunchbase (2009). [_1-800-FLOWERS.COM Sets Up Shop Inside Facebook_](https://web.archive.org/web/20200221092013/https://techcrunch.com/2009/07/29/1-800-flowerscom-sets-up-shop-inside-facebook/?guccounter=1), Abgerufen am 23. November 2019.
+[^:qv:hofer_2019]: Hofer, K. (2019). [_Kaufprozess_](https://web.archive.org/web/20200221092122/https://www.advidera.com/glossar/kaufprozess/), Abgerufen am 15. Dezember 2019.
+[^:qv:dover_2019]: Dover, L (2019). [_Instagram Shopping_](https://web.archive.org/web/20200221092148/https://de-de.facebook.com/business/instagram/shopping), Abgerufen am 03. Januar 2020.
+[^:qv:instagram_2019]: Instagram. (2019). [_Instagram Checkout_](https://web.archive.org/web/20200221092510/https://about.instagram.com/blog/announcements/introducing-instagram-checkout), Abgerufen am 15. November 2019.
+[^:qv:wechat-nyt]: New York Times, (2016). [_How China Is Changing Your Internet_](https://web.archive.org/web/20200221092558/https://www.nytimes.com/video/technology/100000004574648/china-internet-wechat.html), Abgerufen am 05. Dezember 2019.
+[^:qv:topdigitalagency_2019]: Topdigitalagency, (2019). [_WeChat Mini Programs: The Complete Guide for Business_](https://web.archive.org/web/20200221092632/https://topdigital.agency/wechat-mini-programs-the-complete-guide-for-business/), Abgerufen am 02. Januar 2020.
 
 ```references
 group-include: qv
@@ -294,21 +294,21 @@ reference-text-suffix: ' – '
 
 
 ## Abbildungsverzeichnis
-[^:av:phasen_kaufprozess]: Abbildung erstellt von Severin Kilchhofer, Grundlage der Grafik von Groissberger.at. [_Phasen des Kaufprozess nach Kotler_](http://www.groissberger.at/phasen-des-kaufprozesses-nach-kotler/), Abgerufen am 02. Januar 2020.
-[^:av:profile_on-running]: Instagram, (2019). [_on-running Profilseite_](https://www.instagram.com/on_running), Abgerufen am 25. Dezember 2019.
-[^:av:on-running_post_moutain]: Instagram, (2019). [_on-running On Moutain Hut_](https://www.instagram.com/p/B4NgDZ5B8aw/?igshid=n4gb7m6lwvoo), Abgerufen am 25. Dezember 2019.
-[^:av:on-running_post_shoe]: Instagram, (2019). [_on-running Cloud Hi Edge_](https://www.instagram.com/tv/B3w3u5kB6QB/?igshid=1bku54zz2ayub), Abgerufen am 25. Dezember 2019.
-[^:av:on-running_kaufprozess_1]: Instagram Post, (2019). [_on-running On Products_](https://www.instagram.com/p/B5DdcD1hevi/?igshid=m6jkqlhrghu4) Abgerufen am 25. Dezember 2019.
-[^:av:on-running_kaufprozess_2]: Instagram Post, (2019). [_on-running In this photo_](https://www.instagram.com/p/B5DdcD1hevi/?igshid=m6jkqlhrghu4) Abgerufen am 25. Dezember 2019.
-[^:av:on-running_kaufprozess_3]: Instagram Post, (2019). [_on-running On View on Website_](https://www.instagram.com/p/B5DdcD1hevi/?igshid=m6jkqlhrghu4) Abgerufen am 25. Dezember 2019.
-[^:av:on-running_kaufprozess_4]: on-running.com, (2019). [_on-running Cloud Slate | Rock_](https://www.on-running.com/de-ch/products/cloud) Abgerufen am 25. Dezember 2019.
-[^:av:on-running_kaufprozess_5]: on-running.com, (2019). [_on-running Add to cart_](https://www.on-running.com/de-ch/products/cloud) Abgerufen am 25. Dezember 2019.
-[^:av:on-running_kaufprozess_6]: on-running.com, (2019). [_on-running Checkout_](https://www.on-running.com/de-ch/products/cloud) Abgerufen am 25. Dezember 2019.
-[^:av:instagram_checkout]: Instagram, (2019). [_Instagram Checkout_](https://instagram-press.com/blog/2019/03/19/instagram-checkout/), Abgerufen am 15. November 2019.
-[^:av:geschaefts-und_mitarbeiterentwicklung_alibaba]: Wikipedia, (2019). [_Geschäfts- und Mitarbeiterentwicklung_](https://de.wikipedia.org/wiki/Alibaba_Group), Abgerufen am 27. Dezember 2019.
-[^:av:wechat-mini-programs]: digilinkasia.com, (2019), [_WeChat New Feature -- 好物圈_](http://www.digilinkasia.com/?route=wechat-new-feature), Abgerufen am 02. Januar 2020.
-[^:av:wechat-giesswein-vergleich]: walkthechat.com, (2019), [_What is a WeChat Shop?_](https://walkthechat.com/wechat-shops/), Abgerufen am 02. Januar 2020.
-[^:av:wechat-good-product-circle]: walkthechat.com, (2019), [_WeChat released new “recommended products” e-commerce function_](https://walkthechat.com/wechat-released-new-recommended-products-e-commerce-function/), Abgerufen am 02. Januar 2020.
+[^:av:phasen_kaufprozess]: Abbildung erstellt von Severin Kilchhofer, Grundlage der Grafik von Groissberger.at. [_Phasen des Kaufprozess nach Kotler_](https://web.archive.org/web/20200221092706/http://www.groissberger.at/phasen-des-kaufprozesses-nach-kotler/), Abgerufen am 02. Januar 2020.
+[^:av:profile_on-running]: Instagram, (2019). [_on-running Profilseite_](https://web.archive.org/web/20200221092730/https://www.instagram.com/on_running/), Abgerufen am 25. Dezember 2019.
+[^:av:on-running_post_moutain]: Instagram, (2019). [_on-running On Moutain Hut_](https://web.archive.org/web/20200221092811/https://www.instagram.com/p/B4NgDZ5B8aw/?igshid=n4gb7m6lwvoo), Abgerufen am 25. Dezember 2019.
+[^:av:on-running_post_shoe]: Instagram, (2019). [_on-running Cloud Hi Edge_](https://web.archive.org/web/20200221092835/https://www.instagram.com/tv/B3w3u5kB6QB/?igshid=1bku54zz2ayub), Abgerufen am 25. Dezember 2019.
+[^:av:on-running_kaufprozess_1]: Instagram Post, (2019). [_on-running On Products_](https://web.archive.org/web/20200221092925/https://www.instagram.com/p/B5DdcD1hevi/?igshid=m6jkqlhrghu4) Abgerufen am 25. Dezember 2019.
+[^:av:on-running_kaufprozess_2]: Instagram Post, (2019). [_on-running In this photo_](https://web.archive.org/web/20200221092925/https://www.instagram.com/p/B5DdcD1hevi/?igshid=m6jkqlhrghu4) Abgerufen am 25. Dezember 2019.
+[^:av:on-running_kaufprozess_3]: Instagram Post, (2019). [_on-running On View on Website_](https://web.archive.org/web/20200221092925/https://www.instagram.com/p/B5DdcD1hevi/?igshid=m6jkqlhrghu4) Abgerufen am 25. Dezember 2019.
+[^:av:on-running_kaufprozess_4]: on-running.com, (2019). [_on-running Cloud Slate | Rock_](https://web.archive.org/web/20200221092958/https://www.on-running.com/de-ch/products/cloud) Abgerufen am 25. Dezember 2019.
+[^:av:on-running_kaufprozess_5]: on-running.com, (2019). [_on-running Add to cart_](https://web.archive.org/web/20200221092958/https://www.on-running.com/de-ch/products/cloud) Abgerufen am 25. Dezember 2019.
+[^:av:on-running_kaufprozess_6]: on-running.com, (2019). [_on-running Checkout_](https://web.archive.org/web/20200221092958/https://www.on-running.com/de-ch/products/cloud) Abgerufen am 25. Dezember 2019.
+[^:av:instagram_checkout]: Instagram, (2019). [_Instagram Checkout_](https://web.archive.org/web/20200221093030/https://about.instagram.com/blog/announcements/introducing-instagram-checkout), Abgerufen am 15. November 2019.
+[^:av:geschaefts-und_mitarbeiterentwicklung_alibaba]: Wikipedia, (2019). [_Geschäfts- und Mitarbeiterentwicklung_](https://web.archive.org/web/20200221093051/https://de.wikipedia.org/wiki/Alibaba_Group), Abgerufen am 27. Dezember 2019.
+[^:av:wechat-mini-programs]: digilinkasia.com, (2019), [_WeChat New Feature -- 好物圈_](https://web.archive.org/web/20200221093113/http://www.digilinkasia.com/?route=wechat-new-feature), Abgerufen am 02. Januar 2020.
+[^:av:wechat-giesswein-vergleich]: walkthechat.com, (2019), [_What is a WeChat Shop?_](https://web.archive.org/web/20200221093133/https://walkthechat.com/wechat-shops/), Abgerufen am 02. Januar 2020.
+[^:av:wechat-good-product-circle]: walkthechat.com, (2019), [_WeChat released new “recommended products” e-commerce function_](https://web.archive.org/web/20200221093151/https://walkthechat.com/wechat-released-new-recommended-products-e-commerce-function/), Abgerufen am 02. Januar 2020.
 
 ```references
 group-include: av
@@ -331,7 +331,6 @@ reference-text-suffix: ' – '
 Martin Werren <br/>
 HFIAD 2017 <br/>
 Schule für Gestaltung Zürich <br/>
-[martin.werren@sfgz.ch](mailto:martin.werren@sfgz.ch)
 
 </Column>
 
@@ -341,7 +340,6 @@ Schule für Gestaltung Zürich <br/>
 Severin Kilchhofer<br/>
 Würzwies 10<br/>
 8064 Zürich<br/>
-[severin.kilchhofer@bluewin.ch](mailto:severin.kilchhofer@bluewin.ch)
 </Column>
 
 </Grid>
