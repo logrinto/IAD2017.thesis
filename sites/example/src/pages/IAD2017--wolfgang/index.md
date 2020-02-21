@@ -333,11 +333,11 @@ England: Emerald Group Publishing Limited.
 ### Quellenverzeichnis
 
 Wikipedia (2020). Napster (Online-Musikdienst).
-https://de.wikipedia.org/wiki/Napster_(Online-Musikdienst),
+https://web.archive.org/web/20200221093043/https://de.wikipedia.org/wiki/Napster_(Online-Musikdienst),
 zuletzt besucht am Sonntag, 6. Januar 2020; 10:14 Uhr.
 
 Wikipedia (2020). Prosumer.
-https://de.wikipedia.org/wiki/Prosumer,
+https://web.archive.org/web/20200221093331/https://de.wikipedia.org/wiki/Prosumer,
 zuletzt besucht am Sonntag, 5. Januar 2020; 16:46 Uhr.
 
 ### Abbildungsverzeichnis
