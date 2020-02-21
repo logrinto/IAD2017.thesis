@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Thesis IAD2017]]></title><description><![CDATA[Thesis-Arbeiten der HF Interaction Design Lehrgang 2017]]></description><link>https://thesis.logrinto.ch</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 21 Feb 2020 09:42:58 GMT</lastBuildDate><item><title><![CDATA[Thesis]]></title><description><![CDATA[Schule für Gestaltung Zürich · 2019 · CC-BY-SA 4.0 Dokumentation Pascale Anderegg Marius Becker Stephanie Fuchs Marc Hatt Severin Kilchhofer…]]></description><link>https://thesis.logrinto.chroot</link><guid isPermaLink="false">https://thesis.logrinto.chroot</guid><content:encoded>&lt;div class=&quot;column__text&quot;&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Thesis IAD2017]]></title><description><![CDATA[Thesis-Arbeiten der HF Interaction Design Lehrgang 2017]]></description><link>https://thesis.logrinto.ch</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 21 Feb 2020 09:52:40 GMT</lastBuildDate><item><title><![CDATA[Thesis]]></title><description><![CDATA[Schule für Gestaltung Zürich · 2019 · CC-BY-SA 4.0 Dokumentation Pascale Anderegg Marius Becker Stephanie Fuchs Marc Hatt Severin Kilchhofer…]]></description><link>https://thesis.logrinto.chroot</link><guid isPermaLink="false">https://thesis.logrinto.chroot</guid><content:encoded>&lt;div class=&quot;column__text&quot;&gt;
 &lt;p&gt;&lt;a href=&quot;https://sfgz.ch/&quot;&gt;Schule für Gestaltung Zürich&lt;/a&gt; · 2019 · &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC-BY-SA 4.0&lt;/a&gt;&lt;/p&gt;
 &lt;br /&gt;
 &lt;br /&gt;
@@ -953,10 +953,10 @@ Deutschland/Schweiz: doubleYUU/Forschungsstelle für Customer Insight der Univer
 England: Emerald Group Publishing Limited.&lt;/p&gt;
 &lt;h3&gt;Quellenverzeichnis&lt;/h3&gt;
 &lt;p&gt;Wikipedia (2020). Napster (Online-Musikdienst).
-&lt;a href=&quot;https://de.wikipedia.org/wiki/Napster_(Online-Musikdienst)&quot;&gt;https://de.wikipedia.org/wiki/Napster_(Online-Musikdienst)&lt;/a&gt;,
+&lt;a href=&quot;https://web.archive.org/web/20200221093043/https://de.wikipedia.org/wiki/Napster_(Online-Musikdienst)&quot;&gt;https://web.archive.org/web/20200221093043/https://de.wikipedia.org/wiki/Napster_(Online-Musikdienst)&lt;/a&gt;,
 zuletzt besucht am Sonntag, 6. Januar 2020; 10:14 Uhr.&lt;/p&gt;
 &lt;p&gt;Wikipedia (2020). Prosumer.
-&lt;a href=&quot;https://de.wikipedia.org/wiki/Prosumer&quot;&gt;https://de.wikipedia.org/wiki/Prosumer&lt;/a&gt;,
+&lt;a href=&quot;https://web.archive.org/web/20200221093331/https://de.wikipedia.org/wiki/Prosumer&quot;&gt;https://web.archive.org/web/20200221093331/https://de.wikipedia.org/wiki/Prosumer&lt;/a&gt;,
 zuletzt besucht am Sonntag, 5. Januar 2020; 16:46 Uhr.&lt;/p&gt;
 &lt;h3&gt;Abbildungsverzeichnis&lt;/h3&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;references&quot;&gt;&lt;pre class=&quot;language-references&quot;&gt;&lt;code class=&quot;language-references&quot;&gt;# gets repalced with footnotes
@@ -5017,7 +5017,7 @@ import Box from &apos;gatsby-theme-signalwerk/src/components/Box&apos;;&lt;/p&gt
 from-heading: 2
 to-heading: 3&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h2&gt;1.0 Einleitung&lt;/h2&gt;
-&lt;p&gt;Seit dem Aufkommen von Computern denken wir über intelligente Systeme nach, die unserem eigenen Handeln näher kommen. Nach den Ausführungen von Winkler &lt;em&gt;(2019, 1).&lt;sup id=&quot;fnref-:lit:one&quot;&gt;&lt;a href=&quot;#fn-:lit:one&quot; class=&quot;footnote-ref&quot;&gt;:lit:one&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt; machten sich Menschen bereits im Jahre 1960 Gedanken über die Verbindung des Menschen mit der Maschine. Heutige Computer sind noch weit entfernt von Beispielen, wie Samantha, dem intelligenten Sprachassistenten aus dem Science Fiction Film &lt;a href=&quot;https://de.wikipedia.org/wiki/Her_(2013)&quot;&gt;«Her»&lt;/a&gt;. Dennoch wird Machine Learning bereits in diversen Bereichen, wie zum Beispiel in der Medizin zur Analyse von Bilddaten bei Krankheitsdiagnosen, eingesetzt und stellt ebenso DesignerInnen neue Werkzeuge im Gestaltungsprozess zur Verfügung &lt;em&gt;(vgl. Hebron, 2016, 1).&lt;sup id=&quot;fnref-:lit:two&quot;&gt;&lt;a href=&quot;#fn-:lit:two&quot; class=&quot;footnote-ref&quot;&gt;:lit:two&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Seit dem Aufkommen von Computern denken wir über intelligente Systeme nach, die unserem eigenen Handeln näher kommen. Nach den Ausführungen von Winkler &lt;em&gt;(2019, 1).&lt;sup id=&quot;fnref-:lit:one&quot;&gt;&lt;a href=&quot;#fn-:lit:one&quot; class=&quot;footnote-ref&quot;&gt;:lit:one&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt; machten sich Menschen bereits im Jahre 1960 Gedanken über die Verbindung des Menschen mit der Maschine. Heutige Computer sind noch weit entfernt von Beispielen, wie Samantha, dem intelligenten Sprachassistenten aus dem Science Fiction Film &lt;a href=&quot;https://web.archive.org/web/20200221094744/https://de.wikipedia.org/wiki/Her_(2013)&quot;&gt;«Her»&lt;/a&gt;. Dennoch wird Machine Learning bereits in diversen Bereichen, wie zum Beispiel in der Medizin zur Analyse von Bilddaten bei Krankheitsdiagnosen, eingesetzt und stellt ebenso DesignerInnen neue Werkzeuge im Gestaltungsprozess zur Verfügung &lt;em&gt;(vgl. Hebron, 2016, 1).&lt;sup id=&quot;fnref-:lit:two&quot;&gt;&lt;a href=&quot;#fn-:lit:two&quot; class=&quot;footnote-ref&quot;&gt;:lit:two&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Die vorliegende Arbeit setzt sich mit der Frage auseinander, auf welche Weise sich Prozesse digitaler GestalterInnen mit Machine Learning verändern. Um dieser Fragestellung nachzugehen, werde ich einen digitalen Gestaltungsprozess analysieren sowie den Begriff Machine Learning erläutern. Ich vermute, dass mit Einbezug von Machine Learning im Gestaltungsprozess ein innovativeres Lösungsspektrum erreicht und der Prozess als variantenreicher wahrgenommen werden kann. Das Ziel der Arbeit ist, mögliche Einsatzbereiche von ML im digitalen Designprozess verständlich aufzuzeigen und dabei die Veränderungen zu beleuchten. Neben einem konkreten Fallbeispiel wird die Rolle von Machine Learning im Gestaltungsprozess untersucht. Auf Basis dieser Grundlagen wird ein möglicher Gestaltungsprozess mit Machine Learning ausgelegt, um in einer anschliessenden Diskussion die Frage bewerten zu können, wie sich ein Gestaltungsprozess mit ML in Hinsicht auf eine zunehmende Dynamik wandeln könnte.&lt;/p&gt;
 &lt;p&gt;Da dieses Thema eine hohe Relevanz, bezogen auf meinen Beruf aufweist, interessiert es mich, wo und wie Machine Learning im digitalen Designprozess eingebunden werden kann. DesignerInnen verfügen mit ihren Tätigkeiten, wie zum Beispiel User Research, Prototyping und Usability Tests, über die Kompetenz, künstliche Intelligenz (nachfolgend KI) menschlich zu machen, indem sie herausfinden, wie Menschen auf KI gestützte Anwendungen reagieren. Deshalb sehe ich es als zwingend notwendig, dass sich GestalterInnen im Tätigkeitsfeld der KI auskennen und dieses mitgestalten. Diese Arbeit soll einen Beitrag dazu leisten.&lt;/p&gt;
 &lt;h2&gt;2.0 Einstieg in die Theorie&lt;/h2&gt;
@@ -5115,8 +5115,8 @@ Zunächst soll das Feld der starken Künstlichen Intelligenz auf das Teilgebiet 
 &lt;h3&gt;3.3 ML als Unterstützer&lt;/h3&gt;
 &lt;p&gt;In der unterstützenden Form kann ML bei repetitiven, quantitativen Tätigkeiten, wie Formatanpassungen oder Recherchearbeiten, assistieren sowie Kreativschaffende inspirieren und den Prozess in produktiven Tätigkeiten partizipativ vorwärtstreiben. Der/die DesignerIn legt ein Set von Daten an, auf welches das ML-System trainiert wird. ML kann aus diesen Daten Erkenntnisse ziehen, welche DesignerInnen nutzen können. Dadurch findet ein Wissensaustausch von beiden Seiten statt. Im folgenden Fallbeispiel Fontmap, wird das ML-System zur Inspirationsquelle und erleichtert GestalterInnen die Entscheidung, welche Schrift verwendet werden soll.&lt;/p&gt;
 &lt;h4&gt;3.3.1 Fontmap&lt;/h4&gt;
-&lt;p&gt;Wie Ho &lt;em&gt;(2017).&lt;sup id=&quot;fnref-:qu:three&quot;&gt;&lt;a href=&quot;#fn-:qu:three&quot; class=&quot;footnote-ref&quot;&gt;:qu:three&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;, der Ersteller von &lt;a href=&quot;http://fontmap.ideo.com/&quot;&gt;Fontmap&lt;/a&gt;, feststellte, ist die Wahl der Schrift eine der häufigsten Entscheidungen, die DesignerInnen in Gestaltungsprozessen treffen müssen. Nicht selten wird auf Favoriten oder Standardschriften zurückgegriffen, welche in bisherigen Anwendungen gut funktioniert hatten. Eine andere Variante wäre die Recherche nach einem geeigneten Font per Google Suche oder in bestehenden Werken abzufragen, wobei nach Charakter wie serif, serifenlos oder grotesk gesucht werden kann. Auch wenn dies ein guter Startpunkt ist, gibt es in diesen Kategorien viele Details, worin sich die Schriften unterscheiden und es ist oft der Fall, dass die erste Schrift nicht passt und viel Zeit für die Recherche benötigt wird.&lt;/p&gt;
-&lt;p&gt;Das Projekt Fontmap, welches von &lt;a href=&quot;https://www.ideo.com/eu&quot;&gt;IDEO&lt;/a&gt;, einer internationalen Design- und Innovationsberatung entwickelt wurde, basiert auf ML und möchte dem/der GestalterIn ein Werkzeug bieten, dass bei der Wahl der Schrift unterstützt. Das Tool stellt mehr als 750 Google Fonts auf einer Map dar, um die Schriftsuche intuitiver und einfacher zu gestalten. Es wird ein Werkzeug geboten, dass ähnliche Schriften aufgrund von ihrem Charakter wie Strichstärke, Laufweite oder Versalhöhe in der Nähe zueinander anordnet. Mit dieser Anwendung werden Muster und Beziehungen von Schriften verständlich dargestellt. Es ergibt sich eine zweidimensionale Vergleichbarkeit der Schriftsätze, wobei die Schriftarten innerhalb von zwei Achsen sortiert und geordnet werden. Der Algorithmus sortiert Schriften anhand ihrer visuellen Merkmale und zeigt dem/der DesignerIn alternative Schriften auf einer bekannten 2D Karten- sowie Listenansicht zur Auswahl an. Der Algorithmus ordnet Schriften, welche sich von anderen stark unterscheiden, auf der Map separiert, also mit einem grösseren Abstand zu anderen Schriften, an.&lt;/p&gt;
+&lt;p&gt;Wie Ho &lt;em&gt;(2017).&lt;sup id=&quot;fnref-:qu:three&quot;&gt;&lt;a href=&quot;#fn-:qu:three&quot; class=&quot;footnote-ref&quot;&gt;:qu:three&lt;/a&gt;&lt;/sup&gt;&lt;/em&gt;, der Ersteller von &lt;a href=&quot;https://web.archive.org/web/20200221094617/http://fontmap.ideo.com/&quot;&gt;Fontmap&lt;/a&gt;, feststellte, ist die Wahl der Schrift eine der häufigsten Entscheidungen, die DesignerInnen in Gestaltungsprozessen treffen müssen. Nicht selten wird auf Favoriten oder Standardschriften zurückgegriffen, welche in bisherigen Anwendungen gut funktioniert hatten. Eine andere Variante wäre die Recherche nach einem geeigneten Font per Google Suche oder in bestehenden Werken abzufragen, wobei nach Charakter wie serif, serifenlos oder grotesk gesucht werden kann. Auch wenn dies ein guter Startpunkt ist, gibt es in diesen Kategorien viele Details, worin sich die Schriften unterscheiden und es ist oft der Fall, dass die erste Schrift nicht passt und viel Zeit für die Recherche benötigt wird.&lt;/p&gt;
+&lt;p&gt;Das Projekt Fontmap, welches von &lt;a href=&quot;https://web.archive.org/web/20200221094531/http://www.ideo.com/eu&quot;&gt;IDEO&lt;/a&gt;, einer internationalen Design- und Innovationsberatung entwickelt wurde, basiert auf ML und möchte dem/der GestalterIn ein Werkzeug bieten, dass bei der Wahl der Schrift unterstützt. Das Tool stellt mehr als 750 Google Fonts auf einer Map dar, um die Schriftsuche intuitiver und einfacher zu gestalten. Es wird ein Werkzeug geboten, dass ähnliche Schriften aufgrund von ihrem Charakter wie Strichstärke, Laufweite oder Versalhöhe in der Nähe zueinander anordnet. Mit dieser Anwendung werden Muster und Beziehungen von Schriften verständlich dargestellt. Es ergibt sich eine zweidimensionale Vergleichbarkeit der Schriftsätze, wobei die Schriftarten innerhalb von zwei Achsen sortiert und geordnet werden. Der Algorithmus sortiert Schriften anhand ihrer visuellen Merkmale und zeigt dem/der DesignerIn alternative Schriften auf einer bekannten 2D Karten- sowie Listenansicht zur Auswahl an. Der Algorithmus ordnet Schriften, welche sich von anderen stark unterscheiden, auf der Map separiert, also mit einem grösseren Abstand zu anderen Schriften, an.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1800px;&quot;
@@ -5307,27 +5307,27 @@ Dietzingerstrasse 12&lt;br/&gt;
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li id=&quot;fn-:abb:one&quot;&gt;
-&lt;p&gt;Abbildung erstellt von Pascale Anderegg, Grundlage der Grafik von &lt;a href=&quot;https://elezea.com/2013/09/responsive-design-agency-workflow/&quot;&gt;Rian Van der Merwe, elezea Blog&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Abbildung erstellt von Pascale Anderegg, Grundlage der Grafik von &lt;a href=&quot;https://web.archive.org/web/20200221094332/https://elezea.com/2013/09/responsive-design-agency-workflow/&quot;&gt;Rian Van der Merwe, elezea Blog&lt;/a&gt;.&lt;/p&gt;
 &lt;a href=&quot;#fnref-:abb:one&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;li id=&quot;fn-:abb:two&quot;&gt;
-&lt;p&gt;Abbildung von Annie Spratt &lt;a href=&quot;https://unsplash.com/photos/0XM10BkiuXU&quot;&gt;Unsplash&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Abbildung von Annie Spratt &lt;a href=&quot;https://web.archive.org/web/20200221094311/https://unsplash.com/photos/0XM10BkiuXU&quot;&gt;Unsplash&lt;/a&gt;.&lt;/p&gt;
 &lt;a href=&quot;#fnref-:abb:two&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;li id=&quot;fn-:abb:three&quot;&gt;
-&lt;p&gt;Abbildung von Michael Zhang &lt;a href=&quot;https://petapixel.com/2016/07/12/prisma-gives-photos-look-famous-paintings/&quot;&gt;Petapixel&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Abbildung von Michael Zhang &lt;a href=&quot;https://web.archive.org/web/20200221094240/https://petapixel.com/2016/07/12/prisma-gives-photos-look-famous-paintings/&quot;&gt;Petapixel&lt;/a&gt;.&lt;/p&gt;
 &lt;a href=&quot;#fnref-:abb:three&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;li id=&quot;fn-:abb:four&quot;&gt;
-&lt;p&gt;Abbildung von Kevin Ho &lt;a href=&quot;https://medium.com/ideo-stories/organizing-the-world-of-fonts-with-ai-7d9e49ff2b25?&quot;&gt;medium.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Abbildung von Kevin Ho &lt;a href=&quot;https://web.archive.org/web/20200221094215/https://medium.com/ideo-stories/organizing-the-world-of-fonts-with-ai-7d9e49ff2b25?&quot;&gt;medium.com&lt;/a&gt;.&lt;/p&gt;
 &lt;a href=&quot;#fnref-:abb:four&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;li id=&quot;fn-:abb:five&quot;&gt;
-&lt;p&gt;Abbildung von Jess Holbrook &lt;a href=&quot;https://medium.com/google-design/human-centered-machine-learning-a770d10562cd&quot;&gt;medium.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Abbildung von Jess Holbrook &lt;a href=&quot;https://web.archive.org/web/20200221094125/https://medium.com/google-design/human-centered-machine-learning-a770d10562cd&quot;&gt;medium.com&lt;/a&gt;.&lt;/p&gt;
 &lt;a href=&quot;#fnref-:abb:five&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;li id=&quot;fn-:abb:six&quot;&gt;
-&lt;p&gt;Abbildung von Liam Spradlin &lt;a href=&quot;https://medium.com/project-phoebe/mutate-more-digging-deeper-into-ui-that-evolves-with-the-user-fc0e0d94b402&quot;&gt;medium.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Abbildung von Liam Spradlin &lt;a href=&quot;https://web.archive.org/web/20200221093958/https://medium.com/project-phoebe/mutate-more-digging-deeper-into-ui-that-evolves-with-the-user-fc0e0d94b402&quot;&gt;medium.com&lt;/a&gt;.&lt;/p&gt;
 &lt;a href=&quot;#fnref-:abb:six&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;li id=&quot;fn-quote-one&quot;&gt;
@@ -5351,31 +5351,31 @@ Dietzingerstrasse 12&lt;br/&gt;
 &lt;a href=&quot;#fnref-:lit:four&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;li id=&quot;fn-:qu:one&quot;&gt;
-&lt;p&gt;Rian Van der Merwe, &lt;a href=&quot;https://elezea.com/2013/09/responsive-design-agency-workflow/&quot;&gt;eleza.com&lt;/a&gt; (Abrufdatum: 13. 11. 2019)&lt;/p&gt;
+&lt;p&gt;Rian Van der Merwe, &lt;a href=&quot;https://web.archive.org/web/20200221093122/https://elezea.com/2013/09/responsive-design-agency-workflow/&quot;&gt;eleza.com&lt;/a&gt; (Abrufdatum: 13. 11. 2019)&lt;/p&gt;
 &lt;a href=&quot;#fnref-:qu:one&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;li id=&quot;fn-:qu:two&quot;&gt;
-&lt;p&gt;Matthias Spielkamp, &lt;a href=&quot;https://www.zeit.de/digital/2019-08/matthias-spielkamp-algorithmen-diskriminierung-algorithmwatch-wird-das-was-digitalpodcast&quot;&gt;zeit.de&lt;/a&gt; (Abrufdatum: 24. 11. 2019)&lt;/p&gt;
+&lt;p&gt;Matthias Spielkamp, &lt;a href=&quot;https://web.archive.org/web/20200221093322/https://www.zeit.de/digital/2019-08/matthias-spielkamp-algorithmen-diskriminierung-algorithmwatch-wird-das-was-digitalpodcast&quot;&gt;zeit.de&lt;/a&gt; (Abrufdatum: 24. 11. 2019)&lt;/p&gt;
 &lt;a href=&quot;#fnref-:qu:two&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;li id=&quot;fn-:qu:three&quot;&gt;
-&lt;p&gt;Kevin Ho, &lt;a href=&quot;https://medium.com/ideo-stories/organizing-the-world-of-fonts-with-ai-7d9e49ff2b25?&quot;&gt;medium.com&lt;/a&gt; (Abrufdatum: 24. 11. 2019)&lt;/p&gt;
+&lt;p&gt;Kevin Ho, &lt;a href=&quot;https://web.archive.org/web/20200221093459/https://medium.com/ideo-stories/organizing-the-world-of-fonts-with-ai-7d9e49ff2b25?&quot;&gt;medium.com&lt;/a&gt; (Abrufdatum: 24. 11. 2019)&lt;/p&gt;
 &lt;a href=&quot;#fnref-:qu:three&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;li id=&quot;fn-:qu:four&quot;&gt;
-&lt;p&gt;Johanna Osterrieter, &lt;a href=&quot;https://medium.com/@johanna.osterrieter/k%C3%BCnstliche-intelligenz-im-design-23f7a3d7f3db&quot;&gt;medium.com&lt;/a&gt; (Abrufdatum: 24. 11. 2019)&lt;/p&gt;
+&lt;p&gt;Johanna Osterrieter, &lt;a href=&quot;https://web.archive.org/web/20200221093527/https://medium.com/@johanna.osterrieter/k%C3%BCnstliche-intelligenz-im-design-23f7a3d7f3db&quot;&gt;medium.com&lt;/a&gt; (Abrufdatum: 24. 11. 2019)&lt;/p&gt;
 &lt;a href=&quot;#fnref-:qu:four&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;li id=&quot;fn-:qu:five&quot;&gt;
-&lt;p&gt;Jess Holbrook, &lt;a href=&quot;https://medium.com/google-design/human-centered-machine-learning-a770d10562cd&quot;&gt;medium.com&lt;/a&gt; (Abrufdatum: 12. 11. 2019)&lt;/p&gt;
+&lt;p&gt;Jess Holbrook, &lt;a href=&quot;https://web.archive.org/web/20200221093732/https://medium.com/google-design/human-centered-machine-learning-a770d10562cd&quot;&gt;medium.com&lt;/a&gt; (Abrufdatum: 12. 11. 2019)&lt;/p&gt;
 &lt;a href=&quot;#fnref-:qu:five&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;li id=&quot;fn-:qu:six&quot;&gt;
-&lt;p&gt;Liam Spradlin, &lt;a href=&quot;https://medium.com/project-phoebe/mutate-more-digging-deeper-into-ui-that-evolves-with-the-user-fc0e0d94b402&quot;&gt;medium.com&lt;/a&gt; (Abrufdatum: 24. 12. 2019)&lt;/p&gt;
+&lt;p&gt;Liam Spradlin, &lt;a href=&quot;https://web.archive.org/web/20200221093811/https://medium.com/project-phoebe/mutate-more-digging-deeper-into-ui-that-evolves-with-the-user-fc0e0d94b402&quot;&gt;medium.com&lt;/a&gt; (Abrufdatum: 24. 12. 2019)&lt;/p&gt;
 &lt;a href=&quot;#fnref-:qu:six&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;li id=&quot;fn-:qu:seven&quot;&gt;
-&lt;p&gt;Josh Lovejoy, &lt;a href=&quot;https://design.google/library/ux-ai/&quot;&gt;Google Design&lt;/a&gt; (Abrufdatum: 24. 12. 2019)&lt;/p&gt;
+&lt;p&gt;Josh Lovejoy, &lt;a href=&quot;https://web.archive.org/web/20200221093856/https://design.google/library/ux-ai/&quot;&gt;Google Design&lt;/a&gt; (Abrufdatum: 24. 12. 2019)&lt;/p&gt;
 &lt;a href=&quot;#fnref-:qu:seven&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
