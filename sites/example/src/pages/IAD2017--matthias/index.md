@@ -24,7 +24,8 @@ Zum Schluss der Arbeit sollen auch die Chancen, Risiken und Gefahren der persona
 
 ## Inhaltsverzeichnis
 ```toc
-exclude:  - Inhaltsverzeichnis
+exclude:
+  - Inhaltsverzeichnis
   - Mentoring durch
   - Vorgelegt von
 from-heading: 2
