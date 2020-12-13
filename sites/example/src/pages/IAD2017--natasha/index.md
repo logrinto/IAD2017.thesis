@@ -1,5 +1,5 @@
 ---
-title: «Wie entsteht Vertrauen zu P2P Content Sharing Plattformen?»
+title: Wie entsteht Vertrauen zu P2P Content Sharing Plattformen?
 author: "Natasha Ruf"
 date: "2020-01-10"
 layout: post
