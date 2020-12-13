@@ -94,7 +94,7 @@ Unter kontaktlosem Bezahlen versteht man einen Zahlvorgang, der ohne physischen 
 #### Near Field Communication
 
 Die gängigste Methode für kontaktloses Bezahlen ist die Near Field Communication (NFC). Dieser Übertragungsstandard ermöglicht einen Datenaustausch innerhalb weniger Zentimeter ohne physischen Kontakt und wird international von den grössten Kartenorganisationen sowie Smartphone-Herstellern verwendet. Das sogenannte Tappen mittels NLC ist in der Schweiz für Beträge bis CHF&#x00A0;40.– ohne Eingabe eines PIN-Codes möglich. Ist der Betrag höher, fordert das Terminal die Eingabe des PIN-Codes. NFC-Chips entsprechen der Norm ISO/IEC 14443-3:2011.[^quote-1]
-[^quote-1]:  International Organization for Standardization (ISO, o.J.) ISO/IEC 14443-3:2011. [Identification cards – Contactless integrated circuit cards&#x00A0;– Proximity cards.](http://www.iso.org/iso/catalogue_detail.htm?csnumber=50942) Zugegriffen: 21.&#x202F;Dezember&#x00A0;2019
+[^quote-1]:  International Organization for Standardization (ISO, o.J.) ISO/IEC 14443-3:2011. [Identification cards – Contactless integrated circuit cards&#x00A0;– Proximity cards.](https://web.archive.org/web/20190115193154/https://www.iso.org/standard/50942.html) Zugegriffen: 21.&#x202F;Dezember&#x00A0;2019
 
 Während Debit- und Kreditkarten ausschliesslich mit einem NFC-Chip auskommen, werden bei Smartphone-Applikationen für kontaktloses Bezahlen neben NFC oft zusätzliche Sicherheitsmechanismen wie Secure Element[^quote-2] oder HCE[^quote-3] eingesetzt. Während Smartphone-Hersteller wie Samsung und Huawei die NFC für Android-Applikationen frei zur Verfügung stellen, limitiert Apple bei die Nutzung von NFC bei iPhones bislang auf Apple Pay, womit andere Applikationen nicht auf diese Technologie zugreifen können. Dadurch verhindert Apple aktuell eine gesamtheitliche Lösung für kontaktloses Bezahlen. Ob Apple in Zukunft die NFC-Schnittstelle von iPhones für weitere Applikationen freigeben wird, ist unklar.
 [^quote-2]: Vgl. Ludwig Hierl, Hrsg. (2017). Mobile Payment&#x00A0;– Grundlagen, Strategien, Praxis. Heilbronn, Deutschland: Springer Gabler Verlag. S.&#x202F;151, 8.4.1. 
@@ -109,7 +109,7 @@ Während Debit- und Kreditkarten ausschliesslich mit einem NFC-Chip auskommen, w
 
 </Margin>
 
-[^:fig:2]: Abbildung von [Wikipedia/QR-Code](https://upload.wikimedia.org/wikipedia/commons/c/cb/QRCodeWikipedia.png)
+[^:fig:2]: Abbildung von [Wikipedia/QR-Code](https://web.archive.org/web/20190928022410/https://upload.wikimedia.org/wikipedia/commons/c/cb/QRCodeWikipedia.png)
 
 Der Quick Response Code, kurz QR-Code, ist eine grafische Darstellung von Datenelementen, welche von Geräten mit einer Kamera und entsprechenden Software gescannt und entschlüsselt werden können. Im Zusammenhang mit kontaktlosem Bezahlen handelt es sich dabei beispielsweise um Rechnungsinformationen, welche dadurch an ein Gerät übermittelt werden, womit das manuelle Erfassen entfällt.[^quote-4] Ein Beispiel eines QR-Codes ist in Abbildung&#x00A0;2 dargestellt.
 [^quote-4]: ebd. S.&#x202F;150. 8.4.2.
@@ -127,7 +127,7 @@ Der Vorteil dieser Technologie ist die Herstellerunabhängigkeit und folge desse
 ### Nutzung von kontaktlosem Bezahlen in der Schweiz
 
 Laut dem Bericht Swiss Payment Monitor 2019 ist das kontaktlose Bezahlen aktuell mit einem Bekanntheitsgrad von 90&#x202F;% in der Bevölkerung auf dem Vormarsch.[^quote-7] Bezüglich der Sicherheit bestehen seitens der Nutzenden allerdings noch immer Bedenken, welche wesentlich grösser sind als bei Barzahlungen und Kartenzahlungen mit physischem Kontakt. Trotzdem gewinnt das kontaktlose Bezahlen an Sympathie und Akzeptanz. Das System beginnt sich langsam aber sicher durchzusetzen, vor allem dank den Debitkarten mit NFC-Chip, welche hauptsächlich bei jüngeren Benutzenden hoch im Kurs stehen. So können sich drei von fünf im Rahmen des Swiss Payment Monitor 2019 befragten Personen vorstellen, in den nächsten Jahren vermehrt kontaktlos zu bezahlen.[^quote-8] In Abbildung&#x00A0;3 findet sich ein Vergleich der Bekanntheit von neueren Zahlungsmitteln zwischen 2018 und 2019:
-[^quote-7]: Vgl. Bettina Gehring, Sandro Graf, Dr.&#x202F;Tobias Trütsch, ZHAW, Universität St. Gallen (2019).  [Swiss Payment Monitor 2019.](https://medien.swisspaymentmonitor.ch/SPM19_Booklet_de.pdf) S.&#x202F;4. Zugegriffen: 27.&#x202F;Dezember&#x00A0;2019 
+[^quote-7]: Vgl. Bettina Gehring, Sandro Graf, Dr.&#x202F;Tobias Trütsch, ZHAW, Universität St. Gallen (2019).  [Swiss Payment Monitor 2019.](https://web.archive.org/web/20200221095026/https://medien.swisspaymentmonitor.ch/SPM19_Booklet_de.pdf) S.&#x202F;4. Zugegriffen: 27.&#x202F;Dezember&#x00A0;2019 
 [^quote-8]: edb. S.&#x202F;5.
 
 
@@ -136,13 +136,13 @@ Laut dem Bericht Swiss Payment Monitor 2019 ist das kontaktlose Bezahlen aktuell
 
 ![Bekanntheit neuerer Zahlungsinstrumente](./img/SPM19-S10.png)
 *Bekanntheit neuerer Zahlungsinstrumente[^:fig:3]*
-[^:fig:3]: Abbildung aus [Swiss Payment Monitor 2019](https://medien.swisspaymentmonitor.ch/SPM19_Booklet_de.pdf)
+[^:fig:3]: Abbildung aus [Swiss Payment Monitor 2019](https://web.archive.org/web/20200221095026/https://medien.swisspaymentmonitor.ch/SPM19_Booklet_de.pdf)
 
 </Column>
 </Grid>
 
 Generell kann festgestellt werden, dass alle Technologien an Bekanntheit gewonnen haben. Mit 99&#x202F;% am häufigsten verwendet und somit mit einer niedrigen Hemmschwelle verbunden sind Online-Zahlungen mittels Kreditkarte. Im direkten Vergleich sind das jedoch nur drei Prozent mehr als das kontaktlose Bezahlen mittels Kreditkarte, welches mit 96&#x202F;% an zweiter Stelle folgt. An dritter Stelle liegt mit 94&#x202F;% das kontaktlose Bezahlen mit Debitkarte.[^quote-9] Verglichen mit physischen Zahlungsmethoden punktet kontaktloses Bezahlen bei den Befragten des Swiss Payment Monitor 2019 hauptsächlich mit der Debit- und Kreditkarte erstens in Bezug auf die einfache Nutzung, zweitens den geringen Zeitaufwand und drittens die zukunftsorientierte Technologie, wie Abbildung&#x00A0;4 darstellt:
-[^quote-9]: Bettina Gehring, Sandro Graf, Dr.&#x202F;Tobias Trütsch, ZHAW, Universität St. Gallen (2019).  [Swiss Payment Monitor 2019.](https://medien.swisspaymentmonitor.ch/SPM19_Booklet_de.pdf) S.&#x202F;10. Zugegriffen: 27.&#x202F;Dezember&#x00A0;2019 
+[^quote-9]: Bettina Gehring, Sandro Graf, Dr.&#x202F;Tobias Trütsch, ZHAW, Universität St. Gallen (2019).  [Swiss Payment Monitor 2019.](https://web.archive.org/web/20200221095026/https://medien.swisspaymentmonitor.ch/SPM19_Booklet_de.pdf) S.&#x202F;10. Zugegriffen: 27.&#x202F;Dezember&#x00A0;2019 
 
 
 <Grid background>
@@ -150,7 +150,7 @@ Generell kann festgestellt werden, dass alle Technologien an Bekanntheit gewonne
 
 ![Wahrnehmung der Zahlungsmittel](./img/SPM19-S11.png)
 *Wahrnehmung der Zahlungsmittel[^:fig:4]*
-[^:fig:4]: Abbildung aus [Swiss Payment Monitor 2019](https://medien.swisspaymentmonitor.ch/SPM19_Booklet_de.pdf)
+[^:fig:4]: Abbildung aus [Swiss Payment Monitor 2019](https://web.archive.org/web/20200221095026/https://medien.swisspaymentmonitor.ch/SPM19_Booklet_de.pdf)
 
 </Column>
 </Grid>
@@ -178,8 +178,8 @@ Die Möglichkeiten von kontaktlosem Bezahlen in der Schweiz sind vielfältig und
 #### Debit- und Kreditkarten&#x00A0;– ohne Interface
 
 Am meisten verbreitet ist die Verwendung von kontaktlosem Bezahlen mittels Debit- oder Kreditkarte. Die grössten Kartenanbietenden und auch die Schweizer Banken haben zwischen 2014 und 2016 auf Debit-/Kreditkarten mit der Funktion zum kontaktlosen Bezahlen (NFC-Chip) umgerüstet.[^quote-12] Die Karten von Kundinnen und Kunden der jeweiligen Unternehmen sind fortlaufend durch Neue ersetzt worden. Gefragt wurden sie nicht. Das System wurde sozusagen autoritär eingeführt. 71&#x202F;% der Debitkarten und 95&#x202F;% der Kreditkarten verfügen per Ende 2018 über den NFC-Chip, Tendenz steigend.[^quote-13]
-[^quote-12]:  SRF Kassensturz. [Kontaktlos zahlen: Das müssen Kunden wissen.](https://www.srf.ch/sendungen/kassensturz-espresso/themen/geld/kontaktlos-zahlen-das-muessen-kunden-wissen) Zugegriffen: 23.&#x202F;Dezember&#x00A0;2019
-[^quote-13]: Bettina Gehring, Sandro Graf, Dr.&#x202F;Tobias Trütsch, ZHAW, Universität St. Gallen (2019).  [Swiss Payment Monitor 2019.](https://medien.swisspaymentmonitor.ch/SPM19_Booklet_de.pdf) S.&#x202F;5. Zugegriffen: 27.&#x202F;Dezember&#x00A0;2019
+[^quote-12]:  SRF Kassensturz. [Kontaktlos zahlen: Das müssen Kunden wissen.](https://web.archive.org/web/20190227011710/https://www.srf.ch/sendungen/kassensturz-espresso/themen/geld/kontaktlos-zahlen-das-muessen-kunden-wissen) Zugegriffen: 23.&#x202F;Dezember&#x00A0;2019
+[^quote-13]: Bettina Gehring, Sandro Graf, Dr.&#x202F;Tobias Trütsch, ZHAW, Universität St. Gallen (2019).  [Swiss Payment Monitor 2019.](https://web.archive.org/web/20200221095026/https://medien.swisspaymentmonitor.ch/SPM19_Booklet_de.pdf) S.&#x202F;5. Zugegriffen: 27.&#x202F;Dezember&#x00A0;2019
 
 #### Twint&#x00A0;– mit Interface
 
@@ -191,13 +191,13 @@ Das Unternehmen Twint AG stellte mit ihrer gleichnamigen Software als erstes Sch
 
 ![UBS Twint Benutzeroberflächen](./img/Twint_Kombi.png)
 *UBS Twint Benutzeroberflächen[^:fig:5]*
-[^:fig:5]: Abbildungen von [UBS/Twint](https://www.ubs.com/ch/de/private/digital-banking/private/Twint.html)
+[^:fig:5]: Abbildungen von [UBS/Twint](https://web.archive.org/web/20200221095405/https://www.ubs.com/ch/de/private/digital-banking/private/twint.html)
 
 </Column>
 </Grid>
 
 Die Benutzeroberfläche von Twint ist sehr einfach. Die Benutzerführung ist sauber, strukturiert und klar verständlich dargestellt. Benutzende wählen nach dem Öffnen der Applikation direkt aus, ob sie Geld senden oder anfordern möchten. Die Empfängerin oder der Empfänger wird anhand der Telefonnummer kontaktiert.[^quote-15] Kontaktlos bezahlt werden kann an allen Kassen, welche über ein Terminal verfügen, das QR-Codes anzeigen kann. In allen Coop Filialen sind zudem Beacons installiert, welche das Bezahlen via BLE-Technologie ermöglichen. Die Benutzenden wählen auf dem Interface lediglich, wie sie bezahlen möchten.[^quote-16]
-[^quote-15]: Twint (2019). [Funktionen.](https://www.Twint.ch/privatkunden/funktionen/) Zugegriffen: 29.&#x202F;Dezember&#x00A0;2019
+[^quote-15]: Twint (2019). [Funktionen.](https://web.archive.org/web/20200221095502/https://www.twint.ch/privatkunden/funktionen/) Zugegriffen: 29.&#x202F;Dezember&#x00A0;2019
 [^quote-16]: ebd.
 
 Twint ermöglicht auch das Senden und Empfangen von Geldbeträgen zwischen Freundinnen, Freunden und Bekannten. Dabei wird der gewünschte Kontakt ausgewählt, die Summe eingegeben, wenn gewünscht eine Nachricht hinterlegt und zum Auslösen der Transaktion der Slider *Senden* nach rechts gezogen.[^quote-17] Häufig kommt Twint auch beim Parkieren zum Einsatz. Bei Parkuhren, an welchen ein Twint-Aufkleber mit QR-Code angebracht ist, können Autofahrerinnen und Autofahrer diesen mit der Twint-App scannen, ihr Kontrollschild in der App hinterlegen und über ein Einstellrad in der Applikation die gewünschte Parkzeit einstellen.[^quote-18] Zusammengefasst basiert der Erfolg dieser Applikation auf folgenden Mehrwerten:
@@ -210,7 +210,7 @@ Twint ermöglicht auch das Senden und Empfangen von Geldbeträgen zwischen Freun
 BenutzerInnen wird dank Twint einfaches kontaktloses Bezahlen ermöglicht, ohne Bargeld oder gar eine Brieftasche bei sich tragen zu müssen.[^quote-19]
 
 [^quote-17]: ebd.
-[^quote-18]: Twint (2019). [Funktionen.](https://www.Twint.ch/privatkunden/funktionen/) Zugegriffen: 29.&#x202F;Dezember&#x00A0;2019
+[^quote-18]: Twint (2019). [Funktionen.](https://web.archive.org/web/20200221095502/https://www.twint.ch/privatkunden/funktionen/) Zugegriffen: 29.&#x202F;Dezember&#x00A0;2019
 [^quote-19]: Fabio Colombo (2017). Mobile Payment - Twint, Wie wird Twint zu einem der wichtigsten Bezahlmedien. Fachhochschule Nordwestschweiz, Hochschule für Wirtschaft. S.&#x202F;26, 2.4.3.
 
 #### EventClearing&#x00A0;– mit/ohne Interface
@@ -228,8 +228,8 @@ Noch bis vor 20&#x00A0;Jahren wurde für die Teilnahme an einem Pferdesportanlas
 Um das Jahr 2007 schaltete der Schweizerische Verband für Pferdesport auf seiner Website eine Plattform auf, welche digitale Nennungen ermöglichte und die analoge Nennkarte nach und nach zum Verschwinden brachte. Um eine Nennung zu tätigen, mussten die Benutzenden nun auf der Plattform einen Account eröffnen und die Nenngelder direkt auf der Plattform mittels Kreditkarte oder einem Postfinance-Konto begleichen. Andere Zahlungsarten waren nicht mehr möglich. Das neue System wurde schweizweit eingeführt. Bei der Auszahlung der Preisgelder änderte sich vorerst nichts. Diese wurden weiterhin bar in ein Couvert abgefüllt und an der Preisverteilung überreicht.[^quote-20] 
 
 Seit 2019 wird schliesslich mit EventClearing ein System im Schweizer Pferdesport eingeführt, welches ein bargeldloses Ein- und Auszahlen von Nenn- und Preisgeldern ermöglicht.[^quote-21]
-[^quote-20]:  SVPS. [Weitere Zahlungsmöglichkeiten auf my.fnch.ch.](https://www.fnch.ch/de/Pferd/Aktuell/Alle-News-1/Weitere-Zahlungsmoeglichkeiten-auf-my-fnch-ch.html) Zugegriffen: 27. Dezember&#x00A0;2019
-[^quote-21]:  EventClearing. [Bargeldloses Zahlungssystem im Schweizer Pferdesport. Heute gewonnen, morgen auf dem Konto.](https://www.eventclearing.lu/wp-content/uploads/2019/05/Layout-1_Seite-28.pdf) Zugegriffen: 27.&#x202F;Dezember&#x00A0;2019
+[^quote-20]:  SVPS. [Weitere Zahlungsmöglichkeiten auf my.fnch.ch.](https://web.archive.org/web/20200221095541/https://www.fnch.ch/de/Pferd/Aktuell/Alle-News-1/Weitere-Zahlungsmoeglichkeiten-auf-my-fnch-ch.html) Zugegriffen: 27. Dezember&#x00A0;2019
+[^quote-21]:  EventClearing. [Bargeldloses Zahlungssystem im Schweizer Pferdesport. Heute gewonnen, morgen auf dem Konto.](https://web.archive.org/web/20200130091607/https://www.eventclearing.lu/wp-content/uploads/2019/05/Layout-1_Seite-28.pdf) Zugegriffen: 27.&#x202F;Dezember&#x00A0;2019
 
 
 ### Ist-Zustand des Geldflusses
@@ -237,14 +237,14 @@ Seit 2019 wird schliesslich mit EventClearing ein System im Schweizer Pferdespor
 Bis anhin müssen alle Reiterinnen und Reiter, die an Turnieren teilnehmen, einen Account auf der Plattform des Schweizerischen Verbandes für Pferdesport (SVPS) my.fnch.ch erstellen. Dieser Account beinhaltet ein Konto, welches vom SVPS verwaltet wird und auf das vorab Geld überwiesen werden muss, um eine Nennung an einem Turnier zu tätigen. Ohne genügenden Saldo ist eine Nennung nicht möglich.[^quote-22] Erst wenn das Guthaben via Überweisung aufgestockt ist, kann die Anmeldung für eine Prüfung regulär erfolgen. Sind die einzelnen Prüfungen gemeldet, überweist der SVPS das Geld an die Veranstalter. 
 [^quote-22]: SVPS. [my.fnch.ch.](https://my.fnch.ch/konto) Zugegriffen: 29.&#x202F;Dezember&#x00A0;2019
 Am Turnier erhalten Reiterinnen und Reiter, welche sich in einer Prüfung klassiert haben (min. 30&#x202F;% der gestarteten Paare), Preise in Form von Bargeld, Gutscheinen oder Naturalien mit vorgegebenen Mindestwerten.[^quote-23] Die Mindestwerte des SVPS werden in Abbildung&#x00A0;6 dargestellt:
-[^quote-23]:  SVPS. [Reglemente, Springreglement SR 2020.](https://www.fnch.ch/de/Disziplinen/Springen/Reglemente.html) S.&#x202F;9, 3.5. Zugegriffen: 29.&#x202F;Dezember&#x00A0;2019
+[^quote-23]:  SVPS. [Reglemente, Springreglement SR 2020.](https://web.archive.org/web/20200221095657/https://www.fnch.ch/de/Disziplinen/Springen/Reglemente.html) S.&#x202F;9, 3.5. Zugegriffen: 29.&#x202F;Dezember&#x00A0;2019
 
 <Grid background>
 <Column start="3" end="11">
 
 ![Wert der Bar- und Naturalpreise des SVPS](./img/svpsPreise.svg)
 *Wert der Bar- und Naturalpreise des SVPS[^:fig:6]*
-[^:fig:6]: Tabelle aus [SVPS Springreglement SR 2020](https://www.fnch.ch/de/Disziplinen/Springen/Reglemente.html )
+[^:fig:6]: Tabelle aus [SVPS Springreglement SR 2020](https://web.archive.org/web/20200221095657/https://www.fnch.ch/de/Disziplinen/Springen/Reglemente.html)
 
 </Column>
 </Grid>
@@ -252,22 +252,22 @@ Am Turnier erhalten Reiterinnen und Reiter, welche sich in einer Prüfung klassi
 Die Reiterinnen und Reiter nehmen die Preise analog entgegen und entscheiden individuell, wie sie diese verwenden. Während sowohl Nenn- wie Preisgeld bei Amateuren in der Regel privat bezahlt und kassiert wird, werden die Nenngelder von professionellen Reiterinnen und Reitern hauptsächlich von ihren Arbeitgebenden oder Sponsoren übernommen. Je nach Vertrag geht entsprechend auch das Preisgeld ganz oder teilweise an die Arbeitgebenden oder Sponsoren, was den Geldfluss tendenziell verkompliziert. Die meisten Gelder werden früher oder später erneut für Nennungen benötigt, was es unumgänglich macht, dass diese erneut auf ein Bankkonto eingezahlt werden müssen.
 
 Für eventuelle Übernachtungen des Pferdes an der Veranstaltung müssen die Kosten für Stallungen, Einstreu, Futter, etc. vor der Abreise bar im Sekretariat beglichen werden. Da die Teilnehmenden bei mehrtägigen Turnieren in einer kurzen Zeitspanne abreisen, führt dies oft zu langen Wartezeiten vor dem Sekretariat.[^quote-24]
-[^quote-24]: EventClearing. [Bargeldloses Zahlungssystem im Schweizer Pferdesport. Heute gewonnen, morgen auf dem Konto.](https://www.eventclearing.lu/wp-content/uploads/2019/05/Layout-1_Seite-28.pdf) Zugegriffen: 27.&#x202F;Dezember&#x00A0;2019 
+[^quote-24]: EventClearing. [Bargeldloses Zahlungssystem im Schweizer Pferdesport. Heute gewonnen, morgen auf dem Konto.](https://web.archive.org/web/20200130091607/https://www.eventclearing.lu/wp-content/uploads/2019/05/Layout-1_Seite-28.pdf) Zugegriffen: 27.&#x202F;Dezember&#x00A0;2019 
 
 Im Bereich der Gastronomie und der Aussteller wird der Geldfluss sehr individuell gehandhabt. Üblich ist, dass die Verpflegung an Turnieren zum grössten Teil vom Veranstalter konzipiert und organisiert wird. Dabei wird auch an grösseren Turnieren wie zum Beispiel den jährlichen Pferdesporttagen in Uster welche vom Reitverein Uster durchgeführt werden, die Kasse immer noch in bar betrieben. Kartenzahlungen sowie kontaktlose Bezahlmöglichkeiten werden nicht akzeptiert. Externe Gastronomen und Aussteller bieten individuelle Zahlungslösungen an.[^quote-25]
 [^quote-25]: Stephanie Fuchs. Reitverein Uster. Pferdesporttage Uster 2019.
 
 Bei Pferdesport Turnieren ist somit bis anhin immer viel Bargeld im Umlauf. Auf der einen Seite müssen die Veranstaltenden die Gewinngelder für die Preisverteilungen bereithalten, welche für jede Prüfung in Umschläge abgefüllt, sortiert, gelagert und den Klassierten übergeben werden. Auf der anderen Seite tragen die Teilnehmenden und ihre Grooms, sowie die Besucherinnen und Besucher Bargeld für die Konsumation auf sich oder lagern dies in ihren Fahrzeugen. Dies führt zu einem erhöhten Diebstahlrisiko. Sowohl das Sekretariat als auch die Transporter und Lastwagen der Teilnehmenden sind in der Vergangenheit immer wieder Ziel von Diebstählen geworden.[^quote-26]
-[^quote-26]: EventClearing. [Bargeldloses Zahlungssystem im Schweizer Pferdesport. Heute gewonnen, morgen auf dem Konto.](https://www.eventclearing.lu/wp-content/uploads/2019/05/Layout-1_Seite-28.pdf) Zugegriffen: 27.&#x202F;Dezember&#x00A0;2019
+[^quote-26]: EventClearing. [Bargeldloses Zahlungssystem im Schweizer Pferdesport. Heute gewonnen, morgen auf dem Konto.](https://web.archive.org/web/20200130091607/https://www.eventclearing.lu/wp-content/uploads/2019/05/Layout-1_Seite-28.pdf) Zugegriffen: 27.&#x202F;Dezember&#x00A0;2019
 
 ### Pilotversuche mit EventClearing
 
 Mit den Pferdesporttagen Galgenen, dem Summer Masters Maienfeld und der Schweizer Meisterschaft CH-J-YR-2019 haben sich 2019 drei Veranstaltende für die Nutzung von EventClearing entschieden. Verglichen mit den herkömmlichen Ausschreibungen fällt bei der Ausschreibung dieser Events auf der Webseite des SVPS als erstes ein prominent platzierter Text auf, welcher auf die Nutzung von EventClearing hinweist und den Teilnehmenden mitteilt, dass sie bei einer Nennung dieser Veranstaltung die AGB’s von EventClearing akzeptieren.[^quote-27] Bei der Ausschreibung zum Hallenturnier Würenlos 2020 lautet dieser Text folgendermassen:
-[^quote-27]: EventClearing. [Pilot-Versuche.](https://www.eventclearing.lu/nationale-reitturniere-schweiz/) Zugegriffen: 29.&#x202F;Dezember&#x00A0;2019
+[^quote-27]: EventClearing. [Pilot-Versuche.](https://web.archive.org/web/20200221100916/https://www.eventclearing.lu/nationale-reitturniere-schweiz/) Zugegriffen: 29.&#x202F;Dezember&#x00A0;2019
 
 > *«Das Preisgeld wird nur über EventClearing per Banktransfer ausgezahlt. Um das Gewinngeld direkt im Anschluss an das Turnier zu erhalten, hinterlegen Sie bei app.eventclearing.lu bitte Ihre Bankverbindung, sofern Sie noch nicht mit EventClearing zusammengearbeitet haben. EventClearing (Matthias Lienhop 076&#x202F;334&#x202F;76&#x202F;08 / matthias@eventclearing.lu) wird für Sie eine Turnierabrechnung inkl. gezahlter Nenn- und gewonnener Preisgelder pro Pferd erstellen. Diese Abrechnung wird Ihnen unaufgefordert an die E-Mail-Adresse zugestellt, welche Sie bei my.fnch.ch und in Ihrem persönlichen Profil bei app.eventclearing.lu hinterlegt. Mit der Nennung akzeptieren die Reiter diese Vorgehensweise zur Auszahlung der Preisgelder.»*[^quote-28]
 
-[^quote-28]:  Zitat SVPS. [Ausschreibung Hallenturnier Würenlos 2020](https://info.fnch.ch/#/veranstaltungskalender/ausschreibung/47976) Zugegriffen: 29.&#x202F;Dezember&#x00A0;2019
+[^quote-28]:  Zitat SVPS. [Ausschreibung Hallenturnier Würenlos 2020](https://web.archive.org/web/20200221101044/https://info.fnch.ch/) Zugegriffen: 29.&#x202F;Dezember&#x00A0;2019
 
 Das gewonnene Preisgeld wird somit von EventClearing direkt auf das SVPS-Konto der hinterlegten Person auf my.fnch.ch vergütet. Dabei besteht die Möglichkeit, die Gelder gegebenenfalls auch direkt an die Arbeitgebenden oder Sponsoren auszahlen zu lassen. Die Preisgelder können somit auch unmittelbar wieder als Nenngelder verwendet werden, wie der Kreislauf des bargeldlosen Zahlungsverkehrs im Pferdesport mit EventClearing in Abbildung&#x00A0;5 aufzeigt: 
 
@@ -276,19 +276,19 @@ Das gewonnene Preisgeld wird somit von EventClearing direkt auf das SVPS-Konto d
 
 ![Kreislauf EventClearing](./img/Kreislauf-Gelder-EventClearing.svg)
 *Kreislauf EventClearing[^:fig:7]*
-[^:fig:7]: Abbildung von [EventClearing](https://www.eventclearing.lu/wp-content/uploads/2019/05/Layout-1_Seite-28.pdf)
+[^:fig:7]: Abbildung von [EventClearing](https://web.archive.org/web/20200130091607/https://www.eventclearing.lu/wp-content/uploads/2019/05/Layout-1_Seite-28.pdf)
 
 </Column>
 </Grid>
 
 Im Bereich der Gastronomie und der Aussteller besteht für Teilnehmende mit SVPS-Account die Möglichkeit, mit der EventClearing-App kontaktlos zu bezahlen. Externe Gastronomen oder Aussteller können sich durch EventClearing lizenzieren lassen und erhalten ein eigenes Konto, welches Überweisungen mittels EventClearing ermöglicht.[^quote-29] Weiter wird durch EventClearing ein Wearable-Armband für kontaktloses Bezahlen angeboten. Dieses kann auch von Besucherinnen und Besuchern ohne SVPS-Account an den Kassen mit Bargeld sowie Debit- oder Kreditkarte aufgeladen werden, womit auch diese innerhalb der Veranstaltung kontaktlos bezahlen können. 
-[^quote-29]: EventClearing. [Licensed Parnter](https://www.eventclearing.lu/licence-partner/) Zugegriffen: 29.&#x202F;Dezember&#x00A0;2019
+[^quote-29]: EventClearing. [Licensed Parnter](https://web.archive.org/web/20200128172531/https://www.eventclearing.lu/licence-partner/) Zugegriffen: 29.&#x202F;Dezember&#x00A0;2019
 
 Laut Philipp Züger, OK-Präsident der Pferdesporttage Galgenen, welche eine Pilotveranstaltung war, bringt EventClearing auch für die Veranstalterinnen und Veranstalter sehr viele Vorteile.
 
 > *«Auf nationaler Ebene sehe ich vor allem für die Organisatoren grosse Vorteile mit EventClearing», erklärt Züger. Gut zwei Dutzend Prüfungen&#x00A0;– von Jungpferdeprüfungen bis N&#x202F;155&#x00A0;– werden in Galgenen ausgetragen. Bisher habe er jeweils anhand einer Exceltabelle für jede einzelne Prüfung mühsam ermittelt, wie viele Banknoten er für sämtliche Platzierten benötigte, das Geld entsprechend bei der Bank bestellt, abgeholt und bis zur Verwendung sicher verwahrt: «Zum Glück haben wir dafür einen Firmentresor, denn wir sprechen von einem Preisgeld in der Höhe von 70&#x202F;000 bis 80&#x202F;000 Franken, das wir auszahlen.»*[^quote-30]
 
-[^quote-30]: Zitat Ausschreibung EventClearing. [Bargeldloses Zahlungssystem im Schweizer Pferdesport. Heute gewonnen, morgen auf dem Konto.](https://www.eventclearing.lu/wp-content/uploads/2019/05/Layout-1_Seite-28.pdf) Zugegriffen: 27.&#x202F;Dezember&#x00A0;2019
+[^quote-30]: Zitat Ausschreibung EventClearing. [Bargeldloses Zahlungssystem im Schweizer Pferdesport. Heute gewonnen, morgen auf dem Konto.](https://web.archive.org/web/20200130091607/https://www.eventclearing.lu/wp-content/uploads/2019/05/Layout-1_Seite-28.pdf) Zugegriffen: 27.&#x202F;Dezember&#x00A0;2019
 
 ### Umfrage
 
@@ -296,7 +296,7 @@ Um umfassende Informationen zum Thema kontaktloses Bezahlen in Bezug auf Pferdes
 
 #### Methodische Vorgehensweise
 
-Die Umfrage *Kontaktloses Bezahlen im Pferdesport – Status Quo, Möglichkeiten und Perspektiven* wurde im November 2019 erstellt und war über den Onlinedienst [survio.com](https://www.survio.com/de/) verfügbar. Der Link zu der Umfrage wurde über WhatsApp an aktive Turnierreiterinnen und Turnierreiter aller Altersgruppen verschickt und war während einer Woche erreichbar. Durch diese Umfrage sollte ersichtlich werden, inwiefern Reiterinnen und Reiter mit kontaktlosem Bezahlen vertraut sind und worauf allfällige Bedenken zurückzuführen sind. In einem nächsten Schritt wurde eruiert, ob sie EventClearing bereits kennen und wie sie dazu stehen. Die Antworten wurden anonym gesammelt und direkt über [survio.com](https://www.survio.com/de/) ausgewertet.
+Die Umfrage *Kontaktloses Bezahlen im Pferdesport – Status Quo, Möglichkeiten und Perspektiven* wurde im November 2019 erstellt und war über den Onlinedienst [survio.com](https://web.archive.org/web/20200221101325/https://www.survio.com/de/) verfügbar. Der Link zu der Umfrage wurde über WhatsApp an aktive Turnierreiterinnen und Turnierreiter aller Altersgruppen verschickt und war während einer Woche erreichbar. Durch diese Umfrage sollte ersichtlich werden, inwiefern Reiterinnen und Reiter mit kontaktlosem Bezahlen vertraut sind und worauf allfällige Bedenken zurückzuführen sind. In einem nächsten Schritt wurde eruiert, ob sie EventClearing bereits kennen und wie sie dazu stehen. Die Antworten wurden anonym gesammelt und direkt über [survio.com](https://web.archive.org/web/20200221101325/https://www.survio.com/de/) ausgewertet.
 
 #### Ergebnisse
 
@@ -440,7 +440,7 @@ Stephanie Fuchs <br/>
 Schule für Gestaltung Zürich <br/>
 Bildungsgang Interaction Design HF 2017-2020 <br/>
 Kommunikationsdesign mit Vertiefung Interaction Design <br/>
-[www.sfgz.ch](https://sfgz.ch/)
+[www.sfgz.ch](https://web.archive.org/web/20200221074605/https://sfgz.ch/)
 </Column>
 
 </Grid>

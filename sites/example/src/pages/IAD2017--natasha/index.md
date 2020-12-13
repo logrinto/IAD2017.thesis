@@ -431,7 +431,7 @@ reference-text-suffix: ' – '
 <Column start="1" end="5">
 
 #### Mentoring durch
-Franka Grosse <br/&ast;
+Franka Grosse <br/>
 HFIAD 2017 <br/>
 Schule für Gestaltung Zürich <br/>
 [franka.grosse@sfgz.ch](mailto:franka.grosse@sfgz.ch)
