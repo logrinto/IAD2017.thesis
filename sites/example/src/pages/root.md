@@ -18,18 +18,18 @@ path: "root"
 
 ## Dokumentation
 
-* [Pascale Anderegg](/posts/2020/pascale/)
-* [Marius Becker](/posts/2020/marius/)
-* [Stephanie Fuchs](/posts/2020/steffi/)
-* [Marc Hatt](/posts/2020/marc/)
-* [Severin Kilchhofer](/posts/2020/severin/)
-* [Matthias Koch](/posts/2020/matthias/)
-* [Lars Mäder](/posts/2020/lars/)
-* [Nils Mäder](/posts/2020/nils/)
-* [Tieu Khe Mayer](/posts/2020/tieukhe/)
-* [Natasha Ruf](/posts/2020/natasha/)
-* [Wolfgang Schoeck](/posts/2020/wolfgang/)
-* [Nicole Watrinet](/posts/2020/nicole/)
+* [Machine Learning im Designprozess](/posts/2020/pascale/) – Pascale Anderegg
+* [Gruppendynamik in der Anonymität des Internets](/posts/2020/marius/) – Marius Becker
+* [Der Pferdesport auf dem Weg zu modernen Technologien](/posts/2020/steffi/) – Stephanie Fuchs
+* [Crowdfunding im Gaming-Journalismus](/posts/2020/marc/) – Marc Hatt
+* [Social Commerce](/posts/2020/severin/) – Severin Kilchhofer
+* [Personalisierte Werbung](/posts/2020/matthias/) – Matthias Koch
+* [Dr. Alexa & Co.: Medizinische Auskunft aus dem Internet](/posts/2020/lars/) – Lars Mäder
+* [Inwiefern sich die Customer Journey durch den neuen Touch-Point «Sprachassistent» verändert hat](/posts/2020/nils/) – Nils Mäder
+* [Quantified Self](/posts/2020/tieukhe/) – Tieu Khe Mayer
+* [Wie entsteht Vertrauen zu P2P Content Sharing Plattformen?](/posts/2020/natasha/) – Natasha Ruf
+* [Wie Co-Creation Unternehmen und KundInnen näher zusammenbringt](/posts/2020/wolfgang/) – Wolfgang Schoeck
+* [Einwirkung Künstlicher Intelligenz auf das Benutzererlebnis](/posts/2020/nicole/) – Nicole Watrinet
 
 
 </div>
