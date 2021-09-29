@@ -16,7 +16,7 @@ yarn build
 <details>
 <summary>Aufgabestellung</summary>
 
-* [Aufgabestellung](https://signalwerk.github.io/IAD.LAB.DOC/thesis/)
+* [Aufgabestellung](http://iad2017.signalwerk.ch/thesis/)
 * Entwicklung in eigenem Branch & fortwährend push (= Backup)
 * push to `master` von Zeit zu Zeit (Empfehlung)
 * Abgabe digital auf [Repository](https://github.com/logrinto/IAD2017.thesis)
